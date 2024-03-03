@@ -56,7 +56,7 @@ def get_concordance(cqp, corpora):
 def get_collocates(df, win):
 
   df['collocate_left'] = [1 if (ref > start-win) and (ref < start) else 0 for ref, start, end in zip(df.ref, df.start, df.end)]
-  df['collocate_between'] = [1 if (ref > start) and (ref < end) else 0 for ref, start, end in zip(df.ref, df.start, df.end)]
+  df['collocate_between'] = [1 if (ref > start+1) and (ref < end) else 0 for ref, start, end in zip(df.ref, df.start, df.end)]
   df['collocate_right'] = [1 if (ref > end) and (ref < end+win) else 0 for ref, start, end in zip(df.ref, df.start, df.end)]
 
   df['collocate_all'] = df[['collocate_left', 'collocate_between', 'collocate_right']].sum(axis=1)
