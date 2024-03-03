@@ -198,6 +198,6 @@ class CollocationData:
     else:
       collocates = self.collocates[self.collocates.pos == pos]
     
-    for x in collocates[['lemma', 'pos', score]].sort_values(score, ascending=False).head(N).iterrows():
+    for x in collocates[['lemma', 'pos', score]].sort_values(score, ascending=False).head(int(N)).iterrows():
       row = x[1]
       print(row['lemma'], "\t", row['pos'],"\t", row[score])
