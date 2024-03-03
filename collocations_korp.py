@@ -9,7 +9,7 @@ RIGHT = 3
 
 def get_concordance(cqp, corpora):
   CQP = urllib.parse.quote_plus(cqp)
-  URL = "https://www.kielipankki.fi/korp/api8/query?default_context=1%20sentence&show=sentence%2Clemma%2Clemmacomp%2Cpos%2Cmsd%2Cdephead%2Cdeprel%2Cref%2Clex%2Chyph%2Cocr%2Ccc%2Cvpos&show_struct=text_label%2Ctext_publ_title%2Ctext_publ_id%2Ctext_issue_date%2Ctext_issue_no%2Ctext_issue_title%2Ctext_elec_date%2Ctext_language%2Ctext_page_no%2Ctext_sentcount%2Ctext_tokencount%2Ctext_img_url%2Ctext_publ_type%2Cparagraph_id%2Csentence_id%2Ctext_date%2Ctext_filename_orig%2Ctext_filename_metadata%2Ctext_version_added%2Ctext_binding_id%2Ctext_sum_lang%2Csentence_lang%2Csentence_lang_conf&start=0&end=5000&corpus=CORPUS&cqp=CQP&query_data=&context=&incremental=true&default_within=sentence&within=&sort=random"
+  URL = "https://www.kielipankki.fi/korp/api8/query?default_context=1%20sentence&show=sentence%2Clemma%2Clemmacomp%2Cpos%2Cmsd%2Cdephead%2Cdeprel%2Cref%2Clex%2Chyph%2Cocr%2Ccc%2Cvpos&show_struct=text_label%2Ctext_publ_title%2Ctext_publ_id%2Ctext_issue_date%2Ctext_issue_no%2Ctext_issue_title%2Ctext_elec_date%2Ctext_language%2Ctext_page_no%2Ctext_sentcount%2Ctext_tokencount%2Ctext_img_url%2Ctext_publ_type%2Cparagraph_id%2Csentence_id%2Ctext_date%2Ctext_filename_orig%2Ctext_filename_metadata%2Ctext_version_added%2Ctext_binding_id%2Ctext_sum_lang%2Csentence_lang%2Csentence_lang_conf&start=0&end=2000&corpus=CORPUS&cqp=CQP&query_data=&context=&incremental=true&default_within=sentence&within=&sort=random"
   url = URL.replace("CQP", CQP).replace("CORPUS", "%2C".join(corpora))
 
   tmp = wget.download(url)
