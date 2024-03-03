@@ -103,7 +103,7 @@ def get_tf(corpora):
 def LMI(*X):
 
   w1, w2, w12, tf = get_col_variables(X)
-  if w12 == 0: return 0
+  if w12*w2*w1 == 0: return 0
 
   p1 = w1/tf
   p2 = w2/tf
