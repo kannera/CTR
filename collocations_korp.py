@@ -67,7 +67,7 @@ def get_collocates(df, win):
 
   return col_df
 
-def get_frequency(lemma, pos, corpora):
+def get_frequency_depr(lemma, pos, corpora):
   URL = 'https://www.kielipankki.fi/korp/api8/count?corpus=CORPUS&cqp=CQP'
   CQP = urllib.parse.quote_plus(f'[lemma="{lemma}" & pos="{pos}"]')
   url = URL.replace("CQP", CQP).replace("CORPUS", "%2C".join(corpora))
@@ -159,7 +159,7 @@ def get_frequency_list(lemma_list, corpora):
     tmp = wget.download(url)
     with open(tmp, "r", encoding="utf-8") as f:
       data = json.load(f)
-      print(url)
+      #print(url)
       for row in data['combined']['rows']:
         entry = {"lemma":row['value']['lemma'][0], "pos":row['value']['pos'][0], "freq":row['absolute']}
         entries.append(entry)
