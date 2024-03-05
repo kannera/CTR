@@ -129,7 +129,7 @@ def get_col_variables(X):
   return w1, w2, w12, tf
 
 
-def get_frequency_list(lemma_list, corpora):
+def get_frequency_list_depr(lemma_list, corpora):
 
   frequencies = []
   times = []
@@ -145,7 +145,34 @@ def get_frequency_list(lemma_list, corpora):
     seconds = str(time_left - (int(minutes)*60)).split(".")[0]
     print("\rtime left", minutes, "minutes and ", seconds, "seconds", end="")
 
+def get_frequency_list(lemma_list, corpora):
 
+  frequencies = []
+  times = []
+  df = pandas.DataFrame()
+  stop = False
+  URL = 'https://www.kielipankki.fi/korp/api8/count_all?group_by=lemma,pos&corpus=CORPUS&cqp=CQP&start=START&end=END'
+  i = 0
+  entries = []
+  while stop != True:
+    url = URL.replace("CORPUS", "%2C".join(corpora)).replace("START", str(i*100000)).replace("END", str((i+1)*100000))
+    tmp = wget.download(url)
+    with open(tmp, "r", encoding="utf-8") as f:
+      data = json.load(f)
+      print(url)
+      for row in data['combined']['rows']:
+        entry = {"lemma":row['value']['lemma'][0], "pos":row['value']['pos'][0], "freq":row['absolute']}
+        entries.append(entry)
+    os.remove(tmp)
+    c_df = pandas.DataFrame(entries)
+    min = c_df['freq'].min()
+    df = pandas.concat([df, c_df])
+    if min <= 5: break
+    i += 1
+
+  df = df.groupby(['lemma', 'pos']).sum()
+  res = [df.loc[x]['freq'] if x in df.index else 0 for x in lemma_list]
+  return res
 
   return frequencies
 
