@@ -140,7 +140,7 @@ def get_frequency_list(lemma_list, corpora):
     t1 = time.time()-t0
     times.append(t1)
     t1_min, t1_sec = min_sec(t1)
-    mean_min, mean_sec = sum(times)/i
+    mean_min, mean_sec = min_sec(sum(times)/i)
     print("\rThis round done in", t1_min, "minutes, ", t1_sec, "seconds. Minimum frequency captured now", min, ".\nNext round likely in", mean_min, "minutes, ", mean_sec, " seconds.", end="")
     
 
