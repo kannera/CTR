@@ -165,7 +165,7 @@ class CollocationData:
     self.con_df = get_concordance(cqp, corpora)
     self.collocates = False
     self.tf = get_tf(corpora)
-    print("Querying for collocate information from corpora, this may take a while...")
+    print("Querying for collocate information from corpora. Rounds done until minimun frequency drops to 5. This may take a while...")
     self.build_collocates()
     self.measure_collocation_scores()
     print("\nDone! The word has ", self.collocates.shape[0], "collocates.")
