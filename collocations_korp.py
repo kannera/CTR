@@ -137,7 +137,7 @@ def get_frequency_list(lemma_list, corpora):
     df = pandas.concat([df, c_df])
     if min <= 5: break
     i += 1
-    t1 = time.time()-t0)
+    t1 = time.time()-t0
     times.append(t1)
     t1_min, t1_sec = min_sec(t1)
     mean_min, mean_sec = sum(times)/i
