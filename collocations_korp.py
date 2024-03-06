@@ -220,7 +220,7 @@ class CollocationData:
       measure = "LMI"
     score = measure+'_'+group
     
-    if pos.lower() == "all":
+    if type(pos) == str and pos.lower() == "all":
       collocates = self.collocates
     else:
       if type(pos) == list:
