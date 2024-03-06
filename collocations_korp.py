@@ -67,24 +67,7 @@ def get_collocates(df, win):
 
   return col_df
 
-def get_frequency_depr(lemma, pos, corpora):
-  URL = 'https://www.kielipankki.fi/korp/api8/count?corpus=CORPUS&cqp=CQP'
-  CQP = urllib.parse.quote_plus(f'[lemma="{lemma}" & pos="{pos}"]')
-  url = URL.replace("CQP", CQP).replace("CORPUS", "%2C".join(corpora))
- 
-  try:
-    tmp = wget.download(url)
-  except:
-    print(url)
 
-
-  with open(tmp, "r", encoding="utf-8") as f:
-    data = json.load(f)
-
-  os.remove(tmp)
-
-
-  return data['combined']['sums']['absolute']
 
 def get_tf(corpora):
 
@@ -128,23 +111,6 @@ def get_col_variables(X):
 
   return w1, w2, w12, tf
 
-
-def get_frequency_list_depr(lemma_list, corpora):
-
-  frequencies = []
-  times = []
-
-  for lemma, pos in lemma_list:
-    t0 = time.time()
-    frequencies.append(get_frequency(lemma, pos, corpora))
-    times.append(time.time()-t0)
-    mean = sum(times)/len(times)
-    left = len(lemma_list)-len(times)
-    time_left = mean*left
-    minutes = str(time_left/60).split(".")[0]
-    seconds = str(time_left - (int(minutes)*60)).split(".")[0]
-    print("\rtime left", minutes, "minutes and ", seconds, "seconds", end="")
-
 def get_frequency_list(lemma_list, corpora):
 
   frequencies = []
@@ -154,7 +120,9 @@ def get_frequency_list(lemma_list, corpora):
   URL = 'https://www.kielipankki.fi/korp/api8/count_all?group_by=lemma,pos&corpus=CORPUS&cqp=CQP&start=START&end=END'
   i = 0
   entries = []
+  times = []
   while stop != True:
+    t0 = time.time()
     url = URL.replace("CORPUS", "%2C".join(corpora)).replace("START", str(i*100000)).replace("END", str((i+1)*100000))
     tmp = wget.download(url)
     with open(tmp, "r", encoding="utf-8") as f:
@@ -169,12 +137,24 @@ def get_frequency_list(lemma_list, corpora):
     df = pandas.concat([df, c_df])
     if min <= 5: break
     i += 1
+    t1 = time.time()-t0)
+    times.append(t1)
+    t1_min, t1_sec = min_sec(t1)
+    mean_min, mean_sec = sum(times)/i
+    print("\rThis round done in", t1_min, "minutes, ", t1_sec, "seconds. Minimum frequency captured now", min, ".\nNext round likely in", mean_min, "minutes, ", mean_sec, " seconds.", end="")
+    
 
   df = df.groupby(['lemma', 'pos']).sum()
   res = [df.loc[x]['freq'] if x in df.index else 0 for x in lemma_list]
   return res
 
   return frequencies
+
+def min_sec(T):
+  min = int(str(T/60).split(".")[0])
+  sec = str(T-min*60).split(".")[0]
+  return min, sec
+
 
 class CollocationData:
 
