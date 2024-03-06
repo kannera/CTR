@@ -223,7 +223,10 @@ class CollocationData:
     if pos.lower() == "all":
       collocates = self.collocates
     else:
-      collocates = self.collocates[self.collocates.pos == pos]
+      if type(pos) == list:
+        collocates = self.collocates[self.collocates.pos.isin(pos)]
+      else:
+        collocates = self.collocates[self.collocates.pos == pos]
     
     for x in collocates[['lemma', 'pos', score]].sort_values(score, ascending=False).head(int(N)).iterrows():
       row = x[1]
