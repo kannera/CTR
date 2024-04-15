@@ -1,0 +1,13 @@
+KOK_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+PS_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+SKL_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+SKP_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+STP3_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+VIHR_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+KD_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+KESKP_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+KESK_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+MAAL_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+SDP_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+SFP_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
+VAS_full_corpus.tsv filter=lfs diff=lfs merge=lfs -text
