@@ -14,6 +14,25 @@ import io
 import time
 import numpy as np
 
+def year_by_frequency_graph(data):
+  index_levels = list(data.index.names)
+  if "year" not in index_levels:
+    print("data has not year index")
+    return True
+  index_levels.remove("year")
+  index_levels.append("year")
+  data = data.reorder_levels(index_levels)
+  data = data.groupby(index_levels).sum()
+  first_level = data.index.get_level_values(0).drop_duplicates()
+  for x in first_level:
+
+    values = data.loc[x,"r"]
+    if 0 in values.index: 
+      values = values.drop(0)
+
+    plt.plot(values.index, values.values, label=x)
+  plt.legend()
+    
 def download_party_corpus(party):
   url = f"https://media.githubusercontent.com/media/kannera/CTR/main/pol_programs/{party}_full_corpus.tsv"
   corpus = requests.get(url).content
