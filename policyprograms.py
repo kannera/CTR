@@ -96,6 +96,16 @@ class PolicyCorpus:
     subcorpus = articles[['doc_id', 'year']].merge(self.corpus, how="inner", left_on="doc_id", right_on="doc_id")
     return subcorpus
 
+  def get_relative_frequency_for_lemma(self, lemma, party="all", start_year="all", end_year="all", p_type="all", by=['year']):
+    subcorpus = self.get_subcorpus(party=party, start_year=start_year, end_year=end_year, p_type=p_type)
+
+    if type(lemma) == str:
+      lemma_frequencies = subcorpus[subcorpus.lemma == lemma].groupby(by).count()[['word']]
+    elif type(lemma) in (list, tuple):
+      lemma_frequencies = subcorpus[subcorpus.lemma.isin(lemma)].groupby(by).count()[['word']]
+    total_frequencies = subcorpus.groupby(by).count()[['doc_id']]
+    frequencies = frequencies.merge(lemma_frequencies, how="left", left_index=True, right_index=True).fillna(0)
+    return frequencies
 
   def get_keywords_for(self, lemma="all", party="all", start_year="all", end_year="all", p_type="all"):
     subcorpus = self.get_subcorpus(lemma=lemma, party=party, start_year=start_year, end_year=end_year, p_type=p_type)
