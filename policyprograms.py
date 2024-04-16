@@ -101,7 +101,7 @@ class PolicyCorpus:
 
     subcorpus['Nc'] = subcorpus['N'] - subcorpus['Ns']
     subcorpus['fc'] = subcorpus['f2'] - subcorpus['f1']
-    subcorpus['%diff'] = (subcorpus['f1']/subcorpus['Ns'] - subcorpus['fc']/subcorpus['Ns'])/(subcorpus['fc']/subcorpus['Ns'])
+    subcorpus['%diff'] = (subcorpus['f1']/subcorpus['Ns'] - subcorpus['fc']/subcorpus['Nc'])/(subcorpus['fc']/subcorpus['Nc'])
     return subcorpus
 
 
