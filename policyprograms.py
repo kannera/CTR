@@ -104,7 +104,7 @@ class PolicyCorpus:
     elif type(lemma) in (list, tuple):
       lemma_frequencies = subcorpus[subcorpus.lemma.isin(lemma)].groupby(by).count()[['word']]
     total_frequencies = subcorpus.groupby(by).count()[['doc_id']]
-    frequencies = frequencies.merge(lemma_frequencies, how="left", left_index=True, right_index=True).fillna(0)
+    frequencies = total_frequencies.merge(lemma_frequencies, how="left", left_index=True, right_index=True).fillna(0)
     return frequencies
 
   def get_keywords_for(self, lemma="all", party="all", start_year="all", end_year="all", p_type="all"):
