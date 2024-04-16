@@ -36,7 +36,7 @@ def year_by_frequency_graph(data):
 
     plt.plot(values.index, values.values, label=x)
     
-    plt.plot(
+    plt.plot()
   plt.legend()
     
 def download_party_corpus(party):
