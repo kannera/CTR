@@ -176,7 +176,7 @@ class PolicyCorpus:
     if type(lemma) == str:
         lemma_occs = subcorpus[subcorpus.lemma == lemma][['doc_id', 's_rank', 'pos']]
     elif type(lemma) in (tuple, list):
-        lemma_occs = subcorpus[subcorpus.lemma.isin(lemma)[['doc_id', 's_rank', 'pos']]
+        lemma_occs = subcorpus[subcorpus.lemma.isin(lemma)][['doc_id', 's_rank', 'pos']]
     lemma_occs['hit_pos'] = lemma_occs['pos']
     lemma_occs = lemma_occs[['doc_id', 's_rank', 'hit_pos']]
 
