@@ -84,7 +84,7 @@ class PolicyCorpus:
       occs = corpus[corpus.lemma == lemma]['doc_id'].drop_duplicates().to_list()
       articles = articles[articles.doc_id.isin(occs)]
 
-    subcorpus = articles[['doc_id', 'year']].merge(corpus, how="inner", left_on="doc_id", right_on="doc_id")
+    subcorpus = articles[['doc_id', 'year']].merge(self.corpus, how="inner", left_on="doc_id", right_on="doc_id")
     return subcorpus
 
 
