@@ -195,7 +195,8 @@ class PolicyCorpus:
     subcorpus['f1'] = f1
     subcorpus['LMI'] = [lmi(f1, f2, f12, N) for f1, f2, f12, N in zip(subcorpus['f1'], subcorpus['f2'], subcorpus['f12'], subcorpus['N'])]
     subcorpus['PMI'] = [pmi(f1, f2, f12, N) for f1, f2, f12, N in zip(subcorpus['f1'], subcorpus['f2'], subcorpus['f12'], subcorpus['N'])]
-
+    subcorpus = subcorpus.drop(lemma)
+      
     return subcorpus
 
 
