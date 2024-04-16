@@ -112,7 +112,7 @@ class PolicyCorpus:
         articles = articles[articles.party_abbr.isin(party)]
     if p_type != "all":
       if type(p_type) == str: 
-        articles = articles[articles.type == type]
+        articles = articles[articles.type == p_type]
       elif type(p_type) in (list, tuple):
         articles = articles[articles.type.isin(p_type)]
     if start_year != "all":
