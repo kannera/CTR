@@ -73,15 +73,24 @@ class PolicyCorpus:
     articles = self.metadata
 
     if party != "all":
-      articles = articles[articles.party_abbr == party]
+      if type(party) == str:
+        articles = articles[articles.party_abbr == party]
+      elif type(party) in (list, tuple):
+        articles = articles[articles.party_abbr.isin(party)]
     if p_type != "all":
-      articles = articles[articles.type == type]
+      if type(p_type) == str: 
+        articles = articles[articles.type == type]
+      elif type(p_type) in (list, tuple):
+        articles = articles[articles.type.isin(p_type)]
     if start_year != "all":
       articles = articles[articles.year >= start_year]
     if end_year != "all":
       articles = articles[articles.year <= end_year]
     if lemma != "all":
-      occs = corpus[corpus.lemma == lemma]['doc_id'].drop_duplicates().to_list()
+      if type(lemma) == str:
+        occs = self.corpus[self.corpus.lemma == lemma]['doc_id'].drop_duplicates().to_list()
+      elif type(lemma) in (list, tuple):
+        occs = self.corpus[self.corpus.lemma.isin(lemma)]['doc_id'].drop_duplicates().to_list()
       articles = articles[articles.doc_id.isin(occs)]
 
     subcorpus = articles[['doc_id', 'year']].merge(self.corpus, how="inner", left_on="doc_id", right_on="doc_id")
