@@ -130,6 +130,7 @@ class PolicyCorpus:
     return subcorpus
 
   def get_relative_frequency_for_lemma(self, lemma, party="all", start_year="all", end_year="all", p_type="all", by=['year']):
+    by = ["party_abbr" if x == "party" else x for x in by]
     subcorpus = self.get_subcorpus(party=party, start_year=start_year, end_year=end_year, p_type=p_type)
     subcorpus = subcorpus.merge(self.metadata[['doc_id', 'party_abbr', 'type']], how='left', left_on="doc_id", right_on="doc_id")
     if type(lemma) == str:
