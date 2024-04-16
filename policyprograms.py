@@ -101,7 +101,15 @@ class PolicyCorpus:
 
     subcorpus['Nc'] = subcorpus['N'] - subcorpus['Ns']
     subcorpus['fc'] = subcorpus['f2'] - subcorpus['f1']
-    subcorpus['%diff'] = (subcorpus['f1']/subcorpus['Ns'] - subcorpus['fc']/subcorpus['Nc'])/(subcorpus['fc']/subcorpus['Nc'])
+
+    subcorpus['f1d'] = subcorpus['f1'] + 1
+    subcorpus['fcd'] = subcorpus['fc'] + 1
+    subcorpus['Ncd'] = subcorpus['Nc'] + subcorpus.shape[0]
+    subcorpus['Nsd'] = subcorpus['Ns'] + subcorpus.shape[0]
+
+      
+    subcorpus['%diff'] = (subcorpus['f1d']/subcorpus['Nsd'] - subcorpus['fcd']/subcorpus['Ncd'])/(subcorpus['fcd']/subcorpus['Ncd'])
+    subcorpus = subcorpus[['f1','f2','fc','%diff']]
     return subcorpus
 
 
