@@ -173,7 +173,10 @@ class PolicyCorpus:
   def get_collocates_for(self, lemma, party="all", start_year="all", end_year="all", p_type="all"):
     subcorpus = self.get_subcorpus(party=party, start_year=start_year, end_year=end_year, p_type=p_type)
 
-    lemma_occs = subcorpus[subcorpus.lemma == lemma][['doc_id', 's_rank', 'pos']]
+    if type(lemma) == str:
+        lemma_occs = subcorpus[subcorpus.lemma == lemma][['doc_id', 's_rank', 'pos']]
+    elif type(lemma) in (tuple, list):
+        lemma_occs = subcorpus[subcorpus.lemma.isin(lemma)[['doc_id', 's_rank', 'pos']]
     lemma_occs['hit_pos'] = lemma_occs['pos']
     lemma_occs = lemma_occs[['doc_id', 's_rank', 'hit_pos']]
 
