@@ -66,7 +66,7 @@ class PolicyCorpus:
     self.ff = self.corpus.groupby("lemma").count()[['doc_id']]
     self.ff.columns = ["f2"]
     self.ff['N'] = self.corpus.shape[0]
-    self.ff = self.ff[ff.f2 > 4]
+    self.ff = self.ff[self.ff.f2 > 4]
 
 
   def get_subcorpus(self, lemma="all", party="all", start_year="all", end_year="all", p_type="all"):
