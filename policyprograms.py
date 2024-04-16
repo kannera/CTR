@@ -14,7 +14,7 @@ import io
 import time
 import numpy as np
 
-def year_by_frequency_graph(data):
+def year_by_frequency_graph(data, label=False):
   index_levels = list(data.index.names)
   if len(index_levels) > 1:
     if "year" not in index_levels:
@@ -30,11 +30,19 @@ def year_by_frequency_graph(data):
     first_level = index_levels
     
   for x in first_level:
-    values = data.loc[x,"r"]
+
+    if x != "year":
+      values = data.loc[x,"r"]
+    else:
+      values = data['r']
     if 0 in values.index: 
       values = values.drop(0)
+    if label != False:
+      plotlabel = label
+    else:
+      plotlabel = x
 
-    plt.plot(values.index, values.values, label=x)
+    plt.plot(values.index, values.values, label=plotlabel)
     
     plt.plot()
   plt.legend()
