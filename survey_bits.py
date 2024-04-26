@@ -8,4 +8,5 @@ def u_test(by_group):
   print("mean for", values[0], ":", df[df[by_group] == values[0]]['vastaus 2'].mean())
   print("mean for", values[1], ":", df[df[by_group] == values[1]]['vastaus 2'].mean())
   print("p", round(result.pvalue * 100, 5), "%")
+  
   return result
