@@ -30,6 +30,7 @@ depmap = {"konjunktio": ["conj"], "subjekti":subjs, "objekti":objs, "predikaatti
 posmap = {"substantiivi":"N", "adjektiivi":"A", "verbi":"V", "pronomini":"Pron", "adverbi":"Adv"}
 
 def analyse(k, color_by = False):
+  k = k.lower()
   colors = ["blue", "red", "green", "orange", "purple", "lightblue", "pink"]
   if k == "virkepituus":
     depc = df.groupby("text_id").count()[['pos']]
