@@ -22,6 +22,9 @@ df = pandas.DataFrame(entries)
 df['len'] = [len(x) for x in df.word]
 sentences = df[['text_id', 'sent_id']].drop_duplicates().groupby("text_id").count()
 metadata = pandas.read_csv("https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/metadata.tsv", sep="\t", index_col=0)[['äidinkieli', 'tyyppi']]
+metadata = metadata.merge(df.groupby("text_id")[['sent_id']].count(), how="left", left_index=True, right_index=True)
+metadata.columns = ['äidinkieli', 'tyyppi', 'sanamäärä']
+                          
 
 all_rels = list(set(list(df.deprel.values)))
 subjs = [x for x in all_rels if "subj" in x]
