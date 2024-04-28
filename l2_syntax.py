@@ -1,7 +1,7 @@
 import pandas
 import os
 conllu_path = "https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/"
-fils = os.listdir(conllu_path)
+
 df = pandas.DataFrame()
 for i in range(14):
   text_path = f"https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/{i}_text_parsed.conllu.csv"
