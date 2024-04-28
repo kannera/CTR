@@ -1,4 +1,5 @@
 import pandas
+import requests
 from matplotlib import pyplot as plt
 conllu_path = "https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/"
 
