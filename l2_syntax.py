@@ -26,7 +26,7 @@ metadata = pandas.read_csv("https://raw.githubusercontent.com/kannera/CTR/main/l
 all_rels = list(set(list(df.deprel.values)))
 subjs = [x for x in all_rels if "subj" in x]
 objs = [x for x in all_rels if "obj" in x]
-depmap = {"konjunktio": ["conj"], "subjekti":subjs, "objekti":objs, "predikaatti":['root'], "adjektiiviattribuutti":['amod'], "adverbiaali":['advmod', 'advcl']}
+depmap = {"konjunktio": ["conj"], "subjekti":subjs, "objekti":objs, "predikaatti":['root', 'ccomp', 'xcomp', 'xcomp:ds'], "adjektiiviattribuutti":['amod'], "adverbiaali":['advmod', 'advcl']}
 posmap = {"substantiivi":"N", "adjektiivi":"A", "verbi":"V", "pronomini":"Pron", "adverbi":"Adv"}
 
 def analyse(k, color_by = False):
