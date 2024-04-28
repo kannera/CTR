@@ -1,10 +1,10 @@
 import pandas
 import os
-
-fils = os.listdir("l2_conllu/")
+conllu_path = "https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/"
+fils = os.listdir(conllu_path)
 df = pandas.DataFrame()
 for fl in fils:
-  data = pandas.read.csv("l2_conllu/"+fl, sep="\t")
+  data = pandas.read.csv(conllu_path+fl, sep="\t")
   data['text'] = fl
   df = pandas.concat([df, data])
   
