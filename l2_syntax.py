@@ -7,4 +7,4 @@ for fl in fils:
   data = pandas.read.csv(conllu_path+fl, sep="\t")
   data['text'] = fl
   df = pandas.concat([df, data])
-  
+   
