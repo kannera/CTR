@@ -1,0 +1,327 @@
+id,sent_id,form,lemma,case,deprel,sentence
+0,1,Brexit,Brexit,"{'Case': 'Nom', 'Number': 'Sing'}",nmod:gsubj,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+1,2,",",",",,punct,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+2,3,Donald,Donald,"{'Case': 'Nom', 'Number': 'Sing'}",nmod:gsubj,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+3,7,presidentiksi,presidentti,"{'Case': 'Tra', 'Number': 'Sing'}",nmod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+4,13,tapahtumista,tapahtuma,"{'Case': 'Ela', 'Number': 'Plur'}",nmod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+5,4,Trumpin,Trumpi,"{'Case': 'Gen', 'Number': 'Sing'}",flat:name,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+6,5,valinta,valinta,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+7,8,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+8,9,vain,vain,,advmod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+9,19,.,.,,punct,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+10,6,Yhdysvaltojen,Yhdysvallat,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+11,10,pari,pari,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",root,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+12,11,monesta,moni,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+13,12,ikävistä,ikävä,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+14,14,länsi,länsi,"{'Case': 'Nom', 'Number': 'Sing'}",appos,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+15,18,vuosin,vuosi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+16,15,poliittisessa,poliittinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+17,16,maailmassa,maailma,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+18,17,viime,viime,,amod,"Brexit, Donald Trumpin valinta Yhdysvaltojen presidentiksi oli vain pari monesta ikävistä tapahtumista länsi poliittisessa maailmassa viime vuosin."
+19,1,Yksi,yksi,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+20,2,hyvä,hyvä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+21,6,tuli,tulla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl:relcl,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+22,3,asia,asia,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+23,11,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+24,12,kovaääninen,kovaääninen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+25,15,vaikutusvallasta,vaikutus#valta,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+26,22,.,.,,punct,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+27,4,",",",",,punct,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+28,5,joka,joka,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Rel'}",nsubj,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+29,9,ansiona,ansio,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+30,10,",",",",,punct,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+31,7,näiden,tämä,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+32,8,tapahtumien,tapahtuma,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+33,13,keskustelu,keskustelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",root,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+34,14,Venäjän,Venäjä,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+35,19,levittämisestä,levittäminen,"{'Case': 'Ela', 'Derivation': 'Minen', 'Number': 'Sing'}",conj,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+36,21,propagandasta,propaganda,"{'Case': 'Ela', 'Number': 'Sing'}",conj,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+37,16,",",",",,punct,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+38,18,tietojen,tieto,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:gobj,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+39,17,virheellisten,virheellinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",amod,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+40,20,ja,ja,,cc,"Yksi hyvä asia, joka tuli näiden tapahtumien ansiona, on kovaääninen keskustelu Venäjän vaikutusvallasta, virheellisten tietojen levittämisestä ja propagandasta."
+41,1,Infosota,Infoso,"{'Case': 'Par', 'Number': 'Sing'}",nsubj,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+42,5,vaikuttaa,vaikuttaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+43,15,.,.,,punct,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+44,2,vaikutti,vaikuttaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+45,3,ja,ja,,cc,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+46,4,vieläkin,vielä,{'Clitic': 'Kin'},advmod,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+47,8,päätöksiä,päätös,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+48,6,monta,moni,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+49,7,poliittisia,poliittinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+50,14,ajattelua,ajattelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",conj,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+51,9,",",",",,punct,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+52,10,mutta,mutta,,cc,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+53,11,myös,myös,,advmod,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+54,13,ihmisien,ihminen,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+55,12,tavallisien,tavallinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",amod,"Infosota vaikutti ja vieläkin vaikuttaa monta poliittisia päätöksiä, mutta myös tavallisien ihmisien ajattelua."
+56,1,Huonoin,huono,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",amod,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+57,2,propagandan,propaganda,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+58,3,ilmiö,ilmiö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+59,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+60,11,levittävät,levittää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+61,13,.,.,,punct,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+62,5,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",root,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+63,6,",",",",,punct,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+64,7,että,että,,mark,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+65,8,ihmiset,ihminen,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+66,9,ajattelematta,ajatella,"{'Case': 'Abe', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+67,10,itse,itse,,advmod,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+68,12,propagandaa,propaganda,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Huonoin propagandan ilmiö on se, että ihmiset ajattelematta itse levittävät propagandaa."
+69,1,Mielestäni,mieli,"{'Case': 'Ela', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",obl,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+70,3,tämän,tämä,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obl,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+71,6,puhua,puhua,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+72,9,.,.,,punct,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+73,2,juuri,juuri,,advmod,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+74,4,takia,takia,{'AdpType': 'Post'},case,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+75,5,kannattaa,kannattaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+76,7,propagandasta,propaganda,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+77,8,enempään,enempi,"{'Case': 'Ill', 'Degree': 'Cmp', 'Number': 'Sing'}",advmod,Mielestäni juuri tämän takia kannattaa puhua propagandasta enempään.
+78,1,On,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+79,2,monta,moni,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",det,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+80,4,tarkistaa,tarkistaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",csubj:cop,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+81,3,keinoja,keino,"{'Case': 'Par', 'Number': 'Plur'}",root,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+82,5,",",",",,punct,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+83,6,onko,olla,"{'Clitic': 'Ko', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+84,10,kirjoitelma,kirjoitelma,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+85,7,artikkeli,artikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",ccomp,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+86,14,.,.,,punct,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+87,8,",",",",,punct,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+88,9,tai,tai,,cc,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+89,12,mediassa,media,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+90,11,sosiaalisessa,sosiaalinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+91,13,propaganda,propaganda,"{'Case': 'Nom', 'Number': 'Sing'}",appos,"On monta keinoja tarkistaa, onko artikkeli, tai kirjoitelma sosiaalisessa mediassa propaganda."
+92,1,Esimerkiksi,esimerkiksi,,advmod,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+93,2,pitää,pitää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+94,3,aina,aina,,advmod,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+95,5,tarkistaa,tarkistaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+96,8,.,.,,punct,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+97,4,muistaa,muistaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+98,6,tiedon,tieto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+99,7,lähteet,lähde,"{'Case': 'Nom', 'Number': 'Plur'}",obj,Esimerkiksi pitää aina muistaa tarkistaa tiedon lähteet.
+100,1,Oikein,oikein,,advmod,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+101,2,hyvin,hyvin,,advmod,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+102,3,kirjoitettu,kirjoittaa,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+103,4,artikkeli,artikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+104,5,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+105,6,hyvinkin,hyvin,{'Clitic': 'Kin'},advmod,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+106,7,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",cop,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+107,11,löydät,löytää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+108,20,.,.,,punct,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+109,8,propaganda,propaganda,"{'Case': 'Nom', 'Number': 'Sing'}",root,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+110,9,",",",",,punct,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+111,10,jos,jos,,mark,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+112,12,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+113,13,sivussa,sivussa,,fixed,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+114,15,puhutaan,puhua,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",acl:relcl,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+115,14,missä,mikä,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+116,16,salaliittoteorioista,sala#liitto#teorio,"{'Case': 'Ela', 'Number': 'Plur'}",obl,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+117,17,ja,ja,,cc,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+118,18,maailman,maailma,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+119,19,lopusta,loppu,"{'Case': 'Ela', 'Derivation': 'U', 'Number': 'Sing'}",conj,"Oikein hyvin kirjoitettu artikkeli voi hyvinkin olla propaganda, jos löydät sen sivussa missä puhutaan salaliittoteorioista ja maailman lopusta."
+120,1,Vaikka,vaikka,,mark,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+121,2,lähteet,lähde,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+122,3,eivät,ei,"{'Number': 'Plur', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+123,4,edes,edes,,advmod,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+124,6,epäilyttävältä,epäilyttävä,"{'Case': 'Abl', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+125,7,",",",",,punct,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+126,5,näyttäisi,näyttää,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",advcl,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+127,8,silti,silti,,advmod,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+128,10,tarkistaa,tarkistaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+129,16,.,.,,punct,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+130,9,kannattaa,kannattaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+131,11,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Rel'}",obj,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+132,12,asiasta,asia,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+133,15,lähteissä,lähde,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+134,13,kerrotaan,kertoa,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",ccomp,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+135,14,muissa,muu,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Vaikka lähteet eivät edes näyttäisi epäilyttävältä, silti kannattaa tarkistaa mitä asiasta kerrotaan muissa lähteissä."
+136,1,Toinen,toinen,"{'Case': 'Nom', 'Derivation': 'Inen', 'Number': 'Sing', 'NumType': 'Ord'}",nummod,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+137,2,tärkeä,tärkeä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+138,7,muista,muista,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",acl:relcl,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+139,3,asia,asia,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+140,10,tieto,tieto,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+141,12,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+142,13,huono,huono,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+143,15,.,.,,punct,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+144,4,",",",",,punct,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+145,5,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Rel'}",obj,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+146,6,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+147,8,–,–,,punct,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+148,9,asuminen,asuminen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",compound:nn,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+149,11,kuplassa,kupla,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+150,14,asia,asia,"{'Case': 'Nom', 'Number': 'Sing'}",root,"Toinen tärkeä asia, mitä pitäisi muista – asuminen tieto kuplassa on huono asia."
+151,1,Osa,osa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+152,4,tietoja,tieto,"{'Case': 'Par', 'Number': 'Plur'}",obj,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+153,5,maailmasta,maailma,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+154,8,median,media,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+155,10,.,.,,punct,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+156,2,ihmisistä,ihminen,"{'Case': 'Ela', 'Number': 'Plur'}",nmod,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+157,3,saa,saada,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+158,6,vain,vain,,advmod,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+159,7,sosiaalisen,sosiaalinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+160,9,kautta,kautta,{'AdpType': 'Post'},case,Osa ihmisistä saa tietoja maailmasta vain sosiaalisen median kautta.
+161,1,Pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Pitäisi muista, että suurin osa näitä, kuten esim."
+162,6,osa,osa,"{'Case': 'Nom', 'Number': 'Sing'}",ccomp,"Pitäisi muista, että suurin osa näitä, kuten esim."
+163,2,muista,muista,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Pitäisi muista, että suurin osa näitä, kuten esim."
+164,3,",",",",,punct,"Pitäisi muista, että suurin osa näitä, kuten esim."
+165,4,että,että,,mark,"Pitäisi muista, että suurin osa näitä, kuten esim."
+166,5,suurin,suuri,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",amod,"Pitäisi muista, että suurin osa näitä, kuten esim."
+167,7,näitä,tämä,"{'Case': 'Par', 'Number': 'Plur', 'PronType': 'Dem'}",nmod,"Pitäisi muista, että suurin osa näitä, kuten esim."
+168,10,esim.,esim.,{'Abbr': 'Yes'},advmod,"Pitäisi muista, että suurin osa näitä, kuten esim."
+169,8,",",",",,punct,"Pitäisi muista, että suurin osa näitä, kuten esim."
+170,9,kuten,kuten,,advmod,"Pitäisi muista, että suurin osa näitä, kuten esim."
+171,1,Facebook,Facebook,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+172,3,algoritmia,algoritmi,"{'Case': 'Par', 'Number': 'Sing'}",obj,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+173,4,näyttääkseen,näyttää,"{'Case': 'Tra', 'InfForm': '1', 'Number': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+174,9,.,.,,punct,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+175,2,käyttää,käyttää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+176,5,vain,vain,,advmod,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+177,7,tarkoitetun,tarkoittaa,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+178,6,sinulle,sinä,"{'Case': 'All', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",obl,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+179,8,sisältöön,sisältö,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Facebook käyttää algoritmia näyttääkseen vain sinulle tarkoitetun sisältöön.
+180,1,Nettisivut,netti#sivu,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+181,2,myös,myös,,advmod,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+182,4,tietoa,tieto,"{'Case': 'Par', 'Number': 'Sing'}",obj,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+183,9,.,.,,punct,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+184,3,lähettävät,lähettää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+185,5,käyttäjien,käyttäjä,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Plur'}",nmod:gsubj,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+186,7,evästeiden,eväste,"{'Case': 'Gen', 'Number': 'Plur'}",nmod,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+187,6,toiminnasta,toiminta,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+188,8,kautta,kautta,{'AdpType': 'Post'},case,Nettisivut myös lähettävät tietoa käyttäjien toiminnasta evästeiden kautta.
+189,1,Tämän,tämä,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obl,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+190,3,käyttäjät,käyttäjä,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Plur'}",nsubj,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+191,7,tietoa,tieto,"{'Case': 'Par', 'Number': 'Sing'}",obj,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+192,8,.,.,,punct,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+193,2,takia,takia,{'AdpType': 'Post'},case,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+194,4,saavat,saada,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+195,5,vain,vain,,advmod,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+196,6,yksipuolista,yksipuolinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Tämän takia käyttäjät saavat vain yksipuolista tietoa.
+197,1,Kuten,kuten,,mark,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+198,2,olen,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+199,4,kerran,kerran,,obl,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+200,6,",",",",,punct,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+201,3,jo,jo,,advmod,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+202,5,maininnut,mainita,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",advcl,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+203,8,etsiä,etsiä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+204,12,.,.,,punct,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+205,7,kannattaa,kannattaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+206,9,tietoa,tieto,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+207,10,muutamasta,muutama,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+208,11,lähteestä,lähde,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Kuten olen jo kerran maininnut, kannattaa etsiä tietoa muutamasta lähteestä."
+209,1,Tietoista,tietoinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Tietoista henkilöä on vaikeampi huijata.
+210,2,henkilöä,henkilö,"{'Case': 'Par', 'Number': 'Sing'}",obj,Tietoista henkilöä on vaikeampi huijata.
+211,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Tietoista henkilöä on vaikeampi huijata.
+212,5,huijata,huijata,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,Tietoista henkilöä on vaikeampi huijata.
+213,6,.,.,,punct,Tietoista henkilöä on vaikeampi huijata.
+214,4,vaikeampi,vaikea,"{'Case': 'Nom', 'Degree': 'Cmp', 'Number': 'Sing'}",root,Tietoista henkilöä on vaikeampi huijata.
+215,1,Myös,myös,,advmod,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+216,2,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+217,12,olemassa,olla,"{'Case': 'Ine', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",ccomp,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+218,13,.,.,,punct,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+219,3,muista,muista,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+220,4,",",",",,punct,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+221,5,että,että,,mark,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+222,6,joskus,joskus,,advmod,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+223,9,puolta,puoli,"{'Case': 'Par', 'Number': 'Sing'}",nsubj,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+224,10,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+225,11,ole,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",aux,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+226,7,tarinan,tarina,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+227,8,kaksi,kaksi,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Myös pitäisi muista, että joskus tarinan kaksi puolta ei ole olemassa."
+228,1,Joskus,joskus,,advmod,Joskus on vain totta ja valhe.
+229,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Joskus on vain totta ja valhe.
+230,3,vain,vain,,advmod,Joskus on vain totta ja valhe.
+231,6,valhe,valhe,"{'Case': 'Nom', 'Number': 'Sing'}",conj,Joskus on vain totta ja valhe.
+232,7,.,.,,punct,Joskus on vain totta ja valhe.
+233,4,totta,totta,,root,Joskus on vain totta ja valhe.
+234,5,ja,ja,,cc,Joskus on vain totta ja valhe.
+235,1,Suurin,suuri,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",amod,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+236,3,mediasta,media,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+237,2,osa,osa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+238,5,kertoa,kertoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+239,12,osoittautuu,osoittautua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+240,21,.,.,,punct,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+241,4,haluavat,haluta,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+242,6,objektiivista,objektiivinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+243,7,tarinaa,tarina,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+244,8,",",",",,punct,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+245,9,mutta,mutta,,cc,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+246,10,joskus,joskus,,advmod,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+247,11,tämä,tämä,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+248,13,vaikeaksi,vaikea,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+249,18,halua,haluta,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",advcl,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+250,14,",",",",,punct,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+251,15,koska,koska,,mark,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+252,16,kaikki,kaikki,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Ind'}",nsubj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+253,17,eivät,ei,"{'Number': 'Plur', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+254,19,kertoa,kertoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+255,20,totuutta,totuus,"{'Case': 'Par', 'Derivation': 'Vs', 'Number': 'Sing'}",obj,"Suurin osa mediasta haluavat kertoa objektiivista tarinaa, mutta joskus tämä osoittautuu vaikeaksi, koska kaikki eivät halua kertoa totuutta."
+256,1,Esimerkiksi,esimerkiksi,,advmod,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+257,3,2014,2014,{'NumType': 'Card'},nummod,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+258,2,vuonna,vuosi,"{'Case': 'Ess', 'Number': 'Sing'}",obl,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+259,4,lentokone,lento#kone,"{'Case': 'Nom', 'Number': 'Sing'}",obj,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+260,5,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+261,7,alas,alas,,advmod,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+262,8,lentäen,lentää,"{'Case': 'Ins', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+263,11,.,.,,punct,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+264,6,ammuttu,ampua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",root,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+265,9,Ukrainan,Ukraina,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+266,10,yli,yli,{'AdpType': 'Post'},case,Esimerkiksi vuonna 2014 lentokone oli ammuttu alas lentäen Ukrainan yli.
+267,1,Pitkää,pitkä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+268,2,aikaa,aika,"{'Case': 'Par', 'Number': 'Sing'}",obl,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+269,3,uutiset,uutinen,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+270,7,tarinaa,tarina,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+271,12,kieltäytyi,kieltäytyä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+272,16,.,.,,punct,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+273,4,kertoivat,kertoa,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+274,5,kaksi,kaksi,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+275,6,vaihtoehtoista,vaihto#ehtoinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+276,8,",",",",,punct,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+277,9,koska,koska,,mark,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+278,11,hallitus,hallitus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+279,13,myöntämästä,myöntää,"{'Case': 'Ela', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+280,10,Venäjän,Venäjä,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+281,14,oman,oma,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+282,15,syyllisyyteen,syyllisyys,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Pitkää aikaa uutiset kertoivat kaksi vaihtoehtoista tarinaa, koska Venäjän hallitus kieltäytyi myöntämästä oman syyllisyyteen."
+283,1,Lopuksi,lopuksi,,advmod,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+284,3,ihmisille,ihminen,"{'Case': 'All', 'Number': 'Plur'}",obl,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+285,4,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+286,5,aina,aina,,advmod,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+287,6,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",cop,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+288,8,.,.,,punct,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+289,2,",",",",,punct,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+290,7,varovaisena,varovainen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",root,"Lopuksi, ihmisille pitäisi aina olla varovaisena."
+291,1,Älkää,ei,"{'Mood': 'Imp', 'Number': 'Plur', 'Person': '2', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+292,4,kaikkiin,kaikki,"{'Case': 'Ill', 'Number': 'Plur', 'PronType': 'Ind'}",obl,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+293,10,.,.,,punct,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+294,2,uskoko,uskoa,"{'Connegative': 'Yes', 'Mood': 'Imp', 'VerbForm': 'Fin'}",root,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+295,3,edes,edes,,advmod,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+296,9,kertovat,kertoa,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl:relcl,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+297,5,",",",",,punct,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+298,6,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Int'}",obj,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+299,8,lähiomaiset,lähi#omainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",nsubj,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+300,7,teidän,sinä,"{'Case': 'Gen', 'Number': 'Plur', 'Person': '2', 'PronType': 'Prs'}",nmod:poss,"Älkää uskoko edes kaikkiin, mitä teidän lähiomaiset kertovat."
+301,1,Ne,se,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Dem'}",obj,Ne itse voivat hyvinkin olla johdettu harhaan.
+302,2,itse,itse,,obj,Ne itse voivat hyvinkin olla johdettu harhaan.
+303,3,voivat,voida,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Ne itse voivat hyvinkin olla johdettu harhaan.
+304,4,hyvinkin,hyvin,{'Clitic': 'Kin'},advmod,Ne itse voivat hyvinkin olla johdettu harhaan.
+305,5,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",aux:pass,Ne itse voivat hyvinkin olla johdettu harhaan.
+306,7,harhaan,harha,"{'Case': 'Ill', 'Degree': 'Pos', 'Number': 'Sing'}",obl,Ne itse voivat hyvinkin olla johdettu harhaan.
+307,8,.,.,,punct,Ne itse voivat hyvinkin olla johdettu harhaan.
+308,6,johdettu,johtaa,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",root,Ne itse voivat hyvinkin olla johdettu harhaan.
+309,1,Infosodan,Infosoda,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+310,2,käynnissä,käynti,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+311,3,olemiseen,oleminen,"{'Case': 'Ill', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+312,5,",",",",,punct,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+313,4,aikana,aika,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+314,6,meidän,minä,"{'Case': 'Gen', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}",nsubj,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+315,7,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+316,9,huolta,huoli,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+317,17,.,.,,punct,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+318,8,pitää,pitää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+319,10,että,että,,mark,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+320,11,emme,ei,"{'Number': 'Plur', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+321,12,olisi,olla,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",cop,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+322,15,levittämiseen,levittäminen,"{'Case': 'Ill', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+323,13,vain,vain,,advmod,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+324,14,propagandan,propaganda,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."
+325,16,nappuloitta,nappula,"{'Case': 'Par', 'Number': 'Plur'}",ccomp,"Infosodan käynnissä olemiseen aikana, meidän pitäisi pitää huolta että emme olisi vain propagandan levittämiseen nappuloitta."

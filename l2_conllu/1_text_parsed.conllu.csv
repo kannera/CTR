@@ -1,0 +1,528 @@
+id,sent_id,form,lemma,case,deprel,sentence
+0,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+1,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+2,5,käyttäytyminen,käyttäytyminen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj:cop,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+3,7,.,.,,punct,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+4,2,aiheena,aihe,"{'Case': 'Ess', 'Number': 'Sing'}",root,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+5,4,itse-sanan,itse#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gsubj,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+6,6,nykysuomessa,nyky#suomi,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+7,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+8,2,alussa,alku,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",obl,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+9,3,kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+10,8,pronomini,pronomini,"{'Case': 'Nom', 'Number': 'Sing'}",ccomp,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+11,11,.,.,,punct,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+12,4,käsittelee,käsitellä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+13,5,",",",",,punct,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+14,6,onko,olla,"{'Clitic': 'Ko', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+15,7,itse-sana,itse#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+16,10,adjektiivi,adjektiivi,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+17,9,vai,vai,,cc,"Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi."
+18,1,Kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+19,5,itse-sanalla,itse#sana,"{'Case': 'Ade', 'Number': 'Sing'}",ccomp,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+20,23,.,.,,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+21,2,näkee,nähdä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+22,3,",",",",,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+23,4,että,että,,mark,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+24,6,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop:own,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+25,8,alkuperä,alku#perä,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+26,7,substantiivin,substantiivi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+27,9,:,:,,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+28,11,kantasanana,kanta#sana,"{'Case': 'Ess', 'Number': 'Sing'}",parataxis,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+29,10,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",nmod:poss,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+30,12,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+31,13,ollut,olla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",cop,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+32,15,varjostelua,varjostelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",nsubj:cop,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+33,14,',',,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+34,19,varjoa,varjo,"{'Case': 'Par', 'Number': 'Sing'}",conj,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+35,22,substantiivi,substantiivi,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+36,16,',',,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+37,18,',',,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+38,20,',',,punct,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+39,17,tai,tai,,cc,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+40,21,merkitsevä,merkitä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi."
+41,1,Joissakin,jokin,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Ind'}",det,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+42,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+43,4,merkitykseksi,merkitys,"{'Case': 'Tra', 'Number': 'Sing'}",xcomp:ds,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+44,7,'henkilökohtaisesti,khenkilö#kohtaisesti,{'Derivation': 'Sti'},advmod,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+45,8,',',,punct,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+46,9,.,.,,punct,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+47,3,sanan,sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+48,5,mainitaan,mainita,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+49,6,mm,mm,{'Typo': 'Yes'},nummod,Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+50,1,Artikkelissa,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+51,2,kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+52,6,tapauksia,tapaus,"{'Case': 'Par', 'Number': 'Plur'}",obj,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+53,7,.,.,,punct,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+54,3,tarkastele,tarkastella,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+55,4,nimenomaan,nimen#omaan,,advmod,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+56,5,viimeisiä,viimeinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+57,1,Artikkelissa,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+58,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+59,3,kirjoittajalla,kirjoittaja,"{'Case': 'Ade', 'Derivation': 'Ja', 'Number': 'Sing'}",obl,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+60,5,erottaa,erottaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+61,20,.,.,,punct,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+62,4,onnistunut,onnistua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+63,6,itse-sanan,itse#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+64,7,kolme,kolme,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+65,9,toisistaan,toinen,"{'Case': 'Ela', 'Number': 'Plur', 'Person[psor]': '3', 'PronType': 'Rcp'}",nmod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+66,11,adverbi,adverbi,"{'Case': 'Nom', 'Number': 'Sing'}",appos,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+67,8,käyttöä,käyttö,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+68,10,:,:,,punct,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+69,12,itse,itse,,advmod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+70,14,partikkeli,partikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+71,18,appositio,appositio,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+72,13,",",",",,punct,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+73,15,itse,itse,,advmod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+74,16,ja,ja,,cc,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+75,17,pronominimainen,pronomi#nimainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+76,19,itse,itse,,advmod,"Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse."
+77,1,Itse-sana,Itse#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+78,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+79,4,itse,itse,,advmod,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+80,7,henkilökohtaisesti,henkilö#kohtaisesti,{'Derivation': 'Sti'},advmod,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+81,9,.,.,,punct,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+82,2,adverbina-tapauksissa,adverbina#tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",nmod,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+83,5,merkityksessä,merkitys,"{'Case': 'Ine', 'Number': 'Sing'}",root,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+84,6,',',,punct,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+85,8,',',,punct,Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+86,1,Siinä,se,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+87,2,sana,sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+88,6,paikalla,paikka,"{'Case': 'Ade', 'Number': 'Sing'}",obl,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+89,17,opiskelee,opiskella,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+90,30,.,.,,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+91,3,sijaitsee,sijaita,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+92,4,adverbin,adverb,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+93,5,tyypillisellä,tyypillinen,"{'Case': 'Ade', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+94,7,persoonaverbin,persoonaverb,"{'Case': 'Gen', 'Number': 'Sing'}",nmod,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+95,11,lopussa,loppu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",conj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+96,8,jäljessä,jäljessä,{'AdpType': 'Post'},case,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+97,9,taikka,taikka,,cc,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+98,10,lauseen,lause,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+99,12,",",",",,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+100,14,“,“,,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+101,16,Ave,Ave,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+102,18,itsekin,itse,{'Clitic': 'Kin'},advmod,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+103,24,syytä,syy,"{'Case': 'Par', 'Number': 'Sing'}",conj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+104,13,esim.,esim.,{'Abbr': 'Yes'},advmod,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+105,15,Opettaja,opettaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",compound:nn,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+106,19,“,“,,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+107,20,tai,tai,,cc,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+108,21,“,“,,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+109,23,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+110,25,tarkistaa,tarkistaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+111,29,“,“,,punct,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+112,22,Sinun,sinä,"{'Case': 'Gen', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",nsubj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+113,26,itsekin,itse,{'Clitic': 'Kin'},advmod,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+114,28,asia,asia,"{'Case': 'Nom', 'Number': 'Sing'}",obj,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+115,27,tämä,tämä,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",det,"Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“."
+116,1,Kuten,kuten,,mark,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+117,2,kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+118,4,",",",",,punct,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+119,3,selittää,selittää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+120,5,itse,itse,,advmod,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+121,9,toiminaa,toimina,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+122,12,adverbit,adverbi,"{'Case': 'Nom', 'Number': 'Plur'}",obj,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+123,17,.,.,,punct,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+124,6,määrittää,määrittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+125,7,verbin,verbi,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+126,8,ilmaisemaa,ilmaista,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Agt', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+127,10,aivan,aivan,,advmod,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+128,11,kuten,kuten,,advmod,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+129,13,yksin,yksin,,advmod,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+130,14,tai,tai,,cc,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+131,15,omin,oma,"{'Case': 'Ins', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+132,16,avuin,apu,"{'Case': 'Ins', 'Number': 'Plur'}",conj,"Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin."
+133,1,Myös,myös,,advmod,"Myös tapaukset, kuten"
+134,4,kuten,kuten,,advmod,"Myös tapaukset, kuten"
+135,2,tapaukset,tapaus,"{'Case': 'Nom', 'Number': 'Plur'}",root,"Myös tapaukset, kuten"
+136,3,",",",",,punct,"Myös tapaukset, kuten"
+137,1,“,“,,punct,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+138,2,En,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+139,6,nappia,nappi,"{'Case': 'Par', 'Number': 'Sing'}",obj,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+140,7,kiinni,kiinni,,advmod,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+141,8,“,“,,punct,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+142,10,sellaisia,sellainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",conj,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+143,11,.,.,,punct,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+144,3,saa,saada,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+145,4,itse,itse,,det,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+146,5,kauluksen,kaulus,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+147,9,ovat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,“En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+148,1,Itse-sanaa,Itse#sana,"{'Case': 'Par', 'Number': 'Sing'}",obj,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+149,2,voidaan,voida,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",aux,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+150,5,pääsanan,pää#sana,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+151,7,taipumattomana,taipumaton,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Sing'}",obl,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+152,10,.,.,,punct,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+153,3,käyttää,käyttää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+154,4,myös,myös,,advmod,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+155,6,edessä,edessä,{'AdpType': 'Post'},case,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+156,8,eli,eli,,cc,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+157,9,partikkelina,partikkeli,"{'Case': 'Ess', 'Number': 'Sing'}",conj,Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+158,1,Näissä,tämä,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+159,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+160,3,itse-sana,itse#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+161,4,lähinnä,lähinnä,,advmod,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+162,6,pääsanaansa,pää#sana,"{'Case': 'Ill', 'Number': 'Sing', 'Person[psor]': '3'}",obl,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+163,12,nimenomaan,nimen#omaan,,advmod,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+164,18,.,.,,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+165,5,korostaa,korostaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+166,7,",",",",,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+167,9,merkitys,merkitys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+168,11,',',,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+169,16,sinänsä,sinänsä,,advmod,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+170,8,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",nmod:poss,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+171,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+172,13,",",",",,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+173,14,juuri,juuri,,advmod,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+174,15,",",",",,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+175,17,',',,punct,"Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'."
+176,1,Esim.,Esim.,{'Abbr': 'Yes'},advmod,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+177,2,“,“,,punct,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+178,3,Ratkaisu,ratkaisu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+179,4,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+180,7,pääasiaan,pää#asia,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+181,11,Lapsi,lapsi,"{'Case': 'Nom', 'Number': 'Sing'}",conj,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+182,15,“,“,,punct,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+183,16,.,.,,punct,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+184,5,vaikuta,vaikuttaa,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+185,6,itse,itse,,det,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+186,8,“,“,,punct,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+187,9,tai,tai,,cc,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+188,10,“,“,,punct,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+189,12,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+190,14,terveys,terveys,"{'Case': 'Nom', 'Derivation': 'Vs', 'Number': 'Sing'}",nsubj:cop,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+191,13,itse,itse,,advmod,Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+192,1,Itse-sanan,Itse#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+193,3,käyttöön,käyttö,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+194,2,appositiona,appositio,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+195,4,esimerkkeinä,esi#merkki,"{'Case': 'Ess', 'Number': 'Plur'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+196,6,artikkelissä,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+197,9,tapaukset,tapaus,"{'Case': 'Nom', 'Number': 'Plur'}",obj,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+198,21,Työskentelen,työskennellä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+199,40,.,.,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+200,5,nimetään,nimetä,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+201,7,esim.,esim.,{'Abbr': 'Yes'},advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+202,8,seuraavat,seuraava,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+203,10,:,:,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+204,15,käy,käydä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+205,11,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+206,12,Hän,hän,"{'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}",nsubj,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+207,13,kyllä,kyllä,,advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+208,14,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+209,16,jatkuvasti,jatkuvasti,{'Derivation': 'Sti'},advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+210,17,puheopetuksessa,puhe#opetus,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+211,18,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+212,19,",",",",,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+213,20,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+214,39,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+215,22,itse,itse,,advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+216,23,asiakaspalvelussa,asiakas#palvelu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+217,24,postissa,posti,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+218,28,Luulen,luulla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+219,25,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+220,26,tai,tai,,cc,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+221,27,“,“,,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+222,32,säilyy,säilyä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+223,36,näkee,nähdä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+224,29,",",",",,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+225,30,että,että,,mark,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+226,31,ystävyys,ystävyys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+227,33,",",",",,punct,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+228,34,jos,jos,,mark,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+229,35,itse,itse,,advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+230,38,vaivaa,vaiva,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+231,37,vähän,vähän,,advmod,"Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“."
+232,1,Joissakin,jokin,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+233,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+234,3,sana,sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+235,6,lauseeseen,lause,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+236,8,lisämerkityksen,lisä#merkitys,"{'Case': 'Gen', 'Number': 'Sing'}",obj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+237,25,.,.,,punct,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+238,4,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",det,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+239,5,tuo,tuoda,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+240,7,sellaisen,sellainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+241,14,kuuluu,kuulua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+242,9,",",",",,punct,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+243,10,että,että,,mark,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+244,11,yleensä,yleensä,,advmod,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+245,13,asiat,asia,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+246,18,kuulu,kuulua,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",conj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+247,12,tietyt,tietty,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+248,15,tai,tai,,cc,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+249,17,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+250,19,tehdä,tehdä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+251,16,niitä,se,"{'Case': 'Par', 'Number': 'Plur', 'PronType': 'Dem'}",obj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+252,20,henkilökohtaisesti,henkilö#kohtaisesti,{'Derivation': 'Sti'},advmod,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+253,22,syystä,syy,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+254,21,",",",",,punct,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+255,24,toisesta,toinen,"{'Case': 'Ela', 'Derivation': 'Inen', 'Number': 'Sing', 'NumType': 'Ord'}",conj,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+256,23,tai,tai,,cc,"Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta."
+257,1,Näitä,tämä,"{'Case': 'Par', 'Number': 'Plur', 'PronType': 'Dem'}",det,Näitä tapauksia nimetään tekstistä selittyviksi.
+258,2,tapauksia,tapaus,"{'Case': 'Par', 'Number': 'Plur'}",obj,Näitä tapauksia nimetään tekstistä selittyviksi.
+259,5,selittyviksi,selittyä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",xcomp:ds,Näitä tapauksia nimetään tekstistä selittyviksi.
+260,6,.,.,,punct,Näitä tapauksia nimetään tekstistä selittyviksi.
+261,3,nimetään,nimetä,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Näitä tapauksia nimetään tekstistä selittyviksi.
+262,4,tekstistä,teksti,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Näitä tapauksia nimetään tekstistä selittyviksi.
+263,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+264,2,näyttelauseet,näytte#lause,"{'Case': 'Nom', 'Number': 'Plur'}",obj,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+265,3,olivat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+266,5,selkeästi,selkeästi,{'Derivation': 'Sti'},advmod,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+267,7,:,:,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+268,9,Kukas,kukaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Style': 'Coll', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+269,30,.,.,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+270,4,hyvin,hyvin,,advmod,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+271,6,ymmärrettävissä,ymmärtää,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",root,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+272,8,“,“,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+273,12,nostaa,nostaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+274,23,hiihtäjä,hiihtäjä,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",conj,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+275,29,“,“,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+276,10,kissan,kissa,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+277,11,hännän,häntä,"{'Case': 'Gen', 'Number': 'Sing'}",obj,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+278,13,",",",",,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+279,14,ellei,jos#ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",mark,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+280,15,kissa,kissa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+281,17,“,“,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+282,18,ja,ja,,cc,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+283,19,“,“,,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+284,20,Olen,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+285,22,paras,hyvä,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",amod,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+286,28,sanonkin,sanon,"{'Case': 'Nom', 'Clitic': 'Kin', 'Number': 'Sing'}",advcl,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+287,16,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",det,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+288,21,Suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+289,24,",",",",,punct,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+290,25,vaikka,vaikka,,mark,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+291,26,itse,itse,"{'Case': 'Nom', 'Number': 'Plur', 'Reflex': 'Yes'}",advmod,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+292,27,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“."
+293,1,Joskus,joskus,,advmod,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+294,3,kirjeissä,kirje,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+295,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+296,6,kertoa,kertoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+297,16,.,.,,punct,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+298,2,henkilökohtaisissa,henkilö#kohtainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+299,5,tapana,tapa,"{'Case': 'Ess', 'Number': 'Sing'}",root,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+300,7,omista,oma,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+301,10,tekemisistään,tekeminen,"{'Case': 'Par', 'Derivation': 'Minen', 'Number': 'Sing', 'Person[psor]': '3'}",conj,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+302,8,asioistaan,asia,"{'Case': 'Ela', 'Number': 'Plur', 'Person[psor]': '3'}",obl,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+303,12,pitäen,pitää,"{'Case': 'Ins', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+304,9,ja,ja,,cc,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+305,11,",",",",,punct,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+306,13,itseään,itse,"{'Case': 'Par', 'Number': 'Sing', 'Person[psor]': '3', 'Reflex': 'Yes'}",obj,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+307,15,puheenaiheena,puheen#aihe,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+308,14,pääasiallisena,pää#asiallinen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena."
+309,1,Näissä,tämä,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Dem'}",det,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+310,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+311,3,sana,sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+312,4,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",det,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+313,6,puhujaan,puhuja,"{'Case': 'Ill', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+314,7,:,:,,punct,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+315,11,muistanut,muistaa,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",parataxis,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+316,14,.,.,,punct,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+317,5,viitta,viitta,"{'Case': 'Nom', 'Number': 'Sing'}",root,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+318,8,“,“,,punct,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+319,9,Raimo,Raimo,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+320,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+321,13,kirjeellä,kirje,"{'Case': 'Ade', 'Number': 'Sing'}",obl,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+322,12,parilla,pari,"{'Case': 'Ade', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+323,1,Sepustin,sepustaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Sepustin itse hänelle ties mitä“.
+324,2,itse,itse,,advmod,Sepustin itse hänelle ties mitä“.
+325,3,hänelle,hän,"{'Case': 'All', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}",obl,Sepustin itse hänelle ties mitä“.
+326,5,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Int'}",obj,Sepustin itse hänelle ties mitä“.
+327,6,“,“,,punct,Sepustin itse hänelle ties mitä“.
+328,7,.,.,,punct,Sepustin itse hänelle ties mitä“.
+329,4,ties,ties,,advmod,Sepustin itse hänelle ties mitä“.
+330,1,Myös,myös,,advmod,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+331,3,“,“,,punct,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+332,2,lause,lause,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+333,4,Radiossa,radio,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+334,9,kannata,kannattaa,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",ccomp,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+335,12,.,.,,punct,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+336,5,varoitellaan,varoitella,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+337,6,",",",",,punct,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+338,7,että,että,,mark,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+339,8,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+340,10,lähteä,lähteä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+341,11,maantielle,maan#tie,"{'Case': 'All', 'Number': 'Sing'}",obl,"Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle."
+342,1,Itse,itse,,advmod,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+343,2,aion,aikoa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+344,4,auton,auto,"{'Case': 'Gen', 'Number': 'Sing'}",obj,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+345,5,maantielle,maan#tie,"{'Case': 'All', 'Number': 'Sing'}",obl,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+346,7,lähteä,lähteä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",conj,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+347,11,viitata,viitata,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",conj,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+348,14,.,.,,punct,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+349,3,jättää,jättää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+350,6,ja,ja,,cc,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+351,8,bussilla,bussi,"{'Case': 'Ade', 'Number': 'Sing'}",obl,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+352,9,kaupunkiin,kaupunki,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+353,10,“,“,,punct,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+354,13,käyttöön,käyttö,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+355,12,samaan,sama,"{'Case': 'Ill', 'Number': 'Sing', 'PronType': 'Ind'}",det,Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+356,1,Kirjoittajan,kirjoittaja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",obl,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+357,3,useimmiten,useimmiten,,advmod,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+358,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+359,5,kyse,kyse,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+360,12,kontrastoi,kontrastoa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+361,21,.,.,,punct,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+362,2,mukaan,mukaan,{'AdpType': 'Post'},case,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+363,6,siitä,se,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Dem'}",root,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+364,7,",",",",,punct,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+365,8,että,että,,mark,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+366,9,puhuja,puhuja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+367,14,tekemisensä,tekeminen,"{'Case': 'Gen', 'Derivation': 'Vs', 'Number': 'Sing', 'Person[psor]': '3'}",obj,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+368,16,ratkaisuihin,ratkaisu,"{'Case': 'Ill', 'Derivation': 'U', 'Number': 'Plur'}",obl,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+369,10,tai,tai,,cc,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+370,11,kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",conj,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+371,13,omat,oma,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+372,15,muiden,muu,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Ind'}",nmod:poss,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+373,18,vastakohtaparina,vasta#kohta#pari,"{'Case': 'Ess', 'Number': 'Sing'}",conj,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+374,17,tai,tai,,cc,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+375,19,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+376,20,minä-hän,minä-hän,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän."
+377,1,Esim,esin,{'Style': 'Coll'},advmod,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+378,3,“,“,,punct,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+379,4,Itse,itse,,advmod,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+380,6,jo,jo,,advmod,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+381,7,5-6-vuotiaana,5#6#vuotias,"{'Case': 'Ess', 'Degree': 'Pos', 'Number': 'Sing'}",obl,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+382,8,enemmän,enemmän,,advmod,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+383,13,“,“,,punct,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+384,14,.,.,,punct,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+385,2,.,.,,punct,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+386,5,ymmärsin,ymmärtää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+387,9,kuin,kuin,,mark,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+388,10,sinä,sinä,"{'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",nsubj,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+389,12,nyt,nyt,,advmod,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+390,11,ymmärrät,ymmärtää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+391,1,Puhuteltavaan,puhutella,"{'Case': 'Ill', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",obl,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+392,2,viittaava,viitata,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+393,3,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",nsubj:cop,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+394,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+395,5,usein,usein,,advmod,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+396,7,samanlaisessa,samanlainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+397,13,.,.,,punct,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+398,6,aivan,aivan,,advmod,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+399,12,viittaava,viitata,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",advcl,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+400,8,käytössä,käyttö,"{'Case': 'Ine', 'Number': 'Sing'}",root,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+401,9,kuin,kuin,,mark,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+402,11,persoonaankin,persoona,"{'Case': 'Ade', 'Clitic': 'Kin', 'Number': 'Sing'}",obl,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+403,10,3.,3.,{'NumType': 'Ord'},nummod,Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+404,1,Sellaisena,sellainen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,Sellaisena esimerkkinä olisit tapaukset
+405,3,olisit,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '2', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Sellaisena esimerkkinä olisit tapaukset
+406,4,tapaukset,tapaus,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj:cop,Sellaisena esimerkkinä olisit tapaukset
+407,2,esimerkkinä,esi#merkki,"{'Case': 'Ess', 'Number': 'Sing'}",root,Sellaisena esimerkkinä olisit tapaukset
+408,1,“,“,,punct,“Mitä sinä itse luulet“?
+409,2,Mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Int'}",obj,“Mitä sinä itse luulet“?
+410,3,sinä,sinä,"{'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",nsubj,“Mitä sinä itse luulet“?
+411,6,“,“,,punct,“Mitä sinä itse luulet“?
+412,7,?,?,,punct,“Mitä sinä itse luulet“?
+413,4,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",det,“Mitä sinä itse luulet“?
+414,5,luulet,luulla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,“Mitä sinä itse luulet“?
+415,1,tai,tai,,cc,tai “Sinä itse et halunnut päättää enää mitään“.
+416,2,“,“,,punct,tai “Sinä itse et halunnut päättää enää mitään“.
+417,3,Sinä,sinä,"{'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",nsubj,tai “Sinä itse et halunnut päättää enää mitään“.
+418,5,et,ei,"{'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,tai “Sinä itse et halunnut päättää enää mitään“.
+419,7,päättää,päättää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,tai “Sinä itse et halunnut päättää enää mitään“.
+420,10,“,“,,punct,tai “Sinä itse et halunnut päättää enää mitään“.
+421,11,.,.,,punct,tai “Sinä itse et halunnut päättää enää mitään“.
+422,4,itse,itse,"{'Case': 'Nom', 'Number': 'Sing', 'Reflex': 'Yes'}",det,tai “Sinä itse et halunnut päättää enää mitään“.
+423,6,halunnut,haluta,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,tai “Sinä itse et halunnut päättää enää mitään“.
+424,8,enää,enää,,advmod,tai “Sinä itse et halunnut päättää enää mitään“.
+425,9,mitään,mikään,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",obj,tai “Sinä itse et halunnut päättää enää mitään“.
+426,1,Kirjoittaja,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+427,8,käytöillä,käyttö,"{'Case': 'Ade', 'Number': 'Plur'}",ccomp,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+428,15,.,.,,punct,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+429,2,osoittaa,osoittaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+430,3,",",",",,punct,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+431,4,että,että,,mark,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+432,6,kaikilla,kaikki,"{'Case': 'Ade', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+433,7,itse-sanan,itse#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+434,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop:own,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+435,14,ominaisuuksia,ominaisuus,"{'Case': 'Par', 'Derivation': 'Inen,Vs', 'Number': 'Plur'}",nsubj:cop,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+436,5,näillä,tämä,"{'Case': 'Ade', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+437,10,yhteisiä,yhteinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+438,11,",",",",,punct,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+439,12,etenkin,etenkin,,advmod,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+440,13,semanttis-tekstuaalisia,semanttis#tekstuaalinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",conj,"Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia."
+441,1,Artikkeli,artikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Artikkeli on minulle vaikeaa luettavaa.
+442,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Artikkeli on minulle vaikeaa luettavaa.
+443,3,minulle,minä,"{'Case': 'All', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obl,Artikkeli on minulle vaikeaa luettavaa.
+444,4,vaikeaa,vaikea,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Artikkeli on minulle vaikeaa luettavaa.
+445,6,.,.,,punct,Artikkeli on minulle vaikeaa luettavaa.
+446,5,luettavaa,lukea,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",root,Artikkeli on minulle vaikeaa luettavaa.
+447,1,Se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+448,3,paljon,paljon,,advmod,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+449,4,minulle,minä,"{'Case': 'All', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obl,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+450,6,kielitermejä,kieli#termi,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+451,14,.,.,,punct,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+452,2,sisälsi,sisältää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+453,5,vieraita,vieras,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+454,13,selitettävää,selittää,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl:relcl,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+455,7,",",",",,punct,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+456,8,jotka,joka,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Rel'}",obj,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+457,9,minun,minä,"{'Case': 'Gen', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",nsubj,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+458,10,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+459,11,lukiessa,lukea,"{'Case': 'Ine', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+460,12,jatkuvasti,jatkuvasti,{'Derivation': 'Sti'},advmod,"Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää."
+461,1,Käytin,käyttää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+462,2,siihen,se,"{'Case': 'Ill', 'Number': 'Sing', 'PronType': 'Dem'}",obl,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+463,4,ohjepankkia,ohje#pankki,"{'Case': 'Par', 'Number': 'Sing'}",obj,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+464,8,.,.,,punct,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+465,3,Kielitoimiston,kieli#toimisto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+466,7,käännösohjelmaa,käännös#ohjelma,"{'Case': 'Par', 'Number': 'Sing'}",conj,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+467,5,sekä,sekä,,cc,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+468,6,Googlen,Google,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+469,1,Itse,itse,,det,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+470,2,aihe,aihe,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+471,3,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+472,10,ymmärrettävää,ymmärrettävä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",appos,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+473,11,.,.,,punct,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+474,4,kiinnostavaa,kiinnostava,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",root,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+475,5,",",",",,punct,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+476,6,osittain,osittain,{'Derivation': 'Ttain'},advmod,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+477,7,kuitenkin,kuitenkin,,advmod,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+478,8,myös,myös,,advmod,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+479,9,hyvin,hyvin,,advmod,"Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää."
+480,1,Itse-sanan,Itse#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+481,3,appositiona,appositio,"{'Case': 'Ess', 'Number': 'Sing'}",nmod,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+482,2,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+483,4,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+484,7,vaikein,vaikea,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",conj,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+485,9,jäi,jäädä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+486,11,:,:,,punct,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+487,16,muotoiltu,muotoilla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",parataxis,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+488,18,.,.,,punct,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+489,5,monimutkainen,moni#mutkainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",root,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+490,6,ja,ja,,cc,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+491,8,ja,ja,,cc,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+492,10,epäselväksi,epä#selvä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+493,12,artikkelissa,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+494,13,esitetyt,esittää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+495,14,esimerkit,esi#merkki,"{'Case': 'Nom', 'Number': 'Plur'}",obj,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+496,15,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+497,17,monimutkaisesti,monimutkaisesti,{'Derivation': 'Sti'},advmod,Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+498,1,Artikkeli,artikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+499,4,tutkimaan,tutkia,"{'Case': 'Ill', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+500,11,.,.,,punct,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+501,2,sai,saada,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+502,3,minut,minä,"{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",nsubj,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+503,10,virossa,viro,"{'Case': 'Ine', 'Number': 'Sing'}",ccomp,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+504,5,",",",",,punct,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+505,7,rooli,rooli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+506,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+507,6,mikä,mikä,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Rel'}",det,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+508,8,itse-sanalla,itse#sana,"{'Case': 'Ade', 'Number': 'Sing'}",nmod,"Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa."
+509,1,Otsin,Otsi,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,Otsin siitä selvää internet-sivulta eki.ee.
+510,2,siitä,se,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Dem'}",obl,Otsin siitä selvää internet-sivulta eki.ee.
+511,4,internet-sivulta,internet#sivu,"{'Case': 'Abl', 'Number': 'Sing'}",obl,Otsin siitä selvää internet-sivulta eki.ee.
+512,6,.,.,,punct,Otsin siitä selvää internet-sivulta eki.ee.
+513,3,selvää,selvä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Otsin siitä selvää internet-sivulta eki.ee.
+514,5,eki.ee,eki.ee,,root,Otsin siitä selvää internet-sivulta eki.ee.
+515,1,Mielestäni,mieli,"{'Case': 'Ela', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",obl,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+516,2,yksi,yksi,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Ind'}",nsubj:cop,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+517,6,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+518,9,ajattelemaan,ajatella,"{'Case': 'Ill', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+519,12,.,.,,punct,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+520,3,tällaisten,tällainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+521,4,artikkeleiden,artikkeli,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+522,5,tavoitteista,tavoite,"{'Case': 'Ela', 'Number': 'Plur'}",nmod,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+523,7,saada,saada,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+524,8,lukijaa,lukija,"{'Case': 'Par', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+525,10,kielestä,kieli,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+526,11,laajemmin,laajasti,"{'Degree': 'Cmp', 'Derivation': 'Sti'}",advmod,Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.

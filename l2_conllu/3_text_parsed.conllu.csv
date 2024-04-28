@@ -1,0 +1,473 @@
+id,sent_id,form,lemma,case,deprel,sentence
+0,1,Hakulisen,Hakulinen,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+1,2,ja,ja,,cc,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+2,3,Laitisen,Laitinen,"{'Case': 'Gen', 'Number': 'Sing'}",conj,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+3,4,laatima,laatia,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Agt', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+4,5,artikkeli,artikkeli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+5,13,nollasta,nolla,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+6,14,.,.,,punct,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+7,6,kertoo,kertoa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+8,7,kirjoitetussa,kirjoittaa,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+9,11,käytettävästä,käyttää,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+10,12,anaforisesta,anaforinen,"{'Case': 'Ela', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+11,8,ja,ja,,cc,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+12,9,puhutussa,puhua,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",conj,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+13,10,suomessa,Suomi,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Hakulisen ja Laitisen laatima artikkeli kertoo kirjoitetussa ja puhutussa suomessa käytettävästä anaforisesta nollasta.
+14,1,Sillä,se,"{'Case': 'Ade', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+15,3,tapauksia,tapaus,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+16,28,.,.,,punct,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+17,2,tarkoitetaan,tarkoittaa,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+18,4,",",",",,punct,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+19,5,jossa,joka,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+20,8,tarkoitteeseen,tarkoite,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+21,9,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+22,15,jätetään,jättää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",conj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+23,6,edellä,edellä,,advmod,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+24,7,mainittuun,mainita,"{'Case': 'Ill', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+25,10,viitata,viitata,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",acl:relcl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+26,11,",",",",,punct,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+27,12,vaan,vaan,,cc,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+28,14,paikka,paikka,"{'Case': 'Nom', 'Number': 'Sing'}",obj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+29,16,tyhjäksi,tyhjä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp:ds,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+30,19,halunnut,haluta,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",conj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+31,13,uudelleenmaininnan,uudelleenmaininta,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+32,17,: Äiti,:eäiti,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+33,18,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+34,20,kantaa,kantaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+35,21,pojastaan,poika,"{'Case': 'Ela', 'Number': 'Sing', 'Person[psor]': '3'}",obl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+36,23,huolta,huoli,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+37,22,enempää,enempää,,advmod,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+38,24,kuin,kuin,,mark,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+39,25,_,_,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+40,26,jo,jo,,advmod,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+41,27,kantoi,kantaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Sillä tarkoitetaan tapauksia, jossa edellä mainittuun tarkoitteeseen ei viitata, vaan uudelleenmaininnan paikka jätetään tyhjäksi : Äiti ei halunnut kantaa pojastaan enempää huolta kuin _ jo kantoi."
+42,1,Keskustelussa,keskustelu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",obl,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+43,2,AN,AN,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+44,5,sitoutumista,sitoutuminen,"{'Case': 'Par', 'Derivation': 'Minen', 'Number': 'Sing'}",obj,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+45,12,.,.,,punct,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+46,3,ilmaisee,ilmaista,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+47,4,puhujan,puhuja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod:gsubj,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+48,8,näkökulmaan,näkö#kulma,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+49,6,edellisen,edellinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+50,7,puheenvuoron,puheen#vuoro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+51,11,affekteihinkin,affekti,"{'Case': 'Ill', 'Clitic': 'Kin', 'Number': 'Plur'}",conj,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+52,9,ja,ja,,cc,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+53,10,usein,usein,,advmod,Keskustelussa AN ilmaisee puhujan sitoutumista edellisen puheenvuoron näkökulmaan ja usein affekteihinkin.
+54,1,Referoinnissa,referointi,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+55,2,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+56,3,nollalla,nolla,"{'Case': 'Ade', 'Number': 'Sing'}",obl,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+57,5,suhtautumista,suhtautuminen,"{'Case': 'Par', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+58,16,.,.,,punct,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+59,4,välittää,välittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+60,6,henkilön,henkilö,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+61,7,ajatuksiin,ajatus,"{'Case': 'Ill', 'Number': 'Plur'}",nmod,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+62,10,ironiaa,ironia,"{'Case': 'Par', 'Number': 'Sing'}",appos,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+63,8,",",",",,punct,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+64,9,esimerkiksi,esimerkiksi,,advmod,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+65,12,empatiaa,empatia,"{'Case': 'Par', 'Number': 'Sing'}",conj,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+66,15,affekteja,affekti,"{'Case': 'Par', 'Number': 'Plur'}",conj,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+67,11,",",",",,punct,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+68,13,tai,tai,,cc,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+69,14,muita,muu,"{'Case': 'Par', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Referoinnissa voi nollalla välittää suhtautumista henkilön ajatuksiin, esimerkiksi ironiaa, empatiaa tai muita affekteja."
+70,1,Erilaisten,erilainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+71,3,mukaan,mukaan,{'AdpType': 'Post'},case,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+72,2,tutkijoiden,tutkija,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Plur'}",obl,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+73,4,AN:aa,AN,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+74,12,keskeinen,keskeinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",advcl,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+75,23,.,.,,punct,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+76,5,käytetään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+77,6,",",",",,punct,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+78,7,kun,kun,,mark,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+79,9,tarkoite,tarkoite,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+80,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+81,11,hyvin,hyvin,,advmod,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+82,16,luovutaan,luopua,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",conj,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+83,8,puheen,puhe,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+84,13,ja,ja,,cc,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+85,15,käytöstä,käyttö,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+86,21,oletetaan,olettaa,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",advcl,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+87,14,AN:n,AN,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+88,17,",",",",,punct,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+89,18,kun,kun,,mark,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+90,20,pääsy,pääsy,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+91,22,vaikeammaksi,vaikea,"{'Case': 'Tra', 'Degree': 'Cmp', 'Number': 'Sing'}",xcomp,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+92,19,tarkoitteen,tarkoite,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Erilaisten tutkijoiden mukaan AN:aa käytetään, kun puheen tarkoite on hyvin keskeinen ja AN:n käytöstä luovutaan, kun tarkoitteen pääsy oletetaan vaikeammaksi."
+93,1,Pääasiassa,pääasiassa,,advmod,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+94,3,AN:aa,AN,"{'Case': 'Par', 'Number': 'Sing'}",obj,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+95,6,poisjättämiseksi,poisjättäminen,"{'Case': 'Tra', 'Derivation': 'Minen', 'Number': 'Sing'}",xcomp:ds,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+96,7,.,.,,punct,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+97,2,käytetään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+98,4,3.,3.,{'NumType': 'Ord'},nummod,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+99,5,persoonan,persoona,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Pääasiassa käytetään AN:aa 3. persoonan poisjättämiseksi.
+100,1,Joissakin,jokin,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Ind'}",det,Joissakin tapauksessa
+101,2,tapauksessa,tapaus,"{'Case': 'Ine', 'Number': 'Sing'}",root,Joissakin tapauksessa
+102,1,AN:aa,AN,"{'Case': 'Par', 'Number': 'Sing'}",obj,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+103,4,kataforisesti,kataforisesti,{'Derivation': 'Sti'},advmod,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+104,2,saa,saada,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+105,3,käyttää,käyttää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+106,8,:,:,,punct,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+107,5,eli,eli,,cc,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+108,6,ennakoivana,ennakoida,"{'Case': 'Ess', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+109,7,anaforana,anafora,"{'Case': 'Ess', 'Number': 'Sing'}",conj,AN:aa saa käyttää kataforisesti eli ennakoivana anaforana:
+110,1,Kun,kun,,mark,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+111,2,_ oli,_eoli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+112,6,nukahtamaan,nukahtaa,"{'Case': 'Ill', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+113,9,",",",",,punct,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+114,3,saanut,saada,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",advcl,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+115,10,hän,hän,"{'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}",nsubj,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+116,12,viemään,viedä,"{'Case': 'Ill', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+117,15,.,.,,punct,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+118,4,nuoremman,nuori,"{'Case': 'Gen', 'Degree': 'Cmp', 'Number': 'Sing'}",amod,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+119,5,lapsen,lapsi,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+120,7,vaunuihin,vaunu,"{'Case': 'Ill', 'Number': 'Plur'}",obl,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+121,8,parvekkeelle,parveke,"{'Case': 'All', 'Number': 'Sing'}",obl,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+122,11,lähti,lähteä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+123,13,vanhempaa,vanha,"{'Case': 'Par', 'Degree': 'Cmp', 'Number': 'Sing'}",obj,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+124,14,puistoon,puisto,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Kun _ oli saanut nuoremman lapsen nukahtamaan vaunuihin parvekkeelle, hän lähti viemään vanhempaa puistoon."
+125,1,Kaunokirjallisessa,kauno#kirjallinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+126,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+127,6,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+128,19,.,.,,punct,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+129,2,proosassa,proosa,"{'Case': 'Ine', 'Number': 'Sing'}",root,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+130,4,tavallista,tavallinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+131,5,AN:n,an,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+132,8,virkerajan,virke#raja,"{'Case': 'Gen', 'Number': 'Sing'}",nmod,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+133,9,:,:,,punct,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+134,11,puhuttiin,puhua,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",parataxis,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+135,7,yli,yli,{'AdpType': 'Prep'},case,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+136,10,Asiasta,asia,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+137,12,paljon,paljon,,advmod,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+138,17,puhui,puhua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+139,13,",",",",,punct,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+140,14,ja,ja,,cc,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+141,15,eniten,eniten,,advmod,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+142,16,siitä,se,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+143,18,Halme,Halme,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Kaunokirjallisessa proosassa on tavallista AN:n käyttö yli virkerajan: Asiasta puhuttiin paljon, ja eniten siitä puhui Halme."
+144,1,Sana,sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+145,7,puheessaan,puhe,"{'Case': 'Ine', 'Number': 'Sing', 'Person[psor]': '3'}",obl,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+146,9,päästä,pää,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+147,10,.,.,,punct,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+148,2,»,»,,punct,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+149,4,»,»,,punct,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+150,3,köyhälistö,köyhälistö,"{'Case': 'Nom', 'Number': 'Sing'}",appos,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+151,5,toistui,toistua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+152,6,hänen,hän,"{'Case': 'Gen', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}",nmod:poss,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+153,8,vähän,vähän,,advmod,Sana »köyhälistö» toistui hänen puheessaan vähän päästä.
+154,1,Lausuipa,lausua,"{'Clitic': 'Pa', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+155,2,_,_,"{'Abbr': 'Yes', 'Case': 'Nom', 'Number': 'Sing'}",obl,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+156,3,välillä,välillä,,advmod,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+157,6,ajatuksia,ajatus,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+158,18,.,.,,punct,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+159,4,sellaisiakin,sellainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+160,5,sosialistisia,sosialistinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+161,9,merkitsivät,merkitä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl:relcl,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+162,7,",",",",,punct,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+163,8,jotka,joka,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Rel'}",nsubj,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+164,11,muuta,muu,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",obj,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+165,10,vallan,valta,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+166,16,reformeja,reformi,"{'Case': 'Par', 'Number': 'Plur'}",advcl,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+167,12,kuin,kuin,,mark,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+168,13,»,»,,punct,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+169,14,meidän,minä,"{'Case': 'Gen', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}",nmod:poss,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+170,15,keskisiä,keskinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+171,17,»,»,,punct,"Lausuipa _ välillä sellaisiakin sosialistisia ajatuksia, jotka merkitsivät vallan muuta kuin »meidän keskisiä reformeja»."
+172,1,Narratiivissa,narratiivi,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+173,2,AN,AN,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+174,4,tiukemmin,tiukasti,"{'Degree': 'Cmp', 'Derivation': 'Sti'}",advmod,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+175,7,lausetta,lause,"{'Case': 'Par', 'Number': 'Sing'}",obj,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+176,10,.,.,,punct,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+177,3,sitoo,sitoa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+178,5,kahta,kaksi,"{'Case': 'Par', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+179,6,perättäistä,perättäinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+180,8,kuin,kuin,,mark,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+181,9,ilmipronomini,ilmi#pronomi,"{'Case': 'Nom', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",advcl,Narratiivissa AN sitoo tiukemmin kahta perättäistä lausetta kuin ilmipronomini.
+182,1,Joidenkin,jokin,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Ind'}",det,Joidenkin tutkijoiden mukaan narratiiveissa
+183,3,mukaan,mukaan,{'AdpType': 'Post'},case,Joidenkin tutkijoiden mukaan narratiiveissa
+184,2,tutkijoiden,tutkija,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Plur'}",nmod,Joidenkin tutkijoiden mukaan narratiiveissa
+185,4,narratiiveissa,narratiivi,"{'Case': 'Ine', 'Number': 'Plur'}",root,Joidenkin tutkijoiden mukaan narratiiveissa
+186,1,AN,AN,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+187,10,keinoihin,keino,"{'Case': 'Ill', 'Number': 'Plur'}",obl,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+188,11,:,:,,punct,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+189,13,pitää,pitää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+190,20,.,.,,punct,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+191,2,kuuluu,kuulua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+192,3,muun,muun,,advmod,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+193,9,kertomusten,kertomus,"{'Case': 'Gen', 'Number': 'Plur'}",conj,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+194,4,muassa,muassa,,fixed,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+195,5,kansansatujen,kansan#satu,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+196,6,ja,ja,,cc,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+197,7,muiden,muu,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Ind'}",det,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+198,8,suullisten,suullinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",amod,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+199,12,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+200,14,yllä,yllä,,compound:prt,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+201,19,näkökulmaa,näkö#kulma,"{'Case': 'Par', 'Number': 'Sing'}",obj,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+202,15,logoforisen,logoforinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+203,16,hän-pronominin,hän#pronomini,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+204,17,luomaa,luoda,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Agt', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+205,18,päähenkilön,pää#henkilö,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,AN kuuluu muun muassa kansansatujen ja muiden suullisten kertomusten keinoihin: se pitää yllä logoforisen hän-pronominin luomaa päähenkilön näkökulmaa.
+206,1,Valtaosassa,valta#osa,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+207,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+208,10,verbialkuisia,verbi#alkuinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+209,13,vuoroja,vuoro,"{'Case': 'Par', 'Number': 'Plur'}",conj,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+210,14,.,.,,punct,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+211,2,artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+212,7,%,%,,appos,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+213,3,esimerkeistä,esi#merkki,"{'Case': 'Ela', 'Number': 'Plur'}",nmod,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+214,4,",",",",,punct,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+215,6,90,90,{'NumType': 'Card'},nummod,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+216,8,",",",",,punct,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+217,5,yli,yli,,advmod,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+218,11,lauseita,lause,"{'Case': 'Par', 'Number': 'Plur'}",root,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+219,12,tai,tai,,cc,"Valtaosassa artikkelin esimerkeistä, yli 90 %, on verbialkuisia lauseita tai vuoroja."
+220,1,Oletuksemme,oletus,"{'Case': 'Nom', 'Number': 'Sing', 'Number[psor]': 'Plur', 'Person[psor]': '1'}",nsubj:cop,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+221,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+222,3,",",",",,punct,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+223,4,että,että,,mark,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+224,5,verbialkuisuus,verbi#alkuisuus,"{'Case': 'Nom', 'Derivation': 'Inen,Vs', 'Number': 'Sing'}",nsubj,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+225,7,olennaisesti,olennaisesti,{'Derivation': 'Sti'},advmod,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+226,10,kielioppiin,kieli#oppi,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+227,11,.,.,,punct,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+228,6,kuuluu,kuulua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+229,8,anaforisen,anaforinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+230,9,subjektinollan,subjektinolta,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Oletuksemme on, että verbialkuisuus kuuluu olennaisesti anaforisen subjektinollan kielioppiin."
+231,1,Uutta,uusi,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",root,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+232,2,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+233,4,kohdalla,kohta,"{'Case': 'Ade', 'Number': 'Sing'}",obl,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+234,5,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj:cop,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+235,18,.,.,,punct,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+236,3,AN:n,an,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+237,6,",",",",,punct,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+238,7,että,että,,mark,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+239,8,en,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+240,10,mitään,mikään,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",obj,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+241,12,olemmassaolosta,olemmassaolo,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+242,15,käytän,käyttää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+243,9,tiennyt,tietää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",ccomp,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+244,11,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",nmod:poss,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+245,13,",",",",,punct,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+246,14,vaikka,vaikka,,mark,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+247,16,sitä,se,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+248,17,paljon,paljon,,advmod,"Uutta oli AN:n kohdalla se, että en tiennyt mitään sen olemmassaolosta, vaikka käytän sitä paljon."
+249,1,Tavallisessa,tavallinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+250,4,kirjoitetussa,kirjoittaa,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+251,2,niin,niin,,cc:preconj,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+252,3,myös,myös,,advmod,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+253,5,kuin,kuin,,cc,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+254,6,suullisessa,suullinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",conj,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+255,7,tekstissä,teksti,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+256,8,AN,AN,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+257,10,huomaamatta,huomata,"{'Case': 'Abe', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+258,18,puuttumisesta,puuttuminen,"{'Case': 'Ela', 'Derivation': 'Minen', 'Number': 'Sing'}",advcl,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+259,19,.,.,,punct,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+260,9,jää,jäädä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+261,11,",",",",,punct,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+262,12,kun,kun,,mark,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+263,13,usein,usein,,advmod,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+264,14,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+265,15,kyse,kyse,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+266,17,persoonapronominin,persoona#pronomini,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+267,16,lyhyen,lyhyt,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Tavallisessa niin myös kirjoitetussa kuin suullisessa tekstissä AN jää huomaamatta, kun usein on kyse lyhyen persoonapronominin puuttumisesta."
+268,1,Ilmiö,ilmiö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+269,4,arkikieleen,arki#kieli,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+270,10,haluta,haluta,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",conj,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+271,13,.,.,,punct,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+272,2,kuuluu,kuulua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+273,3,tavalliseen,tavallinen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+274,5,eikä,ei,"{'Clitic': 'Ka', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",cc,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+275,7,tapauksista,tapaus,"{'Case': 'Ela', 'Number': 'Plur'}",obl,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+276,9,käytöllä,käyttö,"{'Case': 'Ade', 'Number': 'Sing'}",obl,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+277,11,välittää,välittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+278,6,enemmistössä,enemmistö,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+279,8,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",nmod:poss,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+280,12,afektiivisuutta,afektiivisuus,"{'Case': 'Par', 'Derivation': 'Inen,Vs', 'Number': 'Sing'}",obj,Ilmiö kuuluu tavalliseen arkikieleen eikä enemmistössä tapauksista sen käytöllä haluta välittää afektiivisuutta.
+281,1,Pikemminkin,pikemminkin,,advmod,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+282,6,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",obj,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+283,11,halutaan,haluta,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",advcl,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+284,16,.,.,,punct,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+285,2,huomataan,huomata,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+286,3,anaforan,anafora,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+287,4,tai,tai,,cc,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+288,5,kataforan,katafora,"{'Case': 'Gen', 'Number': 'Sing'}",conj,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+289,7,",",",",,punct,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+290,8,kun,kun,,mark,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+291,10,avulla,apu,"{'Case': 'Ade', 'Derivation': 'U', 'Number': 'Sing'}",obl,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+292,12,välittää,välittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+293,9,niiden,se,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Dem'}",nmod:poss,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+294,13,puhujan,puhuja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod:gsubj,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+295,15,asiaan,asia,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+296,14,suhtautumista,suhtautuminen,"{'Case': 'Par', 'Derivation': 'Minen', 'Number': 'Sing'}",obj,"Pikemminkin huomataan anaforan tai kataforan käyttö, kun niiden avulla halutaan välittää puhujan suhtautumista asiaan."
+297,1,Kirjoittajien,kirjoittaja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Plur'}",nmod:poss,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+298,2,tarkoitus,tarkoitus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+299,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+300,4,otsikonkin,otsikko,"{'Case': 'Gen', 'Clitic': 'Kin', 'Number': 'Sing'}",obl,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+301,9,käyttöä,käyttö,"{'Case': 'Par', 'Number': 'Sing'}",obj,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+302,10,.,.,,punct,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+303,5,mukaan,mukaan,{'AdpType': 'Post'},case,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+304,6,osoittaa,osoittaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+305,7,AN:n,AN,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+306,8,afektiivistä,afektiivinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Kirjoittajien tarkoitus on otsikonkin mukaan osoittaa AN:n afektiivistä käyttöä.
+307,1,Esimerkissä,esi#merkki,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+308,6,keskustelussa,keskustelu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",obl,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+309,8,käyttöä,käyttö,"{'Case': 'Par', 'Number': 'Sing'}",obj,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+310,10,.,.,,punct,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+311,2,27,27,{'NumType': 'Card'},nummod,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+312,3,esitellään,esitellä,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+313,4,koulupoikien,koulu#poika,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+314,5,välisessä,välinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+315,7,AN:n,AN,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+316,9,affektisena,affektinen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",nmod,Esimerkissä 27 esitellään koulupoikien välisessä keskustelussa AN:n käyttöä affektisena.
+317,1,Kuitenkin,kuitenkin,,advmod,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+318,3,keskustelusta,keskustelu,"{'Case': 'Ela', 'Derivation': 'U', 'Number': 'Sing'}",obl,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+319,4,vaikutus,vaikutus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+320,15,.,.,,punct,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+321,2,jää,jäädä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+322,5,",",",",,punct,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+323,6,että,että,,mark,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+324,7,tunteita,tunne,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+325,10,äänitehosteiden,ääni#tehoste,"{'Case': 'Gen', 'Number': 'Plur'}",obl,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+326,8,ilmaistiin,ilmaista,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",ccomp,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+327,9,esim.,esim.,{'Abbr': 'Yes'},advmod,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+328,13,sananvalinnan,sana#valinta,"{'Case': 'Gen', 'Number': 'Sing'}",conj,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+329,14,kautta,kautta,{'AdpType': 'Post'},case,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+330,11,ja,ja,,cc,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+331,12,yleisen,yleinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Kuitenkin jää keskustelusta vaikutus, että tunteita ilmaistiin esim. äänitehosteiden ja yleisen sananvalinnan kautta."
+332,1,AN:n,AN,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+333,2,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+334,3,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+335,5,tavalla,tapa,"{'Case': 'Ade', 'Number': 'Sing'}",obl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+336,7,keskusteluun,keskustelu,"{'Case': 'Ill', 'Derivation': 'U', 'Number': 'Sing'}",obl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+337,9,tapauksessa,tapaus,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+338,16,.,.,,punct,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+339,4,normaalilla,normaali,"{'Case': 'Ade', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+340,6,kuulunut,kuulua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+341,8,myös,myös,,advmod,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+342,14,keskusteltu,keskustella,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl:relcl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+343,10,",",",",,punct,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+344,11,jossa,joka,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+345,12,tapahtumasta,tapahtuma,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+346,13,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+347,15,asiallisesti,asiallisesti,{'Derivation': 'Sti'},advmod,"AN:n käyttö olisi normaalilla tavalla kuulunut keskusteluun myös tapauksessa, jossa tapahtumasta olisi keskusteltu asiallisesti."
+348,1,Esimerkissä,esi#merkki,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+349,5,käyttöä,käyttö,"{'Case': 'Par', 'Number': 'Sing'}",obj,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+350,6,ilmaisuna,ilmaisu,"{'Case': 'Ess', 'Derivation': 'U', 'Number': 'Sing'}",obl,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+351,10,.,.,,punct,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+352,2,31,31,{'NumType': 'Card'},nummod,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+353,3,esitellään,esitellä,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+354,4,AN:n,AN,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+355,8,suhtautumisesta,suhtautuminen,"{'Case': 'Ela', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+356,7,puhujan,puhuja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod:gsubj,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+357,9,asiaan,asia,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,Esimerkissä 31 esitellään AN:n käyttöä ilmaisuna puhujan suhtautumisesta asiaan.
+358,1,Kuitenkin,kuitenkin,,advmod,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+359,3,tekstistä,teksti,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+360,4,vaikutus,vaikutus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+361,16,.,.,,punct,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+362,2,jää,jäädä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+363,5,",",",",,punct,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+364,6,että,että,,mark,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+365,8,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+366,9,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+367,11,paikassa,paikka,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+368,14,lisännyt,lisätä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",conj,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+369,7,persoonapronominin,persoona#pronomini,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+370,10,siinä,se,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Dem'}",det,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+371,12,asianmukaista,asian#mukainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",ccomp,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+372,13,eikä,ei,"{'Clitic': 'Ka', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",cc,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+373,15,affektiivisyyttä,affektiivisyys,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Kuitenkin jää tekstistä vaikutus, että persoonapronominin käyttö olisi siinä paikassa asianmukaista eikä lisännyt affektiivisyyttä."
+374,1,Artikkelissa,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",root,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+375,2,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+376,3,ollut,olla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",cop,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+377,4,seikkoja,seikka,"{'Case': 'Par', 'Number': 'Plur'}",nsubj:cop,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+378,10,.,.,,punct,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+379,5,",",",",,punct,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+380,6,jotka,joka,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Rel'}",nsubj,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+381,7,olisivat,olla,"{'Mood': 'Cnd', 'Number': 'Plur', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+382,9,epäselviksi,epä#selvä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Plur'}",xcomp,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+383,8,jääneet,jäädä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",acl:relcl,"Artikkelissa ei ollut seikkoja, jotka olisivat jääneet epäselviksi."
+384,1,Kirjoittajat,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Plur'}",nsubj,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+385,2,ovat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+386,10,kuvailun,kuvailu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+387,12,käyttäen,käyttää,"{'Case': 'Ins', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+388,15,.,.,,punct,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+389,3,laatineet,laatia,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+390,4,monipuolisessa,monipuolinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+391,5,käytössä,käyttö,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+392,6,olevasta,olla,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+393,7,syntaktisestä,syntaktinen,"{'Case': 'Ela', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+394,8,ilmiöstä,ilmiö,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+395,9,tyhjentävän,tyhjentää,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+396,11,",",",",,punct,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+397,14,esimerkkejä,esi#merkki,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+398,13,asianmukaisia,asian#mukainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Kirjoittajat ovat laatineet monipuolisessa käytössä olevasta syntaktisestä ilmiöstä tyhjentävän kuvailun, käyttäen asianmukaisia esimerkkejä."
+399,1,Tieteen,tiede,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+400,3,mukaan,mukaan,{'AdpType': 'Post'},case,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+401,2,termipankin,termi#pankki,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+402,5,lapset,lapsi,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+403,12,anaforista,anafori,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+404,14,laajemmin,laajasti,"{'Degree': 'Cmp', 'Derivation': 'Sti'}",advmod,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+405,18,.,.,,punct,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+406,4,käyttävät,käyttää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+407,6,“,“,,punct,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+408,7,kahden,kaksi,"{'Case': 'Gen', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+409,11,välillä,välillä,{'AdpType': 'Post'},case,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+410,8,ja,ja,,cc,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+411,9,kolmen,kolme,"{'Case': 'Gen', 'Number': 'Sing', 'NumType': 'Card'}",conj,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+412,10,ikävuoden,ikä#vuosi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+413,13,nollaa,nolla,"{'Case': 'Par', 'Number': 'Sing'}",nmod,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+414,16,aikuiset,aikuinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",advcl,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+415,17,”,”,,punct,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+416,15,kuin,kuin,,mark,Tieteen termipankin mukaan käyttävät lapset “kahden ja kolmen ikävuoden välillä anaforista nollaa laajemmin kuin aikuiset”.
+417,1,Esimerkkinä,esi#merkki,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+418,3,fraasia,fraasi,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+419,5,nukkuu,nukkua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+420,17,.,.,,punct,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+421,2,esitellään,esitellä,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+422,4,“,“,,punct,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+423,6,sängyssä,sänky,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+424,7,”,”,,punct,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+425,8,jonka,joka,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Rel'}",nmod:poss,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+426,9,tarkoitus,tarkoitus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+427,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+428,15,nukku,nukkua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+429,11,sanoa,sanoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",acl:relcl,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+430,12,",",",",,punct,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+431,13,että,että,,mark,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+432,14,nalle,nalle,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+433,16,sängyssä,sänky,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Esimerkkinä esitellään fraasia “nukkuu sängyssä” jonka tarkoitus on sanoa, että nalle nukku sängyssä."
+434,1,Omasta,oma,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+435,3,opettajana,opettaja,"{'Case': 'Ess', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+436,2,kokemuksesta,kokemus,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+437,9,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",ccomp,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+438,21,.,.,,punct,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+439,4,tiedän,tietää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+440,5,",",",",,punct,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+441,6,että,että,,mark,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+442,7,AN,AN,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+443,8,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+444,12,arkikäytössä,arki#käyttö,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+445,18,vastataan,vastata,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",advcl,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+446,10,myös,myös,,advmod,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+447,11,lukiolaisten,lukio#lainen,"{'Case': 'Gen', 'Derivation': 'Lainen', 'Number': 'Plur'}",nmod:poss,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+448,13,",",",",,punct,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+449,14,kun,kun,,mark,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+450,17,kysymykseen,kysymys,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+451,20,lyhyesti,lyhyesti,{'Derivation': 'Sti'},advmod,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+452,15,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+453,16,opettajan,opettaja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod:poss,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+454,19,mahdollisen,mahdollinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Omasta kokemuksesta opettajana tiedän, että AN on koulussa myös lukiolaisten arkikäytössä, kun suomen opettajan kysymykseen vastataan mahdollisen lyhyesti."
+455,1,Jatkossa,jatko,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+456,3,tutkia,tutkia,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+457,17,.,.,,punct,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+458,2,saisi,saada,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+459,4,",",",",,punct,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+460,5,kuinka,kuinka,,advmod,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+461,7,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+462,9,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+463,6,yleinen,yleinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",ccomp,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+464,8,AN:n,an,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+465,10,opetustilanteessa,opetus#tilanne,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+466,12,riippuuko,riippuuko,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+467,11,ja,ja,,cc,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+468,16,aineesta,aine,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+469,13,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",nmod:poss,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+470,14,frekvenssi,frekvenssi,"{'Case': 'Nom', 'Number': 'Sing'}",obj,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."
+471,15,opetettavasta,opettaa,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Jatkossa saisi tutkia, kuinka yleinen on AN:n käyttö opetustilanteessa ja riippuuko sen frekvenssi opetettavasta aineesta."

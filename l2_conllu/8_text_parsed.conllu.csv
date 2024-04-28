@@ -1,0 +1,666 @@
+id,sent_id,form,lemma,case,deprel,sentence
+0,1,Puhuttelu,puhuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+1,2,",",",",,punct,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+2,3,niin,niin,,mark,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+3,9,asiat,asia,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+4,11,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+5,14,kuluessa,kulua,"{'Case': 'Ine', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+6,15,.,.,,punct,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+7,4,kun,kun,,fixed,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+8,10,",",",",,punct,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+9,5,monet,moni,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+10,6,muutkin,muu,"{'Case': 'Nom', 'Clitic': 'Kin', 'Number': 'Plur', 'PronType': 'Ind'}",det,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+11,8,liittyvät,liittyä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+12,7,kieleen,kieli,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+13,12,muuttunut,muuttua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+14,13,ajan,aika,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,"Puhuttelu, niin kun monet muutkin kieleen liittyvät asiat, on muuttunut ajan kuluessa."
+15,1,Sinuttelu,sinuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj:cop,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+16,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+17,4,käytetyin,käytetty,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",acl,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+18,5,puhuttelun,puhuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+19,7,Suomessa,Suomi,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+20,8,.,.,,punct,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+21,3,ylivoimaisesti,yli#voimaisesti,{'Derivation': 'Sti'},advmod,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+22,6,muoto,muoto,"{'Case': 'Nom', 'Number': 'Sing'}",root,Sinuttelu on ylivoimaisesti käytetyin puhuttelun muoto Suomessa.
+23,1,Toisaalta,toisaalta,,advmod,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+24,4,teitittelyä,teitittely,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+25,6,vielä,vielä,,advmod,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+26,7,runsaasti,runsaasti,{'Derivation': 'Sti'},advmod,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+27,11,.,.,,punct,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+28,2,",",",",,punct,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+29,3,myös,myös,,advmod,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+30,5,käytetään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+31,8,",",",",,punct,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+32,9,varsinkin,varsinkin,,advmod,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+33,10,asiakaspalvelutilanteissa,asiakas#palvelu#tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",appos,"Toisaalta, myös teitittelyä käytetään vielä runsaasti, varsinkin asiakaspalvelutilanteissa."
+34,1,Aikaisemmin,aikaisemmin,,advmod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+35,2,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+36,5,sääntöjä,sääntö,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+37,20,.,.,,punct,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+38,3,olemassa,olla,"{'Case': 'Ine', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+39,4,tiettyjä,tietty,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+40,8,käytettään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",ccomp,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+41,6,",",",",,punct,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+42,7,milloin,milloin,,advmod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+43,9,sinuttelua,sinuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+44,19,tarkka,tarkka,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",conj,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+45,10,ja,ja,,cc,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+46,11,milloin,milloin,,advmod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+47,12,teitittelyä,teitittely,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",conj,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+48,13,",",",",,punct,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+49,14,nyt,nyt,,advmod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+50,15,raja,raja,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+51,16,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+52,17,ole,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",cop,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+53,18,niin,niin,,advmod,"Aikaisemmin oli olemassa tiettyjä sääntöjä, milloin käytettään sinuttelua ja milloin teitittelyä , nyt raja ei ole niin tarkka."
+54,1,Epäselvyys,epä#selvyys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+55,3,tilanteita,tilanne,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+56,14,.,.,,punct,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+57,2,luo,luoda,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+58,4,",",",",,punct,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+59,5,joissa,joka,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Rel'}",obl,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+60,6,puhuja,puhuja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+61,7,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+62,12,parasta,hyvä,"{'Case': 'Par', 'Degree': 'Sup', 'Number': 'Sing'}",ccomp,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+63,8,tiedä,tietää,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",acl:relcl,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+64,9,minkälaista,minkälainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+65,10,muotoa,muoto,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+66,11,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+67,13,käyttää,käyttää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp:ds,"Epäselvyys luo tilanteita, joissa puhuja ei tiedä minkälaista muotoa olisi parasta käyttää."
+68,1,Sellaisten,sellainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+69,2,tilanteiden,tilanne,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+70,3,epämukavuus,epä#mukavuus,"{'Case': 'Nom', 'Derivation': 'Vs', 'Number': 'Sing'}",nsubj,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+71,5,esiin,esiin,,advmod,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+72,6,kysymystä,kysymys,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+73,17,.,.,,punct,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+74,4,tuo,tuoda,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+75,7,siitä,se,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Dem'}",nmod,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+76,8,",",",",,punct,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+77,9,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Rel'}",obj,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+78,10,voisi,voida,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+79,16,välttäisi,välttää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+80,11,tehdä,tehdä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",ccomp,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+81,12,",",",",,punct,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+82,13,että,että,,mark,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+83,15,tilanteittä,tilanne,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+84,14,sellaisia,sellainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Sellaisten tilanteiden epämukavuus tuo esiin kysymystä siitä, mitä voisi tehdä, että sellaisia tilanteittä välttäisi."
+85,1,Pitäisikö,pitää,"{'Clitic': 'Ko', 'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+86,3,puhuttelua,puhuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+87,5,koululaisille,koulu#lainen,"{'Case': 'All', 'Derivation': 'Lainen', 'Number': 'Plur'}",obl,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+88,11,kohdata,kohdata,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",ccomp,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+89,15,?,?,,punct,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+90,2,opettaa,opettaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+91,4,jo,jo,,advmod,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+92,6,",",",",,punct,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+93,7,että,että,,mark,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+94,8,niiden,se,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Dem'}",nsubj,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+95,9,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+96,10,pitäisi,pitää,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",aux,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+97,13,keskustelu,keskustelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+98,14,ongelmia,ongelma,"{'Case': 'Par', 'Number': 'Plur'}",obj,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+99,12,sellaisia,sellainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Pitäisikö opettaa puhuttelua jo koululaisille, että niiden ei pitäisi kohdata sellaisia keskustelu ongelmia?"
+100,1,Minun,minä,"{'Case': 'Gen', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",nmod:poss,Minun mielestäni vastaus on ”ei”.
+101,2,mielestäni,mieli,"{'Case': 'Ela', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",obl,Minun mielestäni vastaus on ”ei”.
+102,3,vastaus,vastaus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Minun mielestäni vastaus on ”ei”.
+103,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Minun mielestäni vastaus on ”ei”.
+104,5,”,”,,punct,Minun mielestäni vastaus on ”ei”.
+105,7,”,”,,punct,Minun mielestäni vastaus on ”ei”.
+106,8,.,.,,punct,Minun mielestäni vastaus on ”ei”.
+107,6,ei,ei,"{'Number': 'Sing', 'Person': '0', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Minun mielestäni vastaus on ”ei”.
+108,1,Puhuttelun,puhuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:gobj,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+109,3,kouluissa,koulu,"{'Case': 'Ine', 'Number': 'Plur'}",nmod,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+110,2,oppiminen,oppiminen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj:cop,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+111,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+112,5,mielestäni,mieli,"{'Case': 'Ela', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",obl,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+113,8,syystä,syy,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+114,9,.,.,,punct,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+115,6,tarpeeton,tarpeeton,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Sing'}",root,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+116,7,kahdesta,kaksi,"{'Case': 'Ela', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Puhuttelun oppiminen kouluissa on mielestäni tarpeeton kahdesta syystä.
+117,1,Ensimmäinen,ensimmäinen,"{'Case': 'Nom', 'Derivation': 'Inen', 'Number': 'Sing', 'NumType': 'Ord'}",nsubj:cop,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+118,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+119,8,tavoilla,tapa,"{'Case': 'Ade', 'Number': 'Plur'}",ccomp,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+120,14,.,.,,punct,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+121,3,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",root,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+122,4,",",",",,punct,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+123,5,että,että,,mark,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+124,7,opituilla,oppia,"{'Case': 'Ade', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+125,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop:own,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+126,11,vaikutus,vaikutus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+127,6,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+128,10,suuri,suuri,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+129,13,ymmärtämiseen,ymmärtäminen,"{'Case': 'Ill', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+130,12,maailman,maailma,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Ensimmäinen on se, että koulussa opituilla tavoilla on suuri vaikutus maailman ymmärtämiseen."
+131,1,Teitittelyn,teitittely,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:gobj,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+132,3,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+133,2,opettaminen,opettaminen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+134,4,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+135,6,käsitystä,käsitys,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+136,22,.,.,,punct,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+137,5,aiheuttaa,aiheuttaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+138,7,",",",",,punct,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+139,8,että,että,,mark,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+140,10,ihmiset,ihminen,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj:cop,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+141,18,ovat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+142,21,muut,muu,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Ind'}",advcl,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+143,9,tietyt,tietty,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+144,16,perusteella,peruste,"{'Case': 'Ade', 'Number': 'Sing'}",nmod,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+145,11,",",",",,punct,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+146,12,heidän,hän,"{'Case': 'Gen', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}",nmod:poss,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+147,15,iän,ikä,"{'Case': 'Gen', 'Number': 'Sing'}",conj,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+148,13,aseman,asema,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+149,17,",",",",,punct,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+150,14,tai,tai,,cc,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+151,19,arvostetuimpia,arvostettu,"{'Case': 'Par', 'Degree': 'Sup', 'Number': 'Plur'}",ccomp,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+152,20,kuin,kuin,,mark,"Teitittelyn opettaminen koulussa voi aiheuttaa käsitystä, että tietyt ihmiset, heidän aseman tai iän perusteella, ovat arvostetuimpia kuin muut."
+153,1,Koulujen,koulu,"{'Case': 'Gen', 'Number': 'Plur'}",nsubj:cop,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+154,3,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",cop,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+155,4,sellaisena,sellainen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+156,10,yksi,yksi,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Ind'}",acl:relcl,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+157,2,tulisi,tulla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+158,5,paikana,paika,"{'Case': 'Ess', 'Number': 'Sing'}",xcomp:ds,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+159,13,.,.,,punct,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+160,6,",",",",,punct,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+161,7,jossa,joka,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+162,8,tasa-arvoisuus,tasa#arvoisuus,"{'Case': 'Nom', 'Derivation': 'Inen,Vs', 'Number': 'Sing'}",nsubj:cop,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+163,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+164,12,asioista,asia,"{'Case': 'Ela', 'Number': 'Plur'}",nmod,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+165,11,tärkeimmistä,tärkeä,"{'Case': 'Ela', 'Degree': 'Sup', 'Number': 'Plur'}",amod,"Koulujen tulisi olla sellaisena paikana, jossa tasa-arvoisuus on yksi tärkeimmistä asioista."
+166,1,Tämä,tämä,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+167,2,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+168,4,sitä,se,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+169,12,.,.,,punct,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+170,3,tarkoittaa,tarkoittaa,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+171,5,",",",",,punct,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+172,6,että,että,,mark,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+173,8,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+174,10,ikinä,ikinä,,advmod,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+175,11,teititellä,teititellä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+176,7,kenenkään,kukaan,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Ind'}",nsubj,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+177,9,saa,saada,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",ccomp,"Tämä ei tarkoittaa sitä, että kenenkään ei saa ikinä teititellä."
+178,1,Vieläkin,vielä,{'Clitic': 'Kin'},advmod,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+179,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+180,4,ihmisiä,ihminen,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+181,13,.,.,,punct,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+182,3,olemassa,olla,"{'Case': 'Ine', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+183,5,",",",",,punct,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+184,6,jotka,joka,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Rel'}",nsubj,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+185,7,mieluummin,mieluummin,,advmod,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+186,10,teititelty,teititellä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",xcomp,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+187,8,haluavat,haluta,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl:relcl,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+188,9,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",aux:pass,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+189,12,sinuteltu,sinutella,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",conj,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+190,11,eikä,ei,"{'Clitic': 'Ka', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",cc,"Vieläkin on olemassa ihmisiä, jotka mieluummin haluavat olla teititelty eikä sinuteltu."
+191,1,On,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+192,6,tietävät,tietää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",csubj:cop,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+193,15,.,.,,punct,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+194,2,tärkeä,tärkeä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",root,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+195,3,",",",",,punct,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+196,4,että,että,,mark,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+197,5,lapset,lapsi,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+198,7,sitä,se,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+199,8,",",",",,punct,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+200,9,että,että,,mark,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+201,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+202,12,huomauta,huomauta,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",csubj:cop,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+203,11,kohteliasta,kohtelianen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",ccomp,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+204,13,keskustelukumppanin,keskustelu#kumppani,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+205,14,preferenssejä,preferenssi,"{'Case': 'Par', 'Number': 'Plur'}",obj,"On tärkeä, että lapset tietävät sitä, että on kohteliasta huomauta keskustelukumppanin preferenssejä."
+206,1,Mutta,mutta,,cc,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+207,3,ymmärrys,ymmärrys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+208,4,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+209,7,ympäristön,ympäristö,"{'Case': 'Gen', 'Number': 'Sing'}",obl,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+210,15,.,.,,punct,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+211,2,sellainen,sellainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+212,5,tulla,tulla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+213,6,oman,oma,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+214,9,perheen,perhe,"{'Case': 'Gen', 'Number': 'Sing'}",appos,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+215,10,kautta,kautta,{'AdpType': 'Post'},case,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+216,13,koulusysteemin,koulu#systeemi,"{'Case': 'Gen', 'Number': 'Sing'}",conj,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+217,8,",",",",,punct,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+218,11,",",",",,punct,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+219,12,eikä,ei,"{'Clitic': 'Ka', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",cc,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+220,14,kautta,kautta,{'AdpType': 'Post'},case,"Mutta sellainen ymmärrys pitäisi tulla oman ympäristön, perheen kautta, eikä koulusysteemin kautta."
+221,1,Toisaalta,toisaalta,,advmod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+222,3,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+223,5,sitä,se,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+224,25,.,.,,punct,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+225,2,",",",",,punct,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+226,4,huomata,huomata,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+227,6,",",",",,punct,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+228,7,että,että,,mark,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+229,9,koulua,koulu,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+230,15,oppilaat,oppilas,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+231,21,eroa,eroa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",conj,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+232,8,suomalaista,suomalainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+233,10,käyvät,käydä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+234,11,erilaisiin,erilainen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+235,12,kulttuurisin,kulttuurinen,"{'Case': 'Ins', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+236,13,ympäristöihin,ympäristö,"{'Case': 'Ill', 'Number': 'Plur'}",obl,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+237,14,kuuluvat,kuulua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+238,16,ja,ja,,cc,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+239,19,puhuttelutavat,puhuttelu#tapa,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+240,20,voivat,voida,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+241,23,paljon,paljon,,advmod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+242,17,heidän,hän,"{'Case': 'Gen', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}",nmod:poss,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+243,18,kulttuurissaan,kulttuuri,"{'Case': 'Ine', 'Number': 'Sing', 'Person[psor]': '3'}",nmod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+244,22,hyvin,hyvin,,advmod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+245,24,toisista,toinen,"{'Case': 'Ela', 'Number': 'Plur', 'PronType': 'Dem'}",nmod,"Toisaalta, pitäisi huomata sitä, että suomalaista koulua käyvät erilaisiin kulttuurisin ympäristöihin kuuluvat oppilaat ja heidän kulttuurissaan puhuttelutavat voivat eroa hyvin paljon toisista."
+246,1,Eikö,ei,"{'Clitic': 'Ko', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+247,2,olisi,olla,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",cop,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+248,4,oppilaille,oppilas,"{'Case': 'All', 'Number': 'Plur'}",nmod,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+249,5,opettaa,opettaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",csubj:cop,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+250,12,?,?,,punct,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+251,3,parasta,hyvä,"{'Case': 'Par', 'Degree': 'Sup', 'Number': 'Sing'}",root,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+252,6,heitä,hän,"{'Case': 'Par', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}",obj,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+253,10,suuntaudutaan,suuntautua,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",ccomp,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+254,7,",",",",,punct,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+255,8,miten,miten,,advmod,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+256,9,puhutteluun,puhuttelu,"{'Case': 'Ill', 'Derivation': 'U', 'Number': 'Sing'}",obl,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+257,11,Suomessa,Suomi,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Eikö olisi parasta oppilaille opettaa heitä, miten puhutteluun suuntaudutaan Suomessa?"
+258,1,Taas,taas,,advmod,"Taas, vastaukseni olisi ”ei”."
+259,3,vastaukseni,vastaus,"{'Case': 'Nom', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1'}",nsubj:cop,"Taas, vastaukseni olisi ”ei”."
+260,4,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Taas, vastaukseni olisi ”ei”."
+261,5,”,”,,punct,"Taas, vastaukseni olisi ”ei”."
+262,7,”,”,,punct,"Taas, vastaukseni olisi ”ei”."
+263,8,.,.,,punct,"Taas, vastaukseni olisi ”ei”."
+264,2,",",",",,punct,"Taas, vastaukseni olisi ”ei”."
+265,6,ei,ei,"{'Number': 'Sing', 'Person': '0', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Taas, vastaukseni olisi ”ei”."
+266,1,Koulun,koulu,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+267,7,taustaa,tausta,"{'Case': 'Par', 'Number': 'Sing'}",obj,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+268,2,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+269,4,homogenisoida,homogenisoida,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+270,8,.,.,,punct,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+271,3,kuuluisi,kuulua,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",root,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+272,5,oppilaiden,oppilas,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+273,6,kulttuurista,kulttuuri,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,Koulun ei kuuluisi homogenisoida oppilaiden kulttuurista taustaa.
+274,1,Jos,jos,,mark,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+275,2,puhuttelua,puhuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+276,4,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+277,5,",",",",,punct,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+278,3,opetettaisiin,opettaa,"{'Mood': 'Cnd', 'VerbForm': 'Fin', 'Voice': 'Pass'}",advcl,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+279,6,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+280,8,tilanne,tilanne,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+281,20,.,.,,punct,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+282,7,syntyä,syntyä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+283,9,",",",",,punct,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+284,10,missä,mikä,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+285,13,käytäntö,käytäntö,"{'Case': 'Nom', 'Number': 'Sing'}",obj,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+286,14,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+287,15,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",aux:pass,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+288,18,vääräksi,väärä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+289,11,oman,oma,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+290,12,kulttuurin,kulttuuri,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+291,16,käsitelty,käsitellä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl:relcl,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+292,17,”,”,,punct,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+293,19,”,”,,punct,"Jos puhuttelua opetettaisiin koulussa, voi syntyä tilanne, missä oman kulttuurin käytäntö voi olla käsitelty ”vääräksi”."
+294,1,Nopeasti,nopeasti,{'Derivation': 'Sti'},advmod,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+295,2,muuttuvassa,muuttua,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+296,3,maailmassa,maailma,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+297,4,puhuttelumuodot,puhuttelu#muoto,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+298,7,nopeasti,nopeasti,{'Derivation': 'Sti'},advmod,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+299,8,.,.,,punct,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+300,5,muuttuvat,muuttua,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+301,6,myös,myös,,advmod,Nopeasti muuttuvassa maailmassa puhuttelumuodot muuttuvat myös nopeasti.
+302,1,Tämä,tämä,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj:cop,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+303,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+304,3,toinen,toinen,"{'Case': 'Nom', 'Derivation': 'Inen', 'Number': 'Sing', 'NumType': 'Ord'}",nummod,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+305,8,kannattaisi,kannattaa,"{'Connegative': 'Yes', 'Mood': 'Cnd', 'VerbForm': 'Fin'}",acl:relcl,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+306,11,.,.,,punct,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+307,4,syy,syy,"{'Case': 'Nom', 'Number': 'Sing'}",root,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+308,5,miksi,miksi,,advmod,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+309,7,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+310,9,opetella,opetella,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+311,6,puhuttelua,puhuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+312,10,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Tämä on toinen syy miksi puhuttelua ei kannattaisi opetella koulussa.
+313,1,Puhuttelu,puhuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+314,2,niin,niin,,advmod,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+315,5,kieli,kieli,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+316,6,ylipäätänsä,ylipäätänsä,,advmod,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+317,9,vaikutteita,vaikute,"{'Case': 'Par', 'Number': 'Plur'}",obj,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+318,11,maailmasta,maailma,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+319,12,.,.,,punct,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+320,3,kuin,kuin,,fixed,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+321,4,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+322,7,saa,saada,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+323,8,paljon,paljon,,advmod,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+324,10,muualta,muualta,,advmod,Puhuttelu niin kuin suomen kieli ylipäätänsä saa paljon vaikutteita muualta maailmasta.
+325,1,Internetti,internetti,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Internetti mahdollistaa tiedon nopean levityksen.
+326,5,levityksen,levitys,"{'Case': 'Gen', 'Number': 'Sing'}",obj,Internetti mahdollistaa tiedon nopean levityksen.
+327,6,.,.,,punct,Internetti mahdollistaa tiedon nopean levityksen.
+328,2,mahdollistaa,mahdollistaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Internetti mahdollistaa tiedon nopean levityksen.
+329,3,tiedon,tieto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Internetti mahdollistaa tiedon nopean levityksen.
+330,4,nopean,nopea,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Internetti mahdollistaa tiedon nopean levityksen.
+331,1,Tämän,tämä,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obl,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+332,3,vaikutteita,vaikute,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+333,6,kieleen,kieli,"{'Case': 'Ill', 'Number': 'Sing'}",obl,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+334,8,nopeammin,nopeasti,"{'Degree': 'Cmp', 'Derivation': 'Sti'}",advmod,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+335,15,.,.,,punct,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+336,2,takia,takia,{'AdpType': 'Post'},case,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+337,4,saapuu,saapua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+338,5,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+339,7,paljon,paljon,,advmod,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+340,13,vuotta,vuosi,"{'Case': 'Par', 'Number': 'Sing'}",advcl,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+341,9,kuin,kuin,,mark,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+342,10,vielä,vielä,,advmod,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+343,11,pari,pari,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+344,12,kymmentä,kymmenen,"{'Case': 'Par', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+345,14,sitten,sitten,{'AdpType': 'Post'},case,Tämän takia vaikutteita saapuu suomen kieleen paljon nopeammin kuin vielä pari kymmentä vuotta sitten.
+346,1,Osa,osa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+347,5,nopeudella,nopeus,"{'Case': 'Ade', 'Derivation': 'Vs', 'Number': 'Sing'}",obl,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+348,6,pois,pois,,advmod,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+349,10,jää,jäädä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+350,15,.,.,,punct,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+351,2,niistä,se,"{'Case': 'Ela', 'Number': 'Plur', 'PronType': 'Dem'}",nmod,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+352,3,lähtee,lähteä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+353,4,samalla,sama,"{'Case': 'Ade', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+354,7,",",",",,punct,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+355,8,mutta,mutta,,cc,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+356,9,osa,osa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+357,12,vakiintuu,vakiintua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+358,11,ja,ja,,cc,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+359,13,kieleen,kieli,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+360,14,käyttöön,käyttö,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Osa niistä lähtee samalla nopeudella pois, mutta osa jää ja vakiintuu kieleen käyttöön."
+361,1,Sellaisessa,sellainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+362,2,maailmassa,maailma,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+363,4,opetus,opetus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+364,7,turhalta,turha,"{'Case': 'Abl', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+365,14,päätyä,päätyä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+366,28,.,.,,punct,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+367,3,puhuttelun,puhuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:gobj,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+368,5,näyttää,näyttää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+369,6,varsinkin,varsinkin,,advmod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+370,8,",",",",,punct,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+371,9,sillä,sillä,,mark,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+372,12,oppilaat,oppilas,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+373,13,voivat,voida,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+374,17,puhuttelukulttuurin,puhuttelu#kulttuu,"{'Case': 'Ill', 'Number': 'Sing'}",obl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+375,10,koulusta,koulu,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+376,11,valmistuneet,valmistua,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+377,15,hyvin,hyvin,,advmod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+378,19,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",advcl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+379,16,erilaiseen,erilainen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+380,18,kuin,kuin,,mark,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+381,23,opetettiin,opettaa,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",acl:relcl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+382,20,",",",",,punct,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+383,21,josta,joka,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+384,22,heitä,hän,"{'Case': 'Par', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}",obj,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+385,26,vuotta,vuosi,"{'Case': 'Par', 'Number': 'Sing'}",obl,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+386,24,vielä,vielä,,advmod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+387,25,pari,pari,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+388,27,sitten,sitten,{'AdpType': 'Post'},case,"Sellaisessa maailmassa puhuttelun opetus näyttää varsinkin turhalta, sillä koulusta valmistuneet oppilaat voivat päätyä hyvin erilaiseen puhuttelukulttuurin kuin se, josta heitä opetettiin vielä pari vuotta sitten."
+389,1,Sanoisin,sanoa,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '1', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+390,2,",",",",,punct,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+391,3,että,että,,mark,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+392,5,suosio,suosio,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+393,6,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+394,8,tasa-arvoliikkeen,tasa#arvo#liike,"{'Case': 'Gen', 'Number': 'Sing'}",obl,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+395,4,sinuttelun,sinuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+396,7,tullut,tulla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",ccomp,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+397,10,.,.,,punct,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+398,9,mukaan,mukaan,{'AdpType': 'Post'},case,"Sanoisin, että sinuttelun suosio on tullut tasa-arvoliikkeen mukaan."
+399,1,Ennen,ennen,,advmod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+400,2,nuorimmille,nuori,"{'Case': 'All', 'Degree': 'Cmp', 'Number': 'Sing'}",obl,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+401,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+402,4,yleensä,yleensä,,advmod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+403,6,teititellä,teititellä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+404,8,ihmisiä,ihminen,"{'Case': 'Par', 'Number': 'Plur'}",nsubj,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+405,16,sinutella,sinutella,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+406,23,.,.,,punct,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+407,5,tullut,tulla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+408,7,vanhempia,vanha,"{'Case': 'Par', 'Degree': 'Cmp', 'Number': 'Plur'}",amod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+409,9,",",",",,punct,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+410,10,kun,kun,,mark,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+411,13,ihmiset,ihminen,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+412,14,voivat,voida,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+413,15,vaikka,vaikka,,advmod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+414,17,sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+415,21,teitittelisivät,teititellä,"{'Mood': 'Cnd', 'Number': 'Plur', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+416,11,taas,taas,,fixed,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+417,12,vanhemmat,vanha,"{'Case': 'Nom', 'Degree': 'Cmp', 'Number': 'Plur'}",amod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+418,18,sijaan,sijaan,{'AdpType': 'Post'},case,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+419,19,",",",",,punct,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+420,20,että,että,,mark,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+421,22,takaisin,takaisin,,advmod,"Ennen nuorimmille on yleensä tullut teititellä vanhempia ihmisiä, kun taas vanhemmat ihmiset voivat vaikka sinutella sen sijaan, että teitittelisivät takaisin."
+422,1,Sellainen,sellainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+423,2,puhuttelun,puhuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+424,3,epäsyymetrisyys,epä#syymetrisyys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+425,4,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+426,8,reilulta,reilu,"{'Case': 'Abl', 'Number': 'Sing'}",xcomp,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+427,9,.,.,,punct,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+428,5,näyttänyt,näyttää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+429,6,olevan,olla,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",cop,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+430,7,hyvin,hyvin,,advmod,Sellainen puhuttelun epäsyymetrisyys ei näyttänyt olevan hyvin reilulta.
+431,1,Nykyään,nykyään,,advmod,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+432,3,paljon,paljon,,advmod,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+433,5,tasa-arvosta,tasa#arvo,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+434,12,yleistynyt,yleistyä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",acl:relcl,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+435,14,.,.,,punct,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+436,2,puhutaan,puhua,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+437,4,ihmisten,ihminen,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+438,6,",",",",,punct,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+439,7,minkä,mikä,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Rel'}",obl,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+440,9,sinuttelu,sinuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+441,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+442,11,ehkä,ehkä,,advmod,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+443,13,tosielämässä,tosi#elämä,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+444,8,takia,takia,{'AdpType': 'Post'},case,"Nykyään puhutaan paljon ihmisten tasa-arvosta, minkä takia sinuttelu on ehkä yleistynyt tosielämässä."
+445,1,Toki,toki,,advmod,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+446,2,asiakaspalvelutilanteissa,asiakas#palvelu#tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+447,3,asiat,asia,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj:cop,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+448,4,ovat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+449,5,vähän,vähän,,advmod,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+450,7,.,.,,punct,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+451,6,erilasia,erilasa,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur'}",root,Toki asiakaspalvelutilanteissa asiat ovat vähän erilasia.
+452,1,Länsimaiden,länsi#maa,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+453,5,arvokkain,arvokas,"{'Case': 'Nom', 'Degree': 'Sup', 'Number': 'Sing'}",amod,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+454,2,”,”,,punct,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+455,3,asiakas,asiakas,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+456,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+457,6,”,”,,punct,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+458,7,-palvelukulttuurin,palvelu#kulttuuri,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+459,8,omaksuminen,omaksuminen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+460,11,kasvua,kasvu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+461,14,.,.,,punct,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+462,9,aiheutti,aiheuttaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+463,10,teitittelyn,teitittely,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+464,13,vuorovaikutustilanteissa,vuoro#vaikutus#tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",nmod,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+465,12,asiakaspalvelun,asiakas#palvelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Länsimaiden ”asiakas on arvokkain” -palvelukulttuurin omaksuminen aiheutti teitittelyn kasvua asiakaspalvelun vuorovaikutustilanteissa.
+466,1,Jossain,jokin,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+467,2,työpaikoissa,työ#paikka,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+468,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop:own,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+469,5,sääntöjä,sääntö,"{'Case': 'Par', 'Number': 'Plur'}",nsubj:cop,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+470,12,.,.,,punct,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+471,3,työntekijöillä,työ#tekijä,"{'Case': 'Ade', 'Derivation': 'Ja', 'Number': 'Plur'}",root,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+472,6,",",",",,punct,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+473,7,miten,miten,,advmod,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+474,8,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+475,10,asiakkaiden,asiakas,"{'Case': 'Gen', 'Number': 'Plur'}",obl,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+476,9,puhua,puhua,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",ccomp,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+477,11,kanssa,kanssa,{'AdpType': 'Post'},case,"Jossain työpaikoissa työntekijöillä on sääntöjä, miten pitäisi puhua asiakkaiden kanssa."
+478,1,Erityisesti,erityisesti,{'Derivation': 'Sti'},advmod,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+479,2,suuret,suuri,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+480,3,franchising,franchising,"{'Case': 'Nom', 'Number': 'Sing'}",compound:nn,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+481,4,-myymälät,myymälä,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+482,6,välttää,välttää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+483,8,.,.,,punct,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+484,5,yrittävät,yrittää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+485,7,sinuttelua,sinuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,Erityisesti suuret franchising-myymälät yrittävät välttää sinuttelua.
+486,1,Sen,se,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+487,3,niissä,se,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Dem'}",obl,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+488,5,teitittelyä,teitittely,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+489,15,.,.,,punct,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+490,2,sijaan,sijaan,{'AdpType': 'Post'},case,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+491,4,käytetään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+492,6,tai,tai,,cc,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+493,7,sellaisia,sellainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+494,13,vältetään,välttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",acl:relcl,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+495,8,muotoja,muoto,"{'Case': 'Par', 'Number': 'Plur'}",conj,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+496,9,",",",",,punct,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+497,10,joissa,joka,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Rel'}",obl,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+498,12,puhuttelua,puhuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",obj,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+499,14,kokonaan,kokonaan,,advmod,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+500,11,suoraa,suora,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Sen sijaan niissä käytetään teitittelyä tai sellaisia muotoja, joissa suoraa puhuttelua vältetään kokonaan."
+501,1,Toisaalta,toisaalta,,advmod,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+502,3,käyttöäkin,käyttö,"{'Case': 'Par', 'Clitic': 'Kin', 'Number': 'Sing'}",nsubj:cop,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+503,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+504,5,runsaasti,runsaasti,{'Derivation': 'Sti'},advmod,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+505,6,asiakaspalvelun,asiakas#palvelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+506,8,.,.,,punct,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+507,2,sinuttelun,sinuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",nmod:poss,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+508,7,tilanteissä,tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",root,Toisaalta sinuttelun käyttöäkin on runsaasti asiakaspalvelun tilanteissä.
+509,1,Sinuttelulla,sinuttelu,"{'Case': 'Ade', 'Derivation': 'U', 'Number': 'Sing'}",root,Sinuttelulla toki on oma tehtävänsä.
+510,2,toki,toki,,advmod,Sinuttelulla toki on oma tehtävänsä.
+511,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Sinuttelulla toki on oma tehtävänsä.
+512,5,tehtävänsä,tehtävä,"{'Case': 'Nom', 'Number': 'Sing', 'Person[psor]': '3'}",nsubj:cop,Sinuttelulla toki on oma tehtävänsä.
+513,6,.,.,,punct,Sinuttelulla toki on oma tehtävänsä.
+514,4,oma,oma,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Sinuttelulla toki on oma tehtävänsä.
+515,1,Aika,aika,,advmod,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+516,2,usein,usein,,advmod,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+517,3,kaduilla,katu,"{'Case': 'Ade', 'Number': 'Plur'}",obl,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+518,4,rahaa,raha,"{'Case': 'Par', 'Number': 'Sing'}",obj,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+519,6,organisaatioille,organisaatio,"{'Case': 'All', 'Number': 'Plur'}",obl,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+520,5,erilaisille,erilainen,"{'Case': 'All', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+521,7,keräävillä,kerätä,"{'Case': 'Ade', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+522,9,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop:own,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+523,10,tapa,tapa,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+524,13,.,.,,punct,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+525,8,ihmisillä,ihminen,"{'Case': 'Ade', 'Number': 'Plur'}",root,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+526,11,sinuttelua,sinuttelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Sing'}",acl,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+527,12,ohikulkijoita,ohikulkija,"{'Case': 'Par', 'Derivation': 'Ja', 'Number': 'Plur'}",obj,Aika usein kaduilla rahaa erilaisille organisaatioille keräävillä ihmisillä on tapa sinuttelua ohikulkijoita.
+528,1,Sinuttelu,sinuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+529,2,niin,niin,,advmod,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+530,5,tunnelman,tunnelma,"{'Case': 'Gen', 'Number': 'Sing'}",obj,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+531,21,.,.,,punct,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+532,3,kuin,kuin,,fixed,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+533,4,luo,luoda,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+534,6,",",",",,punct,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+535,7,että,että,,mark,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+536,10,tuttavan,tuttava,"{'Case': 'Gen', 'Number': 'Sing'}",obl,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+537,14,vaikeampaa,vaikea,"{'Case': 'Par', 'Degree': 'Cmp', 'Number': 'Sing'}",conj,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+538,8,puhut,puhua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+539,9,jonkun,joku,"{'Case': 'Gen', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+540,11,kanssa,kanssa,{'AdpType': 'Post'},case,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+541,12,ja,ja,,cc,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+542,13,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+543,15,sanoa,sanoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",csubj:cop,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+544,16,”,”,,punct,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+545,17,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+546,18,”,”,,punct,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+547,19,hänen,hän,"{'Case': 'Gen', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}",nmod:poss,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+548,20,pyyntöihin,pyyntö,"{'Case': 'Ill', 'Number': 'Plur'}",obl,"Sinuttelu niin kuin luo tunnelman, että puhut jonkun tuttavan kanssa ja on vaikeampaa sanoa ”ei” hänen pyyntöihin."
+549,1,Vaikka,vaikka,,mark,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+550,3,ihminen,ihminen,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+551,6,teititelty,teititellä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",xcomp,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+552,7,",",",",,punct,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+553,2,harva,harva,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+554,4,haluaisi,haluta,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+555,8,sinuttelu,sinuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+556,9,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+557,11,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+558,13,kiusalliselta,kiusallinen,"{'Case': 'Abl', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",xcomp,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+559,14,.,.,,punct,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+560,5,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",aux:pass,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+561,10,sellaisissa,sellainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+562,12,tuntua,tuntua,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Vaikka harva ihminen haluaisi olla teititelty, sinuttelu voi sellaisissa tapauksissa tuntua kiusalliselta."
+563,1,Tilanteiden,tilanne,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Tilanteiden sekavuus on ymmärrettävä.
+564,2,sekavuus,sekavuus,"{'Case': 'Nom', 'Derivation': 'Vs', 'Number': 'Sing'}",obj,Tilanteiden sekavuus on ymmärrettävä.
+565,3,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,Tilanteiden sekavuus on ymmärrettävä.
+566,5,.,.,,punct,Tilanteiden sekavuus on ymmärrettävä.
+567,4,ymmärrettävä,ymmärtää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Pass'}",root,Tilanteiden sekavuus on ymmärrettävä.
+568,1,Selkeiden,selkeä,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+569,2,rajojen,raja,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:gobj,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+570,3,puutteessa,puute,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+571,4,puhuttelu,puhuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj:cop,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+572,7,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+573,8,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",cop,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+574,10,.,.,,punct,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+575,5,tietyissä,tietty,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+576,6,tilanteissa,tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",nmod,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+577,9,hämmentävä,hämmentävä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing'}",root,Selkeiden rajojen puutteessa puhuttelu tietyissä tilanteissa voi olla hämmentävä.
+578,1,Voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '0', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+579,2,hyvinkin,hyvin,{'Clitic': 'Kin'},advmod,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+580,4,niin,niin,,advmod,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+581,14,.,.,,punct,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+582,3,käydä,käydä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+583,5,",",",",,punct,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+584,6,että,että,,mark,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+585,8,ihminen,ihminen,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+586,12,käytön,käyttö,"{'Case': 'Gen', 'Number': 'Sing'}",obl,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+587,7,joku,joku,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+588,9,loukkaantuu,loukkaantua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",ccomp,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+589,10,väärän,väärä,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+590,11,puhuttelumuodon,puhuttelu#muoto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+591,13,takia,takia,{'AdpType': 'Post'},case,"Voi hyvinkin käydä niin, että joku ihminen loukkaantuu väärän puhuttelumuodon käytön takia."
+592,1,Mutta,mutta,,cc,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+593,3,asiaa,asia,"{'Case': 'Par', 'Number': 'Sing'}",nsubj:cop,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+594,4,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+595,6,:,:,,punct,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+596,9,muuttuvat,muuttua,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+597,18,.,.,,punct,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+598,2,pari,pari,"{'Case': 'Nom', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+599,5,selvää,selvä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",root,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+600,7,suositut,suosittu,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+601,8,puhuttelumuodot,puhuttelu#muoto,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+602,10,nopeasti,nopeasti,{'Derivation': 'Sti'},advmod,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+603,12,vaihtuvat,vaihtua,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+604,11,ja,ja,,cc,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+605,17,riippuen,riippua,"{'Case': 'Ins', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+606,13,paljon,paljon,,advmod,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+607,16,keskustelukumppanin,keskustelu#kumppani,"{'Case': 'Gen', 'Number': 'Sing'}",conj,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+608,14,tilanteen,tilanne,"{'Case': 'Gen', 'Number': 'Sing'}",nsubj,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+609,15,ja,ja,,cc,Mutta pari asiaa on selvää: suositut puhuttelumuodot muuttuvat nopeasti ja vaihtuvat paljon tilanteen ja keskustelukumppanin riippuen.
+610,1,Nämä,tämä,"{'Case': 'Nom', 'Number': 'Plur', 'PronType': 'Dem'}",det,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+611,2,asiat,asia,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+612,4,puhuttelun,puhuttelu,"{'Case': 'Gen', 'Derivation': 'U', 'Number': 'Sing'}",obj,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+613,7,mahdottomalta,mahdoton,"{'Case': 'Abl', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Sing'}",xcomp,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+614,8,.,.,,punct,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+615,3,tekevät,tehdä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+616,5,oppimiseen,oppiminen,"{'Case': 'Ill', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+617,6,lähes,lähes,,advmod,Nämä asiat tekevät puhuttelun oppimiseen lähes mahdottomalta.
+618,1,On,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+619,2,paljon,paljon,,advmod,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+620,7,asioitta,asia,"{'Case': 'Par', 'Number': 'Plur'}",nsubj:cop,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+621,22,.,.,,punct,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+622,3,tärkeitä,tärkeä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur'}",root,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+623,4,sosiaalisiin,sosiaalinen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+624,5,käytäntöihin,käytäntö,"{'Case': 'Ill', 'Number': 'Plur'}",obl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+625,6,liittyviä,liittyä,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+626,11,kiinnittää,kiinnittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",acl:relcl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+627,8,",",",",,punct,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+628,9,joihin,joka,"{'Case': 'Ill', 'Number': 'Plur', 'PronType': 'Rel'}",obl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+629,10,pitäisi,pitää,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '0', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+630,12,huomiotta,huomio,"{'Case': 'Abe', 'Number': 'Sing'}",obl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+631,13,koulussa,koulu,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+632,14,:,:,,punct,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+633,15,kiusaamisen,kiusaaminen,"{'Case': 'Gen', 'Derivation': 'Minen', 'Number': 'Sing'}",nmod:gobj,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+634,18,toleranssi,toleranssi,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+635,20,tasa-arvo,tasa#arvo,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+636,21,jne,jne.,{'Abbr': 'Yes'},advmod,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+637,16,ehkäisy,ehkäisy,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",appos,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+638,17,",",",",,punct,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+639,19,",",",",,punct,"On paljon tärkeitä sosiaalisiin käytäntöihin liittyviä asioitta, joihin pitäisi kiinnittää huomiotta koulussa: kiusaamisen ehkäisy, toleranssi, tasa-arvo jne."
+640,1,Puhuttelu,puhuttelu,"{'Case': 'Nom', 'Derivation': 'U', 'Number': 'Sing'}",nsubj:cop,Puhuttelu ei ole yksi niistä.
+641,2,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Puhuttelu ei ole yksi niistä.
+642,3,ole,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",cop,Puhuttelu ei ole yksi niistä.
+643,5,niistä,se,"{'Case': 'Ela', 'Number': 'Plur', 'PronType': 'Dem'}",nmod,Puhuttelu ei ole yksi niistä.
+644,6,.,.,,punct,Puhuttelu ei ole yksi niistä.
+645,4,yksi,yksi,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Ind'}",root,Puhuttelu ei ole yksi niistä.
+646,1,Tärkeintä,tärkeä,"{'Case': 'Par', 'Degree': 'Sup', 'Number': 'Sing'}",root,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+647,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+648,5,puhujana,puhuja,"{'Case': 'Ess', 'Derivation': 'Ja', 'Number': 'Sing'}",csubj:cop,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+649,7,pyyttä,pyyttää,"{'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+650,19,.,.,,punct,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+651,3,olla,olla,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",cop,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+652,4,hyvätahtoisena,hyvä#tahtoinen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+653,6,",",",",,punct,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+654,10,loukkauksesta,loukkaus,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+655,15,tapahdu,tapahtua,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",advcl,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+656,8,anteeksi,anteeksi,,advmod,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+657,9,aiheuttamasta,aiheuttaa,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Agt', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+658,11,",",",",,punct,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+659,12,jos,jos,,mark,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+660,13,näin,näin,,advmod,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+661,14,vahingossa,vahinko,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+662,17,jatkaa,jatkaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+663,16,ja,ja,,cc,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."
+664,18,elämää,elämä,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Tärkeintä on olla hyvätahtoisena puhujana, pyyttä anteeksi aiheuttamasta loukkauksesta, jos näin vahingossa tapahdu ja jatkaa elämää."

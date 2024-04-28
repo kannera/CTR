@@ -1,0 +1,570 @@
+id,sent_id,form,lemma,case,deprel,sentence
+0,1,Hakulisen,Hakulinen,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+1,2,ja,ja,,cc,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+2,3,Keevallikun,kee#vallikku,"{'Case': 'Gen', 'Number': 'Sing'}",conj,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+3,4,artikkelissa,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+4,7,küll,küllo,"{'Case': 'Nom', 'Number': 'Sing'}",obj,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+5,17,.,.,,punct,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+6,5,tutkittiin,tutkia,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+7,6,sanojen,sana,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+8,10,käyttöä,käyttö,"{'Case': 'Par', 'Number': 'Sing'}",conj,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+9,8,ja,ja,,cc,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+10,9,kyllä,kyllä,,advmod,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+11,16,lausumissä,lausuma,"{'Case': 'Ine', 'Number': 'Plur'}",nmod,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+12,11,viron,viro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+13,13,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+14,12,ja,ja,,cc,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+15,14,kielen,kieli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+16,15,kielteisissä,kielteinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,Hakulisen ja Keevallikun artikkelissa tutkittiin sanojen küll ja kyllä käyttöä viron ja suomen kielen kielteisissä lausumissä.
+17,1,Tutkimuksen,tutkimus,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+18,3,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+19,4,siis,siis,,advmod,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+20,5,vuorot,vuoro,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj:cop,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+21,17,.,.,,punct,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+22,2,kohteena,kohde,"{'Case': 'Ess', 'Number': 'Sing'}",root,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+23,6,",",",",,punct,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+24,7,joissa,joka,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Rel'}",obl,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+25,8,kyllä,kyllä,,advmod,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+26,13,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+27,16,lausumassa,lausua,"{'Case': 'Ine', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+28,9,/,/,,punct,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+29,10,küll,küllo,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+30,12,kieltosana,kielto#sa,"{'Case': 'Ess', 'Number': 'Sing'}",conj,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+31,11,ja,ja,,cc,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+32,14,esiintyvät,esiintyä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl:relcl,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+33,15,samassa,sama,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",obl,"Tutkimuksen kohteena oli siis vuorot, joissa kyllä/ küll ja kieltosana ei esiintyvät samassa lausumassa."
+34,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+35,3,mukaan,mukaan,{'AdpType': 'Post'},case,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+36,2,kirjoittajien,kirjoittaja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Plur'}",obl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+37,4,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+38,19,tutkimuskysymyksen,tutkimus#kysymys,"{'Case': 'Gen', 'Number': 'Sing'}",obj,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+39,30,?,?,,punct,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+40,5,",",",",,punct,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+41,6,että,että,,mark,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+42,10,kyllä-sana,kyllä#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+43,11,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+44,12,suomessa,Suomi,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+45,15,kieltolauseessa,kielto#lause,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+46,16,",",",",,punct,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+47,7,myönteisenä,myönteinen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+48,8,vastauspartikkelina,vastaus#partikkeli,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+49,9,käytetty,käyttää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+50,13,esiintyä,esiintyä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",ccomp,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+51,14,myös,myös,,advmod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+52,17,herätti,herättää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+53,18,aidon,aito,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+54,20,:,:,,punct,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+55,23,lausumassa,lausua,"{'Case': 'Ine', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",parataxis,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+56,21,voidaanko,voida,"{'Clitic': 'Ko', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",aux,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+57,22,samassa,sama,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",obl,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+58,24,näin,näin,,advmod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+59,26,esittää,esittää,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+60,25,ollen,ollen,,fixed,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+61,27,polaarisesti,polaarisesti,{'Derivation': 'Sti'},advmod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+62,28,vastakkaiset,vastakkainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+63,29,näkökannat,näkö#kanta,"{'Case': 'Nom', 'Number': 'Plur'}",obj,"Artikkelin kirjoittajien mukaan se, että myönteisenä vastauspartikkelina käytetty kyllä-sana voi suomessa esiintyä myös kieltolauseessa, herätti aidon tutkimuskysymyksen: voidaanko samassa lausumassa näin ollen esittää polaarisesti vastakkaiset näkökannat?"
+64,1,Kuten,kuten,,mark,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+65,2,artikkelista,artikkeli,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+66,4,",",",",,punct,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+67,3,ymmärsin,ymmärtää,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+68,10,kyllä,kyllä,,advmod,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+69,12,.,.,,punct,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+70,5,tietyissä,tietty,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Plur'}",amod,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+71,6,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+72,7,vastaus,vastaus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+73,8,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+74,11,“,“,,punct,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+75,9,„,„,,root,"Kuten artikkelista ymmärsin, tietyissä tapauksissa vastaus olisi „kyllä“."
+76,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+77,2,Suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+78,3,aineistona,aineisto,"{'Case': 'Ess', 'Number': 'Sing'}",obl,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+79,8,keskusteluja,keskustelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Plur'}",obj,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+80,9,.,.,,punct,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+81,4,käytettiin,käyttää,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+82,5,spontaaneissa,spontaani,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+83,6,puhetilanteissa,puhe#tilanne,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+84,7,käytettyjä,käyttää,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Artikkelin Suomen aineistona käytettiin spontaaneissa puhetilanteissa käytettyjä keskusteluja.
+85,1,Aineisto,aineisto,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+86,2,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+87,14,keskusteluarkistosta,keskustelu#arkisto,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+88,22,keskusteluista,keskustelu,"{'Case': 'Ela', 'Derivation': 'U', 'Number': 'Plur'}",nmod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+89,28,.,.,,punct,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+90,3,peräisin,peräisin,,root,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+91,4,Helsingin,Helsinki,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+92,5,yliopiston,yli#opisto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+93,6,Suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+94,7,",",",",,punct,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+95,8,suomalais-ugrilaisten,suomalainen#ugrilainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+96,9,kielten,kieli,"{'Case': 'Gen', 'Number': 'Plur'}",conj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+97,12,kielten,kieli,"{'Case': 'Gen', 'Number': 'Plur'}",conj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+98,10,ja,ja,,cc,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+99,11,pohjoismaisten,pohjoinen#mainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+100,13,laitoksen,laitos,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+101,15,vuodesta,vuosi,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+102,16,1988,1988,{'NumType': 'Card'},nummod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+103,17,alkaen,alkaen,{'AdpType': 'Post'},case,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+104,18,tallennetuista,tallentaa,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+105,19,puhelin-,puhelin,"{'Case': 'Nom', 'Number': 'Sing'}",amod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+106,27,tilanteista,tilanne,"{'Case': 'Ela', 'Number': 'Plur'}",conj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+107,20,ja,ja,,cc,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+108,21,kasvokkaista,kasvokkainen,"{'Case': 'Ela', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",conj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+109,23,sekä,sekä,,cc:preconj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+110,26,institutionaalisista,institutionaalinen,"{'Case': 'Ela', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",conj,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+111,24,arki-,arki,"{'Case': 'Nom', 'Number': 'Sing'}",amod,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+112,25,että,että,,cc,"Aineisto on peräisin Helsingin yliopiston Suomen, suomalais-ugrilaisten kielten ja pohjoismaisten kielten laitoksen keskusteluarkistosta vuodesta 1988 alkaen tallennetuista puhelin- ja kasvokkaista keskusteluista sekä arki- että institutionaalisista tilanteista."
+113,1,Viron,Viro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+114,2,aineisto,aineisto,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+115,3,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+116,4,osin,osa,"{'Case': 'Ins', 'Number': 'Plur'}",obl,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+117,14,kokoelmasta,kokoelma,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+118,15,;,;,,punct,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+119,17,kuului,kuulua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",parataxis,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+120,27,.,.,,punct,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+121,5,peräisin,peräisin,,root,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+122,6,yhden,yksi,"{'Case': 'Gen', 'Number': 'Sing', 'NumType': 'Card'}",nummod,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+123,8,Leelo,Leelo,"{'Case': 'Nom', 'Number': 'Sing'}",appos,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+124,7,kirjoittajan,kirjoittaja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nsubj,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+125,10,vuodesta,vuosi,"{'Case': 'Ela', 'Number': 'Sing'}",obl,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+126,9,Keevallikun,kee#vallikku,"{'Case': 'Gen', 'Number': 'Sing'}",flat:name,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+127,11,1998,1998,{'NumType': 'Card'},nummod,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+128,12,alkaen,alkaen,{'AdpType': 'Post'},case,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+129,13,luomasta,luoda,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Agt', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+130,16,siihen,se,"{'Case': 'Ill', 'Number': 'Sing', 'PronType': 'Dem'}",obl,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+131,18,puhelinkeskusteluja,puhelin#keskustelu,"{'Case': 'Par', 'Derivation': 'U', 'Number': 'Plur'}",nsubj,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+132,19,",",",",,punct,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+133,20,sekä,sekä,,cc:preconj,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+134,21,institutionaalisia,institutionaalinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+135,23,perheenjäsenten,perheen#jäsen,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+136,22,että,että,,cc,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+137,25,ystävien,ystävä,"{'Case': 'Gen', 'Number': 'Plur'}",conj,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+138,24,ja,ja,,cc,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+139,26,välisiä,välinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",conj,"Viron aineisto oli osin peräisin yhden kirjoittajan Leelo Keevallikun vuodesta 1998 alkaen luomasta kokoelmasta; siihen kuului puhelinkeskusteluja , sekä institutionaalisia että perheenjäsenten ja ystävien välisiä."
+140,1,Kasvokkaiskeskusteluissa,kasvokkainen#keskustelu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Plur'}",root,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+141,2,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+142,5,arkitilanteita,arki#tilanne,"{'Case': 'Par', 'Number': 'Plur'}",nsubj:cop,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+143,6,;,;,,punct,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+144,9,käytetty,käyttää,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",parataxis,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+145,18,.,.,,punct,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+146,3,myös,myös,,advmod,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+147,4,videoituja,videoida,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Plur', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+148,7,lisäksi,lisäksi,,advmod,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+149,8,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux:pass,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+150,15,aineistoa,aineisto,"{'Case': 'Par', 'Number': 'Sing'}",obj,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+151,17,tilanteista,tilanne,"{'Case': 'Ela', 'Number': 'Plur'}",obl,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+152,10,Tarton,Tarto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+153,11,yliopistossa,yli#opisto,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+154,12,koottua,koota,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+155,14,viron,viro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+156,13,puhutun,puhua,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+157,16,useanlaisista,useanlainen,"{'Case': 'Ela', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,Kasvokkaiskeskusteluissa oli myös videoituja arkitilanteita; lisäksi oli käytetty Tarton yliopistossa koottua puhutun viron aineistoa useanlaisista tilanteista.
+158,1,Sanojen,sana,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:gsubj,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+159,2,esiintymistä,esiintyminen,"{'Case': 'Par', 'Derivation': 'Minen', 'Number': 'Sing'}",obj,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+160,5,muoteissa,muotti,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+161,6,.,.,,punct,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+162,3,tutkittiin,tutkia,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+163,4,erilaisissa,erilainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,Sanojen esiintymistä tutkittiin erilaisissa muoteissa.
+164,1,1.,1.,{'NumType': 'Ord'},root,1.
+165,1,Samanlainen,samanlainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+166,2,myönnyttelevä,myönnytellä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+167,5,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",conj,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+168,6,etujäsenenä,etu#jäsen,"{'Case': 'Ess', 'Number': 'Sing'}",nmod,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+169,13,.,.,,punct,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+170,3,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",root,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+171,4,eli,eli,,cc,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+172,7,sekä,sekä,,cc,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+173,8,myönnyttelevänä,myönnytellä,"{'Case': 'Ess', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Pres', 'VerbForm': 'Part', 'Voice': 'Act'}",acl,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+174,12,lausumaan,lausua,"{'Case': 'Ill', 'InfForm': '3', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",acl,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+175,9,kommentina,kommenti,"{'Case': 'Ess', 'Number': 'Sing'}",conj,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+176,10,omaan,oma,"{'Case': 'Ill', 'Degree': 'Pos', 'Number': 'Sing'}",amod,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+177,11,aiempaan,aiempi,"{'Case': 'Ill', 'Degree': 'Pos', 'Number': 'Sing'}",obl,Samanlainen myönnyttelevä käyttö eli käyttö etujäsenenä sekä myönnyttelevänä kommentina omaan aiempaan lausumaan.
+178,1,Esim,esim,,root,Esim.
+179,2,.,.,,punct,Esim.
+180,1,“,“,,punct,“Voita en o kyllä syöny enää“.
+181,2,Voita,voita,,discourse,“Voita en o kyllä syöny enää“.
+182,3,en,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,“Voita en o kyllä syöny enää“.
+183,4,o,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Style': 'Coll', 'Tense': 'Pres', 'VerbForm': 'Fin'}",aux,“Voita en o kyllä syöny enää“.
+184,5,kyllä,kyllä,,advmod,“Voita en o kyllä syöny enää“.
+185,7,enää,enää,,advmod,“Voita en o kyllä syöny enää“.
+186,8,“,“,,punct,“Voita en o kyllä syöny enää“.
+187,9,.,.,,punct,“Voita en o kyllä syöny enää“.
+188,6,syöny,syödä,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'Style': 'Coll', 'VerbForm': 'Part', 'Voice': 'Act'}",root,“Voita en o kyllä syöny enää“.
+189,1,Tai,tai,,cc,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+190,2,“,“,,punct,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+191,3,Ega,Ega,{'Foreign': 'Yes'},nsubj,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+192,6,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+193,8,küll,källä,"{'InfForm': '1', 'Number': 'Sing', 'Style': 'Coll', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+194,11,“,“,,punct,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+195,12,.,.,,punct,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+196,4,ma,ma,{'Foreign': 'Yes'},flat:foreign,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+197,5,lugeda,lugeda,"{'Case': 'Par', 'Number': 'Sing', 'Style': 'Coll'}",flat:foreign,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+198,7,viitsi,viitsiä,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+199,9,eriti,erit,"{'Case': 'Par', 'Number': 'Sing', 'Style': 'Coll'}",obj,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+200,10,midagi,mida,"{'Case': 'Ine', 'Number': 'Sing', 'Style': 'Coll'}",obl,Tai “Ega ma lugeda ei viitsi küll eriti midagi“.
+201,1,2.,2.,{'NumType': 'Ord'},nmod,2. Samanlainen käyttö episteemisyyden merkkinä.
+202,2,Samanlainen,samanlainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Sing'}",amod,2. Samanlainen käyttö episteemisyyden merkkinä.
+203,5,merkkinä,merkki,"{'Case': 'Ess', 'Number': 'Sing'}",nmod,2. Samanlainen käyttö episteemisyyden merkkinä.
+204,6,.,.,,punct,2. Samanlainen käyttö episteemisyyden merkkinä.
+205,3,käyttö,käyttö,"{'Case': 'Nom', 'Number': 'Sing'}",root,2. Samanlainen käyttö episteemisyyden merkkinä.
+206,4,episteemisyyden,episteemisyys,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,2. Samanlainen käyttö episteemisyyden merkkinä.
+207,1,Näissä,tämä,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+208,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+209,4,kielessä,kieli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+210,5,kyllä,kyllä,,advmod,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+211,7,küll-sana,küll#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+212,8,voi,voida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+213,11,partikkelina,partikkeli,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+214,14,usein,usein,,advmod,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+215,17,harvoin,harvoin,,advmod,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+216,18,.,.,,punct,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+217,3,kummassakin,kumpikin,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+218,6,ja,ja,,cc,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+219,9,esiintyä,esiintyä,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+220,10,vuoroloppuisena,vuoro#loppuinen,"{'Case': 'Ess', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+221,13,suomessa,Suomi,"{'Case': 'Ine', 'Number': 'Sing'}",nmod,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+222,16,virossa,viro,"{'Case': 'Ine', 'Number': 'Sing'}",appos,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+223,12,",",",",,punct,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+224,15,",",",",,punct,"Näissä tapauksissa kummassakin kielessä kyllä ja küll-sana voi esiintyä vuoroloppuisena partikkelina, suomessa usein, virossa harvoin."
+225,1,Esim.,Esim.,{'Abbr': 'Yes'},advmod,Esim. “Tunnetko naapuri Katjan?
+226,2,“,“,,punct,Esim. “Tunnetko naapuri Katjan?
+227,5,Katjan,Katja,"{'Case': 'Gen', 'Number': 'Sing'}",obj,Esim. “Tunnetko naapuri Katjan?
+228,6,?,?,,punct,Esim. “Tunnetko naapuri Katjan?
+229,3,Tunnetko,tuntea,"{'Clitic': 'Ko', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Esim. “Tunnetko naapuri Katjan?
+230,4,naapuri,naapuri,"{'Case': 'Nom', 'Number': 'Sing'}",compound:nn,Esim. “Tunnetko naapuri Katjan?
+231,1,En,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,En tunne kyllä“.
+232,3,kyllä,kyllä,,advmod,En tunne kyllä“.
+233,4,“,“,,punct,En tunne kyllä“.
+234,5,.,.,,punct,En tunne kyllä“.
+235,2,tunne,tuntea,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,En tunne kyllä“.
+236,1,Tai,tai,,cc,Tai “Pidid sa täna kuhugi minema?
+237,2,“,“,,punct,Tai “Pidid sa täna kuhugi minema?
+238,4,sa,sa,{'Foreign': 'Yes'},flat:foreign,Tai “Pidid sa täna kuhugi minema?
+239,5,täna,tämä,"{'Case': 'Ine', 'Number': 'Sing', 'Style': 'Coll'}",flat:foreign,Tai “Pidid sa täna kuhugi minema?
+240,7,minema,minema,"{'Case': 'Nom', 'Number': 'Sing'}",vocative,Tai “Pidid sa täna kuhugi minema?
+241,8,?,?,,punct,Tai “Pidid sa täna kuhugi minema?
+242,3,Pidid,pitkiä,{'Style': 'Coll'},root,Tai “Pidid sa täna kuhugi minema?
+243,6,kuhugi,kuhugi,"{'Case': 'Nom', 'Number': 'Sing'}",compound:nn,Tai “Pidid sa täna kuhugi minema?
+244,1,Ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Ei tule nagu meelde küll“.
+245,3,nagu,nagu,{'Foreign': 'Yes'},nsubj,Ei tule nagu meelde küll“.
+246,7,.,.,,punct,Ei tule nagu meelde küll“.
+247,2,tule,tulla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,Ei tule nagu meelde küll“.
+248,4,meelde,meelde,{'Foreign': 'Yes'},flat:foreign,Ei tule nagu meelde küll“.
+249,5,küll,küll,{'Foreign': 'Yes'},flat:foreign,Ei tule nagu meelde küll“.
+250,6,“,“,,punct,Ei tule nagu meelde küll“.
+251,1,3.,3.,{'NumType': 'Ord'},root,3.
+252,1,Vastakkainen,vastakkainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+253,4,suom,suom,{'Foreign': 'Yes'},conj,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+254,2,sanajärjestys,sana#järjestys,"{'Case': 'Nom', 'Number': 'Sing'}",root,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+255,3,eli,eli,,cc,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+256,5,ei/en,ei/en,{'Foreign': 'Yes'},flat:name,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+257,6,+,+,,punct,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+258,7,kyl,kyllä,{'Style': 'Coll'},advmod,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+259,9,vir.,vir.,{'Foreign': 'Yes'},appos,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+260,12,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+261,8,;,;,,punct,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+262,10,küll,küll,{'Foreign': 'Yes'},flat:foreign,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+263,11,+,+,,punct,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+264,13,.,.,,punct,Vastakkainen sanajärjestys eli suom ei/en + kyl; vir. küll + ei.
+265,1,Sellaisissa,sellainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+266,2,tapauksisa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+267,6,sanoja,sana,"{'Case': 'Par', 'Number': 'Plur'}",obj,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+268,8,vastauksena,vastaus,"{'Case': 'Ess', 'Number': 'Sing'}",obl,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+269,14,.,.,,punct,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+270,3,kyllä,kyllä,,advmod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+271,5,küll,knla,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Plur'}",amod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+272,4,/,/,,punct,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+273,7,käytettään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+274,9,polaariseen,polaarinen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+275,13,väitteeseen,väite,"{'Case': 'Ill', 'Number': 'Sing'}",conj,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+276,10,kysymykseen,kysymys,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+277,11,tai,tai,,cc,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+278,12,myönteiseen,myönteinen,"{'Case': 'Ill', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Sellaisissa tapauksisa kyllä/küll sanoja käytettään vastauksena polaariseen kysymykseen tai myönteiseen väitteeseen.
+279,1,Esim.,Esim.,{'Abbr': 'Yes'},advmod,Esim. “Jännittääkö sinua?
+280,2,“,“,,punct,Esim. “Jännittääkö sinua?
+281,4,sinua,sinä,"{'Case': 'Par', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}",obj,Esim. “Jännittääkö sinua?
+282,5,?,?,,punct,Esim. “Jännittääkö sinua?
+283,3,Jännittääkö,jännittää,"{'Clitic': 'Ko', 'Mood': 'Ind', 'Number': 'Plur', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Esim. “Jännittääkö sinua?
+284,1,Ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Ei minua kyllä jännitä“.
+285,2,minua,minä,"{'Case': 'Par', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obj,Ei minua kyllä jännitä“.
+286,3,kyllä,kyllä,,advmod,Ei minua kyllä jännitä“.
+287,5,“,“,,punct,Ei minua kyllä jännitä“.
+288,6,.,.,,punct,Ei minua kyllä jännitä“.
+289,4,jännitä,jännittää,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,Ei minua kyllä jännitä“.
+290,1,Tai,tai,,cc,Tai “En kyllä muista“.
+291,2,“,“,,punct,Tai “En kyllä muista“.
+292,3,En,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Tai “En kyllä muista“.
+293,4,kyllä,kyllä,,advmod,Tai “En kyllä muista“.
+294,6,“,“,,punct,Tai “En kyllä muista“.
+295,7,.,.,,punct,Tai “En kyllä muista“.
+296,5,muista,muistaa,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,Tai “En kyllä muista“.
+297,1,Myös,myös,,advmod,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+298,2,virossa,viro,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+299,3,küll-sanan,küll#sana,"{'Case': 'Gen', 'Number': 'Sing'}",obj,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+300,4,sisältävät,sisältää,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",acl,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+301,5,kielteiset,kielteinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+302,6,vastaslausumat,vastas#lausuma,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj:cop,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+303,7,ovat,olla,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+304,18,kieltosanan,kielto#sana,"{'Case': 'Gen', 'Number': 'Sing'}",conj,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+305,20,.,.,,punct,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+306,8,mahdollisia,mahdollinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",root,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+307,9,",",",",,punct,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+308,11,erona,ero,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+309,15,küll,küllo,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+310,16,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+311,17,aina,aina,,advmod,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+312,19,edellä,edellä,{'AdpType': 'Post'},case,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+313,10,pienenä,pieni,"{'Case': 'Ess', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+314,13,kielestä,kieli,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+315,12,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+316,14,niissä,se,"{'Case': 'Ine', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Myös virossa küll-sanan sisältävät kielteiset vastaslausumat ovat mahdollisia, pienenä erona suomen kielestä niissä küll on aina kieltosanan edellä."
+317,1,Esim.,Esim.,{'Abbr': 'Yes'},advmod,Esim. “Kas Jaakko on siin?
+318,3,Kas,kassa,{'Style': 'Coll'},discourse,Esim. “Kas Jaakko on siin?
+319,4,Jaakko,Jaakko,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,Esim. “Kas Jaakko on siin?
+320,5,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Esim. “Kas Jaakko on siin?
+321,7,?,?,,punct,Esim. “Kas Jaakko on siin?
+322,2,“,“,,punct,Esim. “Kas Jaakko on siin?
+323,6,siin,siinä,{'Style': 'Coll'},root,Esim. “Kas Jaakko on siin?
+324,1,Jaakkot,jaakkaa,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Style': 'Coll', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Jaakkot siin küll ei ole“.
+325,2,siin,se,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Dem', 'Style': 'Coll'}",obl,Jaakkot siin küll ei ole“.
+326,3,küll,kilo#metri,"{'Case': 'Par', 'Number': 'Sing', 'Style': 'Coll'}",obj,Jaakkot siin küll ei ole“.
+327,4,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,Jaakkot siin küll ei ole“.
+328,5,ole,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",aux,Jaakkot siin küll ei ole“.
+329,6,“,“,,punct,Jaakkot siin küll ei ole“.
+330,7,.,.,,punct,Jaakkot siin küll ei ole“.
+331,1,Kuten,kuten,,mark,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+332,2,kirjoittajat,kirjoittaja,"{'Case': 'Nom', 'Derivation': 'Ja', 'Number': 'Plur'}",nsubj,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+333,4,",",",",,punct,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+334,3,toteavat,todeta,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+335,14,",",",",,punct,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+336,15,en,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+337,5,yksinkertainen,yksin#kertainen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+338,6,vastaus,vastaus,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+339,7,olisi,olla,"{'Mood': 'Cnd', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+340,8,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+341,13,jännitä,jännittää,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",conj,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+342,16,muista,muistaa,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",conj,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+343,17,.,.,,punct,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+344,9,ole,olla,"{'Connegative': 'Yes', 'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}",root,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+345,10,tai,tai,,cc,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+346,11,minua,minä,"{'Case': 'Par', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obj,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+347,12,ei,ei,"{'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,"Kuten kirjoittajat toteavat, yksinkertainen vastaus olisi ei ole tai minua ei jännitä, en muista."
+348,1,Sellaisissa,sellainen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",amod,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+349,2,tapauksissa,tapaus,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+350,3,kyllä,kyllä,,advmod,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+351,12,aiheeton,aiheeton,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Sing'}",ccomp,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+352,16,.,.,,punct,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+353,4,/,/,,punct,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+354,5,küll-sana,küll#sa,"{'Case': 'Ess', 'Number': 'Sing'}",conj,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+355,6,implikoi,implikoida,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+356,7,",",",",,punct,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+357,8,että,että,,mark,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+358,10,kysymys,kysymys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+359,11,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+360,15,sopimaton,sopimaton,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Ton', 'Number': 'Sing'}",conj,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+361,9,koko,koko,,amod,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+362,13,tai,tai,,cc,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+363,14,tilanteeseen,tilanne,"{'Case': 'Ill', 'Number': 'Sing'}",nmod,"Sellaisissa tapauksissa kyllä/küll-sana implikoi, että koko kysymys on aiheeton tai tilanteeseen sopimaton."
+364,1,Artikkelissä,artikkeli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+365,10,muuttuu,muuttua,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",csubj,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+366,17,.,.,,punct,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+367,2,selvisi,selvitä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+368,3,",",",",,punct,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+369,4,että,että,,mark,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+370,7,muuttuessa,muuttua,"{'Case': 'Ine', 'InfForm': '2', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+371,12,kyllä,kyllä,,advmod,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+372,16,funktio,funktio,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+373,5,näiden,tämä,"{'Case': 'Gen', 'Number': 'Plur', 'PronType': 'Dem'}",det,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+374,6,sanojen,sana,"{'Case': 'Gen', 'Number': 'Plur'}",nsubj,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+375,8,lausumissa,lausuma,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+376,9,",",",",,punct,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+377,11,myös,myös,,advmod,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+378,13,ja,ja,,cc,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+379,14,küll,killla,"{'Case': 'Gen', 'Number': 'Sing', 'Typo': 'Yes'}",nmod:poss,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+380,15,sanojen,sana,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,"Artikkelissä selvisi, että näiden sanojen muuttuessa lausumissa, muuttuu myös kyllä ja küll sanojen funktio."
+381,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",obl,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+382,4,küll-sanan,küll#sana,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+383,6,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+384,10,luominen,luominen,"{'Case': 'Nom', 'Derivation': 'Minen', 'Number': 'Sing'}",nsubj:cop,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+385,16,käytetään,käyttää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",advcl,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+386,22,.,.,,punct,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+387,2,mukaan,mukaan,{'AdpType': 'Post'},case,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+388,3,viron,viro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+389,5,tehtävänä,tehtävä,"{'Case': 'Ess', 'Number': 'Sing'}",root,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+390,7,ennen,ennen,,advmod,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+391,9,kontrastin,kontrasti,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+392,8,muuta,muu,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Ind'}",fixed,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+393,11,",",",",,punct,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+394,12,kun,kun,,mark,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+395,15,kyllä-sanaa,kyllä#sana,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+396,21,merkityksessä,merkitys,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+397,13,taas,taas,,fixed,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+398,14,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+399,17,varsinkin,varsinkin,,advmod,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+400,18,episteemisyyden,episteemisyys,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:gobj,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+401,19,ja,ja,,cc,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+402,20,faktuaalisuuden,faktuaalisuus,"{'Case': 'Gen', 'Derivation': 'Inen,Vs', 'Number': 'Sing'}",conj,"Artikkelin mukaan viron küll-sanan tehtävänä on ennen muuta kontrastin luominen, kun taas suomen kyllä-sanaa käytetään varsinkin episteemisyyden ja faktuaalisuuden merkityksessä."
+403,1,Jos,jos,,mark,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+404,3,lauseissa,lause,"{'Case': 'Ine', 'Number': 'Plur'}",obl,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+405,4,kyllä-sana,kyllä#sana,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+406,5,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+407,6,lausuman,lausuma,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+408,8,",",",",,punct,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+409,2,kielteisissä,kielteinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+410,7,lopussa,loppu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Sing'}",advcl,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+411,9,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",obj,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+412,12,vuoroa,vuoro,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+413,13,kiiltäväksi,kiiltävä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+414,14,.,.,,punct,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+415,10,tulkitaan,tulkita,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",root,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+416,11,edellistä,edellinen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Jos kielteisissä lauseissa kyllä-sana on lausuman lopussa, se tulkitaan edellistä vuoroa kiiltäväksi."
+417,1,Lyhyenä,lyhyt,"{'Case': 'Ess', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+418,2,yhteenvetona,yhteen#veto,"{'Case': 'Ess', 'Number': 'Sing'}",obl,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+419,3,voidaan,voida,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",aux,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+420,7,sanoilla,sana,"{'Case': 'Ade', 'Number': 'Plur'}",ccomp,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+421,16,:,:,,punct,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+422,18,välitetään,välittää,"{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Pass'}",parataxis,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+423,32,.,.,,punct,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+424,4,sanoa,sanoa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",root,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+425,5,",",",",,punct,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+426,6,että,että,,mark,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+427,8,kyl,kyllä,{'Style': 'Coll'},advmod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+428,10,küll,küllo,"{'Case': 'Nom', 'Number': 'Sing'}",conj,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+429,11,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+430,13,kielessä,kieli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+431,15,merkitys,merkitys,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+432,9,ja,ja,,cc,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+433,12,kummassakin,kumpikin,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+434,14,episteeminen,episteeminen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+435,17,niillä,se,"{'Case': 'Ade', 'Number': 'Plur', 'PronType': 'Dem'}",obl,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+436,20,vakaumusta,vakaumus,"{'Case': 'Par', 'Number': 'Sing'}",obj,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+437,19,puhujan,puhuja,"{'Case': 'Gen', 'Derivation': 'Ja', 'Number': 'Sing'}",nmod:poss,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+438,22,paikkansapitävyydestä,paikkansapitävyys,"{'Case': 'Ela', 'Number': 'Sing'}",nmod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+439,31,käsitystä,käsitys,"{'Case': 'Par', 'Number': 'Sing'}",conj,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+440,21,väitteensä,väite,"{'Case': 'Gen', 'Number': 'Sing', 'Person[psor]': '3'}",nmod:poss,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+441,23,ja,ja,,cc,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+442,24,samalla,samalla,,orphan,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+443,28,implikaatioon,implikaatio,"{'Case': 'Ill', 'Number': 'Sing'}",orphan,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+444,30,vastakkaista,vastakkainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+445,25,myös,myös,,advmod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+446,27,vuoron,vuoro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+447,29,nähden,nähden,{'AdpType': 'Post'},case,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+448,26,edellisen,edellinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",amod,"Lyhyenä yhteenvetona voidaan sanoa, että sanoilla kyl ja küll on kummassakin kielessä episteeminen merkitys: niillä välitetään puhujan vakaumusta väitteensä paikkansapitävyydestä ja samalla myös edellisen vuoron implikaatioon nähden vastakkaista käsitystä."
+449,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+450,2,aihe,aihe,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+451,3,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+452,4,minusta,minä,"{'Case': 'Ela', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obl,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+453,5,mielenkiintoinen,mielenkiintoinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+454,10,küll,kellä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Style': 'Coll', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",advcl,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+455,17,.,.,,punct,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+456,6,sinäänsä,sinää,"{'Case': 'Nom', 'Number': 'Sing', 'Person[psor]': '3'}",root,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+457,7,",",",",,punct,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+458,8,koska,koska,,mark,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+459,9,sanat,sana,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+460,13,liittyy,liittyä,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",conj,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+461,11,ja,ja,,cc,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+462,12,kyllä,kyllä,,advmod,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+463,15,kielessä,kieli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+464,16,myöntämiseen,myöntäminen,"{'Case': 'Ill', 'Derivation': 'Minen', 'Number': 'Sing'}",obl,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+465,14,kummassakin,kumpikin,"{'Case': 'Ine', 'Number': 'Sing', 'PronType': 'Ind'}",det,"Artikkelin aihe oli minusta mielenkiintoinen sinäänsä, koska sanat küll ja kyllä liittyy kummassakin kielessä myöntämiseen."
+466,1,En,ei,"{'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'VerbForm': 'Fin', 'Voice': 'Act'}",aux,En ollut itse koskaan tullut sitä ajatelleeksi.
+467,2,ollut,olla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",aux,En ollut itse koskaan tullut sitä ajatelleeksi.
+468,3,itse,itse,,advmod,En ollut itse koskaan tullut sitä ajatelleeksi.
+469,4,koskaan,koskaan,,advmod,En ollut itse koskaan tullut sitä ajatelleeksi.
+470,6,sitä,se,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Dem'}",obj,En ollut itse koskaan tullut sitä ajatelleeksi.
+471,7,ajatelleeksi,ajatella,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",xcomp,En ollut itse koskaan tullut sitä ajatelleeksi.
+472,8,.,.,,punct,En ollut itse koskaan tullut sitä ajatelleeksi.
+473,5,tullut,tulla,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Act'}",root,En ollut itse koskaan tullut sitä ajatelleeksi.
+474,1,Tietyt,tietty,"{'Case': 'Nom', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+475,2,artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+476,3,kohdat,kohta,"{'Case': 'Nom', 'Number': 'Plur'}",nsubj,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+477,5,epäselväksi,epä#selvä,"{'Case': 'Tra', 'Degree': 'Pos', 'Number': 'Sing'}",xcomp,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+478,9,sanamuodon,sana#muoto,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+479,11,.,.,,punct,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+480,4,jäivät,jäädä,"{'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+481,6,monimutkaisen,monimutkainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+482,10,takia,takia,{'AdpType': 'Post'},case,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+483,7,ja,ja,,cc,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+484,8,tieteellisen,tieteellinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Sing'}",conj,Tietyt artikkelin kohdat jäivät epäselväksi monimutkaisen ja tieteellisen sanamuodon takia.
+485,1,Luulen,luulla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+486,2,silti,silti,,advmod,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+487,3,ymmärtäneeni,ymmärtää,"{'Case': 'Tra', 'InfForm': '1', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+488,8,haluttiin,haluta,"{'Mood': 'Ind', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Pass'}",conj,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+489,10,.,.,,punct,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+490,4,artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+491,5,pääkohdat,pää#kohta,"{'Case': 'Nom', 'Number': 'Plur'}",obj,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+492,6,ja,ja,,cc,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+493,9,korostaa,korostaa,"{'InfForm': '1', 'Number': 'Sing', 'VerbForm': 'Inf', 'Voice': 'Act'}",xcomp,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+494,7,mitä,mikä,"{'Case': 'Par', 'Number': 'Sing', 'PronType': 'Int'}",obj,Luulen silti ymmärtäneeni artikkelin pääkohdat ja mitä haluttiin korostaa.
+495,1,Työskennellessäni,työskennellä,"{'Case': 'Ine', 'InfForm': '2', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person[psor]': '1', 'VerbForm': 'Inf', 'Voice': 'Act'}",advcl,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+496,10,merkitykset,merkitys,"{'Case': 'Nom', 'Number': 'Plur'}",obj,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+497,11,.,.,,punct,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+498,2,artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+499,3,parissa,parissa,{'AdpType': 'Post'},case,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+500,4,opin,oppia,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",root,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+501,5,useiden,usea,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Plur'}",amod,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+502,6,kieliopillisten,kieli#opillinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",amod,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+503,7,ja,ja,,cc,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+504,8,kielellisten,kielellinen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Llinen', 'Number': 'Plur'}",conj,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+505,9,termien,termä,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Työskennellessäni artikkelin parissa opin useiden kieliopillisten ja kielellisten termien merkitykset.
+506,1,Esim.episteemisyys,esimeepisteemisyys,"{'Case': 'Nom', 'Number': 'Sing'}",root,"Esim.episteemisyys, konsessiivinen."
+507,2,",",",",,punct,"Esim.episteemisyys, konsessiivinen."
+508,3,konsessiivinen,konsessiivinen,"{'Case': 'Nom', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",amod,"Esim.episteemisyys, konsessiivinen."
+509,4,.,.,,punct,"Esim.episteemisyys, konsessiivinen."
+510,1,Opettavaista,opettavainen,"{'Case': 'Par', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Sing'}",root,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+511,2,ja,ja,,cc,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+512,3,uutta,uusi,"{'Case': 'Par', 'Degree': 'Pos', 'Number': 'Sing'}",conj,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+513,4,minulle,minä,"{'Case': 'All', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}",obl,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+514,5,oli,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+515,6,myös,myös,,advmod,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+516,8,siitä,se,"{'Case': 'Ela', 'Number': 'Sing', 'PronType': 'Dem'}",nmod,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+517,7,tieto,tieto,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+518,18,.,.,,punct,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+519,9,",",",",,punct,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+520,10,että,että,,mark,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+521,12,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+522,17,sanoja,sana,"{'Case': 'Par', 'Number': 'Plur'}",nsubj:cop,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+523,11,kyllä,kyllä,,ccomp,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+524,13,puhutun,puhua,"{'Case': 'Gen', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+525,14,suomen,suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+526,15,kielen,kieli,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+527,16,yleisimpiä,yleisä,"{'Case': 'Par', 'Degree': 'Sup', 'Number': 'Plur'}",amod,"Opettavaista ja uutta minulle oli myös tieto siitä, että kyllä on puhutun suomen kielen yleisimpiä sanoja."
+528,1,Artikkelin,artikkeli,"{'Case': 'Gen', 'Number': 'Sing'}",obl,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+529,2,mukaan,mukaan,{'AdpType': 'Post'},case,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+530,3,kirjoitetusta,kirjoittaa,"{'Case': 'Ela', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+531,4,kielestä,kieli,"{'Case': 'Ela', 'Number': 'Sing'}",obl,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+532,5,kootussa,koota,"{'Case': 'Ine', 'Degree': 'Pos', 'Number': 'Sing', 'PartForm': 'Past', 'VerbForm': 'Part', 'Voice': 'Pass'}",acl,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+533,6,Parole-korpuksessa,Parole#korpus,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+534,7,se,se,"{'Case': 'Nom', 'Number': 'Sing', 'PronType': 'Dem'}",nsubj:cop,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+535,8,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+536,9,116:nneksi,116,"{'Case': 'Tra', 'Number': 'Sing', 'NumType': 'Card'}",nummod,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+537,11,.,.,,punct,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+538,10,yleisin,yleinen,"{'Case': 'Nom', 'Degree': 'Sup', 'Derivation': 'Inen', 'Number': 'Sing'}",root,Artikkelin mukaan kirjoitetusta kielestä kootussa Parole-korpuksessa se on 116:nneksi yleisin.
+539,1,Turun,Turku,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+540,2,yliopiston,yli#opisto,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+541,3,suomen,Suomi,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+542,6,kielten,kieli,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+543,4,ja,ja,,cc,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+544,5,suomalais-ugrilaisten,suomalainen#ugrilainen,"{'Case': 'Gen', 'Degree': 'Pos', 'Derivation': 'Lainen', 'Number': 'Plur'}",conj,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+545,7,laitoksen,laitos,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+546,8,Arkisyn-korpuksessa,Arkisyn#korpus,"{'Case': 'Ine', 'Number': 'Sing'}",obl,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+547,9,kyllä,kyllä,,advmod,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+548,10,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+549,11,sanojen,sana,"{'Case': 'Gen', 'Number': 'Plur'}",nmod:poss,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+550,13,24.sijalla,24.sija,"{'Case': 'Ade', 'Number': 'Sing'}",nmod,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+551,14,.,.,,punct,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+552,12,yleisyysindeksissä,yleisyys#indes,"{'Case': 'Ine', 'Number': 'Plur'}",root,Turun yliopiston suomen ja suomalais-ugrilaisten kielten laitoksen Arkisyn-korpuksessa kyllä on sanojen yleisyysindeksissä 24.sijalla.
+553,1,Myös,myös,,advmod,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+554,2,viron,viro,"{'Case': 'Gen', 'Number': 'Sing'}",nmod:poss,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+555,3,kielessä,kieli,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+556,5,küll,küll,"{'Case': 'Nom', 'Number': 'Sing'}",nsubj:cop,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+557,6,on,olla,"{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin', 'Voice': 'Act'}",cop,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+558,7,arkipuheessa,arki#puhe,"{'Case': 'Ine', 'Number': 'Sing'}",obl,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+559,8,korkealla,korkea,"{'Case': 'Ade', 'Degree': 'Pos', 'Number': 'Sing'}",amod,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+560,10,36,36,{'NumType': 'Card'},nummod,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+561,14,sijalla,sija,"{'Case': 'Ade', 'Number': 'Sing'}",conj,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+562,16,.,.,,punct,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+563,4,sana,sana,"{'Case': 'Nom', 'Number': 'Sing'}",compound:nn,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+564,9,sijalla,sija,"{'Case': 'Ade', 'Number': 'Sing'}",root,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+565,11,",",",",,punct,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+566,13,keskusteluissa,keskustelu,"{'Case': 'Ine', 'Derivation': 'U', 'Number': 'Plur'}",orphan,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+567,15,51,51,{'NumType': 'Card'},nummod,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
+568,12,institutionaalisissa,institutionaalinen,"{'Case': 'Ine', 'Degree': 'Pos', 'Derivation': 'Inen', 'Number': 'Plur'}",amod,"Myös viron kielessä sana küll on arkipuheessa korkealla sijalla 36, institutionaalisissa keskusteluissa sijalla 51."
