@@ -1,0 +1,865 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Suomi toisena kielenä on monella tapaa muutoksen tilassa: Ala on vakiinnuttanut asemaansa koulutuksen kentällä, ja toimijoiden määrä on kasvanut valtavasti.
+1	Suomi	Suomi	PROPN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+2	toisena	toinen	ADJ	Num	Case=Ess|Derivation=Inen|Number=Sing|NumType=Ord	3	nummod	_	_
+3	kielenä	kieli	NOUN	N	Case=Ess|Number=Sing	1	nmod	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+5	monella	moni	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	6	det	_	_
+6	tapaa	tapa	NOUN	N	Case=Par|Number=Sing	0	root	_	_
+7	muutoksen	muutos	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	tilassa	tila	NOUN	N	Case=Ine|Number=Sing	6	obl	_	SpaceAfter=No
+9	:	:	PUNCT	Punct	_	6	punct	_	_
+10	Ala	alkaa	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	nsubj	_	_
+11	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
+12	vakiinnuttanut	vakiinnuttaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	6	parataxis	_	_
+13	asemaansa	asema	NOUN	N	Case=Par|Number=Sing|Person[psor]=3	12	obj	_	_
+14	koulutuksen	koulutus	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	kentällä	kenttä	NOUN	N	Case=Ade|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	21	punct	_	_
+17	ja	ja	CCONJ	C	_	21	cc	_	_
+18	toimijoiden	toimija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	19	nmod:poss	_	_
+19	määrä	määrä	NOUN	N	Case=Nom|Number=Sing	21	nsubj	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	_
+21	kasvanut	kasvaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	12	conj	_	_
+22	valtavasti	valtavasti	ADV	Adv	Derivation=Sti	21	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 2
+# text = Kehittämistyötä tehdään monella rintamalla, ja asiantuntijuus on alkanut sillä tapaa eriytyä, ettei kukaan enää hallitse koko alaa.
+1	Kehittämistyötä	kehittää#työ	NOUN	N	Case=Par|Number=Sing	2	obj	_	_
+2	tehdään	tehdä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	monella	moni	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	4	det	_	_
+4	rintamalla	rintama	NOUN	N	Case=Ade|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	9	punct	_	_
+6	ja	ja	CCONJ	C	_	9	cc	_	_
+7	asiantuntijuus	asian#tuntijuus	NOUN	N	Case=Nom|Derivation=Vs|Number=Sing	9	nsubj	_	_
+8	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	alkanut	alkaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
+10	sillä	se	PRON	Pron	Case=Ade|Number=Sing|PronType=Dem	11	det	_	_
+11	tapaa	tapa	NOUN	N	Case=Par|Number=Sing	12	obl	_	_
+12	eriytyä	eriytyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	17	punct	_	_
+14	ettei	että#ei	VERB	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	17	mark	_	_
+15	kukaan	kukaan	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	17	nsubj	_	_
+16	enää	enää	ADV	Adv	_	17	advmod	_	_
+17	hallitse	hallita	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+18	koko	koko	ADJ	A	_	19	amod	_	_
+19	alaa	ala	NOUN	N	Case=Par|Number=Sing	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 3
+# text = Yleissivistävässä koulutuksessa, kotoutumiskoulutuksessa, varhaiskasvatuksessa ja akateemisten, edistyneen tason suomen taitajien parissa tarvitaan ja kehittyy varsin erilaista S2-alan pedagogista ja sisällöllistä osaamista.
+1	Yleissivistävässä	yleis#sivistävä	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	_	_
+2	koulutuksessa	koulutus	NOUN	N	Case=Ine|Number=Sing	15	obl	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	4	punct	_	_
+4	kotoutumiskoulutuksessa	kotoutua#koulutus	NOUN	N	Case=Ine|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	6	punct	_	_
+6	varhaiskasvatuksessa	varhais#kasvatus	NOUN	N	Case=Ine|Number=Sing	2	conj	_	_
+7	ja	ja	CCONJ	C	_	13	cc	_	_
+8	akateemisten	akateeminen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	13	amod	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	13	punct	_	_
+10	edistyneen	edistynyt	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	_
+11	tason	taso	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+12	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	taitajien	taitaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	2	conj	_	_
+14	parissa	parissa	ADP	Adp	AdpType=Post	13	case	_	_
+15	tarvitaan	tarvita	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	ja	ja	CCONJ	C	_	17	cc	_	_
+17	kehittyy	kehittyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+18	varsin	varsin	ADV	Adv	_	19	advmod	_	_
+19	erilaista	erilainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	24	amod	_	_
+20	S2-alan	S2#ala	NOUN	N	Case=Gen|Number=Sing	24	nmod:gobj	_	_
+21	pedagogista	pedagoginen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	24	amod	_	_
+22	ja	ja	CCONJ	C	_	23	cc	_	_
+23	sisällöllistä	sisällöllinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	21	conj	_	_
+24	osaamista	osaaminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	15	obj	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 4
+# text = Eri-ikäisten suomenoppijoiden kielitaitoprofiilit näyttävät kehittyvän erilaisiksi, ja oppimispolkukin haasteineen näyttää erilaiselta.
+1	Eri-ikäisten	Eri#ikäinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	suomenoppijoiden	suomen#oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	3	nmod:poss	_	_
+3	kielitaitoprofiilit	kieli#taito#profiili	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
+4	näyttävät	näyttää	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kehittyvän	kehittyä	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	xcomp	_	_
+6	erilaisiksi	erilainen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	11	punct	_	_
+8	ja	ja	CCONJ	C	_	11	cc	_	_
+9	oppimispolkukin	oppia#polku	NOUN	N	Case=Nom|Clitic=Kin|Derivation=U|Number=Sing	11	nsubj	_	_
+10	haasteineen	haaste	NOUN	N	Case=Com|Person[psor]=3	9	nmod	_	_
+11	näyttää	näyttää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	erilaiselta	erilainen	ADJ	A	Case=Abl|Degree=Pos|Derivation=Lainen|Number=Sing	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 5
+# text = Perinteisesti haas-teellisina pidetyt suomen kielen piirteet eivät kouluikäi-sillä suomenoppijoilla välttämättä vaadikaan samanlaista analyyttista opetusta kuin aikuiskoulutuksessa ja S2-opetusperinteessä on totuttu antamaan.
+1	Perinteisesti	perinteisesti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+2	haas	haas	PROPN	N	Case=Nom|Number=Sing	3	compound:nn	_	SpaceAfter=No
+3	-teellisina	teellinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Llinen|Number=Plur	4	obl	_	_
+4	pidetyt	pitää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+5	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	piirteet	piirre	NOUN	N	Case=Nom|Number=Plur	12	nsubj	_	_
+8	eivät	ei	AUX	V	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	12	aux	_	_
+9	kouluikäi-sillä	kouluikäi#siltää	ADJ	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	10	amod	_	_
+10	suomenoppijoilla	suomen#oppija	NOUN	N	Case=Ade|Derivation=Ja|Number=Plur	12	obl	_	_
+11	välttämättä	välttämättä	ADV	Adv	_	12	advmod	_	_
+12	vaadikaan	vaatia	VERB	V	Clitic=Kaan|Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	samanlaista	samanlainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	15	amod	_	_
+14	analyyttista	analyyttinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	15	amod	_	_
+15	opetusta	opetus	NOUN	N	Case=Par|Number=Sing	12	obj	_	_
+16	kuin	kuin	SCONJ	C	_	17	mark	_	_
+17	aikuiskoulutuksessa	aikuis#koulutus	NOUN	N	Case=Ine|Number=Sing	13	advcl	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	S2-opetusperinteessä	S2#opetus#perinne	NOUN	N	Case=Ine|Number=Sing	17	conj	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux:pass	_	_
+21	totuttu	tottua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	12	conj	_	_
+22	antamaan	antaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	21	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	12	punct	_	_
+
+# sent_id = 6
+# text = Suomen opetukselle on asetettu yhä enemmän sellaisia suoria työllistymiseen, jatkokoulutusvalmiuksiin ja oppimistaitoihin liittyviä yhteiskunnallisia vaateita, joita kielenopetukselle ei aiemmin ole tavattu asettaa ja jollaisiin maamme vieraiden kielten opetuskaan ei ole joutunut vastaamaan.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	opetukselle	opetus	NOUN	N	Case=All|Number=Sing	4	obl	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	asetettu	asettaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	yhä	yhä	ADV	Adv	_	6	advmod	_	_
+6	enemmän	enemmän	ADV	Adv	_	4	advmod	_	_
+7	sellaisia	sellainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	16	amod	_	_
+8	suoria	suora	ADJ	A	Case=Par|Degree=Pos|Number=Plur	16	amod	_	_
+9	työllistymiseen	työllistyminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	14	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	11	punct	_	_
+11	jatkokoulutusvalmiuksiin	jatko#koulutus#valmius	NOUN	N	Case=Ill|Derivation=Vs|Number=Plur	9	conj	_	_
+12	ja	ja	CCONJ	C	_	13	cc	_	_
+13	oppimistaitoihin	oppimis#taito	NOUN	N	Case=Ill|Number=Plur	9	conj	_	_
+14	liittyviä	liittyä	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+15	yhteiskunnallisia	yhteis#kunnallinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	16	amod	_	_
+16	vaateita	vaade	NOUN	N	Case=Par|Number=Plur	4	obj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	23	punct	_	_
+18	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	24	obj	_	_
+19	kielenopetukselle	kielen#opetus	NOUN	N	Case=All|Number=Sing	24	obl	_	_
+20	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	23	aux	_	_
+21	aiemmin	aiemmin	ADV	Adv	_	23	advmod	_	_
+22	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	23	aux:pass	_	_
+23	tavattu	tavata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	_
+24	asettaa	asettaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+25	ja	ja	CCONJ	C	_	34	cc	_	_
+26	jollaisiin	jollainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Lainen|Number=Plur	27	amod	_	_
+27	maamme	maa	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1	34	obl	_	_
+28	vieraiden	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	30	nmod:poss	_	_
+30	opetuskaan	opetuska	NOUN	N	Case=Ill|Number=Sing	34	obl	_	_
+31	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	34	aux	_	_
+32	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	34	aux	_	_
+33	joutunut	joutua	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	34	aux	_	_
+34	vastaamaan	vastata	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	23	conj	_	SpaceAfter=No
+35	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 7
+# text = Pedagogiset haasteet ovat siis monimuotoistuneet, ja niiden myötä S2-opetuksen tulisi muuttua enemmän toisen kielen opetukseksi ja erottua pedagogiikaltaan vieraan kielen opetuksesta.
+1	Pedagogiset	pedagoginen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	haasteet	haaste	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	siis	siis	ADV	Adv	_	5	advmod	_	_
+5	monimuotoistuneet	monimuotoistua	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	11	punct	_	_
+7	ja	ja	CCONJ	C	_	11	cc	_	_
+8	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	11	obl	_	_
+9	myötä	myötä	ADP	Adp	AdpType=Post	8	case	_	_
+10	S2-opetuksen	S2#opetus	NOUN	N	Case=Gen|Number=Sing	12	nsubj	_	_
+11	tulisi	tulla	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	conj	_	_
+12	muuttua	muuttua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	xcomp:ds	_	_
+13	enemmän	enemmän	ADV	Adv	_	12	advmod	_	_
+14	toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	15	nummod	_	_
+15	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	opetukseksi	opetus	NOUN	N	Case=Tra|Number=Sing	12	xcomp	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	erottua	erottua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	12	conj	_	_
+19	pedagogiikaltaan	pedagogiikka	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	18	obl	_	_
+20	vieraan	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	21	amod	_	_
+21	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+22	opetuksesta	opetus	NOUN	N	Case=Ela|Number=Sing	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 8
+# text = Käytämme käsitteitä oppija, kielenoppija ja suomenoppija viittaamassa suomen kieltä opiskeleviin eriikäisiin ei-syntyperäisiin suomenpuhujiin.
+1	Käytämme	käyttää	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	käsitteitä	käsite	NOUN	N	Case=Par|Number=Plur	1	obj	_	_
+3	oppija	oppija	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	2	appos	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	5	punct	_	_
+5	kielenoppija	kielen#oppija	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	3	conj	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	suomenoppija	suomen#oppija	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	3	conj	_	_
+8	viittaamassa	viitata	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	advcl	_	_
+9	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	11	obj	_	_
+11	opiskeleviin	opiskella	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+12	eriikäisiin	eri#ikäinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
+13	ei-syntyperäisiin	ei#syntyperäinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
+14	suomenpuhujiin	suomen#puhuja	NOUN	N	Case=Ill|Derivation=Ja|Number=Plur	8	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 9
+# text = Suomi toisena kielenä -oppimisesta alkaa olla tutkimusta, mutta pedagogiikan tutkimusta ei Suomessa juurikaan ole.
+1	Suomi	Suomi	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	toisena	toinen	ADJ	Num	Case=Ess|Derivation=Inen|Number=Sing|NumType=Ord	3	nummod	_	_
+3	kielenä	kieli	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+4	-oppimisesta	oppiminen	NOUN	N	Case=Ela|Derivation=Minen|Number=Sing	1	nmod	_	_
+5	alkaa	alkaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	cop	_	_
+7	tutkimusta	tutkimus	NOUN	N	Case=Par|Number=Sing	5	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	15	punct	_	_
+9	mutta	mutta	CCONJ	C	_	15	cc	_	_
+10	pedagogiikan	pedagogiikka	NOUN	N	Case=Gen|Number=Sing	11	nmod:gobj	_	_
+11	tutkimusta	tutkimus	NOUN	N	Case=Par|Number=Sing	15	nsubj	_	_
+12	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	15	aux	_	_
+13	Suomessa	Suomi	PROPN	N	Case=Ine|Number=Sing	15	obl	_	_
+14	juurikaan	juuri	ADV	Adv	Clitic=Kaan	15	advmod	_	_
+15	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 10
+# text = Ei myöskään ole selvitetty, miten kielentutkijoiden laajasti jakama käyttöpohjainen käsitys kielestä ja sen oppimisesta voisi näkyä opetuksessa ja oppimistehtävissä.
+1	Ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
+2	myöskään	myöskään	ADV	Adv	_	4	advmod	_	_
+3	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	selvitetty	selvittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	17	punct	_	_
+6	miten	miten	ADV	Adv	_	17	advmod	_	_
+7	kielentutkijoiden	kielen#tutkija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	9	nsubj	_	_
+8	laajasti	laajasti	ADV	Adv	Derivation=Sti	9	advmod	_	_
+9	jakama	jakaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	11	acl	_	_
+10	käyttöpohjainen	käyttö#pohjainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	11	amod	_	_
+11	käsitys	käsitys	NOUN	N	Case=Nom|Number=Sing	17	nsubj	_	_
+12	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	11	nmod	_	_
+13	ja	ja	CCONJ	C	_	15	cc	_	_
+14	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	15	nmod:gobj	_	_
+15	oppimisesta	oppiminen	NOUN	N	Case=Ela|Derivation=Minen|Number=Sing	12	conj	_	_
+16	voisi	voida	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	17	aux	_	_
+17	näkyä	näkyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	ccomp	_	_
+18	opetuksessa	opetus	NOUN	N	Case=Ine|Number=Sing	17	obl	_	_
+19	ja	ja	CCONJ	C	_	20	cc	_	_
+20	oppimistehtävissä	oppia#tehtävä	NOUN	N	Case=Ine|Number=Plur	18	conj	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 11
+# text = Toisen kielen oppimisen tutkimusta on kansainvälisestikin kritisoitu pitkään jatkuneesta keskittymisestä kielen rakenteen oppimiseen ja oppijan sosiaalist-misen tai sosiaalistamisen ajatuksen ohittamisesta.
+1	Toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:gobj	_	_
+3	oppimisen	oppiminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	4	nmod:gobj	_	_
+4	tutkimusta	tutkimus	NOUN	N	Case=Par|Number=Sing	7	obj	_	_
+5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+6	kansainvälisestikin	kansain#välisesti	ADV	Adv	Clitic=Kin|Derivation=Sti	7	advmod	_	_
+7	kritisoitu	kritisoida	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	pitkään	pitkään	ADV	Adv	_	9	advmod	_	_
+9	jatkuneesta	jatkua	VERB	V	Case=Ela|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	10	acl	_	_
+10	keskittymisestä	keskittyminen	NOUN	N	Case=Ela|Derivation=Minen|Number=Sing	7	obl	_	_
+11	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	rakenteen	rakenne	NOUN	N	Case=Gen|Number=Sing	13	nmod:gobj	_	_
+13	oppimiseen	oppiminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	10	nmod	_	_
+14	ja	ja	CCONJ	C	_	20	cc	_	_
+15	oppijan	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	16	nmod:poss	_	_
+16	sosiaalist-misen	sosiaalist#minen	NOUN	N	Case=Gen|Number=Sing	20	nmod:gobj	_	_
+17	tai	tai	CCONJ	C	_	18	cc	_	_
+18	sosiaalistamisen	sosiaalistaminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	16	conj	_	_
+19	ajatuksen	ajatus	NOUN	N	Case=Gen|Number=Sing	20	nmod:gobj	_	_
+20	ohittamisesta	ohittaminen	NOUN	N	Case=Ela|Derivation=Minen|Number=Sing	10	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 12
+# text = Tässä artikkelissa tarkastelemme kielenopetuksen pedagogista kehittämistä siitä näkökulmasta, miten saada nykyiset kielenoppimista koskevat, yleisesti hyväksytyt teoriat ja opetuksen käytäntö kohtaamaan.
+1	Tässä	tämä	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	2	det	_	_
+2	artikkelissa	artikkeli	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	tarkastelemme	tarkastella	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kielenopetuksen	kielen#opetus	NOUN	N	Case=Gen|Number=Sing	6	nmod:gobj	_	_
+5	pedagogista	pedagoginen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	kehittämistä	kehittäminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	3	obj	_	_
+7	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	8	det	_	_
+8	näkökulmasta	näkö#kulma	NOUN	N	Case=Ela|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	miten	miten	ADV	Adv	_	11	advmod	_	_
+11	saada	saada	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	8	ccomp	_	_
+12	nykyiset	nykyinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	13	amod	_	_
+13	kielenoppimista	kielen#oppiminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	14	obj	_	_
+14	koskevat	koskea	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	18	acl	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	18	punct	_	_
+16	yleisesti	yleisesti	ADV	Adv	Derivation=Sti	17	advmod	_	_
+17	hyväksytyt	hyväksyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	18	acl	_	_
+18	teoriat	teoria	NOUN	N	Case=Nom|Number=Plur	22	nsubj	_	_
+19	ja	ja	CCONJ	C	_	21	cc	_	_
+20	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	21	nmod:poss	_	_
+21	käytäntö	käytäntö	NOUN	N	Case=Nom|Number=Sing	18	conj	_	_
+22	kohtaamaan	kohdata	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	11	xcomp:ds	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 13
+# text = Tehtävän laajuuden vuoksi rajaudumme rakenteiden opetukseen, johon funktionaalisten periaatteiden soveltaminen on koettu haastavimmaksi.
+1	Tehtävän	tehtävä	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	laajuuden	laajuus	NOUN	N	Case=Gen|Derivation=Vs|Number=Sing	4	obl	_	_
+3	vuoksi	vuoksi	ADP	Adp	AdpType=Post	2	case	_	_
+4	rajaudumme	rajautua	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	rakenteiden	rakenne	NOUN	N	Case=Gen|Number=Plur	6	nmod:gobj	_	_
+6	opetukseen	opetus	NOUN	N	Case=Ill|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	13	punct	_	_
+8	johon	joka	PRON	Pron	Case=Ill|Number=Sing|PronType=Rel	13	obl	_	_
+9	funktionaalisten	funktionaalinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	10	amod	_	_
+10	periaatteiden	periaate	NOUN	N	Case=Gen|Number=Plur	11	nmod:gobj	_	_
+11	soveltaminen	soveltaminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	13	obj	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	_	_
+13	koettu	kokea	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
+14	haastavimmaksi	haastava	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	13	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 14
+# text = Pohdimme ensin sitä, millaiseen oppimiskäsitykseen oppijoiden kielenkäyttötarpeet meitä ohjaavat.
+1	Pohdimme	pohtia	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ensin	ensin	ADV	Adv	_	1	advmod	_	_
+3	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	10	punct	_	_
+5	millaiseen	millainen	ADJ	A	Case=Ill|Derivation=Lainen|Number=Sing	6	amod	_	_
+6	oppimiskäsitykseen	oppia#käsitys	NOUN	N	Case=Ill|Number=Sing	10	obl	_	_
+7	oppijoiden	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	8	nmod:poss	_	_
+8	kielenkäyttötarpeet	kielen#käyttö#tarve	NOUN	N	Case=Nom|Number=Plur	10	nsubj	_	_
+9	meitä	minä	PRON	Pron	Case=Par|Number=Plur|Person=1|PronType=Prs	10	obj	_	_
+10	ohjaavat	ohjata	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 15
+# text = Keskitymme kolmeen sellaiseen näkökulmaan, jotka ovat nähdäksemme hyödyksi S2-pedagogiikan kehittämisessä: sosiokulttuurinen näkökulma oppimisympäristöihin, funktionaalinen oppimiskäsitys sekä oppimistehtävät osallistavana ja tavoitteellisena toimintana.
+1	Keskitymme	keskittyä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kolmeen	kolme	NUM	Num	Case=Ill|Number=Sing|NumType=Card	4	nummod	_	_
+3	sellaiseen	sellainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Lainen|Number=Sing	4	amod	_	_
+4	näkökulmaan	näkö#kulma	NOUN	N	Case=Ill|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
+7	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+8	nähdäksemme	nähdä	VERB	V	Case=Tra|InfForm=1|Number=Sing|Number[psor]=Plur|Person[psor]=1|VerbForm=Inf|Voice=Act	4	acl:relcl	_	_
+9	hyödyksi	hyöty	NOUN	N	Case=Tra|Derivation=U|Number=Sing	8	xcomp:ds	_	_
+10	S2-pedagogiikan	S2#pedagogiikka	NOUN	N	Case=Gen|Number=Sing	11	nmod:gobj	_	_
+11	kehittämisessä	kehittäminen	NOUN	N	Case=Ine|Derivation=Minen|Number=Sing	9	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	Punct	_	14	punct	_	_
+13	sosiokulttuurinen	sosio#kulttuurinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	14	amod	_	_
+14	näkökulma	näkö#kulma	NOUN	N	Case=Nom|Number=Sing	4	appos	_	_
+15	oppimisympäristöihin	oppia#ympäristö	NOUN	N	Case=Ill|Number=Plur	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	18	punct	_	_
+17	funktionaalinen	funktionaalinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	18	amod	_	_
+18	oppimiskäsitys	oppia#käsitys	NOUN	N	Case=Nom|Number=Sing	14	conj	_	_
+19	sekä	sekä	CCONJ	C	_	20	cc	_	_
+20	oppimistehtävät	oppia#tehtävä	NOUN	N	Case=Nom|Number=Plur	14	conj	_	_
+21	osallistavana	osallistaa	VERB	V	Case=Ess|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+22	ja	ja	CCONJ	C	_	23	cc	_	_
+23	tavoitteellisena	tavoitteellinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Llinen|Number=Sing	21	conj	_	_
+24	toimintana	toiminta	NOUN	N	Case=Ess|Number=Sing	14	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 16
+# text = Sen jälkeen erittelemme rakenteiden opetuksen nykyisiä suuntaviivoja esittelemällä oppimateriaaleille tyypillisiä tehtävätyyppejä ja niitä prosesseja, joihin ne oppijoita ohjaavat.
+1	Sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	3	obl	_	_
+2	jälkeen	jälkeen	ADP	Adp	AdpType=Post	1	case	_	_
+3	erittelemme	eritellä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	rakenteiden	rakenne	NOUN	N	Case=Gen|Number=Plur	5	nmod:gobj	_	_
+5	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	nykyisiä	nykyinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	7	amod	_	_
+7	suuntaviivoja	suunta#viiva	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+8	esittelemällä	esitellä	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	advcl	_	_
+9	oppimateriaaleille	oppimateriaali	NOUN	N	Case=All|Number=Plur	8	obl	_	_
+10	tyypillisiä	tyypillinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	11	amod	_	_
+11	tehtävätyyppejä	tehtävä#tyyppi	NOUN	N	Case=Par|Number=Plur	8	obj	_	_
+12	ja	ja	CCONJ	C	_	14	cc	_	_
+13	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	14	det	_	_
+14	prosesseja	prosessi	NOUN	N	Case=Par|Number=Plur	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	19	punct	_	_
+16	joihin	joka	PRON	Pron	Case=Ill|Number=Plur|PronType=Rel	19	obl	_	_
+17	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	18	det	_	_
+18	oppijoita	oppija	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	19	obj	_	_
+19	ohjaavat	ohjata	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 17
+# text = Lopuksi hahmottelemme sitä, miten täyttää kuilu oikean elämän kielenkäyttötilanteiden vaatimien kielenkäytön prosessien ja oppimateriaalien »redusoidun» maailman välillä.
+1	Lopuksi	lopuksi	ADV	Adv	_	2	advmod	_	_
+2	hahmottelemme	hahmotella	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	6	punct	_	_
+5	miten	miten	ADV	Adv	_	6	advmod	_	_
+6	täyttää	täyttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	ccomp	_	_
+7	kuilu	kuilu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	6	obj	_	_
+8	oikean	oikea	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
+9	elämän	elämä	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kielenkäyttötilanteiden	kielen#käyttö#tilanne	NOUN	N	Case=Gen|Number=Plur	11	nsubj	_	_
+11	vaatimien	vaatia	VERB	V	Case=Gen|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	12	acl	_	_
+12	kielenkäytön	kielen#käyttö	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	prosessien	prosessi	NOUN	N	Case=Gen|Number=Plur	6	obl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	oppimateriaalien	oppimateriaali	NOUN	N	Case=Gen|Number=Plur	13	conj	_	_
+16	»	»	PUNCT	Punct	_	17	punct	_	SpaceAfter=No
+17	redusoidun	redusoida	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	15	acl	_	SpaceAfter=No
+18	»	»	PUNCT	Punct	_	19	punct	_	_
+19	maailman	maailma	NOUN	N	Case=Gen|Number=Sing	13	conj	_	_
+20	välillä	välillä	ADP	Adp	AdpType=Post	13	case	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 18
+# text = Oman, funktionaalista lähestymistapaa soveltavan oppimateriaaliprojektimme kehittämiseksi olemme pyrkineet hahmottamaan oppimateriaaleissa vallalla olevia käytänteitä ja laatineet koosteen oppikirjojen rakennetehtävätyypeistä.
+1	Oman	oma	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	6	punct	_	_
+3	funktionaalista	funktionaalinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	lähestymistapaa	lähestymis#tapa	NOUN	N	Case=Par|Number=Sing	5	obj	_	_
+5	soveltavan	soveltaa	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+6	oppimateriaaliprojektimme	oppimateriaali#projekti	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	nmod:gobj	_	_
+7	kehittämiseksi	kehittäminen	NOUN	N	Case=Tra|Derivation=Minen|Number=Sing	9	obl	_	_
+8	olemme	olla	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	pyrkineet	pyrkiä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+10	hahmottamaan	hahmottaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	oppimateriaaleissa	oppimateriaali	NOUN	N	Case=Ine|Number=Plur	13	obl	_	_
+12	vallalla	valta	NOUN	N	Case=Ade|Number=Sing	13	obl	_	_
+13	olevia	olla	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+14	käytänteitä	käytänne	NOUN	N	Case=Par|Number=Plur	10	obj	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	laatineet	laatia	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	9	conj	_	_
+17	koosteen	kooste	NOUN	N	Case=Gen|Number=Sing	16	obj	_	_
+18	oppikirjojen	oppi#kirja	NOUN	N	Case=Gen|Number=Plur	19	nmod:poss	_	_
+19	rakennetehtävätyypeistä	rakenne#tehtävä#tyyppi	NOUN	N	Case=Ela|Number=Plur	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 19
+# text = Tar-koituksena ei ole ollut tehdä varsinaista oppimateriaalitutkimusta eikä sinällään arvioida olemassa olevia oppimateriaaleja, vaan luoda laajalla seulonnalla yleiskuva käytetyimmistä rakennetehtävätyypeistä ja jäsentää rakenteiden opetuksen nykylinjauksia oppikirjoissa.
+1	Tar-koituksena	Tar#koitus	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+2	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	aux	_	_
+5	tehdä	tehdä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+6	varsinaista	varsinainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	7	amod	_	_
+7	oppimateriaalitutkimusta	oppimateriaali#tutkimus	NOUN	N	Case=Par|Number=Sing	5	obj	_	_
+8	eikä	ei	VERB	V	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	10	cc	_	_
+9	sinällään	sinällään	ADV	Adv	_	10	advmod	_	_
+10	arvioida	arvioida	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	conj	_	_
+11	olemassa	olla	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+12	olevia	olla	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	oppimateriaaleja	oppimateriaali	NOUN	N	Case=Par|Number=Plur	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	16	punct	_	_
+15	vaan	vaan	CCONJ	C	_	16	cc	_	_
+16	luoda	luoda	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	conj	_	_
+17	laajalla	laaja	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	18	amod	_	_
+18	seulonnalla	seulonta	NOUN	N	Case=Ade|Number=Sing	16	obl	_	_
+19	yleiskuva	yleis#kuva	NOUN	N	Case=Nom|Number=Sing	16	obj	_	_
+20	käytetyimmistä	käytetty	ADJ	A	Case=Ela|Degree=Sup|Number=Plur	21	amod	_	_
+21	rakennetehtävätyypeistä	rakenne#tehtävä#tyyppi	NOUN	N	Case=Ela|Number=Plur	19	nmod	_	_
+22	ja	ja	CCONJ	C	_	23	cc	_	_
+23	jäsentää	jäsentää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	16	conj	_	_
+24	rakenteiden	rakenne	NOUN	N	Case=Gen|Number=Plur	25	nmod:gobj	_	_
+25	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	26	nmod:poss	_	_
+26	nykylinjauksia	nyky#linjaus	NOUN	N	Case=Par|Number=Plur	23	obj	_	_
+27	oppikirjoissa	oppi#kirja	NOUN	N	Case=Ine|Number=Plur	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 20
+# text = Analyysimme tavoite on siis ensisijaisesti pedagoginen S2-opetuksen kehittäminen.
+1	Analyysimme	analyysi	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	nmod:poss	_	_
+2	tavoite	tavoite	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+4	siis	siis	ADV	Adv	_	8	advmod	_	_
+5	ensisijaisesti	ensi#sijaisesti	ADV	Adv	Derivation=Sti	8	advmod	_	_
+6	pedagoginen	pedagoginen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	8	amod	_	_
+7	S2-opetuksen	S2#opetus	NOUN	N	Case=Gen|Number=Sing	8	nmod:gobj	_	_
+8	kehittäminen	kehittäminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 21
+# text = Niin opettajat kuin oppimisteoreetikotkin jakavat varsin yleisesti käsityksen, että kielen opetuksen tulisi valmentaa oppijoita niihin suullisiin ja kirjallisiin kielenkäyttötilanteisiin ja kielenkäytön prosesseihin, joita he kohtaavat opetuksen ulkopuolisessa elämässään.
+1	Niin	niin	CCONJ	C	_	2	cc:preconj	_	_
+2	opettajat	opettaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Plur	5	nsubj	_	_
+3	kuin	kuin	CCONJ	C	_	4	cc	_	_
+4	oppimisteoreetikotkin	oppia#teoreetikko	NOUN	N	Case=Nom|Clitic=Kin|Number=Plur	2	conj	_	_
+5	jakavat	jakaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	varsin	varsin	ADV	Adv	_	7	advmod	_	_
+7	yleisesti	yleisesti	ADV	Adv	Derivation=Sti	5	advmod	_	_
+8	käsityksen	käsitys	NOUN	N	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	13	punct	_	_
+10	että	että	SCONJ	C	_	13	mark	_	_
+11	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:gobj	_	_
+12	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	14	nsubj	_	_
+13	tulisi	tulla	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+14	valmentaa	valmentaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	13	xcomp:ds	_	_
+15	oppijoita	oppija	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	14	obj	_	_
+16	niihin	se	PRON	Pron	Case=Ill|Number=Plur|PronType=Dem	20	det	_	_
+17	suullisiin	suullinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Llinen|Number=Plur	20	amod	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	kirjallisiin	kirjallinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Llinen|Number=Plur	17	conj	_	_
+20	kielenkäyttötilanteisiin	kielen#käyttö#tilanne	NOUN	N	Case=Ill|Number=Plur	14	obl	_	_
+21	ja	ja	CCONJ	C	_	23	cc	_	_
+22	kielenkäytön	kielen#käyttö	NOUN	N	Case=Gen|Number=Sing	23	nmod:poss	_	_
+23	prosesseihin	prosessi	NOUN	N	Case=Ill|Number=Plur	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	Punct	_	27	punct	_	_
+25	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	27	obj	_	_
+26	he	hän	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+27	kohtaavat	kohdata	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	_
+28	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	30	nmod:poss	_	_
+29	ulkopuolisessa	ulko#puolinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	30	amod	_	_
+30	elämässään	elämä	NOUN	N	Case=Ine|Number=Sing|Person[psor]=3	27	obl	_	SpaceAfter=No
+31	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 22
+# text = Opetuksen tulisi siis voimauttaa oppija toimimaan kielitaidollaan ja ylittämään sen rajoja.
+1	Opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+2	tulisi	tulla	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	siis	siis	ADV	Adv	_	2	advmod	_	_
+4	voimauttaa	voimauttaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp:ds	_	_
+5	oppija	oppija	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	6	nsubj	_	_
+6	toimimaan	toimia	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp:ds	_	_
+7	kielitaidollaan	kieli#taito	NOUN	N	Case=Ade|Number=Sing|Person[psor]=3	6	obl	_	_
+8	ja	ja	CCONJ	C	_	9	cc	_	_
+9	ylittämään	ylittää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	6	conj	_	_
+10	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	11	nmod:poss	_	_
+11	rajoja	raja	NOUN	N	Case=Par|Number=Plur	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 23
+# text = Toista kieltä opittaessa kieliympäristö toimii sekä oppimisen resurssina että opetuksen tavoitteiden suuntaajana: Opetuksen kaikkivoipaisuus kyseenalaistuu, kun pääasiallisena oppimisympäristönä eivät toimikaan opettaja, kirja ja luokkahuone vaan kieltä opitaan monista muistakin lähteistä.
+1	Toista	toinen	PRON	Pron	Case=Par|Number=Sing|PronType=Rcp	2	det	_	_
+2	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+3	opittaessa	oppia	VERB	V	Case=Ine|InfForm=2|VerbForm=Inf|Voice=Pass	5	advcl	_	_
+4	kieliympäristö	kieli#ympäristö	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+5	toimii	toimia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	sekä	sekä	CCONJ	C	_	8	cc:preconj	_	_
+7	oppimisen	oppiminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	8	nmod:poss	_	_
+8	resurssina	resurssi	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+9	että	että	CCONJ	C	_	12	cc	_	_
+10	opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	tavoitteiden	tavoite	NOUN	N	Case=Gen|Number=Plur	12	nmod:poss	_	_
+12	suuntaajana	suuntaaja	NOUN	N	Case=Ess|Derivation=Ja|Number=Sing	8	conj	_	SpaceAfter=No
+13	:	:	PUNCT	Punct	_	5	punct	_	_
+14	Opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	kaikkivoipaisuus	kaikki#voipaisuus	NOUN	N	Case=Nom|Derivation=Inen,Vs|Number=Sing	16	nsubj	_	_
+16	kyseenalaistuu	kyseenalaistua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	22	punct	_	_
+18	kun	kun	SCONJ	C	_	22	mark	_	_
+19	pääasiallisena	pää#asiallinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Llinen|Number=Sing	20	amod	_	_
+20	oppimisympäristönä	oppia#ympäristö	NOUN	N	Case=Ess|Number=Sing	22	obl	_	_
+21	eivät	ei	AUX	V	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	22	aux	_	_
+22	toimikaan	toimia	VERB	V	Clitic=Kaan|Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+23	opettaja	opettaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	22	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	Punct	_	25	punct	_	_
+25	kirja	kirja	NOUN	N	Case=Nom|Number=Sing	23	conj	_	_
+26	ja	ja	CCONJ	C	_	27	cc	_	_
+27	luokkahuone	luokka#huone	NOUN	N	Case=Nom|Number=Sing	23	conj	_	_
+28	vaan	vaan	CCONJ	C	_	29	cc	_	_
+29	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	23	conj	_	_
+30	opitaan	oppia	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	22	conj	_	_
+31	monista	moni	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	33	det	_	_
+32	muistakin	muu	PRON	Pron	Case=Ela|Clitic=Kin|Number=Plur|PronType=Ind	33	det	_	_
+33	lähteistä	lähde	NOUN	N	Case=Ela|Number=Plur	30	obl	_	SpaceAfter=No
+34	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 24
+# text = Opetusta ei myöskään ole mielekästä rakentaa kielen hierarkkisuuden varaan kuvitellen, että muodoltaan komplek-sisempi rakenne olisi aina myös yksinkertaista rakennetta hankalammin omaksuttavissa.
+1	Opetusta	opetus	NOUN	N	Case=Par|Number=Sing	6	obj	_	_
+2	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	myöskään	myöskään	ADV	Adv	_	5	advmod	_	_
+4	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	mielekästä	mielekäs	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
+6	rakentaa	rakentaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	xcomp:ds	_	_
+7	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	hierarkkisuuden	hierarkkisuus	NOUN	N	Case=Gen|Derivation=Inen,Vs|Number=Sing	6	obl	_	_
+9	varaan	varaan	ADP	Adp	AdpType=Post	8	case	_	_
+10	kuvitellen	kuvitella	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	6	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	22	punct	_	_
+12	että	että	SCONJ	C	_	22	mark	_	_
+13	muodoltaan	muoto	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	14	nmod	_	_
+14	komplek-sisempi	komplek#sinen	ADJ	A	Case=Nom|Degree=Cmp|Derivation=Inen|Number=Sing	15	amod	_	_
+15	rakenne	rakenne	NOUN	N	Case=Nom|Number=Sing	22	obj	_	_
+16	olisi	olla	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	aux:pass	_	_
+17	aina	aina	ADV	Adv	_	22	advmod	_	_
+18	myös	myös	ADV	Adv	_	22	advmod	_	_
+19	yksinkertaista	yksinkertainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	20	amod	_	_
+20	rakennetta	rakenne	NOUN	N	Case=Par|Number=Sing	22	obj	_	_
+21	hankalammin	hankalammin	ADV	Adv	_	22	advmod	_	_
+22	omaksuttavissa	omaksua	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	10	ccomp	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 25
+# text = Tarve käyttää rakenteita itselle merkityksellisten asioiden ilmaisemiseen vaikuttaa raken-teen oppimisen helppouteen tai vaikeuteen.
+1	Tarve	tarve	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+2	käyttää	käyttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	1	acl	_	_
+3	rakenteita	rakenne	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+4	itselle	itse	PRON	Pron	Case=All|Number=Sing|PronType=Ind	7	nmod	_	_
+5	merkityksellisten	merkityksellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	6	amod	_	_
+6	asioiden	asia	NOUN	N	Case=Gen|Number=Plur	7	nmod:gobj	_	_
+7	ilmaisemiseen	ilmaiseminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	2	obl	_	_
+8	vaikuttaa	vaikuttaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	raken-teen	raken#ne	NOUN	N	Case=Gen|Number=Sing	10	nmod:gsubj	_	_
+10	oppimisen	oppiminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	11	nmod:poss	_	_
+11	helppouteen	helppous	NOUN	N	Case=Ill|Number=Sing	8	obl	_	_
+12	tai	tai	CCONJ	C	_	13	cc	_	_
+13	vaikeuteen	vaikeus	NOUN	N	Case=Ill|Derivation=Vs|Number=Sing	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 26
+# text = Parhaimmillaan opetus vastaa oppijan arjen tarpeisiin ja auttaa jäsentämään ja syventämään luokan ulkopuolelta opittua.
+1	Parhaimmillaan	parhaimmillaan	ADV	Adv	_	3	advmod	_	_
+2	opetus	opetus	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	vastaa	vastata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	oppijan	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	5	nmod:poss	_	_
+5	arjen	arki	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	tarpeisiin	tarve	NOUN	N	Case=Ill|Number=Plur	3	obl	_	_
+7	ja	ja	CCONJ	C	_	8	cc	_	_
+8	auttaa	auttaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	_
+9	jäsentämään	jäsentää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	8	xcomp:ds	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	syventämään	syventää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	9	conj	_	_
+12	luokan	luokka	NOUN	N	Case=Gen|Number=Sing	14	obl	_	_
+13	ulkopuolelta	ulko#puoli	NOUN	N	Case=Abl|Number=Sing	12	case	_	_
+14	opittua	oppia	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	9	obj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 27
+# text = Haasteena onkin hahmottaa hyvin eri tilanteissa elävät suomen kielen oppijat kokonaisvaltaisesti yhteiskunnan jäseninä ja kehittää kielen oppimisympäristöä siten, että se paremmin vastaisi heidän elämänsä viestintätarpeita ja että oppiminen siirtyisi yhä enemmän luokan ja paperimuotoisen oppimateriaalin ulkopuolelle aitoihin viestintätilanteisiin.
+1	Haasteena	haaste	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	onkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	hahmottaa	hahmottaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	1	csubj:cop	_	_
+4	hyvin	hyvin	ADV	Adv	_	5	advmod	_	_
+5	eri	eri	ADJ	A	_	6	amod	_	_
+6	tilanteissa	tilanne	NOUN	N	Case=Ine|Number=Plur	7	obl	_	_
+7	elävät	elää	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	_
+8	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	oppijat	oppija	NOUN	N	Case=Nom|Derivation=Ja|Number=Plur	3	obj	_	_
+11	kokonaisvaltaisesti	kokonais#valtaisesti	ADV	Adv	Derivation=Sti	13	advmod	_	_
+12	yhteiskunnan	yhteis#kunta	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	jäseninä	jäsen	NOUN	N	Case=Ess|Number=Plur	3	obl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	kehittää	kehittää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+16	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	oppimisympäristöä	oppia#ympäristö	NOUN	N	Case=Par|Number=Sing	15	obj	_	_
+18	siten	siten	ADV	Adv	_	15	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	Punct	_	23	punct	_	_
+20	että	että	SCONJ	C	_	23	mark	_	_
+21	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	23	nsubj	_	_
+22	paremmin	hyvin	ADV	Adv	Degree=Cmp	23	advmod	_	_
+23	vastaisi	vastata	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	ccomp	_	_
+24	heidän	hän	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	25	nmod:poss	_	_
+25	elämänsä	elämä	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	26	nmod:poss	_	_
+26	viestintätarpeita	viestintä#tarve	NOUN	N	Case=Par|Number=Plur	23	obj	_	_
+27	ja	ja	CCONJ	C	_	30	cc	_	_
+28	että	että	SCONJ	C	_	30	mark	_	_
+29	oppiminen	oppiminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	30	nsubj	_	_
+30	siirtyisi	siirtyä	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	23	conj	_	_
+31	yhä	yhä	ADV	Adv	_	32	advmod	_	_
+32	enemmän	enemmän	ADV	Adv	_	30	advmod	_	_
+33	luokan	luokka	NOUN	N	Case=Gen|Number=Sing	39	nmod:poss	_	_
+34	ja	ja	CCONJ	C	_	36	cc	_	_
+35	paperimuotoisen	paperi#muotoinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	36	amod	_	_
+36	oppimateriaalin	oppimateriaali	NOUN	N	Case=Gen|Number=Sing	33	conj	_	_
+37	ulkopuolelle	ulkopuolelle	ADP	Adp	AdpType=Post	33	case	_	_
+38	aitoihin	aito	ADJ	A	Case=Ill|Degree=Pos|Number=Plur	39	amod	_	_
+39	viestintätilanteisiin	viestintä#tilanne	NOUN	N	Case=Ill|Number=Plur	30	obl	_	SpaceAfter=No
+40	.	.	PUNCT	Punct	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 28
+# text = Opetuksen ja oppijoiden arjen saumattomampaa yhteyttä on peräänkuulutettu monista eri näkökulmista.
+1	Opetuksen	opetus	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	oppijoiden	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	1	conj	_	_
+4	arjen	arki	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+5	saumattomampaa	saumaton	ADJ	A	Case=Par|Degree=Cmp|Derivation=Inen|Number=Sing	6	amod	_	_
+6	yhteyttä	yhteys	NOUN	N	Case=Par|Derivation=Vs|Number=Sing	8	obj	_	_
+7	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+8	peräänkuulutettu	perään#kuuluttaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	monista	moni	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	11	det	_	_
+10	eri	eri	ADJ	A	_	11	amod	_	_
+11	näkökulmista	näkö#kulma	NOUN	N	Case=Ela|Number=Plur	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 29
+# text = Erittelemme seuraavassa kolmea sellaista näkökulmaa, jotka ovat nähdäksemme jääneet vähälle huomiolle S2-opetuksen käytännön toteutuksessa mutta joiden soveltaminen kuitenkin auttaisi käytännön opetusta vastaamaan oppijoiden kielenkäyttö-haasteisiin.
+1	Erittelemme	eritellä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	seuraavassa	seuraava	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	5	amod	_	_
+3	kolmea	kolme	NUM	Num	Case=Par|Number=Sing|NumType=Card	5	nummod	_	_
+4	sellaista	sellainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	5	amod	_	_
+5	näkökulmaa	näkö#kulma	NOUN	N	Case=Par|Number=Sing	1	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	10	punct	_	_
+7	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	_
+8	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+9	nähdäksemme	nähdä	VERB	V	Case=Tra|InfForm=1|Number=Sing|Number[psor]=Plur|Person[psor]=1|VerbForm=Inf|Voice=Act	10	advcl	_	_
+10	jääneet	jäädä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	_
+11	vähälle	vähä	ADJ	A	Case=All|Degree=Pos|Number=Sing	12	amod	_	_
+12	huomiolle	huomio	NOUN	N	Case=All|Number=Sing	10	obl	_	_
+13	S2-opetuksen	S2#opetus	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	käytännön	käytäntö	NOUN	N	Case=Gen|Number=Sing	15	nmod:gsubj	_	_
+15	toteutuksessa	toteutus	NOUN	N	Case=Ine|Number=Sing	10	obl	_	_
+16	mutta	mutta	CCONJ	C	_	20	cc	_	_
+17	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	18	nmod:gobj	_	_
+18	soveltaminen	soveltaminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	20	nsubj	_	_
+19	kuitenkin	kuitenkin	ADV	Adv	_	20	advmod	_	_
+20	auttaisi	auttaa	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	conj	_	_
+21	käytännön	käytäntö	NOUN	N	Case=Gen|Number=Sing	22	nmod:gobj	_	_
+22	opetusta	opetus	NOUN	N	Case=Par|Number=Sing	23	nsubj	_	_
+23	vastaamaan	vastata	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	20	xcomp:ds	_	_
+24	oppijoiden	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	25	nmod:poss	_	_
+25	kielenkäyttö-haasteisiin	kielenkäyttö#haaste	NOUN	N	Case=Ill|Number=Plur	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 30
+# text = Ensinnäkin sosiokulttuurisesta ja pedagogisesta näkökulmasta on analysoitu oppimisympäristöä ja sen tarjoamia affordansseja eli oppimisen resursseja sekä pohdittu oppimisympäristön laajentamista siten, että se mahdollistaisi paremmin kielenoppijan jäsenyyksiä eri yhteisöissä.
+1	Ensinnäkin	ensinnä	ADV	Adv	Clitic=Kin	7	advmod	_	_
+2	sosiokulttuurisesta	sosio#kulttuurinen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Inen|Number=Sing	5	amod	_	_
+3	ja	ja	CCONJ	C	_	4	cc	_	_
+4	pedagogisesta	pedagoginen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Inen|Number=Sing	2	conj	_	_
+5	näkökulmasta	näkö#kulma	NOUN	N	Case=Ela|Number=Sing	7	obl	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	analysoitu	analysoida	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	oppimisympäristöä	oppia#ympäristö	NOUN	N	Case=Par|Number=Sing	7	obj	_	_
+9	ja	ja	CCONJ	C	_	12	cc	_	_
+10	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	11	nsubj	_	_
+11	tarjoamia	tarjota	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	12	acl	_	_
+12	affordansseja	affordanssi	NOUN	N	Case=Par|Number=Plur	8	conj	_	_
+13	eli	eli	CCONJ	C	_	15	cc	_	_
+14	oppimisen	oppiminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	15	nmod:poss	_	_
+15	resursseja	resurssi	NOUN	N	Case=Par|Number=Plur	8	conj	_	_
+16	sekä	sekä	CCONJ	C	_	17	cc	_	_
+17	pohdittu	pohtia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	conj	_	_
+18	oppimisympäristön	oppia#ympäristö	NOUN	N	Case=Gen|Number=Sing	19	nmod:gobj	_	_
+19	laajentamista	laajentaminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	17	obj	_	_
+20	siten	siten	ADV	Adv	_	17	advmod	_	SpaceAfter=No
+21	,	,	PUNCT	Punct	_	24	punct	_	_
+22	että	että	SCONJ	C	_	24	mark	_	_
+23	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	24	nsubj	_	_
+24	mahdollistaisi	mahdollistaa	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+25	paremmin	hyvin	ADV	Adv	Degree=Cmp	24	advmod	_	_
+26	kielenoppijan	kielen#oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	27	nmod:poss	_	_
+27	jäsenyyksiä	jäsenyys	NOUN	N	Case=Par|Number=Plur	24	obj	_	_
+28	eri	eri	ADJ	A	_	29	amod	_	_
+29	yhteisöissä	yhteisö	NOUN	N	Case=Ine|Number=Plur	24	obl	_	SpaceAfter=No
+30	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 31
+# text = Toiseksi niin kielen oppimisen tutkimus kuin käytännön pedagogiikkakin ovat osoittaneet funktionaalisen kielenopetuksen tarpeen , mutta käytännön sovellukset ovat olleet vähäisiä.
+1	Toiseksi	toinen	ADJ	Num	Case=Tra|Derivation=Inen|Number=Sing|NumType=Ord	10	obl	_	_
+2	niin	niin	ADV	Adv	_	5	cc:preconj	_	_
+3	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	4	nmod:gobj	_	_
+4	oppimisen	oppiminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	5	nmod:gobj	_	_
+5	tutkimus	tutkimus	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	_
+6	kuin	kuin	CCONJ	C	_	8	cc	_	_
+7	käytännön	käytäntö	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	pedagogiikkakin	pedagogiikka	NOUN	N	Case=Nom|Clitic=Kin|Number=Plur	5	conj	_	_
+9	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+10	osoittaneet	osoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+11	funktionaalisen	funktionaalinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	12	amod	_	_
+12	kielenopetuksen	kielen#opetus	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	tarpeen	tarve	NOUN	N	Case=Gen|Number=Sing	10	obj	_	_
+14	,	,	PUNCT	Punct	_	20	punct	_	_
+15	mutta	mutta	CCONJ	C	_	20	cc	_	_
+16	käytännön	käytäntö	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	sovellukset	sovellus	NOUN	N	Case=Nom|Number=Plur	20	nsubj:cop	_	_
+18	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+19	olleet	olla	AUX	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	20	cop	_	_
+20	vähäisiä	vähäinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	10	conj	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 32
+# text = Erittelemme siksi funktionaalista pedagogiikkaa, jonka perustana on käyttöpohjainen käsitys kielestä.
+1	Erittelemme	eritellä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	siksi	siksi	ADV	Adv	_	1	advmod	_	_
+3	funktionaalista	funktionaalinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	pedagogiikkaa	pedagogiikka	NOUN	N	Case=Par|Number=Sing	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	7	punct	_	_
+6	jonka	joka	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	7	nmod:poss	_	_
+7	perustana	perusta	NOUN	N	Case=Ess|Number=Sing	4	acl:relcl	_	_
+8	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+9	käyttöpohjainen	käyttö#pohjainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	10	amod	_	_
+10	käsitys	käsitys	NOUN	N	Case=Nom|Number=Sing	7	nsubj:cop	_	_
+11	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 33
+# text = Kolmanneksi keskitymme siihen, millaisin tehtävin oppimishaasteisiin voidaan vastata.
+1	Kolmanneksi	kolmas	ADJ	Num	Case=Tra|Number=Sing|NumType=Ord	2	obl	_	_
+2	keskitymme	keskittyä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	9	punct	_	_
+5	millaisin	millainen	ADJ	A	Case=Ins|Degree=Pos|Derivation=Lainen|Number=Plur	6	advmod	_	_
+6	tehtävin	tehdä	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+7	oppimishaasteisiin	oppia#haaste	NOUN	N	Case=Ill|Number=Plur	9	obl	_	_
+8	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	aux	_	_
+9	vastata	vastata	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 34
+# text = Pohdimme Cumminsin analysoimia näkökulmia: tehtävien merkityksellisyyttä, sitouttavuutta ja kognitiivista haasteellisuutta sekä oppijan tuen tarvetta osana kielen ja sisältöjen oppimista.
+1	Pohdimme	pohtia	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Cumminsin	Cummins	PROPN	N	Case=Gen|Number=Sing	3	nsubj	_	_
+3	analysoimia	analysoida	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	4	acl	_	_
+4	näkökulmia	näkö#kulma	NOUN	N	Case=Par|Number=Plur	1	obj	_	SpaceAfter=No
+5	:	:	PUNCT	Punct	_	7	punct	_	_
+6	tehtävien	tehtävä	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	merkityksellisyyttä	merkityksellisyys	NOUN	N	Case=Par|Number=Sing	4	appos	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	sitouttavuutta	sitouttavuus	NOUN	N	Case=Par|Derivation=Vs|Number=Sing	7	conj	_	_
+10	ja	ja	CCONJ	C	_	12	cc	_	_
+11	kognitiivista	kognitiivinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	12	amod	_	_
+12	haasteellisuutta	haasteellisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	7	conj	_	_
+13	sekä	sekä	CCONJ	C	_	16	cc	_	_
+14	oppijan	oppija	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	15	nmod:poss	_	_
+15	tuen	tuki	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	tarvetta	tarve	NOUN	N	Case=Par|Number=Sing	7	conj	_	_
+17	osana	osa	NOUN	N	Case=Ess|Number=Sing	16	nmod	_	_
+18	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	21	nmod:gobj	_	_
+19	ja	ja	CCONJ	C	_	20	cc	_	_
+20	sisältöjen	sisältö	NOUN	N	Case=Gen|Number=Plur	18	conj	_	_
+21	oppimista	oppiminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 35
+# text = Tehtävätyyppejä on analysoitu myös muun muassa kognitiivisissa oppimistutkimuksissa erityisesti niiden kompleksisuuden näkökulmasta.
+1	Tehtävätyyppejä	tehtävä#tyyppi	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	analysoitu	analysoida	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	myös	myös	ADV	Adv	_	8	advmod	_	_
+5	muun	muun	ADV	Adv	_	8	advmod	_	_
+6	muassa	muassa	ADV	Adv	_	5	fixed	_	_
+7	kognitiivisissa	kognitiivinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Plur	8	amod	_	_
+8	oppimistutkimuksissa	oppia#tutkimus	NOUN	N	Case=Ine|Number=Plur	3	obl	_	_
+9	erityisesti	erityisesti	ADV	Adv	Derivation=Sti	12	advmod	_	_
+10	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	11	det	_	_
+11	kompleksisuuden	kompleksisuus	NOUN	N	Case=Gen|Derivation=Vs|Number=Sing	12	nmod:poss	_	_
+12	näkökulmasta	näkö#kulma	NOUN	N	Case=Ela|Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 36
+# text = Niissä kompleksisuus on tyypillisesti nähty kognitiivisen vaativuuden, suunnitteluajan ja ennakkotiedon vaikutuksena tehtävän tekemiseen.
+1	Niissä	se	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	5	obl	_	_
+2	kompleksisuus	kompleksisuus	NOUN	N	Case=Nom|Derivation=Inen,Vs|Number=Sing	5	obj	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+4	tyypillisesti	tyypillisesti	ADV	Adv	Derivation=Sti	5	advmod	_	_
+5	nähty	nähdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	kognitiivisen	kognitiivinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	7	amod	_	_
+7	vaativuuden	vaativuus	NOUN	N	Case=Gen|Derivation=Vs|Number=Sing	12	nmod:poss	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	suunnitteluajan	suunnitteluaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	7	conj	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	ennakkotiedon	ennakko#tieto	NOUN	N	Case=Gen|Number=Sing	7	conj	_	_
+12	vaikutuksena	vaikutus	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+13	tehtävän	tehtävä	NOUN	N	Case=Gen|Number=Sing	14	nmod:gobj	_	_
+14	tekemiseen	tekeminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 37
+# text = Keskitymme tässä kuitenkin Cumminsin näkökulmiin, koska nähdäksemme ne toimivat paremmin pedagogisen suunnittelun työvälineinä.
+1	Keskitymme	keskittyä	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	tässä	tämä	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	1	obl	_	_
+3	kuitenkin	kuitenkin	ADV	Adv	_	1	advmod	_	_
+4	Cumminsin	Cummins	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	näkökulmiin	näkö#kulma	NOUN	N	Case=Ill|Number=Plur	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	10	punct	_	_
+7	koska	koska	SCONJ	C	_	10	mark	_	_
+8	nähdäksemme	nähdä	VERB	V	Case=Tra|InfForm=1|Number=Sing|Number[psor]=Plur|Person[psor]=1|VerbForm=Inf|Voice=Act	10	advcl	_	_
+9	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	10	nsubj	_	_
+10	toimivat	toimia	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+11	paremmin	hyvin	ADV	Adv	Degree=Cmp	10	advmod	_	_
+12	pedagogisen	pedagoginen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	13	amod	_	_
+13	suunnittelun	suunnittelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	14	nmod:poss	_	_
+14	työvälineinä	työ#väline	NOUN	N	Case=Ess|Number=Plur	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	1	punct	_	SpacesAfter=\s\n
+

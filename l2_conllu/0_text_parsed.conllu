@@ -1,0 +1,1523 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tarton yliopiston vuoden 1803 peruskirjassa oli varattu paikka viron ja suomen kielen opettajalle, joka myöhemmin nimettiin lehtoriksi.
+1	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+3	vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+4	1803	1803	NUM	Num	NumType=Card	3	nummod	_	_
+5	peruskirjassa	perus#kirja	NOUN	N	Case=Ine|Number=Sing	7	obl	_	_
+6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	varattu	varata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	paikka	paikka	NOUN	N	Case=Nom|Number=Sing	7	obj	_	_
+9	viron	viro	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	9	conj	_	_
+12	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	opettajalle	opettaja	NOUN	N	Case=All|Derivation=Ja|Number=Sing	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	17	punct	_	_
+15	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	obj	_	_
+16	myöhemmin	myöhemmin	ADV	Adv	_	17	advmod	_	_
+17	nimettiin	nimetä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	13	acl:relcl	_	_
+18	lehtoriksi	lehtori	NOUN	N	Case=Tra|Number=Sing	17	xcomp:ds	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 2
+# text = Suomen kieltä päätettiin opettaa, koska niin sanotulta Vanha-Suomen alueelta tuli paljon opiskelijoita uuteen yliopistoon.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	4	obj	_	_
+3	päätettiin	päättää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	opettaa	opettaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	11	punct	_	_
+6	koska	koska	SCONJ	C	_	11	mark	_	_
+7	niin	niin	ADV	Adv	_	8	advmod	_	_
+8	sanotulta	sanottu	ADJ	A	Case=Abl|Degree=Pos|Number=Sing	10	amod	_	_
+9	Vanha-Suomen	Vanha#Suomi	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	alueelta	alue	NOUN	N	Case=Abl|Number=Sing	11	obl	_	_
+11	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+12	paljon	paljon	ADV	Adv	_	13	advmod	_	_
+13	opiskelijoita	opiskelija	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	11	nsubj	_	_
+14	uuteen	uusi	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	15	amod	_	_
+15	yliopistoon	yli#opisto	NOUN	N	Case=Ill|Number=Sing	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 3
+# text = Yliopiston ensimmäiseksi viron ja suomen kielen lehtoriksi tuli Friedrich David Lenz, joka oli samalla myös ensimmäinen suomen kielen yliopistonlehtori maailmalla.
+1	Yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	ensimmäiseksi	ensimmäinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Sing	8	xcomp	_	_
+3	viron	viro	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	3	conj	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	lehtoriksi	lehtori	NOUN	N	Case=Tra|Number=Sing	8	xcomp	_	_
+8	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	Friedrich	Friedrich	PROPN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+10	David	David	PROPN	N	Case=Nom|Number=Sing	9	flat:name	_	_
+11	Lenz	Lenz	PROPN	N	Case=Nom|Number=Sing	9	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	20	punct	_	_
+13	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	20	nsubj:cop	_	_
+14	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
+15	samalla	samalla	ADV	Adv	_	20	advmod	_	_
+16	myös	myös	ADV	Adv	_	20	advmod	_	_
+17	ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	20	nummod	_	_
+18	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+19	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+20	yliopistonlehtori	yli#opiston#lehtori	NOUN	N	Case=Nom|Number=Sing	9	acl:relcl	_	_
+21	maailmalla	maailma	NOUN	N	Case=Ade|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 4
+# text = On kuitenkin epäselvää, missä määrin Lenz osasi suomea tai missä hän sitä opiskeli.
+1	On	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	kuitenkin	kuitenkin	ADV	Adv	_	3	advmod	_	_
+3	epäselvää	epä#selvä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	8	punct	_	_
+5	missä	mikä	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	8	advmod	_	_
+6	määrin	määrin	ADV	Adv	_	5	fixed	_	_
+7	Lenz	Lenz	PROPN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+8	osasi	osata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	csubj:cop	_	_
+9	suomea	suomi	NOUN	N	Case=Par|Number=Sing	8	obj	_	_
+10	tai	tai	CCONJ	C	_	14	cc	_	_
+11	missä	mikä	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	14	obl	_	_
+12	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	14	obj	_	_
+14	opiskeli	opiskella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 5
+# text = Professori Paul Aristen mukaan suomen kielen opetus yliopistossa ei kuitenkaan noussut jaloilleen, ja sen syynä oli aiempien lehtoreiden kyvyttömyys suomen kielessä.
+1	Professori	professori	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Paul	Paul	PROPN	N	Case=Nom|Number=Sing	11	obl	_	_
+3	Aristen	Ariste	PROPN	N	Case=Gen|Number=Sing	2	flat:name	_	_
+4	mukaan	mukaan	ADP	Adp	AdpType=Post	2	case	_	_
+5	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:gobj	_	_
+7	opetus	opetus	NOUN	N	Case=Nom|Number=Sing	11	nsubj	_	_
+8	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	7	nmod	_	_
+9	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	11	aux	_	_
+10	kuitenkaan	kuitenkaan	ADV	Adv	_	11	advmod	_	_
+11	noussut	nousta	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+12	jaloilleen	jalka	NOUN	N	Case=All|Number=Plur|Person[psor]=3	11	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	16	punct	_	_
+14	ja	ja	CCONJ	C	_	16	cc	_	_
+15	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	16	nmod:poss	_	_
+16	syynä	syy	NOUN	N	Case=Ess|Number=Sing	11	conj	_	_
+17	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+18	aiempien	aiempi	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	lehtoreiden	lehtori	NOUN	N	Case=Gen|Number=Plur	20	nmod:poss	_	_
+20	kyvyttömyys	kyvyttömyys	NOUN	N	Case=Nom|Number=Sing	16	nsubj:cop	_	_
+21	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+22	kielessä	kieli	NOUN	N	Case=Ine|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	11	punct	_	_
+
+# sent_id = 6
+# text = Opetustoiminta rajoittui siis käytännössä viron kielen opettamiseen.
+1	Opetustoiminta	opetus#toiminta	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	rajoittui	rajoittua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	siis	siis	ADV	Adv	_	2	advmod	_	_
+4	käytännössä	käytäntö	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+5	viron	viro	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:gobj	_	_
+7	opettamiseen	opettaminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 7
+# text = Vuonna 1844 Suomen kansalliseepoksen “Kalevala” tekijä Elias Lönnrot oli matkustanut Viroon, ja hänen toimestaan syntyi yhteistyö paikallisten sivistyneiden kanssa kielen ja kansanrunouden alalla.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	12	obl	_	_
+2	1844	1844	NUM	Num	NumType=Card	1	nummod	_	_
+3	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kansalliseepoksen	kansalli#seepos	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+5	“	“	PUNCT	Punct	_	6	punct	_	SpaceAfter=No
+6	Kalevala	Kalevala	PROPN	N	Case=Nom|Number=Sing	8	compound:nn	_	SpaceAfter=No
+7	”	”	PUNCT	Punct	_	6	punct	_	_
+8	tekijä	tekijä	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	9	compound:nn	_	_
+9	Elias	Elias	PROPN	N	Case=Nom|Number=Sing	12	nsubj	_	_
+10	Lönnrot	Lönnrot	PROPN	N	Case=Nom|Number=Sing	9	flat:name	_	_
+11	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	_
+12	matkustanut	matkustaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+13	Viroon	Viro	PROPN	N	Case=Ill|Number=Sing	12	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	18	punct	_	_
+15	ja	ja	CCONJ	C	_	18	cc	_	_
+16	hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	_
+17	toimestaan	toimi	NOUN	N	Case=Ela|Number=Sing|Person[psor]=3	18	obl	_	_
+18	syntyi	syntyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+19	yhteistyö	yhteis#työ	NOUN	N	Case=Nom|Number=Sing	18	nsubj	_	_
+20	paikallisten	paikallinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	21	amod	_	_
+21	sivistyneiden	sivistynyt	NOUN	N	Case=Gen|Number=Plur	18	obl	_	_
+22	kanssa	kanssa	ADP	Adp	AdpType=Post	21	case	_	_
+23	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	26	nmod:poss	_	_
+24	ja	ja	CCONJ	C	_	25	cc	_	_
+25	kansanrunouden	kansan#runous	NOUN	N	Case=Gen|Number=Sing	23	conj	_	_
+26	alalla	ala	NOUN	N	Case=Ade|Number=Sing	18	obl	_	SpaceAfter=No
+27	.	.	PUNCT	Punct	_	12	punct	_	_
+
+# sent_id = 8
+# text = Lönnrotista tuli myös Viron oppineiden seuran kunniajäsen ja seuran aloitteesta saivat alkunsa monipuoliset virolaisten ja suomalaisten kontaktit.
+1	Lönnrotista	Lönnrot	PROPN	N	Case=Ela|Number=Sing	2	obl	_	_
+2	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	myös	myös	ADV	Adv	_	7	advmod	_	_
+4	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	oppineiden	oppine	NOUN	N	Case=Gen|Number=Plur	6	nmod:poss	_	_
+6	seuran	seura	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kunniajäsen	kunnia#jäsen	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+8	ja	ja	CCONJ	C	_	11	cc	_	_
+9	seuran	seura	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	aloitteesta	aloite	NOUN	N	Case=Ela|Number=Sing	11	obl	_	_
+11	saivat	saada	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	alkunsa	alku	NOUN	N	Case=Gen|Derivation=U|Number=Sing|Person[psor]=3	11	obj	_	_
+13	monipuoliset	monipuolinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	17	amod	_	_
+14	virolaisten	virolainen	NOUN	N	Case=Gen|Derivation=Lainen|Number=Plur	17	nmod:poss	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	suomalaisten	suomalainen	NOUN	N	Case=Gen|Derivation=Lainen|Number=Plur	14	conj	_	_
+17	kontaktit	kontakti	NOUN	N	Case=Nom|Number=Plur	11	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 9
+# text = 1860-luvulla kulttuuriyhteydet Suomen ja Viron välillä kehittyivät nopealla vauhdilla, ja syntyi monia henkilökohtaisia kontakteja Viron ja Suomen kansallisen liikkeen toimijoiden välillä.
+1	1860-luvulla	1860#luku	NOUN	N	Case=Ade|Number=Sing	7	obl	_	_
+2	kulttuuriyhteydet	kulttuuri#yhteys	NOUN	N	Case=Nom|Derivation=Vs|Number=Plur	7	nsubj	_	_
+3	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	3	conj	_	_
+6	välillä	välillä	ADP	Adp	AdpType=Post	3	case	_	_
+7	kehittyivät	kehittyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	nopealla	nopea	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	9	amod	_	_
+9	vauhdilla	vauhti	NOUN	N	Case=Ade|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	12	punct	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	syntyi	syntyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+13	monia	moni	PRON	Pron	Case=Par|Number=Plur|PronType=Ind	15	det	_	_
+14	henkilökohtaisia	henkilö#kohtainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	15	amod	_	_
+15	kontakteja	kontakti	NOUN	N	Case=Par|Number=Plur	12	obj	_	_
+16	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	16	conj	_	_
+19	kansallisen	kansallinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	20	amod	_	_
+20	liikkeen	liike	NOUN	N	Case=Gen|Number=Sing	21	nmod:poss	_	_
+21	toimijoiden	toimija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	12	obl	_	_
+22	välillä	välillä	ADP	Adp	AdpType=Post	21	case	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 10
+# text = Tämä näkyi esimerkiksi vastavuoroisina vierailuina ja naapurimaan kielen oppimisena.
+1	Tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	näkyi	näkyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	esimerkiksi	esimerkiksi	ADV	Adv	_	5	advmod	_	_
+4	vastavuoroisina	vasta#vuoroinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+5	vierailuina	vierailu	NOUN	N	Case=Ess|Derivation=U|Number=Plur	2	obl	_	_
+6	ja	ja	CCONJ	C	_	9	cc	_	_
+7	naapurimaan	naapuri#maa	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	9	nmod:gobj	_	_
+9	oppimisena	oppiminen	NOUN	N	Case=Ess|Derivation=Minen|Number=Sing	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 11
+# text = Vuoteen 1881 sijoittuu Lydia Koidulan runo Suomen silta, josta sen jälkeen tuli vakiintunut ilmaisu kuvaamaan suomen ja viron välistä tiivistä yhteyttä.
+1	Vuoteen	vuosi	NOUN	N	Case=Ill|Number=Sing	3	obl	_	_
+2	1881	1881	NUM	Num	NumType=Card	1	nummod	_	_
+3	sijoittuu	sijoittua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Lydia	Lydia	PROPN	N	Case=Nom|Number=Sing	6	nmod:poss	_	_
+5	Koidulan	Koidula	PROPN	N	Case=Gen|Number=Sing	4	flat:name	_	_
+6	runo	runo	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+7	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	silta	silta	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	13	punct	_	_
+10	josta	joka	PRON	Pron	Case=Ela|Number=Sing|PronType=Rel	13	obl	_	_
+11	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	13	obl	_	_
+12	jälkeen	jälkeen	ADP	Adp	AdpType=Post	11	case	_	_
+13	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+14	vakiintunut	vakiintua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	15	acl	_	_
+15	ilmaisu	ilmaisu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	13	nsubj	_	_
+16	kuvaamaan	kuvata	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+17	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	viron	viro	PROPN	N	Case=Gen|Number=Sing	17	conj	_	_
+20	välistä	välinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	22	amod	_	_
+21	tiivistä	tiivis	ADJ	A	Case=Par|Degree=Pos|Number=Sing	22	amod	_	_
+22	yhteyttä	yhteys	NOUN	N	Case=Par|Derivation=Vs|Number=Sing	16	obj	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 12
+# text = Akateeminen suomen kielen opetus- ja tutkimustyö alkoi Tarton yliopistossa vuonna 1874, kun viron kielen lehtoriksi valittiin Mihkel Veske.
+1	Akateeminen	akateeminen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+2	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	opetus-	opetus	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+5	ja	ja	CCONJ	C	_	6	cc	_	_
+6	tutkimustyö	tutkimus#työ	NOUN	N	Case=Nom|Number=Sing	4	conj	_	_
+7	alkoi	alkaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	7	obl	_	_
+10	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	7	obl	_	_
+11	1874	1874	NUM	Num	NumType=Card	10	nummod	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	17	punct	_	_
+13	kun	kun	SCONJ	C	_	17	mark	_	_
+14	viron	viro	PROPN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	lehtoriksi	lehtori	NOUN	N	Case=Tra|Number=Sing	17	xcomp:ds	_	_
+17	valittiin	valita	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	_
+18	Mihkel	Mihkel	PROPN	N	Case=Nom|Number=Sing	17	obj	_	_
+19	Veske	Veske	PROPN	N	Case=Nom|Number=Sing	18	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 13
+# text = Vuonna 1876 hän aloitti suomen kieliopin kurssit.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+2	1876	1876	NUM	Num	NumType=Card	1	nummod	_	_
+3	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	aloitti	aloittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kieliopin	kieli#oppi	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kurssit	kurssi	NOUN	N	Case=Nom|Number=Plur	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 14
+# text = Hän oli ensimmäinen Leipzigin yliopistossa valmistunut ja erikoiskoulutuksen saanut fennougristi.
+1	Hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+3	ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	10	nummod	_	_
+4	Leipzigin	Leipzig	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	6	obl	_	_
+6	valmistunut	valmistua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	10	acl	_	_
+7	ja	ja	CCONJ	C	_	9	cc	_	_
+8	erikoiskoulutuksen	erikois#koulutus	NOUN	N	Case=Gen|Number=Sing	9	obj	_	_
+9	saanut	saada	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	6	conj	_	_
+10	fennougristi	fennougristi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 15
+# text = Hänen seuraajansa Karl August Hermann opetti kieliopin lisäksi myös suomalaista kirjallisuutta.
+1	Hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+2	seuraajansa	seuraaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing|Person[psor]=3	3	compound:nn	_	_
+3	Karl	Karl	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+4	August	August	PROPN	N	Case=Nom|Number=Sing	3	flat:name	_	_
+5	Hermann	Hermann	PROPN	N	Case=Nom|Number=Sing	3	flat:name	_	_
+6	opetti	opettaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	kieliopin	kieli#oppi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	_
+8	lisäksi	lisäksi	ADP	Adp	AdpType=Post	7	case	_	_
+9	myös	myös	ADV	Adv	_	11	advmod	_	_
+10	suomalaista	suomalainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	11	amod	_	_
+11	kirjallisuutta	kirjallisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	6	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 16
+# text = 1900-luvun taitteessa ilmestyivät ensimmäinen suomen kielen oppikirja virolaisille ja ensimmäinen virolais-suomalainen sanakirja.
+1	1900-luvun	1900#luku	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	taitteessa	taite	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	ilmestyivät	ilmestyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	7	nummod	_	_
+5	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	oppikirja	oppi#kirja	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+8	virolaisille	virolainen	NOUN	N	Case=All|Derivation=Lainen|Number=Plur	7	nmod	_	_
+9	ja	ja	CCONJ	C	_	12	cc	_	_
+10	ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	12	nummod	_	_
+11	virolais-suomalainen	virolainen#suomalainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Sing	12	amod	_	_
+12	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 17
+# text = Erityisen suomalais-ugrilaisten kielten professuurin perustamisen aikeet tulivat esiin jo vuonna 1898, jolloin Hermann ehdotti suunnitelmaa historian ja kielitieteen tiedekunnan dekaanille.
+1	Erityisen	erityinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	suomalais-ugrilaisten	suomalainen#ugrilainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	3	amod	_	_
+3	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	4	nmod:poss	_	_
+4	professuurin	professuuri	NOUN	N	Case=Gen|Number=Sing	5	nmod:gobj	_	_
+5	perustamisen	perustaminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	6	nmod:poss	_	_
+6	aikeet	aie	NOUN	N	Case=Nom|Number=Plur	7	nsubj	_	_
+7	tulivat	tulla	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	esiin	esiin	ADV	Adv	_	7	advmod	_	_
+9	jo	jo	ADV	Adv	_	10	advmod	_	_
+10	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	7	obl	_	_
+11	1898	1898	NUM	Num	NumType=Card	10	nummod	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	15	punct	_	_
+13	jolloin	jolloin	ADV	Adv	_	15	advmod	_	_
+14	Hermann	Hermann	PROPN	N	Case=Nom|Number=Sing	15	nsubj	_	_
+15	ehdotti	ehdottaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+16	suunnitelmaa	suunnitelma	NOUN	N	Case=Par|Number=Sing	15	obj	_	_
+17	historian	historia	NOUN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	kielitieteen	kieli#tiede	NOUN	N	Case=Gen|Number=Sing	17	conj	_	_
+20	tiedekunnan	tiede#kunta	NOUN	N	Case=Gen|Number=Sing	21	nmod:poss	_	_
+21	dekaanille	dekaani	PROPN	N	Case=All|Number=Sing	15	obl	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 18
+# text = Vaikka suhtautuminen asiaan oli myönteistä rehtoraatin tasolla, asia ei kuitenkaan edennyt.
+1	Vaikka	vaikka	SCONJ	C	_	5	mark	_	_
+2	suhtautuminen	suhtautuminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	5	nsubj:cop	_	_
+3	asiaan	asia	NOUN	N	Case=Ill|Number=Sing	2	nmod	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	myönteistä	myönteinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	12	advcl	_	_
+6	rehtoraatin	rehto#raatti	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	tasolla	taso	NOUN	N	Case=Ade|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	5	punct	_	_
+9	asia	asia	NOUN	N	Case=Nom|Number=Sing	12	nsubj	_	_
+10	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	12	aux	_	_
+11	kuitenkaan	kuitenkaan	ADV	Adv	_	12	advmod	_	_
+12	edennyt	edetä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	12	punct	_	_
+
+# sent_id = 19
+# text = 1900-luvun alussa suomea alkoivat opettaa useat Helsingin yliopistossa opiskelleet, mm. kielenuudistaja Johannes Aavik.
+1	1900-luvun	1900#luku	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	alussa	alku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	4	obl	_	_
+3	suomea	Suomi	PROPN	N	Case=Par|Number=Sing	5	obj	_	_
+4	alkoivat	alkaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	opettaa	opettaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	useat	usea	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+7	Helsingin	Helsinki	PROPN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	9	obl	_	_
+9	opiskelleet	opiskella	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	13	acl	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	13	punct	_	_
+11	mm.	muun#muassa	ADV	Adv	_	13	advmod	_	_
+12	kielenuudistaja	kielen#uudistaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	13	compound:nn	_	_
+13	Johannes	Johannes	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+14	Aavik.	Aaviko	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	_
+
+# sent_id = 20
+# text = Suomalais-virolaisten yhteyksien kannalta vuosisadan alku oli erittäin tiivistä – useat myöhemmät itsenäisen Viron vaikuttajat opiskelivat tai oleskelivat Suomessa.
+1	Suomalais-virolaisten	Suomalainen#virolainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	2	amod	_	_
+2	yhteyksien	yhteys	NOUN	N	Case=Gen|Derivation=Vs|Number=Plur	3	nmod:poss	_	_
+3	kannalta	kanta	NOUN	N	Case=Abl|Number=Sing	8	obl	_	_
+4	vuosisadan	vuosi#sata	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	alku	alku	NOUN	N	Case=Nom|Derivation=U|Number=Sing	8	nsubj:cop	_	_
+6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	erittäin	erittäin	ADV	Adv	Derivation=Ttain	8	advmod	_	_
+8	tiivistä	tiivis	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
+9	–	–	PUNCT	Punct	_	8	punct	_	_
+10	useat	usea	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+11	myöhemmät	myöhä	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	14	amod	_	_
+12	itsenäisen	itsenäinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	13	amod	_	_
+13	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	vaikuttajat	vaikuttaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Plur	15	nsubj	_	_
+15	opiskelivat	opiskella	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+16	tai	tai	CCONJ	C	_	17	cc	_	_
+17	oleskelivat	oleskella	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+18	Suomessa	Suomi	PROPN	N	Case=Ine|Number=Sing	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 21
+# text = Vuoden 1905 Venäjän vallankumousyritys toi Suomeen myös poliittisia pakolaisia, kirjallisen innostuksen etsijöitä tai muuten vain Suomen ystäviä.
+1	Vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+2	1905	1905	NUM	Num	NumType=Card	1	nummod	_	_
+3	Venäjän	Venäjä	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	vallankumousyritys	vallan#kumous#yritys	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+5	toi	tuoda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	Suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	5	obl	_	_
+7	myös	myös	ADV	Adv	_	9	advmod	_	_
+8	poliittisia	poliittinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	9	amod	_	_
+9	pakolaisia	pakolainen	NOUN	N	Case=Par|Derivation=Lainen|Number=Plur	5	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	13	punct	_	_
+11	kirjallisen	kirjallinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	12	amod	_	_
+12	innostuksen	innostus	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	etsijöitä	etsijä	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	9	conj	_	_
+14	tai	tai	CCONJ	C	_	18	cc	_	_
+15	muuten	muuten	ADV	Adv	_	18	advmod	_	_
+16	vain	vain	ADV	Adv	_	18	advmod	_	_
+17	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	18	nmod:poss	_	_
+18	ystäviä	ystävä	NOUN	N	Case=Par|Number=Plur	9	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 22
+# text = Vuonna 1919 Tarton yliopistosta tuli vironkielinen yliopisto, ja vuonna 1920 perustettiin suomen kielen professuuri.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+2	1919	1919	NUM	Num	NumType=Card	1	nummod	_	_
+3	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	yliopistosta	yli#opisto	NOUN	N	Case=Ela|Number=Sing	5	obl	_	_
+5	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	vironkielinen	viron#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	7	amod	_	_
+7	yliopisto	yli#opisto	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	12	punct	_	_
+9	ja	ja	CCONJ	C	_	12	cc	_	_
+10	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	12	obl	_	_
+11	1920	1920	NUM	Num	NumType=Card	10	nummod	_	_
+12	perustettiin	perustaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	_
+13	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	professuuri	professuuri	NOUN	N	Case=Nom|Number=Sing	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 23
+# text = Sitä ennen päätettiin Tarton yliopiston filologian laitoksen kokouksessa aloittaa suomen kielen opetus, josta tuli pakollinen oppiaine viroa opiskeleville.
+1	Sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	3	obl	_	_
+2	ennen	ennen	ADP	Adp	AdpType=Post	1	case	_	_
+3	päätettiin	päättää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	filologian	filologia	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	laitoksen	laitos	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kokouksessa	kokous	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+9	aloittaa	aloittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
+10	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	opetus	opetus	NOUN	N	Case=Nom|Number=Sing	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	15	punct	_	_
+14	josta	joka	PRON	Pron	Case=Ela|Number=Sing|PronType=Rel	15	obl	_	_
+15	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+16	pakollinen	pakollinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	17	amod	_	_
+17	oppiaine	oppi#aine	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	_
+18	viroa	viro	PROPN	N	Case=Par|Number=Sing	19	obj	_	_
+19	opiskeleville	opiskella	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 24
+# text = Yliopistolla tarvittiin päteviä opettajia ja tämän vuoksi heitä kutsuttiin Suomesta, esimerkiksi itämerensuomalaisten kielten professorina työskenteli vuosina 1919–1925 Lauri Kettunen.
+1	Yliopistolla	yli#opisto	NOUN	N	Case=Ade|Number=Sing	2	obl	_	_
+2	tarvittiin	tarvita	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	päteviä	pätevä	ADJ	A	Case=Par|Degree=Pos|Number=Plur	4	amod	_	_
+4	opettajia	opettaja	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	2	obj	_	_
+5	ja	ja	CCONJ	C	_	9	cc	_	_
+6	tämän	tämä	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	9	obl	_	_
+7	vuoksi	vuoksi	ADP	Adp	AdpType=Post	6	case	_	_
+8	heitä	hän	PRON	Pron	Case=Par|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	kutsuttiin	kutsua	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	_
+10	Suomesta	Suomi	PROPN	N	Case=Ela|Number=Sing	9	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	16	punct	_	_
+12	esimerkiksi	esimerkiksi	ADV	Adv	_	15	advmod	_	_
+13	itämerensuomalaisten	itä#meren#suomalainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	14	amod	_	_
+14	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	15	nmod:poss	_	_
+15	professorina	professori	NOUN	N	Case=Ess|Number=Sing	16	obl	_	_
+16	työskenteli	työskennellä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+17	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	16	obl	_	_
+18	1919–1925	1919–1925	NUM	Num	NumType=Card	17	nummod	_	_
+19	Lauri	Lauri	PROPN	N	Case=Nom|Number=Sing	16	nsubj	_	_
+20	Kettunen	Kettunen	PROPN	N	Case=Nom|Number=Sing	19	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 25
+# text = Ensimmäiseksi suomen kielen lehtoriksi tiedekuntaneuvosto valitsi Hilja Kettusen, joka työskenteli yliopistossa vuosina 1920–1924.
+1	Ensimmäiseksi	ensimmäinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+2	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	lehtoriksi	lehtori	NOUN	N	Case=Tra|Number=Sing	6	xcomp:ds	_	_
+5	tiedekuntaneuvosto	tiede#kunta#neuvosto	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+6	valitsi	valita	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Hilja	Hilja	PROPN	N	Case=Nom|Number=Sing	6	obj	_	_
+8	Kettusen	Kettunen	PROPN	N	Case=Gen|Number=Sing	7	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	_
+11	työskenteli	työskennellä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+12	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	11	obl	_	_
+13	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	11	obl	_	_
+14	1920–1924	1920–1924	NUM	Num	NumType=Card	13	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 26
+# text = Hän laati opetussuunnitelman, jonka mukaan suomen kielen opinnot kestivät yhteensä kaksi vuotta.
+1	Hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	laati	laataa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	opetussuunnitelman	opetus#suunnitelma	NOUN	N	Case=Gen|Number=Sing	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	10	punct	_	_
+5	jonka	joka	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	10	obl	_	_
+6	mukaan	mukaan	ADP	Adp	AdpType=Post	5	case	_	_
+7	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	opinnot	opinto	NOUN	N	Case=Nom|Number=Plur	10	nsubj	_	_
+10	kestivät	kestää	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+11	yhteensä	yhteensä	ADV	Adv	_	12	advmod	_	_
+12	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	13	nummod	_	_
+13	vuotta	vuosi	NOUN	N	Case=Par|Number=Sing	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 27
+# text = Toisen vuoden jatkokurssin lopuksi opiskelijoiden oli pystyttävä kääntämään sanakirjan avulla suomenkielisiä tekstejä viroksi ja toisin päin.
+1	Toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	jatkokurssin	jatko#kurssi	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	lopuksi	loppu	ADP	N	Case=Tra|Number=Sing	7	obl	_	_
+5	opiskelijoiden	opiskelija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	7	nsubj	_	_
+6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	pystyttävä	pystyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
+8	kääntämään	kääntää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	sanakirjan	sana#kirja	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	avulla	apu	NOUN	N	Case=Ade|Derivation=U|Number=Sing	8	obl	_	_
+11	suomenkielisiä	suomen#kielinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	12	amod	_	_
+12	tekstejä	teksti	NOUN	N	Case=Par|Number=Plur	8	obj	_	_
+13	viroksi	viro	PROPN	N	Case=Tra|Number=Sing	8	obl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	toisin	toisin	ADV	Adv	_	13	conj	_	_
+16	päin	päin	ADV	Adv	_	15	fixed	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 28
+# text = Kettusen kurssit osoittautuivat erittäin suosituiksi.
+1	Kettusen	Kettunen	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kurssit	kurssi	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	_
+3	osoittautuivat	osoittautua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	erittäin	erittäin	ADV	Adv	Derivation=Ttain	5	advmod	_	_
+5	suosituiksi	suosittu	ADJ	A	Case=Tra|Degree=Pos|Number=Plur	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 29
+# text = Vuosina 1924–1944 työskenteli yliopistossa suomen kielen lehtorina Aino Suits.
+1	Vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	3	obl	_	_
+2	1924–1944	1924–1944	NUM	Num	NumType=Card	1	nummod	_	_
+3	työskenteli	työskennellä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+5	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	lehtorina	lehtori	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+8	Aino	Aino	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+9	Suits	Suits	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 30
+# text = Siihen aikaan sijoittuvat myös heimoliikkeen kultaiset vuodet , jolloin suomen kieltä opetettiin yliopiston ohessa myös kielikerhoissa, lukioissa sekä muissa oppilaitoksissa.
+1	Siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	2	det	_	_
+2	aikaan	aika	NOUN	N	Case=Ill|Number=Sing	3	obl	_	_
+3	sijoittuvat	sijoittua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	myös	myös	ADV	Adv	_	7	advmod	_	_
+5	heimoliikkeen	heimo#liike	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	kultaiset	kultainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	7	amod	_	_
+7	vuodet	vuosi	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	_
+8	,	,	PUNCT	Punct	_	12	punct	_	_
+9	jolloin	jolloin	ADV	Adv	_	12	advmod	_	_
+10	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	12	obj	_	_
+12	opetettiin	opettaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	_
+13	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	ohessa	ohi	NOUN	N	Case=Ine|Number=Sing	12	obl	_	_
+15	myös	myös	ADV	Adv	_	16	advmod	_	_
+16	kielikerhoissa	kieli#kerho	NOUN	N	Case=Ine|Number=Plur	12	obl	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	18	punct	_	_
+18	lukioissa	lukio	NOUN	N	Case=Ine|Number=Plur	16	conj	_	_
+19	sekä	sekä	CCONJ	C	_	21	cc	_	_
+20	muissa	muu	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	21	det	_	_
+21	oppilaitoksissa	oppi#laitos	NOUN	N	Case=Ine|Number=Plur	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 31
+# text = Yhteydenpito suomalaisten ja virolaisten välillä oli erittäin tiivistä, ja virolaisen sivistyneistön piirissä oli suomen kielen osaaminen aika tavanomaista ja suosittua.
+1	Yhteydenpito	yhteyden#pito	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+2	suomalaisten	suomalainen	NOUN	N	Case=Gen|Derivation=Lainen|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	C	_	4	cc	_	_
+4	virolaisten	virolainen	NOUN	N	Case=Gen|Derivation=Lainen|Number=Plur	2	conj	_	_
+5	välillä	välillä	ADP	Adp	AdpType=Post	2	case	_	_
+6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	erittäin	erittäin	ADV	Adv	Derivation=Ttain	8	advmod	_	_
+8	tiivistä	tiivis	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	19	punct	_	_
+10	ja	ja	CCONJ	C	_	19	cc	_	_
+11	virolaisen	virolainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	12	amod	_	_
+12	sivistyneistön	sivistyneistö	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	piirissä	piiri	NOUN	N	Case=Ine|Number=Sing	8	conj	_	_
+14	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+15	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	17	nmod:gsubj	_	_
+17	osaaminen	osaaminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	19	nsubj:cop	_	_
+18	aika	aika	ADV	Adv	_	19	advmod	_	_
+19	tavanomaista	tavan#omainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	8	conj	_	_
+20	ja	ja	CCONJ	C	_	21	cc	_	_
+21	suosittua	suosittu	ADJ	A	Case=Par|Degree=Pos|Number=Sing	19	conj	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 32
+# text = Olennainen merkkipaalu Suomen ja Viron välisessä virallisessa kanssakäymisessä oli vuonna 1937 solmittu valtioiden välinen kulttuurisopimus, joka tuli uudestaan voimaan vuonna 1992.
+1	Olennainen	olennainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	merkkipaalu	merkki#paalu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	15	nsubj:cop	_	_
+3	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	3	conj	_	_
+6	välisessä	välinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	8	amod	_	_
+7	virallisessa	virallinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Llinen|Number=Sing	8	amod	_	_
+8	kanssakäymisessä	kanssakäyminen	NOUN	N	Case=Ine|Derivation=Minen|Number=Sing	2	nmod	_	_
+9	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	_
+10	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	12	obl	_	_
+11	1937	1937	NUM	Num	NumType=Card	10	nummod	_	_
+12	solmittu	solmia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+13	valtioiden	valtio	NOUN	N	Case=Gen|Number=Plur	14	nmod:poss	_	_
+14	välinen	välinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	15	amod	_	_
+15	kulttuurisopimus	kulttuuri#sopimus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	18	punct	_	_
+17	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	18	nsubj	_	_
+18	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
+19	uudestaan	uudestaan	ADV	Adv	_	18	advmod	_	_
+20	voimaan	voimaan	ADV	Adv	_	18	compound:prt	_	_
+21	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	18	obl	_	_
+22	1992	1992	NUM	Num	NumType=Card	21	nummod	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 33
+# text = Sopimus keskittyi suomalais-virolaisten tiedellisten, kirjallisten ja taiteellisten suhteiden kehittämiseen ja edistämiseen painottaen keskinäisen kielitaidon merkitystä.
+1	Sopimus	sopimus	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	keskittyi	keskittyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	suomalais-virolaisten	suomalainen#virolainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	9	amod	_	_
+4	tiedellisten	tiedellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	9	amod	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	6	punct	_	_
+6	kirjallisten	kirjallinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	4	conj	_	_
+7	ja	ja	CCONJ	C	_	8	cc	_	_
+8	taiteellisten	taiteellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	4	conj	_	_
+9	suhteiden	suhde	NOUN	N	Case=Gen|Number=Plur	10	nmod:gobj	_	_
+10	kehittämiseen	kehittäminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	2	obl	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	edistämiseen	edistäminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Sing	10	conj	_	_
+13	painottaen	painottaa	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	_	_
+14	keskinäisen	keskinäinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	15	amod	_	_
+15	kielitaidon	kielitaidon	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	16	nmod:poss	_	_
+16	merkitystä	merkitys	NOUN	N	Case=Par|Number=Sing	13	obj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 34
+# text = Sopimuksessa sitouduttiin ylläpitämään viron kielen lehtorin virkaa Helsingin yliopistossa ja suomen kielen lehtorin virkaa Tarton yliopistossa.
+1	Sopimuksessa	sopimus	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+2	sitouduttiin	sitoutua	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	ylläpitämään	ylläpitää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	viron	viro	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	lehtorin	lehtori	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	virkaa	virka	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+8	Helsingin	Helsinki	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+10	ja	ja	CCONJ	C	_	14	cc	_	_
+11	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	lehtorin	lehtori	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	virkaa	virka	NOUN	N	Case=Par|Number=Sing	7	conj	_	_
+15	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 35
+# text = Tärkeänä pidettiin myös sitä, että koulun oppikirjoissa kiinnitetään huomiota toisen sopimusmaan kansan kulttuuriin, elämään ja oloihin ja siihen, että ne ovat kirjoitetut totuudenmukaisesti ja ystävällisessä hengessä.
+1	Tärkeänä	tärkeä	ADJ	A	Case=Ess|Degree=Pos|Number=Sing	2	xcomp	_	_
+2	pidettiin	pitää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	myös	myös	ADV	Adv	_	4	advmod	_	_
+4	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	9	punct	_	_
+6	että	että	SCONJ	C	_	9	mark	_	_
+7	koulun	koulu	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	oppikirjoissa	oppi#kirja	NOUN	N	Case=Ine|Number=Plur	9	obl	_	_
+9	kiinnitetään	kiinnittää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
+10	huomiota	huomio	NOUN	N	Case=Par|Number=Sing	9	obj	_	_
+11	toisen	toinen	PRON	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	12	det	_	_
+12	sopimusmaan	sopimus#maa	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	kansan	kansa	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	kulttuuriin	kulttuuri	NOUN	N	Case=Ill|Number=Sing	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	16	punct	_	_
+16	elämään	elämä	NOUN	N	Case=Ill|Number=Sing	14	conj	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	oloihin	olo	NOUN	N	Case=Ill|Number=Plur	14	conj	_	_
+19	ja	ja	CCONJ	C	_	20	cc	_	_
+20	siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	14	conj	_	SpaceAfter=No
+21	,	,	PUNCT	Punct	_	25	punct	_	_
+22	että	että	SCONJ	C	_	25	mark	_	_
+23	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	25	obj	_	_
+24	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux:pass	_	_
+25	kirjoitetut	kirjoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	20	ccomp	_	_
+26	totuudenmukaisesti	totuuden#mukaisesti	ADV	Adv	Derivation=Sti	25	advmod	_	_
+27	ja	ja	CCONJ	C	_	28	cc	_	_
+28	ystävällisessä	ystävällinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Llinen|Number=Sing	26	conj	_	_
+29	hengessä	henki	NOUN	N	Case=Ine|Number=Sing	26	conj	_	SpaceAfter=No
+30	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 36
+# text = Maailmansotien välisenä aikana ilmestyi Virossa myös paljon suomen kielen oppikirjoja sekä yleiskatsauksia suomalaisesta kulttuurista.
+1	Maailmansotien	maailman#sota	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	välisenä	välinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Inen|Number=Sing	3	amod	_	_
+3	aikana	aika	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+4	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	4	obl	_	_
+6	myös	myös	ADV	Adv	_	10	advmod	_	_
+7	paljon	paljon	ADV	Adv	_	10	advmod	_	_
+8	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	oppikirjoja	oppi#kirja	NOUN	N	Case=Par|Number=Plur	4	nsubj	_	_
+11	sekä	sekä	CCONJ	C	_	12	cc	_	_
+12	yleiskatsauksia	yleis#katsaus	NOUN	N	Case=Par|Number=Plur	10	conj	_	_
+13	suomalaisesta	suomalainen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Lainen|Number=Sing	14	amod	_	_
+14	kulttuurista	kulttuuri	NOUN	N	Case=Ela|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 37
+# text = Neuvostoliiton vallattua Viron vuosina 1939–1940 heikkenivät Suomen ja Viron väliset yhteydet.
+1	Neuvostoliiton	Neuvostoliitto	PROPN	N	Case=Gen|Number=Sing	2	nsubj	_	_
+2	vallattua	vallata	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
+3	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	2	obl	_	_
+5	1939–1940	1939–1940	NUM	Num	NumType=Card	4	nummod	_	_
+6	heikkenivät	heiketä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+8	ja	ja	CCONJ	C	_	9	cc	_	_
+9	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	7	conj	_	_
+10	väliset	välinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	11	amod	_	_
+11	yhteydet	yhteys	NOUN	N	Case=Nom|Derivation=Vs|Number=Plur	6	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 38
+# text = Kanssakäyminen kuihtui vähiin ja vuosina 1940–1944 se loppui lähes kokonaan.
+1	Kanssakäyminen	kanssakäyminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	2	nsubj	_	_
+2	kuihtui	kuihtua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vähiin	vähiin	ADV	Adv	_	2	advmod	_	_
+4	ja	ja	CCONJ	C	_	8	cc	_	_
+5	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	8	obl	_	_
+6	1940–1944	1940–1944	NUM	Num	NumType=Card	5	nummod	_	_
+7	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	_
+8	loppui	loppua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	lähes	lähes	ADV	Adv	_	10	advmod	_	_
+10	kokonaan	kokonaan	ADV	Adv	_	8	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 39
+# text = Toisen maailmansodan jälkeiset muutokset Viron poliittisessa tilanteessa johtivat muutoksiin myös kulttuurielämässä, mukaan lukien vieraiden kielten opiskelussa.
+1	Toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	maailmansodan	maailman#sota	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	jälkeiset	jälkeinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	4	amod	_	_
+4	muutokset	muutos	NOUN	N	Case=Nom|Number=Plur	8	nsubj	_	_
+5	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	poliittisessa	poliittinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	7	amod	_	_
+7	tilanteessa	tilanne	NOUN	N	Case=Ine|Number=Sing	4	nmod	_	_
+8	johtivat	johtaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	muutoksiin	muutos	NOUN	N	Case=Ill|Number=Plur	8	obl	_	_
+10	myös	myös	ADV	Adv	_	11	advmod	_	_
+11	kulttuurielämässä	kulttuuri#elämä	NOUN	N	Case=Ine|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	14	punct	_	_
+13	mukaan	mukaan	ADV	Adv	_	14	compound:prt	_	_
+14	lukien	lukea	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	11	advcl	_	_
+15	vieraiden	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	17	nmod:gobj	_	_
+17	opiskelussa	opiskelu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 40
+# text = Ulkomaailman kanssa käytävä vuorovaikutus väheni minimiin, ja kielikurssit lopetettiin.
+1	Ulkomaailman	ulko#maailma	NOUN	N	Case=Gen|Number=Sing	3	obl	_	_
+2	kanssa	kanssa	ADP	Adp	AdpType=Post	1	case	_	_
+3	käytävä	käytää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+4	vuorovaikutus	vuoro#vaikutus	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+5	väheni	vähetä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	minimiin	minimiin	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	ja	ja	CCONJ	C	_	10	cc	_	_
+9	kielikurssit	kieli#kurssi	NOUN	N	Case=Nom|Number=Plur	10	obj	_	_
+10	lopetettiin	lopettaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 41
+# text = Suomen kielen opiskelumahdollisuudet rajoittuivat vain Tarton yliopistoon, jossa suomen kielen yleiskurssi oli pakollinen osa viron kielen ja kirjallisuuden opiskelijoiden opetussuunnitelmaa.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	opiskelumahdollisuudet	opiskelu#mahdollisuus	NOUN	N	Case=Nom|Derivation=Llinen,Vs|Number=Plur	4	nsubj	_	_
+4	rajoittuivat	rajoittua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	vain	vain	ADV	Adv	_	7	advmod	_	_
+6	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	yliopistoon	yli#opisto	NOUN	N	Case=Ill|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	15	punct	_	_
+9	jossa	joka	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	15	obl	_	_
+10	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	yleiskurssi	yleis#kurssi	NOUN	N	Case=Nom|Number=Sing	15	nsubj:cop	_	_
+13	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	_
+14	pakollinen	pakollinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	15	amod	_	_
+15	osa	osa	NOUN	N	Case=Nom|Number=Sing	7	acl:relcl	_	_
+16	viron	viro	PROPN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	kirjallisuuden	kirjallisuus	NOUN	N	Case=Gen|Derivation=Llinen,Vs|Number=Sing	17	conj	_	_
+20	opiskelijoiden	opiskelija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	21	nmod:poss	_	_
+21	opetussuunnitelmaa	opetus#suunnitelma	NOUN	N	Case=Par|Number=Sing	15	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 42
+# text = Vuosina 1944–1977 toimi Tarton yliopiston viron kielen ja suomalais-ugrilaisten kielten oppituolin esimiehenä Paul Ariste, joka on tunnettu Virossa fennougristiikan merkkihenkilönä.
+1	Vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	3	obl	_	_
+2	1944–1977	1944–1977	NUM	Num	NumType=Card	1	nummod	_	_
+3	toimi	toimia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	viron	viro	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+8	ja	ja	CCONJ	C	_	10	cc	_	_
+9	suomalais-ugrilaisten	suomalainen#ugrilainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	10	amod	_	_
+10	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	7	conj	_	_
+11	oppituolin	oppi#tuoli	NOUN	N	Case=Gen|Number=Sing	7	conj	_	_
+12	esimiehenä	esi#mies	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+13	Paul	Paul	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+14	Ariste	Ariste	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	18	punct	_	_
+16	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	18	obj	_	_
+17	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux:pass	_	_
+18	tunnettu	tuntea	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
+19	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	18	obl	_	_
+20	fennougristiikan	fennougristiikka	NOUN	N	Case=Gen|Number=Sing	21	nmod:poss	_	_
+21	merkkihenkilönä	merkki#henkilö	NOUN	N	Case=Ess|Number=Sing	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 43
+# text = Lisäksi suomen lehtorina toimi Paula Palmeos.
+1	Lisäksi	lisäksi	ADV	Adv	_	4	advmod	_	_
+2	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	lehtorina	lehtori	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+4	toimi	toimia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Paula	Paula	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+6	Palmeos	Palmeos	PROPN	N	Case=Nom|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 44
+# text = 1940-luvun lopussa perustettiin Tallinnan Pedagoginen Instituutti , jossa myös aloitettiin suomen kielen opetus.
+1	1940-luvun	1940#luku	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	lopussa	loppu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	3	obl	_	_
+3	perustettiin	perustaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	Tallinnan	Tallinna	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+5	Pedagoginen	pedagoginen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	Instituutti	instituutti	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	jossa	joka	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	10	obl	_	_
+9	myös	myös	ADV	Adv	_	10	advmod	_	_
+10	aloitettiin	aloittaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	6	acl:relcl	_	_
+11	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	opetus	opetus	NOUN	N	Case=Nom|Number=Sing	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 45
+# text = Aineesta tuli pakollinen niille, jotka opiskelivat viron kielen ja kirjallisuuden opettajiksi..
+1	Aineesta	aine	NOUN	N	Case=Ela|Number=Sing	2	obl	_	_
+2	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pakollinen	pakollinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	2	nsubj	_	_
+4	niille	se	PRON	Pron	Case=All|Number=Plur|PronType=Dem	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	7	punct	_	_
+6	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	opiskelivat	opiskella	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+8	viron	viro	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	kirjallisuuden	kirjallisuus	NOUN	N	Case=Gen|Derivation=Llinen,Vs|Number=Sing	9	conj	_	_
+12	opettajiksi	opettaja	NOUN	N	Case=Tra|Derivation=Ja|Number=Plur	7	xcomp:ds	_	SpaceAfter=No
+13	..	..	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 46
+# text = Suomen kielen alkeiskurssin laajuus vaihteli jonkin verran eri aikoina.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	alkeiskurssin	alkeis#kurssi	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	laajuus	laajuus	NOUN	N	Case=Nom|Derivation=Vs|Number=Sing	5	nsubj	_	_
+5	vaihteli	vaihdella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	jonkin	jokin	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	8	advmod	_	_
+7	verran	verran	ADV	Adv	_	6	fixed	_	_
+8	eri	eri	ADJ	A	_	9	amod	_	_
+9	aikoina	aika	NOUN	N	Case=Ess|Number=Plur	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 47
+# text = Tällä ajanjaksolla oppikirjoja laativat pääasiassa yliopistojen suomen kielen lehtorit, ja ne oli tarkoitettu viron kieltä pääaineena opiskeleville.
+1	Tällä	tämä	PRON	Pron	Case=Ade|Number=Sing|PronType=Dem	2	det	_	_
+2	ajanjaksolla	ajan#jakso	NOUN	N	Case=Ade|Number=Sing	4	obl	_	_
+3	oppikirjoja	oppi#kirja	NOUN	N	Case=Par|Number=Plur	4	obj	_	_
+4	laativat	laataa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	pääasiassa	pääasiassa	ADV	Adv	_	9	advmod	_	_
+6	yliopistojen	yli#opisto	NOUN	N	Case=Gen|Number=Plur	8	nmod:poss	_	_
+7	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	lehtorit	lehtori	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	14	punct	_	_
+11	ja	ja	CCONJ	C	_	14	cc	_	_
+12	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	14	obj	_	_
+13	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+14	tarkoitettu	tarkoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+15	viron	viro	PROPN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	14	obj	_	_
+17	pääaineena	pää#aine	NOUN	N	Case=Ess|Number=Sing	18	obl	_	_
+18	opiskeleville	opiskella	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 48
+# text = Muutokset suhteissa Suomeen alkoivat vuonna 1964 presidentti Urho Kaleva Kekkosen Virossa vierailun jälkeen, jolloin hän korosti, että säilyttääkseen suhteet Viroon Suomen on kommunikoitava niin sanotun koti-Viron eikä ulko-Viron kanssa.
+1	Muutokset	muutos	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
+2	suhteissa	suhde	NOUN	N	Case=Ine|Number=Plur	1	nmod	_	_
+3	Suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	1	nmod	_	_
+4	alkoivat	alkaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+6	1964	1964	NUM	Num	NumType=Card	5	nummod	_	_
+7	presidentti	presidentti	NOUN	N	Case=Nom|Number=Sing	8	compound:nn	_	_
+8	Urho	Urho	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+9	Kaleva	Kaleva	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	_
+10	Kekkosen	Kekkonen	PROPN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	12	nmod	_	_
+12	vierailun	vierailu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	4	obl	_	_
+13	jälkeen	jälkeen	ADP	Adp	AdpType=Post	12	case	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	17	punct	_	_
+15	jolloin	jolloin	ADV	Adv	_	17	advmod	_	_
+16	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	korosti	korostaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	SpaceAfter=No
+18	,	,	PUNCT	Punct	_	25	punct	_	_
+19	että	että	SCONJ	C	_	25	mark	_	_
+20	säilyttääkseen	säilyttää	VERB	V	Case=Tra|InfForm=1|Number=Sing|Person[psor]=3|VerbForm=Inf|Voice=Act	25	advcl	_	_
+21	suhteet	suhde	NOUN	N	Case=Nom|Number=Plur	20	obj	_	_
+22	Viroon	Viro	PROPN	N	Case=Ill|Number=Sing	21	nmod	_	_
+23	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	25	nsubj	_	_
+24	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux	_	_
+25	kommunikoitava	kommunikoida	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	17	ccomp	_	_
+26	niin	niin	ADV	Adv	_	28	advmod	_	_
+27	sanotun	sanottu	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	28	amod	_	_
+28	koti-Viron	koti#viro	NOUN	N	Case=Gen|Number=Sing	25	obl	_	_
+29	eikä	ei	VERB	V	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	30	cc	_	_
+30	ulko-Viron	ulko#Viro	PROPN	N	Case=Gen|Number=Sing	28	conj	_	_
+31	kanssa	kanssa	ADP	Adp	AdpType=Post	28	case	_	SpaceAfter=No
+32	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 49
+# text = Vierailun seurauksena vuonna 1965 avattiin uudelleen laivaliikenne Tallinnan ja Helsingin välillä, lähetettiin kulttuuridelegaatioita vastavuoroisesti ja aloitettiin viro-suomi-sanakirjan laatiminen.
+1	Vierailun	vierailu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	2	nmod:poss	_	_
+2	seurauksena	seuraus	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+3	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+4	1965	1965	NUM	Num	NumType=Card	3	nummod	_	_
+5	avattiin	avata	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	uudelleen	uudelleen	ADV	Adv	_	5	advmod	_	_
+7	laivaliikenne	laiva#liikenne	NOUN	N	Case=Nom|Number=Sing	5	obj	_	_
+8	Tallinnan	Tallinna	PROPN	N	Case=Gen|Number=Sing	5	obl	_	_
+9	ja	ja	CCONJ	C	_	10	cc	_	_
+10	Helsingin	Helsinki	PROPN	N	Case=Gen|Number=Sing	8	conj	_	_
+11	välillä	välillä	ADP	Adp	AdpType=Post	8	case	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	5	punct	_	_
+13	lähetettiin	lähettää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	_
+14	kulttuuridelegaatioita	kulttuuri#delegaatio	NOUN	N	Case=Par|Number=Plur	13	obj	_	_
+15	vastavuoroisesti	vasta#vuoroisesti	ADV	Adv	Derivation=Sti	13	advmod	_	_
+16	ja	ja	CCONJ	C	_	17	cc	_	_
+17	aloitettiin	aloittaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	13	conj	_	_
+18	viro-suomi-sanakirjan	viro#Suomi#sana#kirja	NOUN	N	Case=Gen|Number=Sing	19	nmod:gobj	_	_
+19	laatiminen	laatiminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 50
+# text = Sanakirja ilmestyi vuonna 1972, ja sen painos myytiin loppuun samana vuonna.
+1	Sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	2	obl	_	_
+4	1972	1972	NUM	Num	NumType=Card	3	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	9	punct	_	_
+6	ja	ja	CCONJ	C	_	9	cc	_	_
+7	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	8	nmod:poss	_	_
+8	painos	painos	NOUN	N	Case=Nom|Number=Sing	9	obj	_	_
+9	myytiin	myydä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	_
+10	loppuun	loppu	NOUN	N	Case=Ill|Derivation=U|Number=Sing	9	obl	_	_
+11	samana	sama	PRON	Pron	Case=Ess|Number=Sing|PronType=Ind	12	det	_	_
+12	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 51
+# text = Vuonna 1970 Tarton yliopistoon luotiin suomen kielen professorin virka, johon valittiin Paul Alvre.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+2	1970	1970	NUM	Num	NumType=Card	1	nummod	_	_
+3	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	yliopistoon	yli#opisto	NOUN	N	Case=Ill|Number=Sing	5	obl	_	_
+5	luotiin	luoda	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	professorin	professori	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	virka	virka	NOUN	N	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	12	punct	_	_
+11	johon	joka	PRON	Pron	Case=Ill|Number=Sing|PronType=Rel	12	obl	_	_
+12	valittiin	valita	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	9	acl:relcl	_	_
+13	Paul	Paul	PROPN	N	Case=Nom|Number=Sing	12	obj	_	_
+14	Alvre	Alvre	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 52
+# text = Suomi oli edelleen pakollinen oppiaine ennen kielihistorian kurssia viron kieltä ja kirjallisuutta opiskeleville.
+1	Suomi	Suomi	PROPN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	edelleen	edelleen	ADV	Adv	_	5	advmod	_	_
+4	pakollinen	pakollinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	5	amod	_	_
+5	oppiaine	oppi#aine	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	ennen	ennen	ADP	Adp	AdpType=Prep	8	case	_	_
+7	kielihistorian	kieli#historia	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kurssia	kurssi	NOUN	N	Case=Par|Number=Sing	5	obl	_	_
+9	viron	viro	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	13	obj	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	kirjallisuutta	kirjallisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	10	conj	_	_
+13	opiskeleville	opiskella	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	5	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 53
+# text = Tarton ja Tallinnan yliopistojen lisäksi suomea alettiin opettamaan uudelleen myös kielikouluissa, joissa opetusmateriaalit olivat opettajien itsensä laatimia.
+1	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	Tallinnan	Tallinna	PROPN	N	Case=Gen|Number=Sing	1	conj	_	_
+4	yliopistojen	yli#opisto	NOUN	N	Case=Gen|Number=Plur	7	obl	_	_
+5	lisäksi	lisäksi	ADP	Adp	AdpType=Post	4	case	_	_
+6	suomea	Suomi	PROPN	N	Case=Par|Number=Sing	8	obj	_	_
+7	alettiin	alkaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	opettamaan	opettaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	uudelleen	uudelleen	ADV	Adv	_	8	advmod	_	_
+10	myös	myös	ADV	Adv	_	11	advmod	_	_
+11	kielikouluissa	kieli#koulu	NOUN	N	Case=Ine|Number=Plur	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	18	punct	_	_
+13	joissa	joka	PRON	Pron	Case=Ine|Number=Plur|PronType=Rel	18	obl	_	_
+14	opetusmateriaalit	opetus#materiaali	NOUN	N	Case=Nom|Number=Plur	18	nsubj:cop	_	_
+15	olivat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+16	opettajien	opettaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	17	nmod:poss	_	_
+17	itsensä	itse	PRON	Pron	Case=Nom|Number=Plur|Person[psor]=3|Reflex=Yes	18	nsubj	_	_
+18	laatimia	laatia	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	11	acl:relcl	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 54
+# text = Vähäisessä määrin opetusmateriaalia saatiin myös suoraan Suomesta.
+1	Vähäisessä	vähäinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	määrin	määrin	NOUN	Adv	_	4	obl	_	_
+3	opetusmateriaalia	opetus#materiaali	NOUN	N	Case=Par|Number=Sing	4	obj	_	_
+4	saatiin	saada	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	myös	myös	ADV	Adv	_	7	advmod	_	_
+6	suoraan	suoraan	ADV	Adv	_	7	advmod	_	_
+7	Suomesta	Suomi	PROPN	N	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 55
+# text = Tällä ajanjaksolla suomea opettivat pääasiassa ihmiset, jotka olivat hankkineet tietonsa suomen kielestä yliopistossa opiskellessaan viron kieltä ja kirjallisuutta sekämyöhemmin täydentäneet osaamistaan kielikursseilla tai omaoppisesti.
+1	Tällä	tämä	PRON	Pron	Case=Ade|Number=Sing|PronType=Dem	2	det	_	_
+2	ajanjaksolla	ajan#jakso	NOUN	N	Case=Ade|Number=Sing	4	obl	_	_
+3	suomea	Suomi	PROPN	N	Case=Par|Number=Sing	4	obj	_	_
+4	opettivat	opettaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	pääasiassa	pääasiassa	ADV	Adv	_	6	advmod	_	_
+6	ihmiset	ihminen	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	_
+9	olivat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
+10	hankkineet	hankkia	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	6	acl:relcl	_	_
+11	tietonsa	tieto	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	10	obj	_	_
+12	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	11	nmod	_	_
+14	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	11	nmod	_	_
+15	opiskellessaan	opiskella	VERB	V	Case=Ine|InfForm=2|Number=Sing|Person[psor]=3|VerbForm=Inf|Voice=Act	10	advcl	_	_
+16	viron	viro	PROPN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	15	obj	_	_
+18	ja	ja	CCONJ	C	_	22	cc	_	_
+19	kirjallisuutta	kirjallisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	17	conj	_	_
+20	sekämyöhemmin	sekä#myöhästi	ADV	Adv	Degree=Cmp|Derivation=Sti	21	advmod	_	_
+21	täydentäneet	täydentää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	22	acl	_	_
+22	osaamistaan	osaaminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing|Person[psor]=3	15	obj	_	_
+23	kielikursseilla	kieli#kurssi	NOUN	N	Case=Ade|Number=Plur	21	obl	_	_
+24	tai	tai	CCONJ	C	_	25	cc	_	_
+25	omaoppisesti	omaoppisesti	ADV	Adv	Derivation=Sti	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 56
+# text = Kiinnostusta suomen kieltä ja sen oppimista kohtaan lisäsivät henkilökohtaiset kontaktit ja mahdollisuus nähdä suomalaisia televisiolähetyksiä.
+1	Kiinnostusta	kiinnostus	NOUN	N	Case=Par|Number=Sing	8	obj	_	_
+2	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	1	nmod	_	_
+4	ja	ja	CCONJ	C	_	6	cc	_	_
+5	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	nmod:gsubj	_	_
+6	oppimista	oppiminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	3	conj	_	_
+7	kohtaan	kohtaan	ADP	Adp	AdpType=Post	3	case	_	_
+8	lisäsivät	lisätä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	henkilökohtaiset	henkilö#kohtainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	10	amod	_	_
+10	kontaktit	kontakti	NOUN	N	Case=Nom|Number=Plur	8	nsubj	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	mahdollisuus	mahdollisuus	NOUN	N	Case=Nom|Derivation=Llinen,Vs|Number=Sing	10	conj	_	_
+13	nähdä	nähdä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	12	acl	_	_
+14	suomalaisia	suomalainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	15	amod	_	_
+15	televisiolähetyksiä	televisio#lähetys	NOUN	N	Case=Par|Number=Plur	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 57
+# text = Lisäksi Virossa kuului Suomen radio.
+1	Lisäksi	lisäksi	ADV	Adv	_	3	advmod	_	_
+2	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	kuului	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	radio	radio	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 58
+# text = Näinä vuosina monien ihmisten suomen kielen taito periytyi televisiosta ja radiosta.
+1	Näinä	tämä	PRON	Pron	Case=Ess|Number=Plur|PronType=Dem	2	det	_	_
+2	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	8	obl	_	_
+3	monien	moni	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	4	det	_	_
+4	ihmisten	ihminen	NOUN	N	Case=Gen|Number=Plur	6	nmod:poss	_	_
+5	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	taito	taito	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+8	periytyi	periytyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	televisiosta	televisio	NOUN	N	Case=Ela|Number=Sing	8	obl	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	radiosta	radio	NOUN	N	Case=Ela|Number=Sing	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 59
+# text = 1980-luvun vapautunut ilmapiiri kasvatti räjähdysmäisesti kiinnostusta suomen kieltä kohtaan muiden vieraiden kielten rinnalla.
+1	1980-luvun	1980#luku	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	vapautunut	vapautua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	acl	_	_
+3	ilmapiiri	ilma#piiri	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	kasvatti	kasvattaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	räjähdysmäisesti	räjähdysmäisesti	ADV	Adv	Derivation=Sti	4	advmod	_	_
+6	kiinnostusta	kiinnostus	NOUN	N	Case=Par|Number=Sing	4	obj	_	_
+7	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	6	nmod	_	_
+9	kohtaan	kohtaan	ADP	Adp	AdpType=Post	8	case	_	_
+10	muiden	muu	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	12	det	_	_
+11	vieraiden	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	4	obl	_	_
+13	rinnalla	rinta	ADP	N	Case=Ade|Number=Sing	12	case	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 60
+# text = Yksityisyrittäjyyden myötä perustettiin useita pieniä kielikouluja.
+1	Yksityisyrittäjyyden	yksityis#yrittäjyys	NOUN	N	Case=Gen|Number=Sing	3	obl	_	_
+2	myötä	myötä	ADP	Adp	AdpType=Post	1	case	_	_
+3	perustettiin	perustaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	useita	usea	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
+5	pieniä	pieni	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
+6	kielikouluja	kieli#koulu	NOUN	N	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 61
+# text = Suomea alettiin opettamaan työpaikoilla ja lukuisissa suomen kielen piireissä.
+1	Suomea	Suomi	PROPN	N	Case=Par|Number=Sing	3	obj	_	_
+2	alettiin	alkaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	opettamaan	opettaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	työpaikoilla	työ#paikka	NOUN	N	Case=Ade|Number=Plur	3	obl	_	_
+5	ja	ja	CCONJ	C	_	9	cc	_	_
+6	lukuisissa	lukuinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Plur	9	amod	_	_
+7	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	piireissä	piiri	NOUN	N	Case=Ine|Number=Plur	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 62
+# text = Yleissivistävissä kouluissa suomen kieltä alettiin aluksi opettamaan kerhoissa, myöhemmin opetussuunnitelmaan kuuluvana oppiaineena.
+1	Yleissivistävissä	yleis#sivistävä	ADJ	A	Case=Ine|Degree=Pos|Number=Plur	2	amod	_	_
+2	kouluissa	koulu	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+3	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	7	obj	_	_
+5	alettiin	alkaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	aluksi	aluksi	ADV	Adv	_	5	advmod	_	_
+7	opettamaan	opettaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+8	kerhoissa	kerho	NOUN	N	Case=Ine|Number=Plur	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	13	punct	_	_
+10	myöhemmin	myöhemmin	ADV	Adv	_	12	advmod	_	_
+11	opetussuunnitelmaan	opetus#suunnitelma	NOUN	N	Case=Ill|Number=Sing	12	obl	_	_
+12	kuuluvana	kuulua	VERB	V	Case=Ess|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	oppiaineena	oppi#aine	NOUN	N	Case=Ess|Number=Sing	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 63
+# text = Suomen kieli lisättiin myös ammattikoulujen opetussuunnitelmiin, jossa se kuului pääasiassa palvelualan opetussuunnitelmiin.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kieli	kieli	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
+3	lisättiin	lisätä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	myös	myös	ADV	Adv	_	6	advmod	_	_
+5	ammattikoulujen	ammatti#koulu	NOUN	N	Case=Gen|Number=Plur	6	nmod:poss	_	_
+6	opetussuunnitelmiin	opetus#suunnitelma	NOUN	N	Case=Ill|Number=Plur	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	jossa	joka	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	10	obl	_	_
+9	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	nsubj	_	_
+10	kuului	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	pääasiassa	pääasiassa	ADV	Adv	_	13	advmod	_	_
+12	palvelualan	palvelu#ala	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	opetussuunnitelmiin	opetus#suunnitelma	NOUN	N	Case=Ill|Number=Plur	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 64
+# text = Syynä tähän on suomalaisten turistien suuri määrä Virossa.
+1	Syynä	syy	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	tähän	tämä	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	1	nmod	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	suomalaisten	suomalainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	5	amod	_	_
+5	turistien	turisti	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+6	suuri	suuri	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	määrä	määrä	NOUN	N	Case=Nom|Number=Sing	1	nsubj:cop	_	_
+8	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 65
+# text = Vuoden 1989 syksyllä aloittivat toimintansa ensimmäiset Suomesta lähetetyt suomen kielen ja kulttuurin vierailevat lehtorit Virossa.
+1	Vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	1989	1989	NUM	Num	NumType=Card	1	nummod	_	_
+3	syksyllä	syksy	NOUN	N	Case=Ade|Number=Sing	4	obl	_	_
+4	aloittivat	aloittaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	toimintansa	toiminta	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	4	obj	_	_
+6	ensimmäiset	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Plur|NumType=Ord	14	nummod	_	_
+7	Suomesta	Suomi	PROPN	N	Case=Ela|Number=Sing	8	obl	_	_
+8	lähetetyt	lähettää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+9	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	13	obj	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	kulttuurin	kulttuuri	NOUN	N	Case=Gen|Number=Sing	10	conj	_	_
+13	vierailevat	vierailla	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+14	lehtorit	lehtori	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
+15	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 66
+# text = Tarton yliopiston suomalais-ugrilaisten kielten laitoksella aloitti lehtorina Jussi Kallio ja Tallinnan yliopiston viron kielen laitoksella Riitta Koivisto-Arhinmäki.
+1	Tarton	Tarto	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	suomalais-ugrilaisten	suomalainen#ugrilainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	4	amod	_	_
+4	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	5	nmod:poss	_	_
+5	laitoksella	laitos	NOUN	N	Case=Ade|Number=Sing	6	obl	_	_
+6	aloitti	aloittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	lehtorina	lehtori	NOUN	N	Case=Ess|Number=Sing	6	obl	_	_
+8	Jussi	Jussi	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+9	Kallio	Kallio	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	_
+10	ja	ja	CCONJ	C	_	16	cc	_	_
+11	Tallinnan	Tallinna	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	yliopiston	yli#opisto	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+13	viron	viro	PROPN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	laitoksella	laitos	NOUN	N	Case=Ade|Number=Sing	6	obl	_	_
+16	Riitta	Riitta	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+17	Koivisto-Arhinmäki	Koivisto#Arhinmäki	PROPN	N	Case=Nom|Number=Sing	16	flat:name	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 67
+# text = Molemmat opettivat suomen alkeis- ja jatkokursseja viroa pääaineena opiskeleville.
+1	Molemmat	molemmat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	2	nsubj	_	_
+2	opettivat	opettaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	alkeis-	alkeis	NOUN	N	_	2	obj	_	_
+5	ja	ja	CCONJ	C	_	6	cc	_	_
+6	jatkokursseja	jatko#kurssi	NOUN	N	Case=Par|Number=Plur	4	conj	_	_
+7	viroa	viro	PROPN	N	Case=Par|Number=Sing	9	obj	_	_
+8	pääaineena	pää#aine	NOUN	N	Case=Ess|Number=Sing	9	obl	_	_
+9	opiskeleville	opiskella	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	2	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 68
+# text = Vuodesta 1991 lähtien oli molemmissa yliopistoissa mahdollista opiskella suomen kieltä ja kirjallisuutta pääaineena.
+1	Vuodesta	vuosi	NOUN	N	Case=Ela|Number=Sing	7	obl	_	_
+2	1991	1991	NUM	Num	NumType=Card	1	nummod	_	_
+3	lähtien	lähtien	ADP	Adp	AdpType=Post	1	case	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5	molemmissa	molemmat	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	6	det	_	_
+6	yliopistoissa	yli#opisto	NOUN	N	Case=Ine|Number=Plur	7	obl	_	_
+7	mahdollista	mahdollinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	0	root	_	_
+8	opiskella	opiskella	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	7	xcomp:ds	_	_
+9	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	8	obj	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	kirjallisuutta	kirjallisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	10	conj	_	_
+13	pääaineena	pää#aine	NOUN	N	Case=Ess|Number=Sing	8	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 69
+# text = 1990-luvulla aloitettiin Virossa ensimmäistä kertaa suomen kielen opettajien koulutus – Tallinnan yliopistossa vuonna 1991 ja Tartossa 1999.
+1	1990-luvulla	1990#luku	NOUN	N	Case=Ade|Number=Sing	2	obl	_	_
+2	aloitettiin	aloittaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	2	obl	_	_
+4	ensimmäistä	ensimmäinen	ADJ	Num	Case=Par|Derivation=Inen|Number=Sing|NumType=Ord	5	nummod	_	_
+5	kertaa	kerta	NOUN	N	Case=Par|Number=Sing	2	obl	_	_
+6	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	opettajien	opettaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	9	nmod:poss	_	_
+9	koulutus	koulutus	NOUN	N	Case=Nom|Number=Sing	2	obj	_	_
+10	–	–	PUNCT	Punct	_	12	punct	_	_
+11	Tallinnan	Tallinna	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	yliopistossa	yli#opisto	NOUN	N	Case=Ine|Number=Sing	9	appos	_	_
+13	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	12	nmod	_	_
+14	1991	1991	NUM	Num	NumType=Card	13	nummod	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	Tartossa	Tarto	PROPN	N	Case=Ine|Number=Sing	12	conj	_	_
+17	1999	1999	NUM	Num	NumType=Card	16	nummod	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 70
+# text = Molemmissa yliopistoissa järjestettiin 1990-luvun keskivaiheessa myös täydennyskoulutuksia jo työssä oleville suomenopettajille, joilla ei ollut vastaavaa erikoisosaamista.
+1	Molemmissa	molemmat	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	2	det	_	_
+2	yliopistoissa	yli#opisto	NOUN	N	Case=Ine|Number=Plur	3	obl	_	_
+3	järjestettiin	järjestää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	1990-luvun	1990#luku	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	keskivaiheessa	keski#vaihe	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+6	myös	myös	ADV	Adv	_	7	advmod	_	_
+7	täydennyskoulutuksia	täydennys#koulutus	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+8	jo	jo	ADV	Adv	_	11	advmod	_	_
+9	työssä	työ	NOUN	N	Case=Ine|Number=Sing	10	obl	_	_
+10	oleville	olla	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+11	suomenopettajille	suomen#opettaja	NOUN	N	Case=All|Derivation=Ja|Number=Plur	3	obl	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	13	punct	_	_
+13	joilla	joka	PRON	Pron	Case=Ade|Number=Plur|PronType=Rel	11	acl:relcl	_	_
+14	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	13	aux	_	_
+15	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	13	cop:own	_	_
+16	vastaavaa	vastaava	ADJ	A	Case=Par|Degree=Pos|Number=Sing	17	amod	_	_
+17	erikoisosaamista	erikois#osaaminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	13	nsubj:cop	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 71
+# text = 1990-luvun lopulla suomen kielen opiskelijoiden määrä hieman väheni, mutta Viron liittyessä EU:hun ja mahdollisuus siirtyä töihin Suomeen veivät kiinnostuksen suomen opiskelua kohtaan taas kasvuun 2000-luvun puolivälissä.
+1	1990-luvun	1990#luku	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	lopulla	loppu	NOUN	N	Case=Ade|Derivation=U|Number=Sing	8	obl	_	_
+3	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	opiskelijoiden	opiskelija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	6	nmod:poss	_	_
+6	määrä	määrä	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+7	hieman	hieman	ADV	Adv	_	8	advmod	_	_
+8	väheni	vähetä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	19	punct	_	_
+10	mutta	mutta	CCONJ	C	_	19	cc	_	_
+11	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	12	nsubj	_	_
+12	liittyessä	liittyä	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	19	advcl	_	_
+13	EU:hun	eU	NOUN	N	Case=Ill|Number=Sing	12	obl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	mahdollisuus	mahdollisuus	NOUN	N	Case=Nom|Derivation=Llinen,Vs|Number=Sing	13	conj	_	_
+16	siirtyä	siirtyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	15	acl	_	_
+17	töihin	työ	NOUN	N	Case=Ill|Number=Plur	16	obl	_	_
+18	Suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	17	nmod	_	_
+19	veivät	viedä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+20	kiinnostuksen	kiinnostus	NOUN	N	Case=Gen|Number=Sing	19	obj	_	_
+21	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+22	opiskelua	opiskelu	NOUN	N	Case=Par|Derivation=U|Number=Sing	19	obl	_	_
+23	kohtaan	kohtaan	ADP	Adp	AdpType=Post	22	case	_	_
+24	taas	taas	ADV	Adv	_	19	advmod	_	_
+25	kasvuun	kasvu	NOUN	N	Case=Ill|Derivation=U|Number=Sing	19	obl	_	_
+26	2000-luvun	2000#luku	NOUN	N	Case=Gen|Number=Sing	27	nmod:poss	_	_
+27	puolivälissä	puoli#väli	NOUN	N	Case=Ine|Number=Sing	19	obl	_	SpaceAfter=No
+28	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 72
+# text = Vuonna 2012 tehdyn ja julkaistun kyselyn perusteella oman arvionsa mukaan noin viidesosa Viron väestöstä osasi suomea.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+2	2012	2012	NUM	Num	NumType=Card	1	nummod	_	_
+3	tehdyn	tehdä	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	julkaistun	julkaista	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+6	kyselyn	kysely	NOUN	N	Case=Gen|Derivation=U|Number=Sing	7	nmod:poss	_	_
+7	perusteella	peruste	NOUN	N	Case=Ade|Number=Sing	15	obl	_	_
+8	oman	oma	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
+9	arvionsa	arvio	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	15	obl	_	_
+10	mukaan	mukaan	ADP	Adp	AdpType=Post	9	case	_	_
+11	noin	noin	ADV	Adv	_	12	advmod	_	_
+12	viidesosa	viide#sosa	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	_
+13	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	väestöstä	väestö	NOUN	N	Case=Ela|Number=Sing	12	nmod	_	_
+15	osasi	osata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	suomea	suomi	NOUN	N	Case=Par|Number=Sing	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 73
+# text = Viron vuonna 2023 uudistetussa opintosuunnitelmassa on suomi B2-tasolla pakollisten kielten valikoimassa muiden vieraiden kielten rinnalla.
+1	Viron	Viro	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+2	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+3	2023	2023	NUM	Num	NumType=Card	2	nummod	_	_
+4	uudistetussa	uudistaa	VERB	V	Case=Ine|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+5	opintosuunnitelmassa	opinto#suunnitelma	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	suomi	suomi	PROPN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+8	B2-tasolla	B2#taso	NOUN	N	Case=Ade|Number=Sing	7	nmod	_	_
+9	pakollisten	pakollinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	10	amod	_	_
+10	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	11	nsubj	_	_
+11	valikoimassa	valikoida	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	5	advcl	_	_
+12	muiden	muu	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	14	det	_	_
+13	vieraiden	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	11	obl	_	_
+15	rinnalla	rinta	ADP	N	Case=Ade|Number=Sing	14	case	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 74
+# text = Tämä uudistus on johtanut suomen kielen suosion jyrkkään kasvuun uudelleen.
+1	Tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
+2	uudistus	uudistus	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	johtanut	johtaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	suosion	suosio	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+8	jyrkkään	jyrkkä	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	9	amod	_	_
+9	kasvuun	kasvu	NOUN	N	Case=Ill|Derivation=U|Number=Sing	4	obl	_	_
+10	uudelleen	uudelleen	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 75
+# text = Tällä hetkellä ongelmana on kuitenkin pätevien suomen kielen opettajien sekä laadukkaan ja soveltuvan opetusmateriaalin puute.
+1	Tällä	tämä	PRON	Pron	Case=Ade|Number=Sing|PronType=Dem	2	det	_	_
+2	hetkellä	hetki	NOUN	N	Case=Ade|Number=Sing	3	obl	_	_
+3	ongelmana	ongelma	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	kuitenkin	kuitenkin	ADV	Adv	_	3	advmod	_	_
+6	pätevien	pätevä	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+7	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	opettajien	opettaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	15	nmod:poss	_	_
+10	sekä	sekä	CCONJ	C	_	14	cc	_	_
+11	laadukkaan	laadukas	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	14	amod	_	_
+12	ja	ja	CCONJ	C	_	13	cc	_	_
+13	soveltuvan	soveltua	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	11	conj	_	_
+14	opetusmateriaalin	opetus#materiaali	NOUN	N	Case=Gen|Number=Sing	9	conj	_	_
+15	puute	puute	NOUN	N	Case=Nom|Number=Sing	3	nsubj:cop	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 76
+# text = Virossa kiinnostus suomen kieltä kohtaan on säilynyt vuosien varrella.
+1	Virossa	Viro	PROPN	N	Case=Ine|Number=Sing	7	obl	_	_
+2	kiinnostus	kiinnostus	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+3	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	2	nmod	_	_
+5	kohtaan	kohtaan	ADP	Adp	AdpType=Post	4	case	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	säilynyt	säilyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	vuosien	vuosi	NOUN	N	Case=Gen|Number=Plur	7	obl	_	_
+9	varrella	varrella	ADP	Adp	AdpType=Post	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 77
+# text = Yksi syy siihen on varmasti molempien maiden suomalais-ugrilaisen kielitieteen korkea taso ja tiiviit siteet alan tutkijoiden ja yliopistojen välillä, samoin kuin heimotausta, mutta perussyynä on tietenkin kielisukulaisuus ja henkilökohtaiset kontaktit..
+1	Yksi	yksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	_
+2	syy	syy	NOUN	N	Case=Nom|Number=Sing	11	nsubj:cop	_	_
+3	siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	2	nmod	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+5	varmasti	varmasti	ADV	Adv	Derivation=Sti	11	advmod	_	_
+6	molempien	molemmat	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	7	det	_	_
+7	maiden	maa	NOUN	N	Case=Gen|Number=Plur	9	nmod:poss	_	_
+8	suomalais-ugrilaisen	suomalainen#ugrilainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	9	amod	_	_
+9	kielitieteen	kieli#tiede	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+10	korkea	korkea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
+11	taso	taso	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+12	ja	ja	CCONJ	C	_	14	cc	_	_
+13	tiiviit	tiivis	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	siteet	side	NOUN	N	Case=Nom|Number=Plur	11	conj	_	_
+15	alan	ala	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	tutkijoiden	tutkija	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	14	nmod	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	yliopistojen	yli#opisto	NOUN	N	Case=Gen|Number=Plur	16	conj	_	_
+19	välillä	välillä	ADP	Adp	AdpType=Post	16	case	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	21	punct	_	_
+21	samoin	samoin	ADV	Adv	_	11	advmod	_	_
+22	kuin	kuin	SCONJ	C	_	23	mark	_	_
+23	heimotausta	heimotaus	NOUN	N	Case=Par|Number=Sing	21	advcl	_	SpaceAfter=No
+24	,	,	PUNCT	Punct	_	26	punct	_	_
+25	mutta	mutta	CCONJ	C	_	26	cc	_	_
+26	perussyynä	perus#syy	NOUN	N	Case=Ess|Number=Sing	11	conj	_	_
+27	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	_
+28	tietenkin	tietenkin	ADV	Adv	_	26	advmod	_	_
+29	kielisukulaisuus	kieli#sukulaisuus	NOUN	N	Case=Nom|Derivation=Inen,Vs|Number=Sing	26	nsubj:cop	_	_
+30	ja	ja	CCONJ	C	_	32	cc	_	_
+31	henkilökohtaiset	henkilö#kohtainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	32	amod	_	_
+32	kontaktit	kontakti	NOUN	N	Case=Nom|Number=Plur	29	conj	_	SpaceAfter=No
+33	..	..	PUNCT	Punct	_	11	punct	_	_
+
+# sent_id = 78
+# text = Myös maiden fyysinen läheisyys ja matala kynnys siirtyä opiskelemaan, asumaan tai työskentelemaan naapurimaahan tukee kiinnostusta suomen opiskelua kohtaan.
+1	Myös	myös	ADV	Adv	_	4	advmod	_	_
+2	maiden	maa	NOUN	N	Case=Gen|Number=Plur	4	nmod:poss	_	_
+3	fyysinen	fyysinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	läheisyys	läheisyys	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	_
+5	ja	ja	CCONJ	C	_	7	cc	_	_
+6	matala	matala	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	kynnys	kynnys	NOUN	N	Case=Nom|Number=Sing	4	conj	_	_
+8	siirtyä	siirtyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+9	opiskelemaan	opiskella	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	8	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	11	punct	_	_
+11	asumaan	asua	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	9	conj	_	_
+12	tai	tai	CCONJ	C	_	13	cc	_	_
+13	työskentelemaan	työskennellä	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	8	conj	_	_
+14	naapurimaahan	naapuri#maa	NOUN	N	Case=Ill|Number=Sing	13	obl	_	_
+15	tukee	tukea	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+16	kiinnostusta	kiinnostus	NOUN	N	Case=Par|Number=Sing	15	obj	_	_
+17	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	18	nmod:poss	_	_
+18	opiskelua	opiskelu	NOUN	N	Case=Par|Derivation=U|Number=Sing	16	nmod	_	_
+19	kohtaan	kohtaan	ADP	Adp	AdpType=Post	18	case	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 79
+# text = Tämän seurauksena suomen kieltä opiskellaan monelaisissa oppilaitoksissa aina kielikerhoista yliopistoihin.
+1	Tämän	tämä	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	nmod:poss	_	_
+2	seurauksena	seuraus	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+3	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	5	obj	_	_
+5	opiskellaan	opiskella	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	monelaisissa	monelainen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Lainen|Number=Plur	7	amod	_	_
+7	oppilaitoksissa	oppi#laitos	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+8	aina	aina	ADV	Adv	_	10	advmod	_	_
+9	kielikerhoista	kieli#kerho	ADJ	N	Case=Ela|Number=Plur	10	amod	_	_
+10	yliopistoihin	yli#opisto	NOUN	N	Case=Ill|Number=Plur	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	SpacesAfter=\s\n
+

@@ -1,0 +1,643 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Artikkelin aiheena on itse-sanan käyttäytyminen nykysuomessa.
+1	Artikkelin	artikkeli	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	aiheena	aihe	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	itse-sanan	itse#sana	NOUN	N	Case=Gen|Number=Sing	5	nmod:gsubj	_	_
+5	käyttäytyminen	käyttäytyminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	2	nsubj:cop	_	_
+6	nykysuomessa	nyky#suomi	NOUN	N	Case=Ine|Number=Sing	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 2
+# text = Artikkelin alussa kirjoittaja käsittelee, onko itse-sana pronomini vai adjektiivi.
+1	Artikkelin	artikkeli	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	alussa	alku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	4	obl	_	_
+3	kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	4	nsubj	_	_
+4	käsittelee	käsitellä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	onko	olla	AUX	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	itse-sana	itse#sana	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+8	pronomini	pronomini	NOUN	N	Case=Nom|Number=Sing	4	ccomp	_	_
+9	vai	vai	CCONJ	C	_	10	cc	_	_
+10	adjektiivi	adjektiivi	NOUN	N	Case=Nom|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 3
+# text = Kirjoittaja näkee, että itse-sanalla on substantiivin alkuperä: sen kantasanana on ollut 'varjostelua' tai 'varjoa' merkitsevä substantiivi.
+1	Kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	2	nsubj	_	_
+2	näkee	nähdä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	5	punct	_	_
+4	että	että	SCONJ	C	_	5	mark	_	_
+5	itse-sanalla	itse#sana	PROPN	N	Case=Ade|Number=Sing	2	ccomp	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop:own	_	_
+7	substantiivin	substantiivi	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	alkuperä	alku#perä	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	SpaceAfter=No
+9	:	:	PUNCT	Punct	_	8	punct	_	_
+10	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	11	nmod:poss	_	_
+11	kantasanana	kanta#sana	NOUN	N	Case=Ess|Number=Sing	8	parataxis	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+13	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	11	cop	_	_
+14	'	'	PUNCT	Punct	_	15	punct	_	SpaceAfter=No
+15	varjostelua	varjostelu	NOUN	N	Case=Par|Derivation=U|Number=Sing	11	nsubj:cop	_	SpaceAfter=No
+16	'	'	PUNCT	Punct	_	19	punct	_	_
+17	tai	tai	CCONJ	C	_	22	cc	_	_
+18	'	'	PUNCT	Punct	_	19	punct	_	SpaceAfter=No
+19	varjoa	varjo	NOUN	N	Case=Par|Number=Sing	15	conj	_	SpaceAfter=No
+20	'	'	PUNCT	Punct	_	19	punct	_	_
+21	merkitsevä	merkitä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	22	acl	_	_
+22	substantiivi	substantiivi	NOUN	N	Case=Nom|Number=Sing	15	conj	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 4
+# text = Joissakin tapauksissa sanan merkitykseksi mainitaan mm 'henkilökohtaisesti'.
+1	Joissakin	jokin	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	2	det	_	_
+2	tapauksissa	tapaus	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+3	sanan	sana	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	merkitykseksi	merkitys	NOUN	N	Case=Tra|Number=Sing	5	xcomp:ds	_	_
+5	mainitaan	mainita	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	mm	mm	NOUN	N	Typo=Yes	7	nummod	_	_
+7	'henkilökohtaisesti	khenkilö#kohtaisesti	ADV	Adv	Derivation=Sti	5	advmod	_	SpaceAfter=No
+8	'	'	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 5
+# text = Artikkelissa kirjoittaja tarkastele nimenomaan viimeisiä tapauksia.
+1	Artikkelissa	artikkeli	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+2	kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	3	nsubj	_	_
+3	tarkastele	tarkastella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	nimenomaan	nimen#omaan	ADV	Adv	_	5	advmod	_	_
+5	viimeisiä	viimeinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	6	amod	_	_
+6	tapauksia	tapaus	NOUN	N	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 6
+# text = Artikkelissa on kirjoittajalla onnistunut erottaa itse-sanan kolme käyttöä toisistaan: adverbi itse, partikkeli itse ja pronominimainen appositio itse.
+1	Artikkelissa	artikkeli	NOUN	N	Case=Ine|Number=Sing	4	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	kirjoittajalla	kirjoittaja	NOUN	N	Case=Ade|Derivation=Ja|Number=Sing	4	obl	_	_
+4	onnistunut	onnistua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	erottaa	erottaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	itse-sanan	itse#sana	NOUN	N	Case=Gen|Number=Sing	8	nmod:gobj	_	_
+7	kolme	kolme	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
+8	käyttöä	käyttö	NOUN	N	Case=Par|Number=Sing	5	obj	_	_
+9	toisistaan	toinen	PRON	Pron	Case=Ela|Number=Plur|Person[psor]=3|PronType=Rcp	8	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	Punct	_	11	punct	_	_
+11	adverbi	adverbi	NOUN	N	Case=Nom|Number=Sing	8	appos	_	_
+12	itse	itse	ADV	Adv	_	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	14	punct	_	_
+14	partikkeli	partikkeli	NOUN	N	Case=Nom|Number=Sing	11	conj	_	_
+15	itse	itse	ADV	Adv	_	18	advmod	_	_
+16	ja	ja	CCONJ	C	_	18	cc	_	_
+17	pronominimainen	pronomi#nimainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	18	amod	_	_
+18	appositio	appositio	NOUN	N	Case=Nom|Number=Sing	11	conj	_	_
+19	itse	itse	ADV	Adv	_	18	advmod	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 7
+# text = Itse-sana adverbina-tapauksissa on itse merkityksessä 'henkilökohtaisesti'.
+1	Itse-sana	Itse#sana	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+2	adverbina-tapauksissa	adverbina#tapaus	NOUN	N	Case=Ine|Number=Plur	1	nmod	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+4	itse	itse	ADV	Adv	_	5	advmod	_	_
+5	merkityksessä	merkitys	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+6	'	'	PUNCT	Punct	_	7	punct	_	SpaceAfter=No
+7	henkilökohtaisesti	henkilö#kohtaisesti	ADV	Adv	Derivation=Sti	5	advmod	_	SpaceAfter=No
+8	'	'	PUNCT	Punct	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 8
+# text = Siinä sana sijaitsee adverbin tyypillisellä paikalla persoonaverbin jäljessä taikka lauseen lopussa, esim. “Opettaja Ave opiskelee itsekin“ tai “Sinun olisi syytä tarkistaa itsekin tämä asia“.
+1	Siinä	se	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	3	obl	_	_
+2	sana	sana	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	sijaitsee	sijaita	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	adverbin	adverb	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+5	tyypillisellä	tyypillinen	ADJ	A	Case=Ade|Degree=Pos|Derivation=Llinen|Number=Sing	6	amod	_	_
+6	paikalla	paikka	NOUN	N	Case=Ade|Number=Sing	3	obl	_	_
+7	persoonaverbin	persoonaverb	PROPN	N	Case=Gen|Number=Sing	6	nmod	_	_
+8	jäljessä	jäljessä	ADP	Adp	AdpType=Post	7	case	_	_
+9	taikka	taikka	CCONJ	C	_	11	cc	_	_
+10	lauseen	lause	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	lopussa	loppu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	6	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	17	punct	_	_
+13	esim.	esim.	ADV	Adv	Abbr=Yes	16	advmod	_	_
+14	“	“	PUNCT	Punct	_	17	punct	_	SpaceAfter=No
+15	Opettaja	opettaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	16	compound:nn	_	_
+16	Ave	Ave	PROPN	N	Case=Nom|Number=Sing	17	nsubj	_	_
+17	opiskelee	opiskella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+18	itsekin	itse	ADV	Adv	Clitic=Kin	17	advmod	_	SpaceAfter=No
+19	“	“	PUNCT	Punct	_	24	punct	_	_
+20	tai	tai	CCONJ	C	_	24	cc	_	_
+21	“	“	PUNCT	Punct	_	24	punct	_	SpaceAfter=No
+22	Sinun	sinä	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	_
+23	olisi	olla	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	24	cop	_	_
+24	syytä	syy	NOUN	N	Case=Par|Number=Sing	17	conj	_	_
+25	tarkistaa	tarkistaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	24	xcomp:ds	_	_
+26	itsekin	itse	ADV	Adv	Clitic=Kin	25	advmod	_	_
+27	tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	28	det	_	_
+28	asia	asia	NOUN	N	Case=Nom|Number=Sing	25	obj	_	SpaceAfter=No
+29	“	“	PUNCT	Punct	_	24	punct	_	SpaceAfter=No
+30	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 9
+# text = Kuten kirjoittaja selittää, itse määrittää verbin ilmaisemaa toiminaa aivan kuten adverbit yksin tai omin avuin.
+1	Kuten	kuten	SCONJ	C	_	3	mark	_	_
+2	kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	3	nsubj	_	_
+3	selittää	selittää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	3	punct	_	_
+5	itse	itse	ADV	Adv	_	6	advmod	_	_
+6	määrittää	määrittää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+7	verbin	verbi	NOUN	N	Case=Gen|Number=Sing	8	nsubj	_	_
+8	ilmaisemaa	ilmaista	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	9	acl	_	_
+9	toiminaa	toimina	NOUN	N	Case=Par|Number=Sing	6	obj	_	_
+10	aivan	aivan	ADV	Adv	_	12	advmod	_	_
+11	kuten	kuten	ADV	Adv	_	12	advmod	_	_
+12	adverbit	adverbi	NOUN	N	Case=Nom|Number=Plur	6	obj	_	_
+13	yksin	yksin	ADV	Adv	_	12	advmod	_	_
+14	tai	tai	CCONJ	C	_	16	cc	_	_
+15	omin	oma	ADJ	A	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	_
+16	avuin	apu	NOUN	N	Case=Ins|Number=Plur	13	conj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 10
+# text = Myös tapaukset, kuten
+1	Myös	myös	ADV	Adv	_	2	advmod	_	_
+2	tapaukset	tapaus	NOUN	N	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	4	punct	_	_
+4	kuten	kuten	ADV	Adv	_	2	advmod	_	_
+
+# sent_id = 11
+# text = “En saa itse kauluksen nappia kiinni“ ovat sellaisia.
+1	“	“	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+2	En	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	saa	saada	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	itse	itse	PRON	Adv	_	6	det	_	_
+5	kauluksen	kaulus	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	nappia	nappi	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+7	kiinni	kiinni	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+8	“	“	PUNCT	Punct	_	3	punct	_	_
+9	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	sellaisia	sellainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 12
+# text = Itse-sanaa voidaan käyttää myös pääsanan edessä taipumattomana eli partikkelina.
+1	Itse-sanaa	Itse#sana	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+2	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux	_	_
+3	käyttää	käyttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+4	myös	myös	ADV	Adv	_	5	advmod	_	_
+5	pääsanan	pää#sana	NOUN	N	Case=Gen|Number=Sing	3	obl	_	_
+6	edessä	edessä	ADP	Adp	AdpType=Post	5	case	_	_
+7	taipumattomana	taipumaton	ADJ	A	Case=Ess|Degree=Pos|Derivation=Ton|Number=Sing	3	obl	_	_
+8	eli	eli	CCONJ	C	_	9	cc	_	_
+9	partikkelina	partikkeli	NOUN	N	Case=Ess|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 13
+# text = Näissä tapauksissa itse-sana lähinnä korostaa pääsanaansa, sen merkitys on 'nimenomaan, juuri, sinänsä'.
+1	Näissä	tämä	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	2	det	_	_
+2	tapauksissa	tapaus	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+3	itse-sana	itse#sana	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+4	lähinnä	lähinnä	ADV	Adv	_	5	advmod	_	_
+5	korostaa	korostaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+6	pääsanaansa	pää#sana	NOUN	N	Case=Ill|Number=Sing|Person[psor]=3	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	12	punct	_	_
+8	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	9	nmod:poss	_	_
+9	merkitys	merkitys	NOUN	N	Case=Nom|Number=Sing	12	nsubj:cop	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+11	'	'	PUNCT	Punct	_	12	punct	_	SpaceAfter=No
+12	nimenomaan	nimen#omaan	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	16	punct	_	_
+14	juuri	juuri	ADV	Adv	_	16	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	16	punct	_	_
+16	sinänsä	sinänsä	ADV	Adv	_	12	advmod	_	SpaceAfter=No
+17	'	'	PUNCT	Punct	_	16	punct	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 14
+# text = Esim. “Ratkaisu ei vaikuta itse pääasiaan“ tai “Lapsi on itse terveys“.
+1	Esim.	Esim.	ADV	Adv	Abbr=Yes	3	advmod	_	_
+2	“	“	PUNCT	Punct	_	1	punct	_	SpaceAfter=No
+3	Ratkaisu	ratkaisu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	5	nsubj	_	_
+4	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	vaikuta	vaikuttaa	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	itse	itse	ADV	Adv	_	7	det	_	_
+7	pääasiaan	pää#asia	NOUN	N	Case=Ill|Number=Sing	5	obl	_	SpaceAfter=No
+8	“	“	PUNCT	Punct	_	11	punct	_	_
+9	tai	tai	CCONJ	C	_	11	cc	_	_
+10	“	“	PUNCT	Punct	_	11	punct	_	SpaceAfter=No
+11	Lapsi	lapsi	NOUN	N	Case=Nom|Number=Sing	5	conj	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+13	itse	itse	ADV	Adv	_	14	advmod	_	_
+14	terveys	terveys	NOUN	N	Case=Nom|Derivation=Vs|Number=Sing	11	nsubj:cop	_	SpaceAfter=No
+15	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 15
+# text = Itse-sanan appositiona käyttöön esimerkkeinä nimetään artikkelissä esim. seuraavat tapaukset: “Hän kyllä itse käy jatkuvasti puheopetuksessa“, “Työskentelen itse asiakaspalvelussa postissa“ tai “Luulen, että ystävyys säilyy, jos itse näkee vähän vaivaa“.
+1	Itse-sanan	Itse#sana	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	appositiona	appositio	NOUN	N	Case=Ess|Number=Sing	5	obl	_	_
+3	käyttöön	käyttö	NOUN	N	Case=Ill|Number=Sing	2	nmod	_	_
+4	esimerkkeinä	esi#merkki	NOUN	N	Case=Ess|Number=Plur	5	obl	_	_
+5	nimetään	nimetä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	artikkelissä	artikkeli	NOUN	N	Case=Ine|Number=Sing	5	obl	_	_
+7	esim.	esim.	ADV	Adv	Abbr=Yes	9	advmod	_	_
+8	seuraavat	seuraava	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	tapaukset	tapaus	NOUN	N	Case=Nom|Number=Plur	5	obj	_	SpaceAfter=No
+10	:	:	PUNCT	Punct	_	9	punct	_	_
+11	“	“	PUNCT	Punct	_	15	punct	_	SpaceAfter=No
+12	Hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+13	kyllä	kyllä	ADV	Adv	_	15	advmod	_	_
+14	itse	itse	ADV	Pron	Case=Nom|Number=Sing|Reflex=Yes	15	advmod	_	_
+15	käy	käydä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+16	jatkuvasti	jatkuvasti	ADV	Adv	Derivation=Sti	15	advmod	_	_
+17	puheopetuksessa	puhe#opetus	NOUN	N	Case=Ine|Number=Sing	15	obl	_	SpaceAfter=No
+18	“	“	PUNCT	Punct	_	15	punct	_	SpaceAfter=No
+19	,	,	PUNCT	Punct	_	15	punct	_	_
+20	“	“	PUNCT	Punct	_	15	punct	_	SpaceAfter=No
+21	Työskentelen	työskennellä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+22	itse	itse	ADV	Adv	_	21	advmod	_	_
+23	asiakaspalvelussa	asiakas#palvelu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	21	obl	_	_
+24	postissa	posti	NOUN	N	Case=Ine|Number=Sing	21	obl	_	SpaceAfter=No
+25	“	“	PUNCT	Punct	_	28	punct	_	_
+26	tai	tai	CCONJ	C	_	28	cc	_	_
+27	“	“	PUNCT	Punct	_	28	punct	_	SpaceAfter=No
+28	Luulen	luulla	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	SpaceAfter=No
+29	,	,	PUNCT	Punct	_	32	punct	_	_
+30	että	että	SCONJ	C	_	32	mark	_	_
+31	ystävyys	ystävyys	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
+32	säilyy	säilyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	ccomp	_	SpaceAfter=No
+33	,	,	PUNCT	Punct	_	36	punct	_	_
+34	jos	jos	SCONJ	C	_	36	mark	_	_
+35	itse	itse	ADV	Adv	_	36	advmod	_	_
+36	näkee	nähdä	VERB	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	_
+37	vähän	vähän	ADV	Adv	_	38	advmod	_	_
+38	vaivaa	vaiva	NOUN	N	Case=Par|Number=Sing	36	obj	_	SpaceAfter=No
+39	“	“	PUNCT	Punct	_	15	punct	_	SpaceAfter=No
+40	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 16
+# text = Joissakin tapauksissa sana itse tuo lauseeseen sellaisen lisämerkityksen, että yleensä tietyt asiat kuuluu tai niitä ei kuulu tehdä henkilökohtaisesti, syystä tai toisesta.
+1	Joissakin	jokin	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	2	det	_	_
+2	tapauksissa	tapaus	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+3	sana	sana	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+4	itse	itse	PRON	Pron	Case=Nom|Number=Sing|Reflex=Yes	3	det	_	_
+5	tuo	tuoda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	lauseeseen	lause	NOUN	N	Case=Ill|Number=Sing	5	obl	_	_
+7	sellaisen	sellainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	8	amod	_	_
+8	lisämerkityksen	lisä#merkitys	NOUN	N	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	14	punct	_	_
+10	että	että	SCONJ	C	_	14	mark	_	_
+11	yleensä	yleensä	ADV	Adv	_	14	advmod	_	_
+12	tietyt	tietty	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	asiat	asia	NOUN	N	Case=Nom|Number=Plur	14	nsubj	_	_
+14	kuuluu	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+15	tai	tai	CCONJ	C	_	18	cc	_	_
+16	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	19	obj	_	_
+17	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	18	aux	_	_
+18	kuulu	kuulua	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
+19	tehdä	tehdä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	henkilökohtaisesti	henkilö#kohtaisesti	ADV	Adv	Derivation=Sti	19	advmod	_	SpaceAfter=No
+21	,	,	PUNCT	Punct	_	22	punct	_	_
+22	syystä	syy	NOUN	N	Case=Ela|Number=Sing	19	obl	_	_
+23	tai	tai	CCONJ	C	_	24	cc	_	_
+24	toisesta	toinen	PRON	Num	Case=Ela|Derivation=Inen|Number=Sing|NumType=Ord	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 17
+# text = Näitä tapauksia nimetään tekstistä selittyviksi.
+1	Näitä	tämä	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	2	det	_	_
+2	tapauksia	tapaus	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+3	nimetään	nimetä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	tekstistä	teksti	NOUN	N	Case=Ela|Number=Sing	5	obl	_	_
+5	selittyviksi	selittyä	VERB	V	Case=Tra|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	3	xcomp:ds	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 18
+# text = Artikkelin näyttelauseet olivat hyvin selkeästi ymmärrettävissä: “Kukas kissan hännän nostaa, ellei kissa itse“ ja “Olen Suomen paras hiihtäjä, vaikka itse sen sanonkin“.
+1	Artikkelin	artikkeli	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	näyttelauseet	näytte#lause	NOUN	N	Case=Nom|Number=Plur	6	obj	_	_
+3	olivat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+4	hyvin	hyvin	ADV	Adv	_	5	advmod	_	_
+5	selkeästi	selkeästi	ADV	Adv	Derivation=Sti	6	advmod	_	_
+6	ymmärrettävissä	ymmärtää	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+7	:	:	PUNCT	Punct	_	6	punct	_	_
+8	“	“	PUNCT	Punct	_	9	punct	_	SpaceAfter=No
+9	Kukas	kukaa	PRON	V	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+10	kissan	kissa	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	hännän	häntä	NOUN	N	Case=Gen|Number=Sing	12	obj	_	_
+12	nostaa	nostaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	23	punct	_	_
+14	ellei	jos#ei	VERB	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	23	mark	_	_
+15	kissa	kissa	NOUN	N	Case=Nom|Number=Sing	23	nsubj:cop	_	_
+16	itse	itse	ADV	Pron	Case=Nom|Number=Sing|Reflex=Yes	15	det	_	SpaceAfter=No
+17	“	“	PUNCT	Punct	_	23	punct	_	_
+18	ja	ja	CCONJ	C	_	23	cc	_	_
+19	“	“	PUNCT	Punct	_	23	punct	_	SpaceAfter=No
+20	Olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	_
+21	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+22	paras	hyvä	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	23	amod	_	_
+23	hiihtäjä	hiihtäjä	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	9	conj	_	SpaceAfter=No
+24	,	,	PUNCT	Punct	_	28	punct	_	_
+25	vaikka	vaikka	SCONJ	C	_	28	mark	_	_
+26	itse	itse	ADV	Pron	Case=Nom|Number=Plur|Reflex=Yes	28	advmod	_	_
+27	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	28	obj	_	_
+28	sanonkin	sanon	VERB	N	Case=Nom|Clitic=Kin|Number=Sing	23	advcl	_	SpaceAfter=No
+29	“	“	PUNCT	Punct	_	9	punct	_	SpaceAfter=No
+30	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 19
+# text = Joskus henkilökohtaisissa kirjeissä on tapana kertoa omista asioistaan ja tekemisistään, pitäen itseään pääasiallisena puheenaiheena.
+1	Joskus	joskus	ADV	Adv	_	5	advmod	_	_
+2	henkilökohtaisissa	henkilö#kohtainen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Plur	3	amod	_	_
+3	kirjeissä	kirje	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	tapana	tapa	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+6	kertoa	kertoa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	xcomp:ds	_	_
+7	omista	oma	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	8	amod	_	_
+8	asioistaan	asia	NOUN	N	Case=Ela|Number=Plur|Person[psor]=3	6	obl	_	_
+9	ja	ja	CCONJ	C	_	10	cc	_	_
+10	tekemisistään	tekeminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing|Person[psor]=3	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	12	punct	_	_
+12	pitäen	pitää	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	6	advcl	_	_
+13	itseään	itse	PRON	Pron	Case=Par|Number=Sing|Person[psor]=3|Reflex=Yes	12	obj	_	_
+14	pääasiallisena	pää#asiallinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Llinen|Number=Sing	15	amod	_	_
+15	puheenaiheena	puheen#aihe	NOUN	N	Case=Ess|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 20
+# text = Näissä tapauksissa sana itse viitta puhujaan: “Raimo on muistanut parilla kirjeellä.
+1	Näissä	tämä	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	2	det	_	_
+2	tapauksissa	tapaus	NOUN	N	Case=Ine|Number=Plur	5	obl	_	_
+3	sana	sana	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+4	itse	itse	PRON	Pron	Case=Nom|Number=Sing|Reflex=Yes	5	det	_	_
+5	viitta	viitta	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	puhujaan	puhuja	NOUN	N	Case=Ill|Derivation=Ja|Number=Sing	5	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	Punct	_	5	punct	_	_
+8	“	“	PUNCT	Punct	_	11	punct	_	SpaceAfter=No
+9	Raimo	Raimo	PROPN	N	Case=Nom|Number=Sing	11	nsubj	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+11	muistanut	muistaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	parataxis	_	_
+12	parilla	pari	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	13	amod	_	_
+13	kirjeellä	kirje	NOUN	N	Case=Ade|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 21
+# text = Sepustin itse hänelle ties mitä“.
+1	Sepustin	sepustaa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	itse	itse	ADV	Adv	_	1	advmod	_	_
+3	hänelle	hän	PRON	Pron	Case=All|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	ties	ties	ADV	Adv	_	5	advmod	_	_
+5	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Int	1	obj	_	SpaceAfter=No
+6	“	“	PUNCT	Punct	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 22
+# text = Myös lause “Radiossa varoitellaan, että ei kannata lähteä maantielle.
+1	Myös	myös	ADV	Adv	_	2	advmod	_	_
+2	lause	lause	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+3	“	“	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
+4	Radiossa	radio	NOUN	N	Case=Ine|Number=Sing	5	obl	_	_
+5	varoitellaan	varoitella	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	että	että	SCONJ	C	_	9	mark	_	_
+8	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	kannata	kannattaa	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+10	lähteä	lähteä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp:ds	_	_
+11	maantielle	maan#tie	NOUN	N	Case=All|Number=Sing	10	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 23
+# text = Itse aion jättää auton maantielle ja lähteä bussilla kaupunkiin“ viitata samaan käyttöön.
+1	Itse	itse	ADV	Adv	_	3	advmod	_	_
+2	aion	aikoa	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	jättää	jättää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+4	auton	auto	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+5	maantielle	maan#tie	NOUN	N	Case=All|Number=Sing	3	obl	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	lähteä	lähteä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	_
+8	bussilla	bussi	NOUN	N	Case=Ade|Number=Sing	7	obl	_	_
+9	kaupunkiin	kaupunki	NOUN	N	Case=Ill|Number=Sing	7	obl	_	SpaceAfter=No
+10	“	“	PUNCT	Punct	_	11	punct	_	_
+11	viitata	viitata	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	_
+12	samaan	sama	PRON	Pron	Case=Ill|Number=Sing|PronType=Ind	13	det	_	_
+13	käyttöön	käyttö	NOUN	N	Case=Ill|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 24
+# text = Kirjoittajan mukaan useimmiten on kyse siitä, että puhuja tai kirjoittaja kontrastoi omat tekemisensä muiden ratkaisuihin tai vastakohtaparina on minä-hän.
+1	Kirjoittajan	kirjoittaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	6	obl	_	_
+2	mukaan	mukaan	ADP	Adp	AdpType=Post	1	case	_	_
+3	useimmiten	useimmiten	ADV	Adv	_	6	advmod	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	kyse	kyse	NOUN	N	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+6	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	12	punct	_	_
+8	että	että	SCONJ	C	_	12	mark	_	_
+9	puhuja	puhuja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	12	nsubj	_	_
+10	tai	tai	CCONJ	C	_	11	cc	_	_
+11	kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	9	conj	_	_
+12	kontrastoi	kontrastoa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+13	omat	oma	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	tekemisensä	tekeminen	NOUN	N	Case=Gen|Derivation=Vs|Number=Sing|Person[psor]=3	12	obj	_	_
+15	muiden	muu	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	16	nmod:poss	_	_
+16	ratkaisuihin	ratkaisu	NOUN	N	Case=Ill|Derivation=U|Number=Plur	12	obl	_	_
+17	tai	tai	CCONJ	C	_	18	cc	_	_
+18	vastakohtaparina	vasta#kohta#pari	NOUN	N	Case=Ess|Number=Sing	16	conj	_	_
+19	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+20	minä-hän	minä-hän	PROPN	N	Case=Nom|Number=Sing	18	nsubj:cop	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 25
+# text = Esim. “Itse ymmärsin jo 5-6-vuotiaana enemmän kuin sinä ymmärrät nyt“.
+1	Esim	esin	ADV	Adv	Style=Coll	5	advmod	_	SpaceAfter=No
+2	.	.	PUNCT	Punct	_	1	punct	_	_
+3	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+4	Itse	itse	ADV	Adv	_	5	advmod	_	_
+5	ymmärsin	ymmärtää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	jo	jo	ADV	Adv	_	5	advmod	_	_
+7	5-6-vuotiaana	5#6#vuotias	ADJ	A	Case=Ess|Degree=Pos|Number=Sing	5	obl	_	_
+8	enemmän	enemmän	ADV	Adv	_	5	advmod	_	_
+9	kuin	kuin	SCONJ	C	_	11	mark	_	_
+10	sinä	sinä	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+11	ymmärrät	ymmärtää	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	nyt	nyt	ADV	Adv	_	11	advmod	_	SpaceAfter=No
+13	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 26
+# text = Puhuteltavaan viittaava itse on usein aivan samanlaisessa käytössä kuin 3. persoonaankin viittaava.
+1	Puhuteltavaan	puhutella	VERB	V	Case=Ill|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	2	obl	_	_
+2	viittaava	viitata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+3	itse	itse	PRON	Pron	Case=Nom|Number=Sing|Reflex=Yes	8	nsubj:cop	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+5	usein	usein	ADV	Adv	_	8	advmod	_	_
+6	aivan	aivan	ADV	Adv	_	7	advmod	_	_
+7	samanlaisessa	samanlainen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Lainen|Number=Sing	8	amod	_	_
+8	käytössä	käyttö	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+9	kuin	kuin	SCONJ	C	_	12	mark	_	_
+10	3.	3.	ADJ	Num	NumType=Ord	11	nummod	_	_
+11	persoonaankin	persoona	NOUN	N	Case=Ade|Clitic=Kin|Number=Sing	12	obl	_	_
+12	viittaava	viitata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	7	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 27
+# text = Sellaisena esimerkkinä olisit tapaukset
+1	Sellaisena	sellainen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Lainen|Number=Sing	2	amod	_	_
+2	esimerkkinä	esi#merkki	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+3	olisit	olla	AUX	V	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	tapaukset	tapaus	NOUN	N	Case=Nom|Number=Plur	2	nsubj:cop	_	_
+
+# sent_id = 28
+# text = “Mitä sinä itse luulet“?
+1	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+2	Mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Int	5	obj	_	_
+3	sinä	sinä	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	itse	itse	PRON	Pron	Case=Nom|Number=Sing|Reflex=Yes	3	det	_	_
+5	luulet	luulla	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+7	?	?	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 29
+# text = tai “Sinä itse et halunnut päättää enää mitään“.
+1	tai	tai	CCONJ	C	_	6	cc	_	_
+2	“	“	PUNCT	Punct	_	6	punct	_	SpaceAfter=No
+3	Sinä	sinä	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+4	itse	itse	PRON	Pron	Case=Nom|Number=Sing|Reflex=Yes	3	det	_	_
+5	et	ei	AUX	V	Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	halunnut	haluta	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	päättää	päättää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	enää	enää	ADV	Adv	_	7	advmod	_	_
+9	mitään	mikään	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
+10	“	“	PUNCT	Punct	_	6	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 30
+# text = Kirjoittaja osoittaa, että näillä kaikilla itse-sanan käytöillä on yhteisiä, etenkin semanttis-tekstuaalisia ominaisuuksia.
+1	Kirjoittaja	kirjoittaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	2	nsubj	_	_
+2	osoittaa	osoittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	8	punct	_	_
+4	että	että	SCONJ	C	_	8	mark	_	_
+5	näillä	tämä	PRON	Pron	Case=Ade|Number=Plur|PronType=Dem	6	det	_	_
+6	kaikilla	kaikki	PRON	Pron	Case=Ade|Number=Plur|PronType=Ind	8	det	_	_
+7	itse-sanan	itse#sana	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	käytöillä	käyttö	NOUN	N	Case=Ade|Number=Plur	2	ccomp	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop:own	_	_
+10	yhteisiä	yhteinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	14	punct	_	_
+12	etenkin	etenkin	ADV	Adv	_	13	advmod	_	_
+13	semanttis-tekstuaalisia	semanttis#tekstuaalinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	10	conj	_	_
+14	ominaisuuksia	ominaisuus	NOUN	N	Case=Par|Derivation=Inen,Vs|Number=Plur	8	nsubj:cop	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 31
+# text = Artikkeli on minulle vaikeaa luettavaa.
+1	Artikkeli	artikkeli	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	minulle	minä	PRON	Pron	Case=All|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+4	vaikeaa	vaikea	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
+5	luettavaa	lukea	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 32
+# text = Se sisälsi paljon minulle vieraita kielitermejä , jotka minun oli lukiessa jatkuvasti selitettävää.
+1	Se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	sisälsi	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	paljon	paljon	ADV	Adv	_	2	advmod	_	_
+4	minulle	minä	PRON	Pron	Case=All|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+5	vieraita	vieras	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
+6	kielitermejä	kieli#termi	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+7	,	,	PUNCT	Punct	_	13	punct	_	_
+8	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	13	obj	_	_
+9	minun	minä	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+10	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	_
+11	lukiessa	lukea	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	13	advcl	_	_
+12	jatkuvasti	jatkuvasti	ADV	Adv	Derivation=Sti	11	advmod	_	_
+13	selitettävää	selittää	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	6	acl:relcl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 33
+# text = Käytin siihen Kielitoimiston ohjepankkia sekä Googlen käännösohjelmaa.
+1	Käytin	käyttää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	1	obl	_	_
+3	Kielitoimiston	kieli#toimisto	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	ohjepankkia	ohje#pankki	NOUN	N	Case=Par|Number=Sing	1	obj	_	_
+5	sekä	sekä	CCONJ	C	_	7	cc	_	_
+6	Googlen	Google	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	käännösohjelmaa	käännös#ohjelma	NOUN	N	Case=Par|Number=Sing	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 34
+# text = Itse aihe oli kiinnostavaa, osittain kuitenkin myös hyvin ymmärrettävää.
+1	Itse	itse	ADV	Adv	_	2	det	_	_
+2	aihe	aihe	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	kiinnostavaa	kiinnostava	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	10	punct	_	_
+6	osittain	osittain	ADV	Adv	Derivation=Ttain	10	advmod	_	_
+7	kuitenkin	kuitenkin	ADV	Adv	_	10	advmod	_	_
+8	myös	myös	ADV	Adv	_	10	advmod	_	_
+9	hyvin	hyvin	ADV	Adv	_	10	advmod	_	_
+10	ymmärrettävää	ymmärrettävä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	4	appos	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 35
+# text = Itse-sanan käyttö appositiona oli monimutkainen ja vaikein ja jäi epäselväksi: artikkelissa esitetyt esimerkit oli muotoiltu monimutkaisesti.
+1	Itse-sanan	Itse#sana	NOUN	N	Case=Gen|Number=Sing	2	nmod:gobj	_	_
+2	käyttö	käyttö	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+3	appositiona	appositio	NOUN	N	Case=Ess|Number=Sing	2	nmod	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	monimutkainen	moni#mutkainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	vaikein	vaikea	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	5	conj	_	_
+8	ja	ja	CCONJ	C	_	9	cc	_	_
+9	jäi	jäädä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	epäselväksi	epä#selvä	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	:	:	PUNCT	Punct	_	5	punct	_	_
+12	artikkelissa	artikkeli	NOUN	N	Case=Ine|Number=Sing	13	obl	_	_
+13	esitetyt	esittää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+14	esimerkit	esi#merkki	NOUN	N	Case=Nom|Number=Plur	16	obj	_	_
+15	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux:pass	_	_
+16	muotoiltu	muotoilla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	parataxis	_	_
+17	monimutkaisesti	monimutkaisesti	ADV	Adv	Derivation=Sti	16	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 36
+# text = Artikkeli sai minut tutkimaan, mikä rooli itse-sanalla on virossa.
+1	Artikkeli	artikkeli	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	sai	saada	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	minut	minä	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	tutkimaan	tutkia	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp:ds	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	10	punct	_	_
+6	mikä	mikä	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	7	det	_	_
+7	rooli	rooli	NOUN	N	Case=Nom|Number=Sing	10	nsubj:cop	_	_
+8	itse-sanalla	itse#sana	NOUN	N	Case=Ade|Number=Sing	7	nmod	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	virossa	viro	PROPN	N	Case=Ine|Number=Sing	4	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 37
+# text = Otsin siitä selvää internet-sivulta eki.ee.
+1	Otsin	Otsi	PROPN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+2	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	5	obl	_	_
+3	selvää	selvä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	4	amod	_	_
+4	internet-sivulta	internet#sivu	NOUN	N	Case=Abl|Number=Sing	5	obl	_	_
+5	eki.ee	eki.ee	VERB	Symb	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 38
+# text = Mielestäni yksi tällaisten artikkeleiden tavoitteista olisi saada lukijaa ajattelemaan kielestä laajemmin.
+1	Mielestäni	mieli	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	obl	_	_
+2	yksi	yksi	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj:cop	_	_
+3	tällaisten	tällainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	4	amod	_	_
+4	artikkeleiden	artikkeli	NOUN	N	Case=Gen|Number=Plur	5	nmod:poss	_	_
+5	tavoitteista	tavoite	NOUN	N	Case=Ela|Number=Plur	2	nmod	_	_
+6	olisi	olla	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	saada	saada	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+8	lukijaa	lukija	NOUN	N	Case=Par|Derivation=Ja|Number=Sing	9	nsubj	_	_
+9	ajattelemaan	ajatella	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	7	xcomp:ds	_	_
+10	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	9	obl	_	_
+11	laajemmin	laajasti	ADV	Adv	Degree=Cmp|Derivation=Sti	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	7	punct	_	SpacesAfter=\s\n
+

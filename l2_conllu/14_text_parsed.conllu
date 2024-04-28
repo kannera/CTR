@@ -1,0 +1,2981 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Suomen kirjakielen olemassaolon ajalta on enemmän tutkittu sen alkuvaiheita eli Agricolan aikaa sekä 1800-luvun kehitystä.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	olemassaolon	olemassa#olo	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	ajalta	aika	NOUN	N	Case=Abl|Number=Sing	7	obl	_	_
+5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+6	enemmän	enemmän	ADV	Adv	_	7	advmod	_	_
+7	tutkittu	tutkia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	9	nmod:poss	_	_
+9	alkuvaiheita	alku#vaihe	NOUN	N	Case=Par|Number=Plur	7	obj	_	_
+10	eli	eli	CCONJ	C	_	12	cc	_	_
+11	Agricolan	Agricola	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	aikaa	aika	NOUN	N	Case=Par|Number=Sing	9	conj	_	_
+13	sekä	sekä	CCONJ	C	_	15	cc	_	_
+14	1800-luvun	1800#luku	NOUN	N	Case=Gen|Number=Sing	15	nmod:gsubj	_	_
+15	kehitystä	kehitys	NOUN	N	Case=Par|Number=Sing	9	conj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 2
+# text = Silloinhan kirjakieli kehittyi nopeaa vauhtia.
+1	Silloinhan	silloin	ADV	Adv	Clitic=Han	3	advmod	_	_
+2	kirjakieli	kirja#kieli	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	kehittyi	kehittyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	nopeaa	nopea	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
+5	vauhtia	vauhti	NOUN	N	Case=Par|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 3
+# text = 1600-luvulta on enemmän tutkittu ensimmäistä kertaa kokonaisuudessa suomeen käännettyä Raamattua , mikä onkin luonnollista.
+1	1600-luvulta	1600#luku	NOUN	N	Case=Abl|Number=Sing	4	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+3	enemmän	enemmän	ADV	Adv	_	4	advmod	_	_
+4	tutkittu	tutkia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	ensimmäistä	ensimmäinen	ADJ	Num	Case=Par|Derivation=Inen|Number=Sing|NumType=Ord	6	nummod	_	_
+6	kertaa	kerta	NOUN	N	Case=Par|Number=Sing	4	obl	_	_
+7	kokonaisuudessa	kokonaisuus	NOUN	N	Case=Ine|Derivation=Inen,Vs|Number=Sing	9	obl	_	_
+8	suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	9	obl	_	_
+9	käännettyä	kääntää	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	Raamattua	raamata	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	4	obj	_	_
+11	,	,	PUNCT	Punct	_	14	punct	_	_
+12	mikä	mikä	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	14	nsubj:cop	_	_
+13	onkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	luonnollista	luonnollinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	10	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 4
+# text = Vähempään huomioon on jätetty 1600-luvulla ilmestyneet sanakirjat.
+1	Vähempään	vähä	ADJ	A	Case=Ill|Degree=Cmp|Number=Sing	2	amod	_	_
+2	huomioon	huomio	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	jätetty	jättää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	1600-luvulla	1600#luku	NOUN	N	Case=Ade|Number=Sing	6	obl	_	_
+6	ilmestyneet	ilmestyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+7	sanakirjat	sana#kirja	NOUN	N	Case=Nom|Number=Plur	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 5
+# text = Niistä on tehty vain muutama tutkimus ja muutama on jäänyt kesken, ja vasta viime aikoina on taas herännyt kiinnostus ensimmäisiä suomea sisältäneitä sanakirjoja kohti.
+1	Niistä	se	PRON	Pron	Case=Ela|Number=Plur|PronType=Dem	3	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	tehty	tehdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	vain	vain	ADV	Adv	_	6	advmod	_	_
+5	muutama	muutama	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	6	det	_	_
+6	tutkimus	tutkimus	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
+7	ja	ja	CCONJ	C	_	10	cc	_	_
+8	muutama	muutama	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	10	nsubj	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+10	jäänyt	jäädä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	_	_
+11	kesken	kesken	ADV	Adv	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	19	punct	_	_
+13	ja	ja	CCONJ	C	_	19	cc	_	_
+14	vasta	vasta	ADV	Adv	_	16	advmod	_	_
+15	viime	viime	ADJ	A	_	16	amod	_	_
+16	aikoina	aika	NOUN	N	Case=Ess|Number=Plur	19	obl	_	_
+17	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux	_	_
+18	taas	taas	ADV	Adv	_	19	advmod	_	_
+19	herännyt	herätä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	_	_
+20	kiinnostus	kiinnostus	NOUN	N	Case=Nom|Number=Sing	19	nsubj	_	_
+21	ensimmäisiä	ensimmäinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	24	amod	_	_
+22	suomea	suomi	NOUN	N	Case=Par|Number=Sing	23	obj	_	_
+23	sisältäneitä	sisältää	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	24	acl	_	_
+24	sanakirjoja	sana#kirja	NOUN	N	Case=Par|Number=Plur	20	nmod	_	_
+25	kohti	kohti	ADP	Adp	AdpType=Post	24	case	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 6
+# text = Näistä kolmestä parhaiten on käsitelty Florinuksen Nomenclatura.
+1	Näistä	tämä	PRON	Pron	Case=Ela|Number=Plur|PronType=Dem	2	det	_	_
+2	kolmestä	kolme	NOUN	N	Case=Ela|Number=Plur	5	obl	_	_
+3	parhaiten	parhaiten	ADV	Adv	_	5	advmod	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	käsitelty	käsitellä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	Florinuksen	Florinus	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	Nomenclatura	Nomenclatura	PROPN	N	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 7
+# text = Esimerkiksi Antero Niemikorpi on tutkinut Nomenclaturaa nykykielen näkökulmasta ja Kirsi-Maria Nummila on perehtynyt Henrik Florinuksen nomininmuodostuskeinoihin.
+1	Esimerkiksi	esimerkiksi	ADV	Adv	_	2	advmod	_	_
+2	Antero	Antero	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+3	Niemikorpi	Niemikorpi	PROPN	N	Case=Nom|Number=Sing	2	flat:name	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	tutkinut	tutkia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	Nomenclaturaa	Nomenclatura	PROPN	N	Case=Par|Number=Sing	5	obj	_	_
+7	nykykielen	nyky#kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	näkökulmasta	näkö#kulma	NOUN	N	Case=Ela|Number=Sing	5	obl	_	_
+9	ja	ja	CCONJ	C	_	13	cc	_	_
+10	Kirsi-Maria	Kirsi#Maria	PROPN	N	Case=Nom|Number=Sing	13	nsubj	_	_
+11	Nummila	Nummila	PROPN	N	Case=Nom|Number=Sing	10	flat:name	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+13	perehtynyt	perehtyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	conj	_	_
+14	Henrik	Henrik	PROPN	N	Case=Nom|Number=Sing	16	nmod:gsubj	_	_
+15	Florinuksen	Florinus	PROPN	N	Case=Gen|Number=Sing	14	flat:name	_	_
+16	nomininmuodostuskeinoihin	nominin#muodostus#keina	NOUN	N	Case=Ill|Number=Plur	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 8
+# text = Variarum rerumin ensiesiintymiä on tutkinut Jari Ekberg.
+1	Variarum	Variarum	PROPN	N	Case=Nom|Number=Sing	3	nmod:poss	_	_
+2	rerumin	rerum	PROPN	N	Case=Gen|Number=Sing	1	flat:name	_	_
+3	ensiesiintymiä	ensi#esiintymä	NOUN	N	Case=Par|Number=Plur	5	obj	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	tutkinut	tutkia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	Jari	Jari	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+7	Ekberg	Ekberg	PROPN	N	Case=Nom|Number=Sing	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 9
+# text = Omassa tutkimuksessani käsittelen juuri 1600-luvun sanakirjoja tietyltä taholta.
+1	Omassa	oma	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	_	_
+2	tutkimuksessani	tutkimus	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obl	_	_
+3	käsittelen	käsitellä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	juuri	juuri	ADV	Adv	_	6	advmod	_	_
+5	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	sanakirjoja	sana#kirja	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+7	tietyltä	tietty	ADJ	A	Case=Abl|Degree=Pos|Number=Sing	8	amod	_	_
+8	taholta	taho	NOUN	N	Case=Abl|Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 10
+# text = Aineistonani on kaikki kolme 1600-luvulla ilmestynyttä tulkkisanakirjaa: Schroderuksen Lexicon Latino-Scondicum, tuntemattoman tekijän laatima Variarum rerum vocabula ja Henrik Florinuksen Nomenclatura Rerum brevissima Latino-Sveco-Finnonica.
+1	Aineistonani	aineistona	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	det	_	_
+4	kolme	kolme	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
+5	1600-luvulla	1600#luku	NOUN	N	Case=Ade|Number=Sing	6	obl	_	_
+6	ilmestynyttä	ilmestyä	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+7	tulkkisanakirjaa	tulkki#sana#kirja	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
+8	:	:	PUNCT	Punct	_	10	punct	_	_
+9	Schroderuksen	Schroderus	PROPN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	Lexicon	Lexicon	PROPN	N	Case=Nom|Number=Sing	7	appos	_	_
+11	Latino-Scondicum	Latino#Scondicum	PROPN	N	Case=Nom|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	16	punct	_	_
+13	tuntemattoman	tuntematon	ADJ	A	Case=Gen|Degree=Pos|Derivation=Ton|Number=Sing	14	amod	_	_
+14	tekijän	tekijä	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	15	nsubj	_	_
+15	laatima	laatia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	16	acl	_	_
+16	Variarum	Variarum	PROPN	N	Case=Nom|Number=Sing	10	conj	_	_
+17	rerum	rerum	PROPN	N	Case=Nom|Number=Sing	16	flat:name	_	_
+18	vocabula	vocabula	PROPN	N	Case=Nom|Number=Sing	16	flat:name	_	_
+19	ja	ja	CCONJ	C	_	22	cc	_	_
+20	Henrik	Henrik	PROPN	N	Case=Nom|Number=Sing	10	conj	_	_
+21	Florinuksen	Florinus	PROPN	N	Case=Gen|Number=Sing	20	flat:name	_	_
+22	Nomenclatura	Nomenclatura	PROPN	N	Case=Nom|Number=Sing	10	conj	_	_
+23	Rerum	Rerum	PROPN	N	Case=Nom|Number=Sing	22	flat:name	_	_
+24	brevissima	brevissima	PROPN	N	Case=Nom|Number=Sing	20	flat:name	_	_
+25	Latino-Sveco-Finnonica	Latino#Sveco#finnonica	PROPN	N	Case=Nom|Number=Sing	20	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 11
+# text = Jokaisessa sanakirjassa on sanat jaettu aihepiireittäin.
+1	Jokaisessa	jokainen	PRON	Pron	Case=Ine|Number=Sing|PronType=Ind	2	det	_	_
+2	sanakirjassa	sana#kirja	NOUN	N	Case=Ine|Number=Sing	5	obl	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+4	sanat	sana	NOUN	N	Case=Nom|Number=Plur	5	obj	_	_
+5	jaettu	jakaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	aihepiireittäin	aihe#piireittäin	ADV	Adv	Derivation=Ttain	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 12
+# text = Valitsin tutkimuskohteekseni kasvinnimet, koska niitä on sopiva määrä eikä niitä ole vielä kattavasti tutkittu.
+1	Valitsin	valita	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	tutkimuskohteekseni	tutkimus#kohde	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nmod:poss	_	_
+3	kasvinnimet	kasvin#nimi	NOUN	N	Case=Nom|Number=Plur	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	9	punct	_	_
+5	koska	koska	SCONJ	C	_	9	mark	_	_
+6	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
+7	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	sopiva	sopiva	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
+9	määrä	määrä	NOUN	N	Case=Nom|Number=Sing	1	advcl	_	_
+10	eikä	ei	VERB	V	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	15	cc	_	_
+11	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	15	obj	_	_
+12	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+13	vielä	vielä	ADV	Adv	_	14	advmod	_	_
+14	kattavasti	kattavasti	ADV	Adv	Derivation=Sti	15	advmod	_	_
+15	tutkittu	tutkia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	9	conj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 13
+# text = Pyrin mahdollisuuksien mukaan selvittämään, mitkä kasvinlajit esiintyivät 1600-luvun sanakirjoissa ja millaisia nimityksiä niistä käytettiin, millaiset nimet ovat kadonneet, millaiset säilyneet, myös mahdollisia merkityksenmuutoksia.
+1	Pyrin	pyrkiä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	mahdollisuuksien	mahdollisuus	NOUN	N	Case=Gen|Derivation=Llinen,Vs|Number=Plur	1	obl	_	_
+3	mukaan	mukaan	ADP	Adp	AdpType=Post	2	case	_	_
+4	selvittämään	selvittää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	mitkä	mikä	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	7	det	_	_
+7	kasvinlajit	kasvin#laji	NOUN	N	Case=Nom|Number=Plur	8	nsubj	_	_
+8	esiintyivät	esiintyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	8	obl	_	_
+11	ja	ja	CCONJ	C	_	15	cc	_	_
+12	millaisia	millainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	13	amod	_	_
+13	nimityksiä	nimitys	NOUN	N	Case=Par|Number=Plur	15	obj	_	_
+14	niistä	se	PRON	Pron	Case=Ela|Number=Plur|PronType=Dem	15	obl	_	_
+15	käytettiin	käyttää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	8	conj	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	20	punct	_	_
+17	millaiset	millainen	ADJ	A	Case=Nom|Derivation=Lainen|Number=Plur	18	amod	_	_
+18	nimet	nimi	NOUN	N	Case=Nom|Number=Plur	20	nsubj	_	_
+19	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+20	kadonneet	kadota	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	15	conj	_	SpaceAfter=No
+21	,	,	PUNCT	Punct	_	23	punct	_	_
+22	millaiset	millainen	ADJ	A	Case=Nom|Derivation=Lainen|Number=Plur	23	amod	_	_
+23	säilyneet	säilyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	Punct	_	27	punct	_	_
+25	myös	myös	ADV	Adv	_	27	advmod	_	_
+26	mahdollisia	mahdollinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	27	amod	_	_
+27	merkityksenmuutoksia	merkitys#muutos	NOUN	N	Case=Par|Number=Plur	20	conj	_	SpaceAfter=No
+28	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 14
+# text = Aion katsoa myös, mitkä nimitykset ilmestyivät kirjakieleen ensimmäistä kertaa juuri 1600-luvun sanakirjoissa ja millaisia sananmuodostuskeinoja niiden tapauksessa on käytetty.
+1	Aion	aikoa	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
+2	katsoa	katsoa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+3	myös	myös	ADV	Adv	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	7	punct	_	_
+5	mitkä	mikä	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	6	det	_	_
+6	nimitykset	nimitys	NOUN	N	Case=Nom|Number=Plur	7	nsubj	_	_
+7	ilmestyivät	ilmestyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	kirjakieleen	kirja#kieli	NOUN	N	Case=Ill|Number=Sing	7	obl	_	_
+9	ensimmäistä	ensimmäinen	ADJ	Num	Case=Par|Derivation=Inen|Number=Sing|NumType=Ord	10	nummod	_	_
+10	kertaa	kerta	NOUN	N	Case=Par|Number=Sing	7	obl	_	_
+11	juuri	juuri	ADV	Adv	_	13	advmod	_	_
+12	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	7	obl	_	_
+14	ja	ja	CCONJ	C	_	20	cc	_	_
+15	millaisia	millainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	16	amod	_	_
+16	sananmuodostuskeinoja	sana#muodostus#keino	NOUN	N	Case=Par|Number=Plur	20	obj	_	_
+17	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	18	nmod:poss	_	_
+18	tapauksessa	tapaus	NOUN	N	Case=Ine|Number=Sing	20	obl	_	_
+19	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux:pass	_	_
+20	käytetty	käyttää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	conj	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 15
+# text = Vertailen kasvinnimiä myös kielelliseltä koostumuskelta.
+1	Vertailen	vertailla	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kasvinnimiä	kasvin#nimi	NOUN	N	Case=Par|Number=Plur	1	obj	_	_
+3	myös	myös	ADV	Adv	_	5	advmod	_	_
+4	kielelliseltä	kielellinen	ADJ	A	Case=Abl|Degree=Pos|Derivation=Llinen|Number=Sing	5	amod	_	_
+5	koostumuskelta	koostumuski	NOUN	N	Case=Abl|Number=Sing	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 16
+# text = Aion tutkia myös mahdollisia merkityksenmuutoksia – onko yhdelle ja samalla kasville annettu eri sanakirjoissa eri nimityksiä, mistä kasvista jotakin sanaa käytetään, miten se eroaa eri sanakirjoissa.
+1	Aion	aikoa	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
+2	tutkia	tutkia	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+3	myös	myös	ADV	Adv	_	5	advmod	_	_
+4	mahdollisia	mahdollinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	5	amod	_	_
+5	merkityksenmuutoksia	merkitys#muutos	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+6	–	–	PUNCT	Punct	_	2	punct	_	_
+7	onko	olla	AUX	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+8	yhdelle	yksi	NUM	Num	Case=All|Number=Sing|NumType=Card	12	obl	_	_
+9	ja	ja	CCONJ	C	_	11	cc	_	_
+10	samalla	sama	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	11	det	_	_
+11	kasville	kasvi	NOUN	N	Case=All|Number=Sing	8	conj	_	_
+12	annettu	antaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	ccomp	_	_
+13	eri	eri	ADJ	A	_	14	amod	_	_
+14	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	12	obl	_	_
+15	eri	eri	ADJ	A	_	16	amod	_	_
+16	nimityksiä	nimitys	NOUN	N	Case=Par|Number=Plur	12	obj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	22	punct	_	_
+18	mistä	mikä	PRON	Pron	Case=Ela|Number=Sing|PronType=Rel	19	det	_	_
+19	kasvista	kasvi	NOUN	N	Case=Ela|Number=Sing	22	obl	_	_
+20	jotakin	jokin	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	21	det	_	_
+21	sanaa	sana	NOUN	N	Case=Par|Number=Sing	22	obj	_	_
+22	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	16	acl:relcl	_	SpaceAfter=No
+23	,	,	PUNCT	Punct	_	26	punct	_	_
+24	miten	miten	ADV	Adv	_	26	advmod	_	_
+25	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	nsubj	_	_
+26	eroaa	erota	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+27	eri	eri	ADJ	A	_	28	amod	_	_
+28	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	26	obl	_	SpaceAfter=No
+29	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 17
+# text = Uskon, että sanakirjojen välillä lienee eroja.
+1	Uskon	uskoa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	4	punct	_	_
+3	että	että	SCONJ	C	_	4	mark	_	_
+4	sanakirjojen	sana#kirja	NOUN	N	Case=Gen|Number=Plur	1	ccomp	_	_
+5	välillä	välillä	ADP	Adp	AdpType=Post	4	case	_	_
+6	lienee	olla	AUX	V	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	cop	_	_
+7	eroja	ero	NOUN	N	Case=Par|Number=Plur	4	nsubj:cop	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 18
+# text = Sanojen alkuperän ja levikin selvittämisessä ovat lähteinä Suomen sanojen alkuperä , Nykysuomen etymologinen sanakirja , Suomen kielen etymologinen sanakirja , Vanhan kirjakielen sanakirja ja Suomen murteiden sanakirja , lisäksi tarkistin murretiedot Suomen murteiden sana-arkistosta.
+1	Sanojen	sana	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	alkuperän	alku#perä	NOUN	N	Case=Gen|Number=Sing	5	nmod:gobj	_	_
+3	ja	ja	CCONJ	C	_	4	cc	_	_
+4	levikin	levikki	NOUN	N	Case=Gen|Number=Sing	2	conj	_	_
+5	selvittämisessä	selvittäminen	NOUN	N	Case=Ine|Derivation=Minen|Number=Sing	7	nmod	_	_
+6	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	lähteinä	lähde	NOUN	N	Case=Ess|Number=Plur	0	root	_	_
+8	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	sanojen	sana	NOUN	N	Case=Gen|Number=Plur	10	nmod:poss	_	_
+10	alkuperä	alku#perä	NOUN	N	Case=Nom|Number=Sing	7	nsubj:cop	_	_
+11	,	,	PUNCT	Punct	_	14	punct	_	_
+12	Nykysuomen	nyky#suomi	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+13	etymologinen	ety#mologinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	14	amod	_	_
+14	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	10	appos	_	_
+15	,	,	PUNCT	Punct	_	19	punct	_	_
+16	Suomen	suomi	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+18	etymologinen	ety#mologinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	19	amod	_	_
+19	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	10	conj	_	_
+20	,	,	PUNCT	Punct	_	23	punct	_	_
+21	Vanhan	vanha	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	22	amod	_	_
+22	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	23	nmod:poss	_	_
+23	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	14	conj	_	_
+24	ja	ja	CCONJ	C	_	27	cc	_	_
+25	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	26	nmod:poss	_	_
+26	murteiden	murre	NOUN	N	Case=Gen|Number=Plur	27	nmod:poss	_	_
+27	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	10	conj	_	_
+28	,	,	PUNCT	Punct	_	30	punct	_	_
+29	lisäksi	lisäksi	ADV	Adv	_	30	advmod	_	_
+30	tarkistin	tarkistaa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+31	murretiedot	murre#tieto	NOUN	N	Case=Nom|Number=Plur	30	obj	_	_
+32	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	33	nmod:poss	_	_
+33	murteiden	murre	NOUN	N	Case=Gen|Number=Plur	34	nmod:poss	_	_
+34	sana-arkistosta	sana#arkisto	NOUN	N	Case=Ela|Number=Sing	31	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 19
+# text = Ensiesiintymät poimin Raimo Jussilan teoksesta Vanhat sanat.
+1	Ensiesiintymät	ensi#esiintymä	NOUN	N	Case=Nom|Number=Plur	2	obj	_	_
+2	poimin	poimia	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Raimo	Raimo	PROPN	N	Case=Nom|Number=Sing	5	nmod:poss	_	_
+4	Jussilan	Jussila	PROPN	N	Case=Gen|Number=Sing	3	flat:name	_	_
+5	teoksesta	teos	NOUN	N	Case=Ela|Number=Sing	2	obl	_	_
+6	Vanhat	vanha	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	sanat	sana	NOUN	N	Case=Nom|Number=Plur	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 20
+# text = Joitakin nimityksiä selvittäessä jouduin käyttämään latinan, saksan ja ruotsin sanakirjoja.
+1	Joitakin	jokin	PRON	Pron	Case=Par|Number=Plur|PronType=Ind	2	det	_	_
+2	nimityksiä	nimitys	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+3	selvittäessä	selvitä	VERB	V	Case=Ine|InfForm=2|VerbForm=Inf|Voice=Pass	5	advcl	_	_
+4	jouduin	joutua	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	käyttämään	käyttää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+6	latinan	latina	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	8	punct	_	_
+8	saksan	saksa	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+9	ja	ja	CCONJ	C	_	10	cc	_	_
+10	ruotsin	ruotsi	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	sanakirjoja	sana#kirja	NOUN	N	Case=Par|Number=Plur	5	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 21
+# text = Ruotsin vastineiden selvittelyssä oli suureksi avuksi Internetissä löydettävä ruotsin vanhan kirjakielen korpus SAOB.
+1	Ruotsin	Ruotsi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	vastineiden	vastine	NOUN	N	Case=Gen|Number=Plur	3	nmod:gobj	_	_
+3	selvittelyssä	selvittely	NOUN	N	Case=Ine|Derivation=U|Number=Sing	8	obl	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	suureksi	suuri	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	6	amod	_	_
+6	avuksi	apu	NOUN	N	Case=Tra|Derivation=U|Number=Sing	8	xcomp:ds	_	_
+7	Internetissä	Internet	PROPN	N	Case=Ine|Number=Sing	8	obl	_	_
+8	löydettävä	löytää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	12	acl	_	_
+9	ruotsin	ruotsi	PROPN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+10	vanhan	vanha	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	_
+11	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	korpus	korpus	NOUN	N	Case=Nom|Number=Sing	13	compound:nn	_	_
+13	SAOB	SAOB	PROPN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 22
+# text = Työ jakautuu viiteen osaan.
+1	Työ	työ	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	jakautuu	jakautua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	viiteen	viisi	NUM	Num	Case=Ill|Number=Sing|NumType=Card	4	nummod	_	_
+4	osaan	osa	NOUN	N	Case=Ill|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 23
+# text = Johdannon jälkeen esitetään yleistä taustaa kirjakielen kehityksestä ja 1600-luvun sanakirjoista sekä käsitellään sanojen alkuperää ja sananmuodostusta.
+1	Johdannon	johdanto	NOUN	N	Case=Gen|Number=Sing	3	obl	_	_
+2	jälkeen	jälkeen	ADP	Adp	AdpType=Post	1	case	_	_
+3	esitetään	esittää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	yleistä	yleinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	5	amod	_	_
+5	taustaa	tausta	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+6	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:gsubj	_	_
+7	kehityksestä	kehitys	NOUN	N	Case=Ela|Number=Sing	5	nmod	_	_
+8	ja	ja	CCONJ	C	_	10	cc	_	_
+9	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	sanakirjoista	sana#kirja	NOUN	N	Case=Ela|Number=Plur	7	conj	_	_
+11	sekä	sekä	CCONJ	C	_	12	cc	_	_
+12	käsitellään	käsitellä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+13	sanojen	sana	NOUN	N	Case=Gen|Number=Plur	14	nmod:poss	_	_
+14	alkuperää	alku#perä	NOUN	N	Case=Par|Number=Sing	12	obj	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	sananmuodostusta	sana#muodostus	NOUN	N	Case=Par|Number=Sing	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 24
+# text = Neljännessä luvussa esitellään aineisto, kasvinlajit nykynimien mukaan aakkosjärjestyksessä.
+1	Neljännessä	neljäs	ADJ	Num	Case=Ine|Number=Sing|NumType=Ord	2	nummod	_	_
+2	luvussa	luku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	3	obl	_	_
+3	esitellään	esitellä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	aineisto	aineisto	NOUN	N	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	6	punct	_	_
+6	kasvinlajit	kasvin#laji	NOUN	N	Case=Nom|Number=Plur	4	conj	_	_
+7	nykynimien	nyky#nimi	NOUN	N	Case=Gen|Number=Plur	6	nmod	_	_
+8	mukaan	mukaan	ADP	Adp	AdpType=Post	7	case	_	_
+9	aakkosjärjestyksessä	aakkonen#järjestys	NOUN	N	Case=Ine|Number=Sing	3	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 25
+# text = Jokaisen kasvin kohdalla annetaan sen nimitykset 1600-luvun sanakirjoissa, käsitellään nimitysten etymologiaa ja muuttumista nykykieleen tultaessa.
+1	Jokaisen	jokainen	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	2	det	_	_
+2	kasvin	kasvi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kohdalla	kohta	NOUN	N	Case=Ade|Number=Sing	4	obl	_	_
+4	annetaan	antaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	nmod:poss	_	_
+6	nimitykset	nimitys	NOUN	N	Case=Nom|Number=Plur	4	obj	_	_
+7	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	10	punct	_	_
+10	käsitellään	käsitellä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+11	nimitysten	nimitys	NOUN	N	Case=Gen|Number=Plur	12	nmod:poss	_	_
+12	etymologiaa	ety#mologia	NOUN	N	Case=Par|Number=Sing	10	obj	_	_
+13	ja	ja	CCONJ	C	_	14	cc	_	_
+14	muuttumista	muuttuminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	12	conj	_	_
+15	nykykieleen	nyky#kieli	NOUN	N	Case=Ill|Number=Sing	16	obl	_	_
+16	tultaessa	tultaa	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	14	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 26
+# text = Viimeisessä luvussa analysoidaan koko aineistoa kokoavasti.
+1	Viimeisessä	viimeinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	luvussa	luku	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	analysoidaan	analysoida	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	koko	koko	ADJ	A	_	5	amod	_	_
+5	aineistoa	aineisto	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+6	kokoavasti	kokoavasti	ADV	Adv	Derivation=Sti	3	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 27
+# text = Työhön on liitetty hakemisto kaikista 1600-luvun sanakirjoissa esiintyvistä sanoista, joita tässä tutkielmassa käsitellään.
+1	Työhön	työ	NOUN	N	Case=Ill|Number=Sing	3	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	liitetty	liittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	hakemisto	hakemisto	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
+5	kaikista	kaikki	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	9	det	_	_
+6	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	8	obl	_	_
+8	esiintyvistä	esiintyä	VERB	V	Case=Ela|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+9	sanoista	sana	NOUN	N	Case=Ela|Number=Plur	4	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	14	punct	_	_
+11	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	14	obj	_	_
+12	tässä	tämä	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	13	det	_	_
+13	tutkielmassa	tutkielma	NOUN	N	Case=Ine|Number=Sing	14	obl	_	_
+14	käsitellään	käsitellä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 28
+# text = Toivottavasti tästä pro gradu -työstä on hyötyä 1600-luvun kirjakielen kartuttamisessa ja tutkimisessa.
+1	Toivottavasti	toivottavasti	ADV	Adv	Derivation=Sti	5	advmod	_	_
+2	tästä	tämä	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	5	det	_	_
+3	pro	pro	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	_
+4	gradu	gradu	NOUN	N	Case=Nom|Number=Sing	3	flat:name	_	_
+5	-työstä	työ	NOUN	N	Case=Ela|Number=Sing	0	root	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	hyötyä	hyöty	NOUN	N	Case=Par|Derivation=U|Number=Sing	5	nsubj:cop	_	_
+8	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	10	nmod:gobj	_	_
+10	kartuttamisessa	kartuttaminen	NOUN	N	Case=Ine|Derivation=Minen|Number=Sing	7	nmod	_	_
+11	ja	ja	CCONJ	C	_	12	cc	_	_
+12	tutkimisessa	tutkiminen	NOUN	N	Case=Ine|Derivation=Minen|Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 29
+# text = Tulevaisuudessa voisi vastaavanlaisesti kartuttaa myös muiden alojen sanastoa 1600-luvun sanakirjoissa tai ylipäätään vanhassa kirjakielessä.
+1	Tulevaisuudessa	tulevaisuus	NOUN	N	Case=Ine|Derivation=Inen,Vs|Number=Sing	4	obl	_	_
+2	voisi	voida	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	vastaavanlaisesti	vastaavanlaisesti	ADV	Adv	Derivation=Sti	4	advmod	_	_
+4	kartuttaa	kartuttaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	myös	myös	ADV	Adv	_	8	advmod	_	_
+6	muiden	muu	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	7	det	_	_
+7	alojen	ala	NOUN	N	Case=Gen|Number=Plur	8	nmod:poss	_	_
+8	sanastoa	sanasto	NOUN	N	Case=Par|Number=Sing	4	obj	_	_
+9	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	4	obl	_	_
+11	tai	tai	CCONJ	C	_	14	cc	_	_
+12	ylipäätään	yli#päätään	ADV	Adv	_	14	advmod	_	_
+13	vanhassa	vanha	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	14	amod	_	_
+14	kirjakielessä	kirja#kieli	NOUN	N	Case=Ine|Number=Sing	10	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 30
+# text = Osmo Ikolan mukaan on kirjakieli koko kieliyhteisölle yhteinen kirjoitetun kielen muoto, jossa kuitenkin esiintyy yksilöllisiä ja alueellisia erityispiirteitäkin.
+1	Osmo	Osmo	PROPN	N	Case=Nom|Number=Sing	11	obl	_	_
+2	Ikolan	Ikola	PROPN	N	Case=Gen|Number=Sing	1	flat:name	_	_
+3	mukaan	mukaan	ADP	Adp	AdpType=Post	1	case	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+5	kirjakieli	kirja#kieli	NOUN	N	Case=Nom|Number=Sing	11	nsubj:cop	_	_
+6	koko	koko	ADJ	A	_	7	amod	_	_
+7	kieliyhteisölle	kieli#yhteisö	NOUN	N	Case=All|Number=Sing	9	obl	_	_
+8	yhteinen	yhteinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	11	amod	_	_
+9	kirjoitetun	kirjoittaa	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	muoto	muoto	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	15	punct	_	_
+13	jossa	joka	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	15	obl	_	_
+14	kuitenkin	kuitenkin	ADV	Adv	_	15	advmod	_	_
+15	esiintyy	esiintyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+16	yksilöllisiä	yksilöllinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	19	amod	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	alueellisia	alueellinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	16	conj	_	_
+19	erityispiirteitäkin	erityis#piirre	NOUN	N	Case=Par|Number=Plur|Person[psor]=3	15	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	11	punct	_	_
+
+# sent_id = 31
+# text = Nykyisen ja vanhan kirjakielen välillä on se ero, että nykyinen kirjakieli on lähinnä ns.
+1	Nykyisen	nykyinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	vanhan	vanha	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	1	conj	_	_
+4	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	0	root	_	_
+5	välillä	välillä	ADP	Adp	AdpType=Post	4	case	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+7	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	det	_	_
+8	ero	ero	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	15	punct	_	_
+10	että	että	SCONJ	C	_	15	mark	_	_
+11	nykyinen	nykyinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	12	amod	_	_
+12	kirjakieli	kirja#kieli	NOUN	N	Case=Nom|Number=Sing	15	nsubj:cop	_	_
+13	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
+14	lähinnä	lähinnä	ADV	Adv	_	15	advmod	_	_
+15	ns.	niin#sanottu	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	ccomp	_	_
+
+# sent_id = 32
+# text = normaaliproosaa eli kirjoitettua yleiskieltä, mutta vanhaan kirjasuomeen kuuluu suurin piirtein kaikki, mitä Ruotsin vallan aikana on suomeksi kirjoitettu.
+1	normaaliproosaa	normaali#proosa	NOUN	N	Case=Par|Number=Sing	0	root	_	_
+2	eli	eli	CCONJ	C	_	4	cc	_	_
+3	kirjoitettua	kirjoittaa	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+4	yleiskieltä	yleis#kieli	NOUN	N	Case=Par|Number=Sing	1	conj	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	9	punct	_	_
+6	mutta	mutta	CCONJ	C	_	9	cc	_	_
+7	vanhaan	vanha	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	8	amod	_	_
+8	kirjasuomeen	kirja#suomi	NOUN	N	Case=Ill|Number=Sing	9	obl	_	_
+9	kuuluu	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+10	suurin	suuri	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	12	amod	_	_
+11	piirtein	piirtein	ADV	Adv	_	12	advmod	_	_
+12	kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	20	punct	_	_
+14	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Rel	20	obj	_	_
+15	Ruotsin	Ruotsi	PROPN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	vallan	valta	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	aikana	aika	NOUN	N	Case=Ess|Number=Sing	20	obl	_	_
+18	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux:pass	_	_
+19	suomeksi	suomi	NOUN	N	Case=Tra|Number=Sing	20	obl	_	_
+20	kirjoitettu	kirjoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	12	acl:relcl	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 33
+# text = Suomen kirjakielen historia ulottuu yli neljäsataa vuotta ajassa taaksepäin.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	historia	historia	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	ulottuu	ulottua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	yli	yli	ADV	Adv	_	6	advmod	_	_
+6	neljäsataa	neljä#sata	NUM	Num	Case=Par|Number=Sing|NumType=Card	7	nummod	_	_
+7	vuotta	vuosi	NOUN	N	Case=Par|Number=Sing	4	obl	_	_
+8	ajassa	aika	NOUN	N	Case=Ine|Number=Sing	4	obl	_	_
+9	taaksepäin	taaksepäin	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 34
+# text = Sen perustaksi oli Turun seudun murre, sillä Turku oli tuolloin maan sivistyselämän ja hallinnon keskuspaikka.
+1	Sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	nmod:poss	_	_
+2	perustaksi	perusta	NOUN	N	Case=Tra|Number=Sing	6	nmod	_	_
+3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	Turun	Turku	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	seudun	seutu	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	murre	murre	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	16	punct	_	_
+8	sillä	sillä	SCONJ	C	_	16	mark	_	_
+9	Turku	Turku	PROPN	N	Case=Nom|Number=Sing	16	nsubj:cop	_	_
+10	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+11	tuolloin	tuolloin	ADV	Adv	_	16	advmod	_	_
+12	maan	maa	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	sivistyselämän	sivistys#elämä	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	hallinnon	hallinto	NOUN	N	Case=Gen|Number=Sing	13	conj	_	_
+16	keskuspaikka	keskus#paikka	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 35
+# text = Kirjakielen pohjaksi ei tulleet kuitenkin pelkästään lounaismurteet, sillä Turun seudulla ei oikeastaan puhuta puhdasta lounaismurretta.
+1	Kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	pohjaksi	pohja	NOUN	N	Case=Tra|Number=Sing	4	xcomp	_	_
+3	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	tulleet	tulla	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	kuitenkin	kuitenkin	ADV	Adv	_	4	advmod	_	_
+6	pelkästään	pelkästään	ADV	Adv	_	7	advmod	_	_
+7	lounaismurteet	lounais#murre	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	14	punct	_	_
+9	sillä	sillä	SCONJ	C	_	14	mark	_	_
+10	Turun	Turku	PROPN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	seudulla	seutu	NOUN	N	Case=Ade|Number=Sing	14	obl	_	_
+12	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	14	aux	_	_
+13	oikeastaan	oikeastaan	ADV	Adv	_	14	advmod	_	_
+14	puhuta	puhua	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	advcl	_	_
+15	puhdasta	puhdas	ADJ	A	Case=Par|Degree=Pos|Number=Sing	16	amod	_	_
+16	lounaismurretta	lounais#murre	NOUN	N	Case=Par|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 36
+# text = Turkuun ulottuu nimittäin Hämeenlinnaan suuntautuvan valtatien suunnassa hämäläisvärinen sekamurre, ns. Turun ylämaan murre.
+1	Turkuun	Turku	PROPN	N	Case=Ill|Number=Sing	2	obl	_	_
+2	ulottuu	ulottua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nimittäin	nimittäin	ADV	Adv	Derivation=Ttain	2	advmod	_	_
+4	Hämeenlinnaan	Hämeenlinna	PROPN	N	Case=Ill|Number=Sing	5	obl	_	_
+5	suuntautuvan	suuntautua	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+6	valtatien	valta#tie	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	suunnassa	suunta	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+8	hämäläisvärinen	hämäläis#värinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	9	amod	_	_
+9	sekamurre	sekamurre	PROPN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	14	punct	_	_
+11	ns.	ns.	ADJ	A	Abbr=Yes	14	advmod	_	_
+12	Turun	Turku	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+13	ylämaan	ylä#maa	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	murre	murre	NOUN	N	Case=Nom|Number=Sing	9	appos	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 37
+# text = Suomen kirjakielen historia on tapana jakaa jaksoihin.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	historia	historia	NOUN	N	Case=Nom|Number=Sing	6	obj	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	tapana	tapa	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+6	jakaa	jakaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	xcomp:ds	_	_
+7	jaksoihin	jakso	NOUN	N	Case=Ill|Number=Plur	6	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 38
+# text = Vanhan kirjasuomen kausi alkaa 1540-luvulta, kun ilmestyvät ensimmäiset suomenkieliset painutuotteet, ja päättyy n. 1810.
+1	Vanhan	vanha	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
+2	kirjasuomen	kirja#suomi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kausi	kausi	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	alkaa	alkaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	1540-luvulta	1540#luku	NOUN	N	Case=Abl|Number=Sing	4	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	kun	kun	SCONJ	C	_	8	mark	_	_
+8	ilmestyvät	ilmestyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+9	ensimmäiset	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Plur|NumType=Ord	11	nummod	_	_
+10	suomenkieliset	suomen#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	11	amod	_	_
+11	painutuotteet	painu#tuote	NOUN	N	Case=Nom|Number=Plur	8	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	14	punct	_	_
+13	ja	ja	CCONJ	C	_	14	cc	_	_
+14	päättyy	päättyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+15	n.	n.	ADV	Adv	Abbr=Yes	16	advmod	_	_
+16	1810	1810	NUM	Num	NumType=Card	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 39
+# text = Sen ajan kirjallisuus oli yleensä tarkkaan käännetty vieraista kielistä.
+1	Sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	det	_	_
+2	ajan	aika	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	kirjallisuus	kirjallisuus	NOUN	N	Case=Nom|Derivation=Llinen,Vs|Number=Sing	7	obj	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+5	yleensä	yleensä	ADV	Adv	_	7	advmod	_	_
+6	tarkkaan	tarkkaan	ADV	Adv	_	7	advmod	_	_
+7	käännetty	kääntää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	vieraista	vieras	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	9	amod	_	_
+9	kielistä	kieli	NOUN	N	Case=Ela|Number=Plur	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 40
+# text = Varhaisnykysuomen kausi kesti n. 1810-1880, jolloin tapahtui kielen nopea kehitys.
+1	Varhaisnykysuomen	varhaisnyky#suomi	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kausi	kausi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	kesti	kestää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	n.	n.	ADV	Adv	Abbr=Yes	5	advmod	_	_
+5	1810-1880	1810-1880	NUM	Num	NumType=Card	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	jolloin	jolloin	ADV	Adv	_	8	advmod	_	_
+8	tapahtui	tapahtua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	11	nmod:gobj	_	_
+10	nopea	nopea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
+11	kehitys	kehitys	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 41
+# text = 1880-luvulla oli kieli jo sen verran kehittynyt, ettei siinä ole enää tapahtunut suuria muutoksia, joten siitä eteenpäin jatkuu nykysuomen kausi.
+1	1880-luvulla	1880#luku	NOUN	N	Case=Ade|Number=Sing	7	obl	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
+3	kieli	kieli	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+4	jo	jo	ADV	Adv	_	7	advmod	_	_
+5	sen	sen	ADV	Adv	_	7	advmod	_	_
+6	verran	verran	ADV	Adv	_	5	fixed	_	_
+7	kehittynyt	kehittyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	13	punct	_	_
+9	ettei	että#ei	VERB	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	13	mark	_	_
+10	siinä	se	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	13	obl	_	_
+11	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	enää	enää	ADV	Adv	_	13	advmod	_	_
+13	tapahtunut	tapahtua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	ccomp	_	_
+14	suuria	suuri	ADJ	A	Case=Par|Degree=Pos|Number=Plur	15	amod	_	_
+15	muutoksia	muutos	NOUN	N	Case=Par|Number=Plur	13	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	20	punct	_	_
+17	joten	joten	ADV	Adv	_	20	advmod	_	_
+18	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	20	obl	_	_
+19	eteenpäin	eteenpäin	ADV	Adv	_	20	advmod	_	_
+20	jatkuu	jatkua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+21	nykysuomen	nyky#suomi	NOUN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+22	kausi	kausi	NOUN	N	Case=Nom|Number=Sing	20	nsubj	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 42
+# text = Tutkimuksessani käsittelen kuitenkin vain 1600-luvulta peräisin olevaa aineistoa, siten kiinnitän huomiota juuri tuon ajan kieleen.
+1	Tutkimuksessani	tutkimus	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
+2	käsittelen	käsitellä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kuitenkin	kuitenkin	ADV	Adv	_	2	advmod	_	_
+4	vain	vain	ADV	Adv	_	8	advmod	_	_
+5	1600-luvulta	1600#luku	NOUN	N	Case=Abl|Number=Sing	6	nmod	_	_
+6	peräisin	peräisin	ADV	Adv	_	7	advmod	_	_
+7	olevaa	olla	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	aineistoa	aineisto	NOUN	N	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	siten	siten	ADV	Adv	_	11	advmod	_	_
+11	kiinnitän	kiinnittää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	huomiota	huomio	NOUN	N	Case=Par|Number=Sing	11	obj	_	_
+13	juuri	juuri	ADV	Adv	_	16	advmod	_	_
+14	tuon	tuo	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	15	det	_	_
+15	ajan	aika	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	kieleen	kieli	NOUN	N	Case=Ill|Number=Sing	11	obl	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 43
+# text = Raimo Jussila on artikkelissaan jaotellut suomen kirjakielen kehittymisen ajan vuosilta 1543-1810 vielä lyhyempiin sanaston kehitysjaksoihin.
+1	Raimo	Raimo	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	Jussila	Jussila	PROPN	N	Case=Nom|Number=Sing	1	flat:name	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	artikkelissaan	artikkeli	NOUN	N	Case=Ine|Number=Sing|Person[psor]=3	5	obl	_	_
+5	jaotellut	jaotella	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:gsubj	_	_
+8	kehittymisen	kehittyminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	9	nmod:poss	_	_
+9	ajan	aika	NOUN	N	Case=Gen|Number=Sing	5	obj	_	_
+10	vuosilta	vuosi	NOUN	N	Case=Abl|Number=Plur	5	obl	_	_
+11	1543-1810	1543-1810	NUM	Num	NumType=Card	10	nummod	_	_
+12	vielä	vielä	ADV	Adv	_	13	advmod	_	_
+13	lyhyempiin	lyhyt	ADJ	A	Case=Ill|Degree=Sup|Number=Plur	15	amod	_	_
+14	sanaston	sanasto	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	kehitysjaksoihin	kehitys#jakso	NOUN	N	Case=Ill|Number=Plur	9	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 44
+# text = 1600-luvulla on pääasiallisesti kaksi jaksoa, ns. Raamatun kausi ja asetusten kausi.
+1	1600-luvulla	1600#luku	NOUN	N	Case=Ade|Number=Sing	0	root	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	pääasiallisesti	pää#asiallisesti	ADV	Adv	Derivation=Sti	4	advmod	_	_
+4	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+5	jaksoa	jakso	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	ns.	ns.	ADJ	A	Abbr=Yes	9	amod	_	_
+8	Raamatun	Raamattu	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kausi	kausi	NOUN	N	Case=Nom|Number=Sing	5	appos	_	_
+10	ja	ja	CCONJ	C	_	12	cc	_	_
+11	asetusten	asetus	NOUN	N	Case=Gen|Number=Plur	12	nmod:poss	_	_
+12	kausi	kausi	NOUN	N	Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 45
+# text = Ensimmäisen jakson aikana toimi raamatunkäännöskomitea, mutta ilmestyivät myös ensimmäiset tulkkisanakirjat – Lexicon ja Variarum rerum.
+1	Ensimmäisen	ensimmäinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	jakson	jakso	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	aikana	aika	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+4	toimi	toimia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	raamatunkäännöskomitea	raama#tun#käännös#komitea	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	mutta	mutta	CCONJ	C	_	8	cc	_	_
+8	ilmestyivät	ilmestyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+9	myös	myös	ADV	Adv	_	11	advmod	_	_
+10	ensimmäiset	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Plur|NumType=Ord	11	nummod	_	_
+11	tulkkisanakirjat	tulkki#sana#kirja	NOUN	N	Case=Nom|Number=Plur	8	nsubj	_	_
+12	–	–	PUNCT	Punct	_	13	punct	_	_
+13	Lexicon	Lexicon	PROPN	N	Case=Nom|Number=Sing	11	appos	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	Variarum	Variarum	PROPN	N	Case=Nom|Number=Sing	13	conj	_	_
+16	rerum	rerum	PROPN	N	Case=Nom|Number=Sing	15	flat:name	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 46
+# text = Toinen jakso on nimitetty asetusten kaudeksi, koska silloin esiintyy uutta sanastoa erityisesti Ruotsin vallan asetuksissa, julistuksissa ja kirkkolaissa.
+1	Toinen	toinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	jakso	jakso	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	nimitetty	nimittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	asetusten	asetus	NOUN	N	Case=Gen|Number=Plur	6	nmod:poss	_	_
+6	kaudeksi	kausi	NOUN	N	Case=Tra|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	koska	koska	SCONJ	C	_	10	mark	_	_
+9	silloin	silloin	ADV	Adv	_	10	advmod	_	_
+10	esiintyy	esiintyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+11	uutta	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Sing	12	amod	_	_
+12	sanastoa	sanasto	NOUN	N	Case=Par|Number=Sing	10	nsubj	_	_
+13	erityisesti	erityisesti	ADV	Adv	Derivation=Sti	16	advmod	_	_
+14	Ruotsin	Ruotsi	PROPN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	vallan	valta	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	asetuksissa	asetus	NOUN	N	Case=Ine|Number=Plur	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	18	punct	_	_
+18	julistuksissa	julistus	NOUN	N	Case=Ine|Number=Plur	16	conj	_	_
+19	ja	ja	CCONJ	C	_	20	cc	_	_
+20	kirkkolaissa	kirkko#laki	NOUN	N	Case=Ine|Number=Plur	16	conj	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 47
+# text = Saman periodin aikana ilmestyikin kolmas 1600-luvun sanakirja, Nomenclatura.
+1	Saman	sama	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	2	det	_	_
+2	periodin	periodi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	aikana	aika	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+4	ilmestyikin	ilmestyä	VERB	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kolmas	kolmas	ADJ	Num	Case=Nom|Number=Sing|NumType=Ord	7	nummod	_	_
+6	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	Nomenclatura	Nomenclatura	PROPN	N	Case=Nom|Number=Sing	7	appos	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 48
+# text = 1600-luvulla ilmestyivät ensimmäiset suomea sisältäneet sanakirjat.
+1	1600-luvulla	1600#luku	NOUN	N	Case=Ade|Number=Sing	2	obl	_	_
+2	ilmestyivät	ilmestyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ensimmäiset	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Plur|NumType=Ord	6	nummod	_	_
+4	suomea	suomi	NOUN	N	Case=Par|Number=Sing	5	obj	_	_
+5	sisältäneet	sisältää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	6	acl	_	_
+6	sanakirjat	sana#kirja	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 49
+# text = Niitä oli yhteensä kolme.
+1	Niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	4	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	yhteensä	yhteensä	ADV	Adv	_	4	advmod	_	_
+4	kolme	kolme	NUM	Num	Case=Nom|Number=Sing|NumType=Card	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 50
+# text = Ensimmäisenä ilmestyi vuonna 1637, viisi vuotta ennen vuosisadan tärkeintä teosta, Raamattua, Ericus Schroderuksen laatima Lexicon Latino-Scondicum.
+1	Ensimmäisenä	ensimmäinen	ADJ	Num	Case=Ess|Derivation=Inen|Number=Sing|NumType=Ord	2	obl	_	_
+2	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	2	obl	_	_
+4	1637	1637	NUM	Num	NumType=Card	3	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	7	punct	_	_
+6	viisi	viisi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
+7	vuotta	vuosi	NOUN	N	Case=Par|Number=Sing	2	obl	_	_
+8	ennen	ennen	ADP	Adp	AdpType=Prep	11	case	_	_
+9	vuosisadan	vuosi#sata	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+10	tärkeintä	tärkeä	ADJ	A	Case=Par|Degree=Sup|Number=Sing	11	amod	_	_
+11	teosta	teko	NOUN	N	Case=Ela|Number=Sing	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	13	punct	_	_
+13	Raamattua	raamata	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	11	acl	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	18	punct	_	_
+15	Ericus	Ericus	PROPN	N	Case=Nom|Number=Sing	17	nsubj	_	_
+16	Schroderuksen	Schroderus	PROPN	N	Case=Gen|Number=Sing	15	flat:name	_	_
+17	laatima	laatia	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	18	acl	_	_
+18	Lexicon	Lexicon	PROPN	N	Case=Nom|Number=Sing	10	nsubj:cop	_	_
+19	Latino-Scondicum	Latino#Scondicum	PROPN	N	Case=Nom|Number=Sing	18	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 51
+# text = Tämä sanakirja painettiin Tukholmassa Henricus Käyserin kirjapainossa.
+1	Tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
+2	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
+3	painettiin	painaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	Tukholmassa	Tukholma	PROPN	N	Case=Ine|Number=Sing	3	obl	_	_
+5	Henricus	Henricus	PROPN	N	Case=Nom|Number=Sing	7	nmod:poss	_	_
+6	Käyserin	Käyser	PROPN	N	Case=Gen|Number=Sing	5	flat:name	_	_
+7	kirjapainossa	kirja#paino	NOUN	N	Case=Ine|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 52
+# text = Lexicon oli kooltaan aika pieni , ja se sisälsi vain 146 sivua.
+1	Lexicon	Lexicon	PROPN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	kooltaan	koko	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	5	obl	_	_
+4	aika	aika	ADV	Adv	_	5	advmod	_	_
+5	pieni	pieni	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	ja	ja	CCONJ	C	_	9	cc	_	_
+8	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	nsubj	_	_
+9	sisälsi	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	vain	vain	ADV	Adv	_	11	advmod	_	_
+11	146	146	NUM	Num	NumType=Card	12	nummod	_	_
+12	sivua	sivu	NOUN	N	Case=Par|Number=Sing	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 53
+# text = Aineistona on noin 2400 sanaa ja ne ovat järjestetty aihepiireittäin 36 asiaryhmään.
+1	Aineistona	aineisto	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	noin	noin	ADV	Adv	_	4	advmod	_	_
+4	2400	2400	NUM	Num	NumType=Card	5	nummod	_	_
+5	sanaa	sana	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	_
+6	ja	ja	CCONJ	C	_	9	cc	_	_
+7	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	9	obj	_	_
+8	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	järjestetty	järjestää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	1	conj	_	_
+10	aihepiireittäin	aihe#piireittäin	ADV	Adv	Derivation=Ttain	9	advmod	_	_
+11	36	36	NUM	Num	NumType=Card	12	nummod	_	_
+12	asiaryhmään	asia#ryhmä	NOUN	N	Case=Ill|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 54
+# text = Lexicon oli tarkoitettu pääasiallisesti latinaa opiskeleville koulupojille apuvälineeksi.
+1	Lexicon	Lexicon	PROPN	N	Case=Nom|Number=Sing	3	obj	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	tarkoitettu	tarkoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	pääasiallisesti	pää#asiallisesti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+5	latinaa	latina	NOUN	N	Case=Par|Number=Sing	6	obj	_	_
+6	opiskeleville	opiskella	VERB	V	Case=All|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+7	koulupojille	koulu#poika	NOUN	N	Case=All|Number=Plur	8	nmod	_	_
+8	apuvälineeksi	apu#väline	NOUN	N	Case=Tra|Number=Sing	3	xcomp:ds	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 55
+# text = Kirja sisältää hakusanoja neljällä kielellä – latina, ruotsi, saksa ja suomi.
+1	Kirja	kirja	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	sisältää	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	hakusanoja	haku#sana	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+4	neljällä	neljä	NUM	Num	Case=Ade|Number=Sing|NumType=Card	5	nummod	_	_
+5	kielellä	kieli	NOUN	N	Case=Ade|Number=Sing	2	obl	_	_
+6	–	–	PUNCT	Punct	_	7	punct	_	_
+7	latina	latina	PROPN	N	Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	ruotsi	ruotsi	PROPN	N	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	11	punct	_	_
+11	saksa	saksa	PROPN	N	Case=Nom|Number=Sing	7	conj	_	_
+12	ja	ja	CCONJ	C	_	13	cc	_	_
+13	suomi	suomi	PROPN	N	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 56
+# text = Sanakirjalla on myös esipuhe, missä Schroderus kertoo, että teoksensa suomenkielinen aineisto on peräisin noin vuoden kestäneeltä matkalta Pohjois-Suomeen.
+1	Sanakirjalla	sana#kirja	NOUN	N	Case=Ade|Number=Sing	0	root	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	myös	myös	ADV	Adv	_	4	advmod	_	_
+4	esipuhe	esi#puhe	NOUN	N	Case=Nom|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	missä	mikä	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	8	obl	_	_
+7	Schroderus	Schroderus	PROPN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+8	kertoo	kertoa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	15	punct	_	_
+10	että	että	SCONJ	C	_	15	mark	_	_
+11	teoksensa	teos	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	13	nmod:poss	_	_
+12	suomenkielinen	suomen#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	13	amod	_	_
+13	aineisto	aineisto	NOUN	N	Case=Nom|Number=Sing	15	nsubj:cop	_	_
+14	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
+15	peräisin	peräisin	ADV	Adv	_	8	ccomp	_	_
+16	noin	noin	ADV	Adv	_	17	advmod	_	_
+17	vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+18	kestäneeltä	kestänen	VERB	Num	Case=Abl|Derivation=Inen|Number=Sing|NumType=Ord	19	nummod	_	_
+19	matkalta	matka	NOUN	N	Case=Abl|Number=Sing	15	obl	_	_
+20	Pohjois-Suomeen	Pohjois#Suomi	PROPN	N	Case=Ill|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 57
+# text = Hän luettelee esipuhessaan myös eräitä suomen kielen erikoispiirteitä.
+1	Hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	luettelee	luetella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	esipuhessaan	esi#puhe	NOUN	N	Case=Ine|Number=Sing|Person[psor]=3	2	obl	_	_
+4	myös	myös	ADV	Adv	_	8	advmod	_	_
+5	eräitä	eräs	PRON	Pron	Case=Par|Number=Plur|PronType=Ind	8	det	_	_
+6	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	erikoispiirteitä	erikois#piirre	NOUN	N	Case=Par|Number=Plur	2	obj	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 58
+# text = Hänen tärkeimpänä tiedonantajanaan toimi Oulun kappalainen Marcus Paavalinpoika Björneburgensis.
+1	Hänen	hän	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+2	tärkeimpänä	tärkeä	ADJ	A	Case=Ess|Degree=Sup|Number=Sing	3	amod	_	_
+3	tiedonantajanaan	tiedon#antaja	NOUN	N	Case=Gen|Derivation=U|Number=Sing|Person[psor]=3	4	obl	_	_
+4	toimi	toimia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Oulun	Oulu	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	kappalainen	kappalainen	NOUN	N	Case=Nom|Number=Sing	7	compound:nn	_	_
+7	Marcus	Marcus	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+8	Paavalinpoika	paavalin#poika	NOUN	N	Case=Nom|Number=Sing	7	flat:name	_	_
+9	Björneburgensis	Björneburgensis	PROPN	N	Case=Nom|Number=Sing	7	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 59
+# text = Sanakirjan painatus on myös suomalaisen tekstin osalta suoritettu erittäin huolellisesti, joten siitä voi päätellä, että Schroderus lienee perehtynyt itsekin jonkin verran suomeen.
+1	Sanakirjan	sana#kirja	NOUN	N	Case=Gen|Number=Sing	2	nmod:gobj	_	_
+2	painatus	painatus	NOUN	N	Case=Nom|Number=Sing	8	obj	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+4	myös	myös	ADV	Adv	_	7	advmod	_	_
+5	suomalaisen	suomalainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	6	amod	_	_
+6	tekstin	teksti	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	osalta	osa	NOUN	N	Case=Abl|Number=Sing	8	obl	_	_
+8	suoritettu	suorittaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	erittäin	erittäin	ADV	Adv	Derivation=Ttain	10	advmod	_	_
+10	huolellisesti	huolellisesti	ADV	Adv	Derivation=Sti	8	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	15	punct	_	_
+12	joten	joten	ADV	Adv	_	15	advmod	_	_
+13	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	15	obl	_	_
+14	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	_
+15	päätellä	päätellä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	8	acl:relcl	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	20	punct	_	_
+17	että	että	SCONJ	C	_	20	mark	_	_
+18	Schroderus	Schroderus	PROPN	N	Case=Nom|Number=Sing	20	nsubj	_	_
+19	lienee	olla	AUX	V	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	aux	_	_
+20	perehtynyt	perehtyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	15	ccomp	_	_
+21	itsekin	itse	ADV	Adv	Clitic=Kin	20	advmod	_	_
+22	jonkin	jokin	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	advmod	_	_
+23	verran	verran	ADV	Adv	_	22	fixed	_	_
+24	suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 60
+# text = Suomen sanojen mukaanottoa perustelee Schroderus suomen sanarikkaudella, ja hän myös kehuu suomalaisia, että he ovat pystyneet säilyttämään kielensä sekä Moskovan että ruotsalaisten vallan alla.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	sanojen	sana	NOUN	N	Case=Gen|Number=Plur	3	nmod:poss	_	_
+3	mukaanottoa	mukaan#otto	NOUN	N	Case=Par|Number=Sing	4	obj	_	_
+4	perustelee	perustella	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Schroderus	Schroderus	PROPN	N	Case=Nom|Number=Sing	7	nmod:poss	_	_
+6	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	5	flat:name	_	_
+7	sanarikkaudella	sana#rikkaus	NOUN	N	Case=Ade|Derivation=Vs|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	12	punct	_	_
+9	ja	ja	CCONJ	C	_	12	cc	_	_
+10	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	myös	myös	ADV	Adv	_	12	advmod	_	_
+12	kehuu	kehua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	suomalaisia	suomalainen	NOUN	N	Case=Par|Derivation=Lainen|Number=Plur	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	18	punct	_	_
+15	että	että	SCONJ	C	_	18	mark	_	_
+16	he	hän	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
+17	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
+18	pystyneet	pystyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	12	ccomp	_	_
+19	säilyttämään	säilyttää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	kielensä	kieli	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	19	obj	_	_
+21	sekä	sekä	CCONJ	C	_	22	cc:preconj	_	_
+22	Moskovan	Moskova	PROPN	N	Case=Gen|Number=Sing	25	nmod:poss	_	_
+23	että	että	CCONJ	C	_	24	cc	_	_
+24	ruotsalaisten	ruotsalainen	ADJ	N	Case=Gen|Derivation=Lainen|Number=Plur	22	conj	_	_
+25	vallan	valta	NOUN	N	Case=Gen|Number=Sing	19	obl	_	_
+26	alla	alla	ADP	Adp	AdpType=Post	25	case	_	SpaceAfter=No
+27	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 61
+# text = Vaikka Lexiconin aineisto on jaoteltu niin, että latina on ensimmäinen kieli, lähtökohtana onkin ollut Schroderuksen äidinkieli ruotsi.
+1	Vaikka	vaikka	SCONJ	C	_	5	mark	_	_
+2	Lexiconin	Lexicon	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	aineisto	aineisto	NOUN	N	Case=Nom|Number=Sing	5	obj	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	jaoteltu	jaotella	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
+6	niin	niin	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	12	punct	_	_
+8	että	että	SCONJ	C	_	12	mark	_	_
+9	latina	latina	NOUN	N	Case=Nom|Number=Sing	12	nsubj:cop	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	12	nummod	_	_
+12	kieli	kieli	NOUN	N	Case=Nom|Number=Sing	6	ccomp	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	5	punct	_	_
+14	lähtökohtana	lähtö#kohta	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+15	onkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
+16	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	14	cop	_	_
+17	Schroderuksen	Schroderus	PROPN	N	Case=Gen|Number=Sing	18	nmod:poss	_	_
+18	äidinkieli	äidin#kieli	NOUN	N	Case=Nom|Number=Sing	19	compound:nn	_	_
+19	ruotsi	ruotsi	PROPN	N	Case=Nom|Number=Sing	14	nsubj:cop	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	14	punct	_	_
+
+# sent_id = 62
+# text = Kaikkien kolmen muun kielen termivastineet näyttävät olevan enemmän tai vähemmän ruotsin käännöksiä.
+1	Kaikkien	kaikki	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	4	det	_	_
+2	kolmen	kolme	NUM	Num	Case=Gen|Number=Sing|NumType=Card	4	nummod	_	_
+3	muun	muu	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	4	det	_	_
+4	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	termivastineet	termi#vastine	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	_
+6	näyttävät	näyttää	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	olevan	olla	AUX	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	cop	_	_
+8	enemmän	enemmän	ADV	Adv	_	6	xcomp	_	_
+9	tai	tai	CCONJ	C	_	10	cc	_	_
+10	vähemmän	vähemmän	ADV	Adv	_	8	conj	_	_
+11	ruotsin	ruotsi	PROPN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	käännöksiä	käännös	NOUN	N	Case=Par|Number=Plur	8	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 63
+# text = Suomenkielisissä sanoissa on myös uudismuotoja, jotka Marcus Sadelerus on ilmeisesti itse sepittänyt, esim.
+1	Suomenkielisissä	suomen#kielinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	sanoissa	sana	NOUN	N	Case=Ine|Number=Plur	0	root	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	myös	myös	ADV	Adv	_	5	advmod	_	_
+5	uudismuotoja	uudis#muoto	NOUN	N	Case=Par|Number=Plur	2	nsubj:cop	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	13	punct	_	_
+7	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	13	obj	_	_
+8	Marcus	Marcus	PROPN	N	Case=Nom|Number=Sing	13	nsubj	_	_
+9	Sadelerus	Sadelerus	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+11	ilmeisesti	ilmeisesti	ADV	Adv	Derivation=Sti	13	advmod	_	_
+12	itse	itse	ADV	Adv	_	13	advmod	_	_
+13	sepittänyt	sepittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	13	punct	_	_
+15	esim.	esim.	ADV	Adv	Abbr=Yes	5	advmod	_	_
+
+# sent_id = 64
+# text = verhotus ’teltta’, ylimäinen ’eversti’.
+1	verhotus	verhotus	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	’teltta’	iteltta’	INTJ	Interj	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	5	punct	_	_
+4	ylimäinen	ylimäinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	5	amod	_	_
+5	’eversti	’eversti	NOUN	N	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
+6	’	’	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 65
+# text = Tällaiset keksityt omakieliset vastineet ovat mielenkiintoisia yleisen ruotsinvaikutuksen vierellä.
+1	Tällaiset	tällainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Plur	4	amod	_	_
+2	keksityt	keksitty	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+3	omakieliset	oma#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	4	amod	_	_
+4	vastineet	vastine	NOUN	N	Case=Nom|Number=Plur	6	nsubj:cop	_	_
+5	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	mielenkiintoisia	mielenkiintoinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	0	root	_	_
+7	yleisen	yleinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	8	amod	_	_
+8	ruotsinvaikutuksen	ruotsi#vaikutus	NOUN	N	Case=Gen|Number=Sing	6	obl	_	_
+9	vierellä	vierellä	ADP	Adp	AdpType=Post	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 66
+# text = Hakulisen mukaan pyrkii Schroderus sanastolliseen aitouteen, sillä hän ilmoittaa esittävänsä kunkin neljän kielen sanat ”puhtaasti”.
+1	Hakulisen	Hakulinen	PROPN	N	Case=Gen|Number=Sing	3	obl	_	_
+2	mukaan	mukaan	ADP	Adp	AdpType=Post	1	case	_	_
+3	pyrkii	pyrkiä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Schroderus	Schroderus	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+5	sanastolliseen	sanastollinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Llinen|Number=Sing	6	amod	_	_
+6	aitouteen	aitous	NOUN	N	Case=Ill|Derivation=Vs|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	sillä	sillä	SCONJ	C	_	10	mark	_	_
+9	hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ilmoittaa	ilmoittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+11	esittävänsä	esittää	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|Person[psor]=3|VerbForm=Part|Voice=Act	10	xcomp	_	_
+12	kunkin	kukin	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	14	det	_	_
+13	neljän	neljä	NUM	Num	Case=Gen|Number=Sing|NumType=Card	14	nummod	_	_
+14	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	sanat	sana	NOUN	N	Case=Nom|Number=Plur	11	obj	_	_
+16	”	”	PUNCT	Punct	_	17	punct	_	SpaceAfter=No
+17	puhtaasti	puhtaasti	ADV	Adv	Derivation=Sti	11	advmod	_	SpaceAfter=No
+18	”	”	PUNCT	Punct	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 67
+# text = Lexiconin suppeuteensa katsoen sisältää se silti suhteellisen runsaasti kielen perussanastoa.
+1	Lexiconin	Lexicon	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	suppeuteensa	suppeus	NOUN	N	Case=Ill|Derivation=Vs|Number=Sing|Person[psor]=3	3	obl	_	_
+3	katsoen	katsoa	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	4	advcl	_	_
+4	sisältää	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
+6	silti	silti	ADV	Adv	_	4	advmod	_	_
+7	suhteellisen	suhteellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	8	amod	_	_
+8	runsaasti	runsaasti	ADV	Adv	Derivation=Sti	10	advmod	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	perussanastoa	perus#sanasto	NOUN	N	Case=Par|Number=Sing	4	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 68
+# text = Vain 7 vuotta myöhemmin ilmestyi seuraava sanakirja Variarum rerum vocabula Latina, cum Svetica et Finnonica Interpretatione , joka painettiin Tukholmassa vuonna 1644.
+1	Vain	vain	ADV	Adv	_	2	advmod	_	_
+2	7	7	NUM	Num	NumType=Card	3	nummod	_	_
+3	vuotta	vuosi	NOUN	N	Case=Par|Number=Sing	4	nmod	_	_
+4	myöhemmin	myöhemmin	ADV	Adv	_	5	advmod	_	_
+5	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	seuraava	seuraava	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	8	compound:nn	_	_
+8	Variarum	Variarum	X	Foreign	Foreign=Yes	5	nsubj	_	_
+9	rerum	rerum	X	Foreign	Foreign=Yes	8	flat:name	_	_
+10	vocabula	vocabula	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	_
+11	Latina	Latina	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	13	punct	_	_
+13	cum	cum	X	Foreign	Foreign=Yes	8	conj	_	_
+14	Svetica	Svetica	X	Foreign	Foreign=Yes	13	flat:name	_	_
+15	et	et	AUX	Symb	_	13	flat:name	_	_
+16	Finnonica	Finnonica	PROPN	N	Case=Nom|Number=Sing	8	conj	_	_
+17	Interpretatione	Interpretatione	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	_
+18	,	,	PUNCT	Punct	_	20	punct	_	_
+19	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	20	obj	_	_
+20	painettiin	painaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	16	acl:relcl	_	_
+21	Tukholmassa	Tukholma	PROPN	N	Case=Ine|Number=Sing	20	obl	_	_
+22	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	20	obl	_	_
+23	1644	1644	NUM	Num	NumType=Card	22	nummod	_	SpaceAfter=No
+24	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 69
+# text = Variarum oli oikeastaan jo vuonna 1538 ensi kertaa ilmestyneen latinalais-ruotsalaisen tulkkikirjan uusi laitos.
+1	Variarum	Variarum	PROPN	N	Case=Nom|Number=Sing	13	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+3	oikeastaan	oikeastaan	ADV	Adv	_	13	advmod	_	_
+4	jo	jo	ADV	Adv	_	5	advmod	_	_
+5	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	13	obl	_	_
+6	1538	1538	NUM	Num	NumType=Card	5	nummod	_	_
+7	ensi	ensi	ADJ	A	_	8	amod	_	_
+8	kertaa	kerta	NOUN	N	Case=Par|Number=Sing	9	obl	_	_
+9	ilmestyneen	ilmestyä	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+10	latinalais-ruotsalaisen	latinalainen#ruotsalainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	11	amod	_	_
+11	tulkkikirjan	tulkki#kirja	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+12	uusi	uusi	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
+13	laitos	laitos	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	13	punct	_	_
+
+# sent_id = 70
+# text = Sen tekijöitä ei tunneta.
+1	Sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	nmod:poss	_	_
+2	tekijöitä	tekijä	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	4	obj	_	_
+3	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	tunneta	tuntea	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 71
+# text = Variarumissa oli 121 pientä sivua ja se sisälsi yli 3000 sanaa.
+1	Variarumissa	varia#ruma	NOUN	N	Case=Ine|Number=Plur	0	root	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	121	121	NUM	Num	NumType=Card	5	nummod	_	_
+4	pientä	pieni	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
+5	sivua	sivu	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	_
+6	ja	ja	CCONJ	C	_	8	cc	_	_
+7	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	_
+8	sisälsi	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	yli	yli	ADV	Adv	_	10	advmod	_	_
+10	3000	3000	NUM	Num	NumType=Card	11	nummod	_	_
+11	sanaa	sana	NOUN	N	Case=Par|Number=Sing	8	obj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 72
+# text = Lexiconista poikkeavasti oli siinä myös muutama lyhyt esimerkkilause erillisten sanojen ja niiden yksisanaisten käännösten lisäksi.
+1	Lexiconista	Lexicon	PROPN	N	Case=Ela|Number=Sing	8	nmod	_	_
+2	poikkeavasti	poikkeavasti	ADV	Adv	Derivation=Sti	4	advmod	_	_
+3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	siinä	se	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	0	root	_	_
+5	myös	myös	ADV	Adv	_	8	advmod	_	_
+6	muutama	muutama	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	8	det	_	_
+7	lyhyt	lyhyt	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+8	esimerkkilause	esi#merkki#lause	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+9	erillisten	erillinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Plur	10	amod	_	_
+10	sanojen	sana	NOUN	N	Case=Gen|Number=Plur	8	nmod	_	_
+11	ja	ja	CCONJ	C	_	14	cc	_	_
+12	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	14	nmod:poss	_	_
+13	yksisanaisten	yksi#sanainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
+14	käännösten	käännös	NOUN	N	Case=Gen|Number=Plur	10	conj	_	_
+15	lisäksi	lisäksi	ADP	Adp	AdpType=Post	10	case	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 73
+# text = Variarumin lisänä ilmestyi eri vihkosena vielä keskusteluopas Formulae puerilium colloqviorum.
+1	Variarumin	varia#rumi	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	lisänä	lisä	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+3	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	eri	eri	ADJ	A	_	5	amod	_	_
+5	vihkosena	vihkonen	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+6	vielä	vielä	ADV	Adv	_	8	advmod	_	_
+7	keskusteluopas	keskustelu#opas	NOUN	N	Case=Nom|Number=Sing	8	compound:nn	_	_
+8	Formulae	Formulae	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+9	puerilium	puerilium	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	_
+10	colloqviorum	colloqviorum	PROPN	N	Case=Nom|Number=Sing	8	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 74
+# text = Siinäkin oli suomi mukana.
+1	Siinäkin	se	PRON	Pron	Case=Nom|Clitic=Kin|Number=Sing|PronType=Dem	4	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	suomi	suomi	PROPN	N	Case=Nom|Number=Sing	1	nsubj:cop	_	_
+4	mukana	mukana	ADP	Adp	AdpType=Post	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 75
+# text = Kolmas 1600-luvun sanakirja oli Henrik Florinuksen Nomenclatura Rerum brevissima Latino-Sveco-Finnonica.
+1	Kolmas	kolmas	ADJ	Num	Case=Nom|Number=Sing|NumType=Ord	3	nummod	_	_
+2	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	7	nsubj:cop	_	_
+4	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5	Henrik	Henrik	PROPN	N	Case=Nom|Number=Sing	7	nmod:poss	_	_
+6	Florinuksen	Florinus	PROPN	N	Case=Gen|Number=Sing	5	flat:name	_	_
+7	Nomenclatura	Nomenclatura	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+8	Rerum	Rerum	PROPN	N	Case=Nom|Number=Sing	7	flat:name	_	_
+9	brevissima	brevissima	PROPN	N	Case=Nom|Number=Sing	5	flat:name	_	_
+10	Latino-Sveco-Finnonica	Latino#Sveco#finnonica	PROPN	N	Case=Nom|Number=Sing	7	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 76
+# text = Tämä sanakirja ilmestyi vuonna 1678 Turussa.
+1	Tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
+2	sanakirja	sana#kirja	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	ilmestyi	ilmestyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+5	1678	1678	NUM	Num	NumType=Card	4	nummod	_	_
+6	Turussa	Turku	PROPN	N	Case=Ine|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 77
+# text = Sanakirjan laatijaa Henrik Florinusta pidettiin aikansa parhaana suomen kielen taitajana.
+1	Sanakirjan	sana#kirja	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	laatijaa	laatija	NOUN	N	Case=Par|Derivation=Ja|Number=Sing	5	obj	_	_
+3	Henrik	Henrik	PROPN	N	Case=Nom|Number=Sing	2	appos	_	_
+4	Florinusta	Florinus	PROPN	N	Case=Par|Number=Sing	3	flat:name	_	_
+5	pidettiin	pitää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	aikansa	aika	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	7	nmod:poss	_	_
+7	parhaana	hyvä	ADJ	A	Case=Ess|Degree=Sup|Number=Sing	10	amod	_	_
+8	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	taitajana	taitaja	NOUN	N	Case=Ess|Derivation=Ja|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 78
+# text = Hän oli Paimion pappi.
+1	Hän	hän	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	Paimion	Paimio	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	pappi	pappi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 79
+# text = Florinus on vielä suomentanut tärkeitä kirkollisia teoksia, tarkastanut toisen täydellisen raamatunsuomennoksen kieliasun sekä julkaissut ensimmäisen suomalaisen sananlaskukokoelman.
+1	Florinus	Florinus	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	vielä	vielä	ADV	Adv	_	4	advmod	_	_
+4	suomentanut	suomentaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	tärkeitä	tärkeä	ADJ	A	Case=Par|Degree=Pos|Number=Plur	7	amod	_	_
+6	kirkollisia	kirkollinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	7	amod	_	_
+7	teoksia	teos	NOUN	N	Case=Par|Number=Plur	4	obj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	tarkastanut	tarkastaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	conj	_	_
+10	toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	12	nummod	_	_
+11	täydellisen	täydellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	12	amod	_	_
+12	raamatunsuomennoksen	raamatun#suomennos	NOUN	N	Case=Gen|Number=Sing	13	nmod:gobj	_	_
+13	kieliasun	kieli#asu	NOUN	N	Case=Gen|Number=Sing	9	obj	_	_
+14	sekä	sekä	CCONJ	C	_	15	cc	_	_
+15	julkaissut	julkaista	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	conj	_	_
+16	ensimmäisen	ensimmäinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	18	nummod	_	_
+17	suomalaisen	suomalainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	18	amod	_	_
+18	sananlaskukokoelman	sana#lasku#kokoelma	NOUN	N	Case=Gen|Number=Sing	15	obj	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 80
+# text = Nomenclaturasta otatti Florinus aika pian itse toisen, tarkistetun painoksen vuonna 1683.
+1	Nomenclaturasta	Nomenclatura	PROPN	N	Case=Ela|Number=Sing	2	obl	_	_
+2	otatti	otattaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Florinus	Florinus	PROPN	N	Case=Nom|Number=Sing	4	compound:nn	_	_
+4	aika	aika	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+5	pian	pian	ADV	Adv	_	2	advmod	_	_
+6	itse	itse	ADV	Adv	_	9	advmod	_	_
+7	toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	10	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	10	punct	_	_
+9	tarkistetun	tarkistaa	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	painoksen	painos	NOUN	N	Case=Gen|Number=Sing	2	obj	_	_
+11	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	2	obl	_	_
+12	1683	1683	NUM	Num	NumType=Card	11	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 81
+# text = Kolmanteen, vuonna 1695 Tukholmassa ilmestyneeseen laitokseen, joka oli nimeltään Vocabularium Latino-Sveco-Germanico-Fennicum, lisättiin saksan kieli ruotsin ja suomen väliin.
+1	Kolmanteen	kolmas	ADJ	Num	Case=Ill|Number=Sing|NumType=Ord	15	obl	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	3	punct	_	_
+3	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	1	nmod	_	_
+4	1695	1695	NUM	Num	NumType=Card	3	nummod	_	_
+5	Tukholmassa	Tukholma	PROPN	N	Case=Ine|Number=Sing	6	obl	_	_
+6	ilmestyneeseen	ilmestyä	VERB	V	Case=Ill|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+7	laitokseen	laitos	NOUN	N	Case=Ill|Number=Sing	15	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	12	punct	_	_
+9	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	12	nsubj:cop	_	_
+10	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	nimeltään	nimi	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	12	obl	_	_
+12	Vocabularium	Vocabularium	PROPN	N	Case=Nom|Number=Sing	7	acl:relcl	_	_
+13	Latino-Sveco-Germanico-Fennicum	Latino#Sveco#fennicum	PROPN	N	Case=Nom|Number=Sing	12	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	12	punct	_	_
+15	lisättiin	lisätä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	saksan	saksa	PROPN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	kieli	kieli	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
+18	ruotsin	ruotsi	PROPN	N	Case=Gen|Number=Sing	15	obl	_	_
+19	ja	ja	CCONJ	C	_	20	cc	_	_
+20	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	18	conj	_	_
+21	väliin	väliin	ADP	Adp	AdpType=Post	18	case	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 82
+# text = Nomenclaturasta otettiin kaikkiaan 5 painosta.
+1	Nomenclaturasta	Nomenclatura	PROPN	N	Case=Ela|Number=Sing	2	obl	_	_
+2	otettiin	ottaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	kaikkiaan	kaikkiaan	ADV	Adv	_	2	advmod	_	_
+4	5	5	NUM	Num	NumType=Card	5	nummod	_	_
+5	painosta	paino	NOUN	N	Case=Ela|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 83
+# text = Neljäs ja viides painos oli nimetty Yxi Lyhykäinen Sana-Kirja.
+1	Neljäs	neljäs	ADJ	Num	Case=Nom|Number=Sing|NumType=Ord	4	nummod	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	viides	viides	ADJ	Num	Case=Nom|Number=Sing|NumType=Ord	1	conj	_	_
+4	painos	painos	NOUN	N	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+5	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+6	nimetty	nimetä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+7	Yxi	yxi	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+8	Lyhykäinen	lyhykäinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	9	amod	_	_
+9	Sana-Kirja	Sana#Kirja	NOUN	N	Case=Nom|Number=Sing	7	appos	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 84
+# text = Nomenclaturassa oli suomenkielistä sanastoa huomattavasti enemmän kuin edeltäneissä sanakirjoissa, ja se oli muutenkin laadultaan monivivahteisempaa ja notkeampaa.
+1	Nomenclaturassa	Nomenclatura	PROPN	N	Case=Ine|Number=Sing	0	root	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	suomenkielistä	suomen#kielinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	sanastoa	sanasto	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	_
+5	huomattavasti	huomattavasti	ADV	Adv	Derivation=Sti	6	advmod	_	_
+6	enemmän	enemmän	ADV	Adv	_	1	advmod	_	_
+7	kuin	kuin	SCONJ	C	_	9	mark	_	_
+8	edeltäneissä	edeltää	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	9	acl	_	_
+9	sanakirjoissa	sana#kirja	NOUN	N	Case=Ine|Number=Plur	6	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	16	punct	_	_
+11	ja	ja	CCONJ	C	_	16	cc	_	_
+12	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	16	nsubj:cop	_	_
+13	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+14	muutenkin	muuten	ADV	Adv	Clitic=Kin	16	advmod	_	_
+15	laadultaan	laatu	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	16	nmod	_	_
+16	monivivahteisempaa	monivi#vahteinen	ADJ	A	Case=Par|Degree=Cmp|Derivation=Inen|Number=Sing	1	conj	_	_
+17	ja	ja	CCONJ	C	_	18	cc	_	_
+18	notkeampaa	notkea	ADJ	A	Case=Par|Degree=Cmp|Number=Sing	16	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 85
+# text = Latinan- ja ruotsinkielisen sanan vastineet saattoivat olla selitetty kahdella tai joskus useammallakin suomenkielisellä synonyymilla.
+1	Latinan-	latina	NOUN	N	Case=Gen|Number=Sing	4	amod	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	ruotsinkielisen	ruotsin#kielinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	1	conj	_	_
+4	sanan	sana	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	vastineet	vastine	NOUN	N	Case=Nom|Number=Plur	8	obj	_	_
+6	saattoivat	saattaa	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	8	aux:pass	_	_
+8	selitetty	selittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	kahdella	kaksi	NUM	Num	Case=Ade|Number=Sing|NumType=Card	14	nummod	_	_
+10	tai	tai	CCONJ	C	_	12	cc	_	_
+11	joskus	joskus	ADV	Adv	_	12	advmod	_	_
+12	useammallakin	usea	ADJ	A	Case=Ade|Degree=Cmp|Number=Sing	9	conj	_	_
+13	suomenkielisellä	suomen#kielinen	ADJ	A	Case=Ade|Degree=Pos|Derivation=Inen|Number=Sing	14	amod	_	_
+14	synonyymilla	syno#nyymi	NOUN	N	Case=Ade|Number=Sing	8	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 86
+# text = Nomenclatura sisältää noin 3000 sanaa, ja siinäkin on sanat ryhmitelty aihepiireittäin 22 pääotsikon mukaan.
+1	Nomenclatura	Nomenclatura	PROPN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	sisältää	sisältää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	noin	noin	ADV	Adv	_	4	advmod	_	_
+4	3000	3000	NUM	Num	NumType=Card	5	nummod	_	_
+5	sanaa	sana	NOUN	N	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	11	punct	_	_
+7	ja	ja	CCONJ	C	_	11	cc	_	_
+8	siinäkin	se	PRON	Pron	Case=Nom|Clitic=Kin|Number=Sing|PronType=Dem	11	obj	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+10	sanat	sana	NOUN	N	Case=Nom|Number=Plur	11	obj	_	_
+11	ryhmitelty	ryhmitellä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+12	aihepiireittäin	aihe#piireittäin	ADV	Adv	Derivation=Ttain	11	advmod	_	_
+13	22	22	NUM	Num	NumType=Card	14	nummod	_	_
+14	pääotsikon	pää#otsikko	NOUN	N	Case=Gen|Number=Sing	11	obl	_	_
+15	mukaan	mukaan	ADP	Adp	AdpType=Post	14	case	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 87
+# text = Verbit puuttuvat.
+1	Verbit	verbi	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	_
+2	puuttuvat	puuttua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 88
+# text = Nomenclaturan lähimpänä esikuvana lienee ollut Variarum, Schroderuksen Lexiconia Florinus oli tuskin nähnyt.
+1	Nomenclaturan	Nomenclatura	PROPN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	lähimpänä	lähin	ADJ	A	Case=Ess|Degree=Sup|Number=Sing	3	amod	_	_
+3	esikuvana	esi#kuva	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+4	lienee	olla	AUX	V	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	_
+5	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	cop	_	_
+6	Variarum	Variarum	PROPN	N	Case=Nom|Number=Sing	3	nsubj:cop	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	13	punct	_	_
+8	Schroderuksen	Schroderus	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	Lexiconia	Lexiconia	PROPN	N	Case=Nom|Number=Sing	13	nsubj	_	_
+10	Florinus	Florinus	PROPN	N	Case=Nom|Number=Sing	9	flat:name	_	_
+11	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	_
+12	tuskin	tuskin	ADV	Adv	_	13	advmod	_	_
+13	nähnyt	nähdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 89
+# text = Kaikki 1600-luvun sanakirjat olivat kuitenkin vain melko alkeellisia sanaluetteloita ja tulkkikirjoja.
+1	Kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	det	_	_
+2	1600-luvun	1600#luku	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	sanakirjat	sana#kirja	NOUN	N	Case=Nom|Number=Plur	9	nsubj:cop	_	_
+4	olivat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+5	kuitenkin	kuitenkin	ADV	Adv	_	9	advmod	_	_
+6	vain	vain	ADV	Adv	_	9	advmod	_	_
+7	melko	melko	ADV	Adv	_	8	advmod	_	_
+8	alkeellisia	alkeellinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Plur	9	amod	_	_
+9	sanaluetteloita	sana#luettelo	NOUN	N	Case=Par|Number=Plur	0	root	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	tulkkikirjoja	tulkki#kirja	NOUN	N	Case=Par|Number=Plur	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 90
+# text = Sanat jaetaan niiden ikää ja alkuperää tutkittaessa joko omaperäiseen sanastoon kuuluviksi tai lainattuihin.
+1	Sanat	sana	NOUN	N	Case=Nom|Number=Plur	2	obj	_	_
+2	jaetaan	jakaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	4	nmod:poss	_	_
+4	ikää	ikä	NOUN	N	Case=Par|Number=Sing	7	obj	_	_
+5	ja	ja	CCONJ	C	_	6	cc	_	_
+6	alkuperää	alku#perä	NOUN	N	Case=Par|Number=Sing	4	conj	_	_
+7	tutkittaessa	tutkia	VERB	V	Case=Ine|InfForm=2|VerbForm=Inf|Voice=Pass	2	advcl	_	_
+8	joko	joko	CCONJ	C	_	11	cc:preconj	_	_
+9	omaperäiseen	omaperäinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	10	amod	_	_
+10	sanastoon	sanasto	NOUN	N	Case=Ill|Number=Sing	11	obl	_	_
+11	kuuluviksi	kuulua	VERB	V	Case=Tra|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	7	conj	_	_
+12	tai	tai	CCONJ	C	_	13	cc	_	_
+13	lainattuihin	lainata	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 91
+# text = Kompleksisemmat sanat voidaan tulkita omaperäisten sanamuodostusprosessien tuloksiksi, riippumatta siitä, että esim.
+1	Kompleksisemmat	kompleksisa	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	2	amod	_	_
+2	sanat	sana	NOUN	N	Case=Nom|Number=Plur	4	obj	_	_
+3	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	aux	_	_
+4	tulkita	tulkita	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	omaperäisten	omaperäinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	6	amod	_	_
+6	sanamuodostusprosessien	sana#muodostus#prosessi	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	tuloksiksi	tulos	NOUN	N	Case=Tra|Number=Plur	4	xcomp:ds	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	10	punct	_	_
+9	riippumatta	riippumatta	ADP	Adp	AdpType=Prep	10	case	_	_
+10	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	4	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	10	punct	_	_
+12	että	että	SCONJ	C	_	10	advmod	_	_
+13	esim.	esim.	ADV	Adv	Abbr=Yes	10	advmod	_	_
+
+# sent_id = 92
+# text = yhdyssanoissa saattaa olla toinen osa omaperäinen ja toinen lainattu.
+1	yhdyssanoissa	yhdys#sana	NOUN	N	Case=Ine|Number=Plur	6	obl	_	_
+2	saattaa	saattaa	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+3	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	1	cop	_	_
+4	toinen	toinen	PRON	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	5	nummod	_	_
+5	osa	osa	NOUN	N	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+6	omaperäinen	omaperäinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	_	_
+7	ja	ja	CCONJ	C	_	9	cc	_	_
+8	toinen	toinen	PRON	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	9	obj	_	_
+9	lainattu	lainata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 93
+# text = Poikkeuksena ovat käännöslainat, joissa on suora vieraskielinen esikuva.
+1	Poikkeuksena	poikkeus	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	käännöslainat	käännös#laina	NOUN	N	Case=Nom|Number=Plur	1	nsubj:cop	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	5	punct	_	_
+5	joissa	joka	PRON	Pron	Case=Ine|Number=Plur|PronType=Rel	3	acl:relcl	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	suora	suora	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
+8	vieraskielinen	vieras#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	9	amod	_	_
+9	esikuva	esi#kuva	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 94
+# text = Sanaston ytimen muodostavat ikivanhat omaperäiset perussanat.
+1	Sanaston	sanasto	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	ytimen	ydin	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	muodostavat	muodostaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ikivanhat	iki#vanha	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+5	omaperäiset	omaperäinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	6	amod	_	_
+6	perussanat	perus#sana	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 95
+# text = Sanoilla pitää olla vastineita sukukielissä, jotka täsmäävät sekä äänneasultaan että merkitykseltään.
+1	Sanoilla	sana	NOUN	N	Case=Ade|Number=Plur	0	root	_	_
+2	pitää	pitää	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+3	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	1	cop	_	_
+4	vastineita	vastine	NOUN	A	Case=Par|Degree=Pos|Number=Plur	1	nsubj:cop	_	_
+5	sukukielissä	suku#kieli	NOUN	N	Case=Ine|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
+8	täsmäävät	täsmätä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+9	sekä	sekä	CCONJ	C	_	10	cc:preconj	_	_
+10	äänneasultaan	äänne#asu	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	8	obl	_	_
+11	että	että	CCONJ	C	_	12	cc	_	_
+12	merkitykseltään	merkitys	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 96
+# text = Mitä kauemmas sana on levinnyt, sitä vanhempi se on.
+1	Mitä	mitä	CCONJ	C	_	5	advmod	_	_
+2	kauemmas	kauemmas	ADV	Adv	_	5	advmod	_	_
+3	sana	sana	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	levinnyt	levitä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	sitä	sitä	CCONJ	Adv	_	8	cc	_	_
+8	vanhempi	vanha	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	5	conj	_	_
+9	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj:cop	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 97
+# text = Kaikki sanat, joista ei ole esitetty uskottavaa lainaetmologiaa, voidaan katsoa omaperäisiksi.
+1	Kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	det	_	_
+2	sanat	sana	NOUN	N	Case=Nom|Number=Plur	12	obj	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	7	punct	_	_
+4	joista	joka	PRON	Pron	Case=Ela|Number=Plur|PronType=Rel	7	obl	_	_
+5	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	7	aux	_	_
+6	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	esitetty	esittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	_
+8	uskottavaa	uskottava	ADJ	A	Case=Par|Degree=Pos|Number=Sing	9	amod	_	_
+9	lainaetmologiaa	laina#etmologia	NOUN	N	Case=Par|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	7	punct	_	_
+11	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	12	aux	_	_
+12	katsoa	katsoa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+13	omaperäisiksi	omaperäinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	12	punct	_	_
+
+# sent_id = 98
+# text = Toisista kielistä lainaaminen on tärkeä keino lisätä omaan kieleen aineksia.
+1	Toisista	toinen	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	2	det	_	_
+2	kielistä	kieli	NOUN	N	Case=Ela|Number=Plur	3	nmod	_	_
+3	lainaaminen	lainaaminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	6	nsubj:cop	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	tärkeä	tärkeä	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
+6	keino	keino	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+7	lisätä	lisätä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	acl	_	_
+8	omaan	oma	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	9	amod	_	_
+9	kieleen	kieli	NOUN	N	Case=Ill|Number=Sing	7	obl	_	_
+10	aineksia	aines	NOUN	N	Case=Par|Number=Plur	7	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 99
+# text = Yleisesti lainataan varsinkin esineitä ja käsitteitä tarkoittavia substantiiveja, mutta kirjakielen kautta myös merkitykseltään abstraktisia substantiiveja.
+1	Yleisesti	yleisesti	ADV	Adv	Derivation=Sti	2	advmod	_	_
+2	lainataan	lainata	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	varsinkin	varsinkin	ADV	Adv	_	8	advmod	_	_
+4	esineitä	esine	NOUN	N	Case=Par|Number=Plur	7	obj	_	_
+5	ja	ja	CCONJ	C	_	6	cc	_	_
+6	käsitteitä	käsite	NOUN	N	Case=Par|Number=Plur	4	conj	_	_
+7	tarkoittavia	tarkoittaa	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	substantiiveja	substantiivi	NOUN	N	Case=Par|Number=Plur	2	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	16	punct	_	_
+10	mutta	mutta	CCONJ	C	_	16	cc	_	_
+11	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	16	nmod	_	_
+12	kautta	kautta	ADP	Adp	AdpType=Post	11	case	_	_
+13	myös	myös	ADV	Adv	_	16	advmod	_	_
+14	merkitykseltään	merkitys	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	15	nmod	_	_
+15	abstraktisia	abstraktinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	16	amod	_	_
+16	substantiiveja	substantiivi	NOUN	N	Case=Par|Number=Plur	8	conj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 100
+# text = Lainoja saadaan joko sukukielistä, naapurikielistä tai muista kulttuurisesti läheisistä kielistä.
+1	Lainoja	laina	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+2	saadaan	saada	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	joko	joko	CCONJ	C	_	4	cc:preconj	_	_
+4	sukukielistä	suku#kieli	NOUN	N	Case=Ela|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	6	punct	_	_
+6	naapurikielistä	naapuri#kieli	NOUN	N	Case=Ela|Number=Plur	4	conj	_	_
+7	tai	tai	CCONJ	C	_	11	cc	_	_
+8	muista	muu	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	11	det	_	_
+9	kulttuurisesti	kulttuurisesti	ADV	Adv	Derivation=Sti	10	advmod	_	_
+10	läheisistä	läheinen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Inen|Number=Plur	11	amod	_	_
+11	kielistä	kieli	NOUN	N	Case=Ela|Number=Plur	4	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 101
+# text = Joskus sanoja lainataan suoraan naapurikielestä, joskus sen välittämänä.
+1	Joskus	joskus	ADV	Adv	_	3	advmod	_	_
+2	sanoja	sana	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+3	lainataan	lainata	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	suoraan	suoraan	ADV	Adv	_	5	advmod	_	_
+5	naapurikielestä	naapuri#kieli	NOUN	N	Case=Ela|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	joskus	joskus	ADV	Adv	_	9	advmod	_	_
+8	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	9	nsubj	_	_
+9	välittämänä	välittää	VERB	V	Case=Ess|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	5	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 102
+# text = Esimerkiksi ruotsista saaduista lainasanoista suurin osa on kansainvälistä eurooppalaista yhteisomaisuutta.
+1	Esimerkiksi	esimerkiksi	ADV	Adv	_	4	advmod	_	_
+2	ruotsista	ruotsi	PROPN	N	Case=Ela|Number=Sing	3	obl	_	_
+3	saaduista	saada	VERB	V	Case=Ela|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+4	lainasanoista	laina#sana	NOUN	N	Case=Ela|Number=Plur	6	nmod	_	_
+5	suurin	suuri	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	6	amod	_	_
+6	osa	osa	NOUN	N	Case=Nom|Number=Sing	10	nsubj:cop	_	_
+7	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+8	kansainvälistä	kansain#välinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	10	amod	_	_
+9	eurooppalaista	eurooppalainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	10	amod	_	_
+10	yhteisomaisuutta	yhteis#omaisuus	NOUN	N	Case=Par|Derivation=Inen,Vs|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 103
+# text = Yleensä uusi sana tulee sieltä, mistä uusi käsitekin.
+1	Yleensä	yleensä	ADV	Adv	_	4	advmod	_	_
+2	uusi	uusi	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
+3	sana	sana	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	tulee	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	sieltä	sieltä	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	7	punct	_	_
+7	mistä	mikä	PRON	Pron	Case=Ela|Number=Sing|PronType=Int	9	nmod	_	_
+8	uusi	uusi	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
+9	käsitekin	käsite	NOUN	N	Case=Nom|Clitic=Kin|Number=Sing	4	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 104
+# text = Sanoja lainataan aina kielestä, jonka puhujien yhteiskunta on kehittyneempi tai jonka kanssa on läheiset ja pitkäaikaiset jatkuvat kulttuurisuhteet.
+1	Sanoja	sana	NOUN	N	Case=Par|Number=Plur	2	obj	_	_
+2	lainataan	lainata	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	aina	aina	ADV	Adv	_	2	advmod	_	_
+4	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	10	punct	_	_
+6	jonka	joka	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	7	nmod:poss	_	_
+7	puhujien	puhuja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	8	nmod:poss	_	_
+8	yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	10	nsubj:cop	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	kehittyneempi	kehittynyt	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	4	acl:relcl	_	_
+11	tai	tai	CCONJ	C	_	12	cc	_	_
+12	jonka	joka	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	10	conj	_	_
+13	kanssa	kanssa	ADP	Adp	AdpType=Post	12	case	_	_
+14	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+15	läheiset	läheinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	19	amod	_	_
+16	ja	ja	CCONJ	C	_	17	cc	_	_
+17	pitkäaikaiset	pitkä#aikainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	15	conj	_	_
+18	jatkuvat	jatkuva	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	kulttuurisuhteet	kulttuuri#suhde	NOUN	N	Case=Nom|Number=Plur	12	nsubj:cop	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 105
+# text = Lainattaessa sanan alkuperäinen merkitys voi muuttua, laajeta tai supistua.
+1	Lainattaessa	lainata	VERB	V	Case=Ine|InfForm=2|VerbForm=Inf|Voice=Pass	6	advcl	_	_
+2	sanan	sana	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	alkuperäinen	alku#peräinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	merkitys	merkitys	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+5	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	muuttua	muuttua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	8	punct	_	_
+8	laajeta	laajeta	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	conj	_	_
+9	tai	tai	CCONJ	C	_	10	cc	_	_
+10	supistua	supistua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 106
+# text = Vieras sana voidaan lainata suorana, sellaisenaan, se voi mukautua osittain tai täydellisesti toisen kielen järjestelmään.
+1	Vieras	vieras	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+2	sana	sana	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
+3	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	aux	_	_
+4	lainata	lainata	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	suorana	suora	ADJ	A	Case=Ess|Degree=Pos|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	7	punct	_	_
+7	sellaisenaan	sellainen	ADJ	A	Case=Ess|Derivation=Lainen|Number=Sing|Person[psor]=3	5	appos	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	11	punct	_	_
+9	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	11	nsubj	_	_
+10	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+11	mukautua	mukautua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	conj	_	_
+12	osittain	osittain	ADV	Adv	Derivation=Ttain	11	advmod	_	_
+13	tai	tai	CCONJ	C	_	14	cc	_	_
+14	täydellisesti	täydellisesti	ADV	Adv	Derivation=Sti	12	conj	_	_
+15	toisen	toinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	16	nummod	_	_
+16	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	järjestelmään	järjestelmä	NOUN	N	Case=Ill|Number=Sing	11	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 107
+# text = On tärkeää, että lainattu sana sopisi johonkin olemassa olevaan sanojen taivutustyyppiin.
+1	On	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	tärkeää	tärkeä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	7	punct	_	_
+4	että	että	SCONJ	C	_	7	mark	_	_
+5	lainattu	lainata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+6	sana	sana	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	sopisi	sopia	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	csubj:cop	_	_
+8	johonkin	jokin	PRON	Pron	Case=Ill|Number=Sing|PronType=Ind	12	det	_	_
+9	olemassa	olla	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+10	olevaan	olla	VERB	V	Case=Ill|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+11	sanojen	sana	NOUN	N	Case=Gen|Number=Plur	12	nmod:poss	_	_
+12	taivutustyyppiin	taivutus#tyyppi	NOUN	N	Case=Ill|Number=Sing	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 108
+# text = Suomen kielen taivutus perustuu sanavartalon jälkeen liitettäviin tunnuksiin, päätteisiin ja muihin suffikseihin.
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	taivutus	taivutus	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	perustuu	perustua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	sanavartalon	sana#vartalo	NOUN	N	Case=Gen|Number=Sing	7	obl	_	_
+6	jälkeen	jälkeen	ADP	Adp	AdpType=Post	5	case	_	_
+7	liitettäviin	liittää	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	8	acl	_	_
+8	tunnuksiin	tunnus	NOUN	N	Case=Ill|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	10	punct	_	_
+10	päätteisiin	pääte	NOUN	N	Case=Ill|Number=Plur	8	conj	_	_
+11	ja	ja	CCONJ	C	_	13	cc	_	_
+12	muihin	muu	PRON	Pron	Case=Ill|Number=Plur|PronType=Ind	13	det	_	_
+13	suffikseihin	suffiksi	NOUN	N	Case=Ill|Number=Plur	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 109
+# text = Sen takia on juuri sanan loppuosa tärkeässä asemassa mukautuessa suomeen.
+1	Sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	8	obl	_	_
+2	takia	takia	ADP	Adp	AdpType=Post	1	case	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+4	juuri	juuri	ADV	Adv	_	5	advmod	_	_
+5	sanan	sana	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	loppuosa	loppu#osa	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+7	tärkeässä	tärkeä	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	8	amod	_	_
+8	asemassa	asema	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+9	mukautuessa	mukautua	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	8	advcl	_	_
+10	suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	9	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 110
+# text = Kun vieras sana loppuu konsonanttiin tai konsonanttiyhtymään, siihen yleensä liitetään loppuvokaali i.
+1	Kun	kun	SCONJ	C	_	4	mark	_	_
+2	vieras	vieras	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
+3	sana	sana	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	loppuu	loppua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	konsonanttiin	konsonantti	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+6	tai	tai	CCONJ	C	_	7	cc	_	_
+7	konsonanttiyhtymään	konsonantti#yhtymä	NOUN	N	Case=Ill|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	4	punct	_	_
+9	siihen	se	PRON	Pron	Case=Ill|Number=Sing|PronType=Dem	11	obl	_	_
+10	yleensä	yleensä	ADV	Adv	_	11	advmod	_	_
+11	liitetään	liittää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	loppuvokaali	loppu#vokaali	NOUN	N	Case=Nom|Number=Sing	11	obj	_	_
+13	i	i	ADJ	Num	NumType=Ord	12	nummod	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	11	punct	_	_
+
+# sent_id = 111
+# text = Jos se konsonantti on k, p, t tai s, syntyvät niistä loppu-i:n edellä geminaatat, esim.
+1	Jos	jos	SCONJ	C	_	5	mark	_	_
+2	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
+3	konsonantti	konsonantti	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	k	k	NOUN	N	Abbr=Yes|Case=Nom|Number=Sing	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	7	punct	_	_
+7	p	p	NOUN	N	Abbr=Yes|Case=Nom|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	t	t	NOUN	N	Abbr=Yes|Case=Nom|Number=Sing	5	conj	_	_
+10	tai	tai	CCONJ	C	_	11	cc	_	_
+11	s	s	NOUN	N	Abbr=Yes|Case=Nom|Number=Sing	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	5	punct	_	_
+13	syntyvät	syntyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	niistä	se	PRON	Pron	Case=Ela|Number=Plur|PronType=Dem	13	obl	_	_
+15	loppu-i:n	loppu#iki	NOUN	N	Case=Gen|Number=Sing	13	obl	_	_
+16	edellä	edellä	ADP	Adp	AdpType=Post	15	case	_	_
+17	geminaatat	geminaatta	NOUN	N	Case=Nom|Number=Plur	13	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	Punct	_	13	punct	_	_
+19	esim.	esim.	ADV	Adv	Abbr=Yes	13	advmod	_	_
+
+# sent_id = 112
+# text = ru. kurs > su. kurssi.
+1	ru.	ru.	X	Foreign	Foreign=Yes	5	compound:nn	_	_
+2	kurs	kurs	X	Foreign	Foreign=Yes	1	flat:foreign	_	_
+3	>	>	SYM	Punct	_	1	punct	_	_
+4	su.	suu	NOUN	N	Abbr=Yes|Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	kurssi	kurssi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 113
+# text = Näin mukautetaan lainanantajakielessä yksitavuiset sanat suomen kieleen, jossa valtaosa sanoista on kaksitavuisia ja vokaaliloppuisia.
+1	Näin	näin	ADV	Adv	_	2	advmod	_	_
+2	mukautetaan	mukauttaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	lainanantajakielessä	lainan#antaja#kieli	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+4	yksitavuiset	yksitavuinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+5	sanat	sana	NOUN	N	Case=Nom|Number=Plur	2	obj	_	_
+6	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	kieleen	kieli	NOUN	N	Case=Ill|Number=Sing	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	13	punct	_	_
+9	jossa	joka	PRON	Pron	Case=Ine|Number=Sing|PronType=Rel	13	obl	_	_
+10	valtaosa	valta#osa	NOUN	N	Case=Nom|Number=Sing	13	nsubj:cop	_	_
+11	sanoista	sana	NOUN	N	Case=Ela|Number=Plur	10	nmod	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	kaksitavuisia	kaksitavuinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	7	acl:relcl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	vokaaliloppuisia	vokaali#loppuinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 114
+# text = Laina lähentyy tyypillistä suomen kielen sanarakennetta.
+1	Laina	laina	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lähentyy	lähentyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tyypillistä	tyypillinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	6	amod	_	_
+4	suomen	suomi	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	sanarakennetta	sana#rakenne	NOUN	N	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 115
+# text = Myös kun laina otetaan kieleen sellaisenaan, taivutuksessa tarvitaan sidevokaali, joka on yleensä i.
+1	Myös	myös	ADV	Adv	_	2	advmod	_	_
+2	kun	kun	SCONJ	C	_	4	mark	_	_
+3	laina	laina	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
+4	otetaan	ottaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	advcl	_	_
+5	kieleen	kieli	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+6	sellaisenaan	sellainen	ADJ	A	Case=Ess|Derivation=Lainen|Number=Sing|Person[psor]=3	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	4	punct	_	_
+8	taivutuksessa	taivutus	NOUN	N	Case=Ine|Number=Sing	9	obl	_	_
+9	tarvitaan	tarvita	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	sidevokaali	side#vokaali	NOUN	N	Case=Nom|Number=Sing	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	15	punct	_	_
+12	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	15	nsubj:cop	_	_
+13	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
+14	yleensä	yleensä	ADV	Adv	_	15	advmod	_	_
+15	i	i	ADJ	Num	NumType=Ord	10	acl:relcl	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 116
+# text = I:ta suosittiin sen takia, että se on vokaalisoinnun kannalta neutraali ja voi yhdistyä millaiseen vartaloon tahansa.
+1	I:ta	I	NOUN	N	Case=Par|Number=Sing	2	obj	_	_
+2	suosittiin	suosia	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	obl	_	_
+4	takia	takia	ADP	Adp	AdpType=Post	3	case	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	11	punct	_	_
+6	että	että	SCONJ	C	_	11	mark	_	_
+7	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	11	nsubj:cop	_	_
+8	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+9	vokaalisoinnun	vokaalisointu	NOUN	N	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	kannalta	kanta	NOUN	N	Case=Abl|Number=Sing	11	obl	_	_
+11	neutraali	neutraali	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	ccomp	_	_
+12	ja	ja	CCONJ	C	_	14	cc	_	_
+13	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
+14	yhdistyä	yhdistyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	conj	_	_
+15	millaiseen	millainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Lainen|Number=Sing	16	amod	_	_
+16	vartaloon	vartalo	NOUN	N	Case=Ill|Number=Sing	14	obl	_	_
+17	tahansa	tahansa	ADV	Adv	_	16	case	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 117
+# text = I-vartaloisten nominilainojen kaikissa yksikön muodoissa sanan vartalo pysyy samana.
+1	I-vartaloisten	I#vartaloinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	nominilainojen	nomini#laina	NOUN	N	Case=Gen|Number=Plur	5	nmod:poss	_	_
+3	kaikissa	kaikki	PRON	Pron	Case=Ine|Number=Plur|PronType=Ind	5	det	_	_
+4	yksikön	yksikkö	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	muodoissa	muoto	NOUN	N	Case=Ine|Number=Plur	8	obl	_	_
+6	sanan	sana	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	vartalo	vartalo	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+8	pysyy	pysyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	samana	sama	PRON	Pron	Case=Ess|Number=Sing|PronType=Ind	8	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 118
+# text = Näin ollen taivutus yksinkertaistuu, mitä pidetään lainojen universaalina piirteenä.
+1	Näin	näin	ADV	Adv	_	4	advmod	_	_
+2	ollen	ollen	ADV	Adv	_	1	fixed	_	_
+3	taivutus	taivutus	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	yksinkertaistuu	yksinkertaistua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	7	punct	_	_
+6	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Rel	7	obj	_	_
+7	pidetään	pitää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	_
+8	lainojen	laina	NOUN	N	Case=Gen|Number=Plur	9	nmod:poss	_	_
+9	universaalina	universaali	NOUN	N	Case=Ess|Number=Sing	10	amod	_	_
+10	piirteenä	piirre	NOUN	N	Case=Ess|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 119
+# text = Kirjakielen kehittyessä tarvittiin yhä uusille käsitteille suomenkielisiä nimiä, erityisesti sellaisille asioille ja ilmiöille, joiden kanssa paikallismurteen käyttäjä ei ollut joutunut tekemisiin.
+1	Kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	2	nsubj	_	_
+2	kehittyessä	kehittyä	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	3	advcl	_	_
+3	tarvittiin	tarvita	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	yhä	yhä	ADV	Adv	_	5	advmod	_	_
+5	uusille	uusi	ADJ	A	Case=All|Degree=Pos|Number=Plur	6	amod	_	_
+6	käsitteille	käsite	NOUN	N	Case=All|Number=Plur	3	obl	_	_
+7	suomenkielisiä	suomen#kielinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	8	amod	_	_
+8	nimiä	nimi	NOUN	N	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	12	punct	_	_
+10	erityisesti	erityisesti	ADV	Adv	Derivation=Sti	12	advmod	_	_
+11	sellaisille	sellainen	ADJ	A	Case=All|Degree=Pos|Derivation=Lainen|Number=Plur	12	amod	_	_
+12	asioille	asia	NOUN	N	Case=All|Number=Plur	8	appos	_	_
+13	ja	ja	CCONJ	C	_	14	cc	_	_
+14	ilmiöille	ilmiö	NOUN	N	Case=All|Number=Plur	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	23	punct	_	_
+16	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	23	obl	_	_
+17	kanssa	kanssa	ADP	Adp	AdpType=Post	16	case	_	_
+18	paikallismurteen	paikallis#murre	NOUN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+19	käyttäjä	käyttäjä	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	23	nsubj:cop	_	_
+20	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	23	aux	_	_
+21	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	23	aux	_	_
+22	joutunut	joutua	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	23	cop	_	_
+23	tekemisiin	tekeminen	NOUN	N	Case=Ill|Derivation=Minen|Number=Plur	12	acl:relcl	_	SpaceAfter=No
+24	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 120
+# text = Siinä tapauksessa lainattiin vastineita muista kielistä tai siirrettiin paikallismurteiden sanoja uusiin merkityksiin, yhdisteltiin sanoja tai johdettiin kielen olemassaolevista aineksista uusia sanoja.
+1	Siinä	se	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	2	det	_	_
+2	tapauksessa	tapaus	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	lainattiin	lainata	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	vastineita	vastine	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+5	muista	muu	PRON	Pron	Case=Ela|Number=Plur|PronType=Ind	6	det	_	_
+6	kielistä	kieli	NOUN	N	Case=Ela|Number=Plur	4	nmod	_	_
+7	tai	tai	CCONJ	C	_	8	cc	_	_
+8	siirrettiin	siirtää	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	3	conj	_	_
+9	paikallismurteiden	paikallis#murre	NOUN	N	Case=Gen|Number=Plur	10	nmod:poss	_	_
+10	sanoja	sana	NOUN	N	Case=Par|Number=Plur	8	obj	_	_
+11	uusiin	uusi	ADJ	A	Case=Ill|Degree=Pos|Number=Plur	12	amod	_	_
+12	merkityksiin	merkitys	NOUN	N	Case=Ill|Number=Plur	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	14	punct	_	_
+14	yhdisteltiin	yhdistellä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	3	conj	_	_
+15	sanoja	sana	NOUN	N	Case=Par|Number=Plur	14	obj	_	_
+16	tai	tai	CCONJ	C	_	17	cc	_	_
+17	johdettiin	johtaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	3	conj	_	_
+18	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	20	nmod:poss	_	_
+19	olemassaolevista	olemassaoleva	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	20	amod	_	_
+20	aineksista	aines	NOUN	N	Case=Ela|Number=Plur	17	obl	_	_
+21	uusia	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Plur	22	amod	_	_
+22	sanoja	sana	NOUN	N	Case=Par|Number=Plur	17	obj	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 121
+# text = Usein oli suoranaisena mallina vieraan kielen sana tai ilmaus, ja sellaisella tavalla muodostetut suomen vastineet ovat käännöslainoja.
+1	Usein	usein	ADV	Adv	_	4	advmod	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	suoranaisena	suoranainen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+4	mallina	malli	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+5	vieraan	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
+6	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	sana	sana	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+8	tai	tai	CCONJ	C	_	9	cc	_	_
+9	ilmaus	ilmaus	NOUN	N	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	18	punct	_	_
+11	ja	ja	CCONJ	C	_	18	cc	_	_
+12	sellaisella	sellainen	ADJ	A	Case=Ade|Degree=Pos|Derivation=Lainen|Number=Sing	13	amod	_	_
+13	tavalla	tapa	NOUN	N	Case=Ade|Number=Sing	14	obl	_	_
+14	muodostetut	muodostaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+15	suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	vastineet	vastine	NOUN	N	Case=Nom|Number=Plur	18	nsubj:cop	_	_
+17	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+18	käännöslainoja	käännös#laina	NOUN	N	Case=Par|Number=Plur	4	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 122
+# text = Sanojen johtaminen eli derivoiminen on yksi keino muodostaa uusia lekseemeja.
+1	Sanojen	sana	NOUN	N	Case=Gen|Number=Plur	2	nmod:gobj	_	_
+2	johtaminen	johtaminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	7	nsubj:cop	_	_
+3	eli	eli	CCONJ	C	_	4	cc	_	_
+4	derivoiminen	deri#voiminen	NOUN	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	2	conj	_	_
+5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	yksi	yksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
+7	keino	keino	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+8	muodostaa	muodostaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	7	acl	_	_
+9	uusia	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Plur	10	amod	_	_
+10	lekseemeja	lekseemi	NOUN	N	Case=Par|Number=Plur	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 123
+# text = Sananmuodostuskeinona on se suomelle vanhastaan ominainen.
+1	Sananmuodostuskeinona	sana#muodostus#keino	NOUN	N	Case=Ess|Number=Sing	6	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+3	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	nsubj:cop	_	_
+4	suomelle	Suomi	PROPN	N	Case=All|Number=Sing	6	obl	_	_
+5	vanhastaan	vanhastaan	ADV	Adv	_	6	advmod	_	_
+6	ominainen	ominainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 124
+# text = Suomessa ja muissakin uralilaisissa kielissä tavallisin derivaation muoto on affiksaatio.
+1	Suomessa	Suomi	PROPN	N	Case=Ine|Number=Sing	10	obl	_	_
+2	ja	ja	CCONJ	C	_	5	cc	_	_
+3	muissakin	muu	PRON	Pron	Case=Ine|Clitic=Kin|Number=Plur|PronType=Ind	5	det	_	_
+4	uralilaisissa	uralilainen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Lainen|Number=Plur	5	amod	_	_
+5	kielissä	kieli	NOUN	N	Case=Ine|Number=Plur	1	conj	_	_
+6	tavallisin	tavallinen	ADJ	A	Case=Nom|Degree=Sup|Derivation=Llinen|Number=Sing	8	amod	_	_
+7	derivaation	derivaatio	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	muoto	muoto	NOUN	N	Case=Nom|Number=Sing	10	nsubj:cop	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	affiksaatio	affiksaatio	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 125
+# text = Affikseja on kolme eri tyyppiä – prefiksi , infiksi ja suffiksi.
+1	Affikseja	affiksi	NOUN	N	Case=Par|Number=Plur	5	nsubj:cop	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	kolme	kolme	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+4	eri	eri	ADJ	A	_	5	amod	_	_
+5	tyyppiä	tyyppi	NOUN	N	Case=Par|Number=Sing	0	root	_	_
+6	–	–	PUNCT	Punct	_	7	punct	_	_
+7	prefiksi	prefi	NOUN	N	Case=Tra|Number=Sing	5	appos	_	_
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	infiksi	infi	NOUN	N	Case=Tra|Number=Sing	7	conj	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	suffiksi	suffi	NOUN	N	Case=Tra|Number=Sing	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 126
+# text = Suomessa tavallisinta on suffiksaatio – silloin liitetään kantasanan perään yksi tai useampia sidonnaisia sananmuodostusmorfeemeja.
+1	Suomessa	Suomi	PROPN	N	Case=Ine|Number=Sing	2	obl	_	_
+2	tavallisinta	tavallisin	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	0	root	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	suffiksaatio	suffiksaatio	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	_	_
+5	–	–	PUNCT	Punct	_	2	punct	_	_
+6	silloin	silloin	ADV	Adv	_	7	advmod	_	_
+7	liitetään	liittää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	parataxis	_	_
+8	kantasanan	kanta#sana	NOUN	N	Case=Gen|Number=Sing	7	obl	_	_
+9	perään	perään	ADP	Adp	AdpType=Post	8	case	_	_
+10	yksi	yksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	14	nummod	_	_
+11	tai	tai	CCONJ	C	_	12	cc	_	_
+12	useampia	usea	ADJ	A	Case=Par|Degree=Sup|Number=Plur	10	conj	_	_
+13	sidonnaisia	sidonnainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
+14	sananmuodostusmorfeemeja	sana#muodostus#morfeemi	NOUN	N	Case=Par|Number=Plur	7	obj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 127
+# text = Johtimet jaotellaan denominaalisiksi ja deverbaalisiksi.
+1	Johtimet	johtin	NOUN	N	Case=Nom|Number=Plur	2	obj	_	_
+2	jaotellaan	jaotella	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	denominaalisiksi	denominaalinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	2	xcomp	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	deverbaalisiksi	deverbaalinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 128
+# text = Useat suffiksit voivat liittyä sekä nomineihin että verbeihin, esim. -mA, -vA. Suurin osa uudissanoista on yhdyssanoja, niitä syntyy jopa päivittäin.
+1	Useat	usea	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	suffiksit	suffiksi	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
+3	voivat	voida	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	liittyä	liittyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	sekä	sekä	CCONJ	C	_	6	cc:preconj	_	_
+6	nomineihin	nomini	NOUN	N	Case=Ill|Number=Plur	4	obl	_	_
+7	että	että	CCONJ	C	_	8	cc	_	_
+8	verbeihin	verbi	NOUN	N	Case=Ill|Number=Plur	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	esim.	esim.	ADV	Adv	Abbr=Yes	11	advmod	_	_
+11	-mA	ma	NOUN	N	Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	11	punct	_	_
+13	-	-	PUNCT	Punct	_	11	punct	_	SpaceAfter=No
+14	vA.	vA.	PROPN	N	Abbr=Yes|Case=Nom|Number=Sing	15	compound:nn	_	_
+15	Suurin	suuri	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	16	amod	_	_
+16	osa	osa	NOUN	N	Case=Nom|Number=Sing	19	nsubj:cop	_	_
+17	uudissanoista	uudis#sana	NOUN	N	Case=Ela|Number=Plur	16	nmod	_	_
+18	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
+19	yhdyssanoja	yhdys#sana	NOUN	N	Case=Par|Number=Plur	4	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	22	punct	_	_
+21	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	22	nsubj	_	_
+22	syntyy	syntyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+23	jopa	jopa	ADV	Adv	_	24	advmod	_	_
+24	päivittäin	päivittäin	ADV	Adv	Derivation=Ttain	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 129
+# text = Yhdyssana muodostetaan yhdistämällä kaksi tai useampia itsenäisiä sanoja.
+1	Yhdyssana	yhdyssa	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+2	muodostetaan	muodostaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	yhdistämällä	yhdistää	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	_	_
+4	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
+5	tai	tai	CCONJ	C	_	6	cc	_	_
+6	useampia	usea	ADJ	A	Case=Par|Degree=Cmp|Number=Plur	4	conj	_	_
+7	itsenäisiä	itsenäinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	8	amod	_	_
+8	sanoja	sana	NOUN	N	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 130
+# text = Yhdyssanan osina voivat olla sekä yksinkertaiset perussanat, johdokset että aiemmin muodostetut yhdyssanat.
+1	Yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	osina	osa	NOUN	N	Case=Ess|Number=Plur	0	root	_	_
+3	voivat	voida	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
+4	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	cop	_	_
+5	sekä	sekä	CCONJ	C	_	7	cc:preconj	_	_
+6	yksinkertaiset	yksinkertainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	7	amod	_	_
+7	perussanat	perus#sana	NOUN	N	Case=Nom|Number=Plur	2	nsubj:cop	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	johdokset	johdos	NOUN	N	Case=Nom|Number=Plur	7	conj	_	_
+10	että	että	CCONJ	C	_	13	cc	_	_
+11	aiemmin	aiemmin	ADV	Adv	_	12	advmod	_	_
+12	muodostetut	muodostaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 131
+# text = Muodostustyypiltään on kahdenlaisia yhdyssanoja: alisteiset eli determinatiiviset yhdyssanat sekä rinnasteiset eli kopulatiiviset yhdyssanat.
+1	Muodostustyypiltään	muodostus#tyyppi	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	4	nmod	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	kahdenlaisia	kahdenlainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	4	amod	_	_
+4	yhdyssanoja	yhdys#sana	NOUN	N	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	Punct	_	9	punct	_	_
+6	alisteiset	alisteinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	9	amod	_	_
+7	eli	eli	CCONJ	C	_	8	cc	_	_
+8	determinatiiviset	determinatiivinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	6	conj	_	_
+9	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	4	appos	_	_
+10	sekä	sekä	CCONJ	C	_	14	cc	_	_
+11	rinnasteiset	rinnasteinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
+12	eli	eli	CCONJ	C	_	13	cc	_	_
+13	kopulatiiviset	kopulatiivinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	11	conj	_	_
+14	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 132
+# text = Alisteisissa yhdyssanoissa alkuosa määrittää jälkiosaa.
+1	Alisteisissa	alisteinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	yhdyssanoissa	yhdys#sana	NOUN	N	Case=Ine|Number=Plur	4	obl	_	_
+3	alkuosa	alku#osa	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	määrittää	määrittää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	jälkiosaa	jälki#osa	NOUN	N	Case=Par|Number=Sing	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 133
+# text = Alisteisen yhdyssanan osien kielitieteelliset nimitykset ovatkin määriteosa ja perusosa.
+1	Alisteisen	alisteinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	osien	osa	NOUN	N	Case=Gen|Number=Plur	5	nmod:poss	_	_
+4	kielitieteelliset	kieli#tieteellinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Plur	5	amod	_	_
+5	nimitykset	nimitys	NOUN	N	Case=Nom|Number=Plur	7	nsubj:cop	_	_
+6	ovatkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	määriteosa	määri#teosa	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+8	ja	ja	CCONJ	C	_	9	cc	_	_
+9	perusosa	perus#osa	NOUN	N	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 134
+# text = Määriteosa täsmentää tai rajoittaa perusosan merkitystä, esim. kivitalo, sadetakki.
+1	Määriteosa	määri#teosa	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	täsmentää	täsmentää	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tai	tai	CCONJ	C	_	4	cc	_	_
+4	rajoittaa	rajoittaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	perusosan	perus#osa	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	merkitystä	merkitys	NOUN	N	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	9	punct	_	_
+8	esim.	esim.	ADV	Adv	Abbr=Yes	9	advmod	_	_
+9	kivitalo	kivi#talo	NOUN	N	Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	11	punct	_	_
+11	sadetakki	sade#takki	NOUN	N	Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 135
+# text = Rinnasteisen yhdyssanan osat ovat tasaveroisia, esim. sinivalkoinen, suomenruotsalainen.
+1	Rinnasteisen	rinnasteinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
+2	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	osat	osa	NOUN	N	Case=Nom|Number=Plur	5	nsubj:cop	_	_
+4	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	tasaveroisia	tasa#veroinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	esim.	esim.	ADV	Adv	Abbr=Yes	8	advmod	_	_
+8	sinivalkoinen	sini#valkoinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	5	appos	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	10	punct	_	_
+10	suomenruotsalainen	suomen#ruotsalainen	NOUN	N	Case=Nom|Derivation=Lainen|Number=Sing	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 136
+# text = Valtaosa nykysuomen yhdyssanoista on alisteisia ja vain harvat rinnasteisia.
+1	Valtaosa	valta#osa	NOUN	N	Case=Nom|Number=Sing	5	nsubj:cop	_	_
+2	nykysuomen	nyky#suomi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	yhdyssanoista	yhdys#sana	NOUN	N	Case=Ela|Number=Plur	1	nmod	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	alisteisia	alisteinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	0	root	_	_
+6	ja	ja	CCONJ	C	_	9	cc	_	_
+7	vain	vain	ADV	Adv	_	8	advmod	_	_
+8	harvat	harva	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	9	nsubj:cop	_	_
+9	rinnasteisia	rinnasteinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 137
+# text = Yhdyssanaan voidaan liittää elementtejä eri sanaluokista, kuitenkin käytännössä on suurin osa muodostettu substantiiveista.
+1	Yhdyssanaan	yhdyssa	NOUN	N	Case=Ine|Number=Sing|Person[psor]=3	3	obl	_	_
+2	voidaan	voida	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux	_	_
+3	liittää	liittää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+4	elementtejä	elementti	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+5	eri	eri	ADJ	A	_	6	amod	_	_
+6	sanaluokista	sana#luokka	NOUN	N	Case=Ela|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	13	punct	_	_
+8	kuitenkin	kuitenkin	ADV	Adv	_	13	advmod	_	_
+9	käytännössä	käytäntö	NOUN	N	Case=Ine|Number=Sing	13	obl	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	_	_
+11	suurin	suuri	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	12	amod	_	_
+12	osa	osa	NOUN	N	Case=Nom|Number=Sing	13	obj	_	_
+13	muodostettu	muodostaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+14	substantiiveista	substantiivi	NOUN	N	Case=Ela|Number=Plur	13	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 138
+# text = Kielihistoriallisesti ovat yhdyssanat syntyneet melko myöhään.
+1	Kielihistoriallisesti	kieli#historiallisesti	ADV	Adv	Derivation=Sti	4	advmod	_	_
+2	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
+4	syntyneet	syntyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	melko	melko	ADV	Adv	_	6	advmod	_	_
+6	myöhään	myöhään	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 139
+# text = Ne saivat alkuunsa kiinteän kokonaisuuden muodostaneista sanaliitoista.
+1	Ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	saivat	saada	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	alkuunsa	alku	NOUN	N	Case=Ill|Number=Sing|Person[psor]=3	2	obl	_	_
+4	kiinteän	kiinteä	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
+5	kokonaisuuden	kokonaisuus	NOUN	N	Case=Gen|Derivation=Inen,Vs|Number=Sing	2	obj	_	_
+6	muodostaneista	muodostaa	VERB	V	Case=Ela|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+7	sanaliitoista	sana#liitto	NOUN	N	Case=Ela|Number=Plur	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 140
+# text = Joskus onkin vaikeaa erottaa yhdyssana sanaliitosta, kuitenkin tärkeänä erona ja yhdyssanan selvimpänä tuntomerkkinä on painotus.
+1	Joskus	joskus	ADV	Adv	_	3	advmod	_	_
+2	onkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	vaikeaa	vaikea	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
+4	erottaa	erottaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
+5	yhdyssana	yhdyssa	NOUN	N	Case=Ine|Number=Sing	4	obl	_	_
+6	sanaliitosta	sana#liitto	NOUN	N	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	kuitenkin	kuitenkin	ADV	Adv	_	10	advmod	_	_
+9	tärkeänä	tärkeä	ADJ	A	Case=Ess|Degree=Pos|Number=Sing	10	amod	_	_
+10	erona	ero	NOUN	N	Case=Ess|Number=Sing	6	appos	_	_
+11	ja	ja	CCONJ	C	_	14	cc	_	_
+12	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+13	selvimpänä	selvä	ADJ	A	Case=Ess|Degree=Sup|Number=Sing	14	amod	_	_
+14	tuntomerkkinä	tunto#merkki	NOUN	N	Case=Ess|Number=Sing	10	conj	_	_
+15	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+16	painotus	painotus	NOUN	N	Case=Nom|Number=Sing	14	nsubj:cop	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 141
+# text = Sanaliitossa saavat molemmat osat pääpainon, yhdyssanassa pääpaino on ainoastaan alkuosalla.
+1	Sanaliitossa	sana#liitto	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+2	saavat	saada	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	molemmat	molemmat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	det	_	_
+4	osat	osa	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	_
+5	pääpainon	pää#paino	NOUN	N	Case=Gen|Number=Sing	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	11	punct	_	_
+7	yhdyssanassa	yhdys#sana	NOUN	N	Case=Ine|Number=Sing	11	obl	_	_
+8	pääpaino	pää#paino	NOUN	N	Case=Nom|Number=Sing	11	nsubj:cop	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+10	ainoastaan	ainoastaan	ADV	Adv	_	11	advmod	_	_
+11	alkuosalla	alku#osa	NOUN	N	Case=Ade|Number=Sing	2	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 142
+# text = Kuitenkin käytännössä voi painotuksessakin esiintyä horjuvuutta.
+1	Kuitenkin	kuitenkin	ADV	Adv	_	5	advmod	_	_
+2	käytännössä	käytäntö	NOUN	N	Case=Ine|Number=Sing	5	obl	_	_
+3	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	painotuksessakin	painotus	NOUN	N	Case=Ine|Clitic=Kin|Number=Sing	5	obl	_	_
+5	esiintyä	esiintyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+6	horjuvuutta	horjuvuus	NOUN	N	Case=Par|Derivation=Vs|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 143
+# text = Yhdyssanojen ja sanaliittojen ero määräytyy myös sen mukaan, miten kiinteäksi osien välinen yhteys tajutaan.
+1	Yhdyssanojen	yhdys#sana	NOUN	N	Case=Gen|Number=Plur	4	nmod:poss	_	_
+2	ja	ja	CCONJ	C	_	3	cc	_	_
+3	sanaliittojen	sana#liitto	NOUN	N	Case=Gen|Number=Plur	1	conj	_	_
+4	ero	ero	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+5	määräytyy	määräytyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	myös	myös	ADV	Adv	_	7	advmod	_	_
+7	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	_
+8	mukaan	mukaan	ADP	Adp	AdpType=Post	7	case	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	15	punct	_	_
+10	miten	miten	ADV	Adv	_	11	advmod	_	_
+11	kiinteäksi	kiinteä	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	15	xcomp	_	_
+12	osien	osa	NOUN	N	Case=Gen|Number=Plur	13	nmod:poss	_	_
+13	välinen	välinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	14	amod	_	_
+14	yhteys	yhteys	NOUN	N	Case=Nom|Derivation=Vs|Number=Sing	15	obj	_	_
+15	tajutaan	tajuta	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	ccomp	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 144
+# text = Vanhassa kirjakielessä ei ollut vielä selviä sääntöjä.
+1	Vanhassa	vanha	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	_	_
+2	kirjakielessä	kirja#kieli	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+3	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	aux	_	_
+4	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	cop	_	_
+5	vielä	vielä	ADV	Adv	_	2	advmod	_	_
+6	selviä	selvä	ADJ	A	Case=Par|Degree=Pos|Number=Plur	7	amod	_	_
+7	sääntöjä	sääntö	NOUN	N	Case=Par|Number=Plur	2	nsubj:cop	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 145
+# text = On vaikeaa päätellä, oliko jokin sanapari silloin yhdyssana vai sanaliitto, koska eri lähteissä kirjoitettiin sanat joskus yhteen, joskus erilleen.
+1	On	olla	AUX	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	vaikeaa	vaikea	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
+3	päätellä	päätellä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp:ds	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	9	punct	_	_
+5	oliko	olla	AUX	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+6	jokin	jokin	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	det	_	_
+7	sanapari	sana#pari	NOUN	N	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+8	silloin	silloin	ADV	Adv	_	9	advmod	_	_
+9	yhdyssana	yhdyssa	NOUN	N	Case=Ine|Number=Sing	3	ccomp	_	_
+10	vai	vai	CCONJ	C	_	11	cc	_	_
+11	sanaliitto	sana#liitto	NOUN	N	Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	16	punct	_	_
+13	koska	koska	SCONJ	C	_	16	mark	_	_
+14	eri	eri	ADJ	A	_	15	amod	_	_
+15	lähteissä	lähde	NOUN	N	Case=Ine|Number=Plur	16	obl	_	_
+16	kirjoitettiin	kirjoittaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	2	advcl	_	_
+17	sanat	sana	NOUN	N	Case=Nom|Number=Plur	16	obj	_	_
+18	joskus	joskus	ADV	Adv	_	16	advmod	_	_
+19	yhteen	yhteen	ADV	Adv	_	16	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	22	punct	_	_
+21	joskus	joskus	ADV	Adv	_	22	advmod	_	_
+22	erilleen	erilleen	ADV	Adv	_	19	conj	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 146
+# text = Samoin voi kirjakielen eri vaiheissa erota yhdyssanan alkuosan sija, joskus se esiintyy nominatiivi-, joskus genetiivimuotoisena.
+1	Samoin	samoin	ADV	Adv	_	6	advmod	_	_
+2	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+3	kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+4	eri	eri	ADJ	A	_	5	amod	_	_
+5	vaiheissa	vaihe	NOUN	N	Case=Ine|Number=Plur	6	obl	_	_
+6	erota	erota	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+7	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	alkuosan	alku#osa	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	sija	sija	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	13	punct	_	_
+11	joskus	joskus	ADV	Adv	_	13	advmod	_	_
+12	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	nsubj	_	_
+13	esiintyy	esiintyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+14	nominatiivi-	nominatiivi	NOUN	N	Case=Nom|Number=Sing	13	obl	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	17	punct	_	_
+16	joskus	joskus	ADV	Adv	_	17	advmod	_	_
+17	genetiivimuotoisena	genetiivi#muotoinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Inen|Number=Sing	14	conj	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 147
+# text = Nykykielessä on selvää, että nominatiivissa oleva määriteosa liittyy perusosaan erottamattomasti.
+1	Nykykielessä	nyky#kieli	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	selvää	selvä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	9	punct	_	_
+5	että	että	SCONJ	C	_	9	mark	_	_
+6	nominatiivissa	nominatiivi	NOUN	N	Case=Ine|Number=Sing	7	obl	_	_
+7	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	määriteosa	määri#teosa	NOUN	N	Case=Nom|Number=Sing	9	nsubj	_	_
+9	liittyy	liittyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj:cop	_	_
+10	perusosaan	perus#osa	NOUN	N	Case=Ill|Number=Sing	9	obl	_	_
+11	erottamattomasti	erottamattomasti	ADV	Adv	Derivation=Sti	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 148
+# text = Genetiivimäärite voi muodostaa pääsanansa kanssa joko yhdyssanan tai erilleen kirjoitettavan sanaliiton.
+1	Genetiivimäärite	genetiivi#määrite	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	muodostaa	muodostaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+4	pääsanansa	pää#sana	NOUN	N	Case=Gen|Number=Sing|Person[psor]=3	3	obl	_	_
+5	kanssa	kanssa	ADP	Adp	AdpType=Post	4	case	_	_
+6	joko	joko	CCONJ	C	_	7	cc:preconj	_	_
+7	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+8	tai	tai	CCONJ	C	_	11	cc	_	_
+9	erilleen	erä	ADV	N	Case=All|Number=Plur|Person[psor]=3	10	advmod	_	_
+10	kirjoitettavan	kirjoittaa	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	11	acl	_	_
+11	sanaliiton	sana#liitto	NOUN	N	Case=Gen|Number=Sing	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 149
+# text = Vanhassa kirjakielessä kirjoitettiin myös nominatiivimääritteiset yhdyssanat usein erilleen.
+1	Vanhassa	vanha	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	_	_
+2	kirjakielessä	kirja#kieli	NOUN	N	Case=Ine|Number=Sing	3	obl	_	_
+3	kirjoitettiin	kirjoittaa	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	myös	myös	ADV	Adv	_	6	advmod	_	_
+5	nominatiivimääritteiset	nominatiivi#määritteinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	6	amod	_	_
+6	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	3	obj	_	_
+7	usein	usein	ADV	Adv	_	3	advmod	_	_
+8	erilleen	erilleen	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 150
+# text = Yhdyssanan merkitys on useimmiten jo sen osien perusteella selvä: sekä rakenteeltaan että merkitykseltään on sana osiensa summa.
+1	Yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	merkitys	merkitys	NOUN	N	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+4	useimmiten	useimmiten	ADV	Adv	_	9	advmod	_	_
+5	jo	jo	ADV	Adv	_	8	advmod	_	_
+6	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	7	det	_	_
+7	osien	osa	NOUN	N	Case=Gen|Number=Plur	8	nmod:poss	_	_
+8	perusteella	peruste	NOUN	N	Case=Ade|Number=Sing	9	obl	_	_
+9	selvä	selvä	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+10	:	:	PUNCT	Punct	_	12	punct	_	_
+11	sekä	sekä	CCONJ	C	_	12	cc:preconj	_	_
+12	rakenteeltaan	rakenne	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	9	obl	_	_
+13	että	että	SCONJ	C	_	14	cc	_	_
+14	merkitykseltään	merkitys	NOUN	N	Case=Abl|Number=Sing|Person[psor]=3	12	conj	_	_
+15	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+16	sana	sana	NOUN	N	Case=Nom|Number=Sing	18	nsubj:cop	_	_
+17	osiensa	osiensa	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	18	amod	_	_
+18	summa	summa	NOUN	N	Case=Nom|Number=Sing	12	ccomp	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 151
+# text = Se näkyy parhaiten rinnasteisten yhdyssanojen tapauksessa.
+1	Se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	näkyy	näkyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	parhaiten	parhaiten	ADV	Adv	_	2	advmod	_	_
+4	rinnasteisten	rinnasteinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+5	yhdyssanojen	yhdys#sana	NOUN	N	Case=Gen|Number=Plur	6	nmod:poss	_	_
+6	tapauksessa	tapaus	NOUN	N	Case=Ine|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 152
+# text = Kuitenkaan aina ei voi yhdyssanan merkitystä päätellä vain sen rakenneosien merkityksen perusteella.
+1	Kuitenkaan	kuitenkaan	ADV	Adv	_	7	advmod	_	_
+2	aina	aina	ADV	Adv	_	7	advmod	_	_
+3	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	7	aux	_	_
+4	voi	voida	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	merkitystä	merkitys	NOUN	N	Case=Par|Number=Sing	7	obj	_	_
+7	päätellä	päätellä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+8	vain	vain	ADV	Adv	_	12	advmod	_	_
+9	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	det	_	_
+10	rakenneosien	rakenne#osa	NOUN	N	Case=Gen|Number=Plur	11	nmod:poss	_	_
+11	merkityksen	merkitys	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	perusteella	peruste	NOUN	N	Case=Ade|Number=Sing	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 153
+# text = Useat yhdyssanat ovat nimittäin varta vasten kuvaannolliseen tai erikoiskäyttöön luotuja, myös käännöksinä saatuja.
+1	Useat	usea	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	5	nsubj:cop	_	_
+3	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+4	nimittäin	nimittäin	ADV	Adv	Derivation=Ttain	5	advmod	_	_
+5	varta	var	ADJ	A	Case=Par|Degree=Pos|Number=Plur	0	root	_	_
+6	vasten	vasten	ADP	Adp	AdpType=Prep	7	case	_	_
+7	kuvaannolliseen	kuvaannollinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Llinen|Number=Sing	10	obl	_	_
+8	tai	tai	CCONJ	C	_	9	cc	_	_
+9	erikoiskäyttöön	erikois#käyttö	NOUN	N	Case=Ill|Number=Sing	7	conj	_	_
+10	luotuja	luoda	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	5	conj	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	14	punct	_	_
+12	myös	myös	ADV	Adv	_	14	advmod	_	_
+13	käännöksinä	käännös	NOUN	N	Case=Ess|Number=Plur	14	obl	_	_
+14	saatuja	saada	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	5	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 154
+# text = Sellaisten yhdyssanojen merkitys ei selviä pelkästään niiden yhdysosien perusteella.
+1	Sellaisten	sellainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Plur	2	amod	_	_
+2	yhdyssanojen	yhdys#sana	NOUN	N	Case=Gen|Number=Plur	3	nmod:poss	_	_
+3	merkitys	merkitys	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+4	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	selviä	selvitä	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pelkästään	pelkästään	ADV	Adv	_	9	advmod	_	_
+7	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	8	det	_	_
+8	yhdysosien	yhdys#osa	NOUN	N	Case=Gen|Number=Plur	9	nmod:poss	_	_
+9	perusteella	peruste	NOUN	N	Case=Ade|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 155
+# text = Erikoiskäyttöisiä yhdyssanoja on runsaasti myös kasvien nimistössä.
+1	Erikoiskäyttöisiä	erikois#käyttöinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	2	amod	_	_
+2	yhdyssanoja	yhdys#sana	NOUN	N	Case=Par|Number=Plur	7	nsubj:cop	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+4	runsaasti	runsaasti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+5	myös	myös	ADV	Adv	_	7	advmod	_	_
+6	kasvien	kasvi	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	nimistössä	nimistö	NOUN	N	Case=Ine|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 156
+# text = Monet yhdyssanat on muodostettu vieraiden kielten mallin mukaan, kääntämällä.
+1	Monet	moni	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	2	det	_	_
+2	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	4	obj	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	muodostettu	muodostaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	vieraiden	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	mallin	malli	NOUN	N	Case=Gen|Number=Sing	4	obl	_	_
+8	mukaan	mukaan	ADP	Adp	AdpType=Post	7	case	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	10	punct	_	_
+10	kääntämällä	kääntää	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	4	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 157
+# text = Yhdyssanan osana voi esiintyä myös suora laina.
+1	Yhdyssanan	yhdys#sana	NOUN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	osana	osa	NOUN	N	Case=Ess|Number=Sing	4	obl	_	_
+3	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	esiintyä	esiintyä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	myös	myös	ADV	Adv	_	7	advmod	_	_
+6	suora	suora	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	laina	laina	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 158
+# text = Yhdyssanat, joita käytetään adjektiivisessä merkitystehtävässä, ovat bahuvriihiyhdyssanoja.
+1	Yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	9	nsubj:cop	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	4	punct	_	_
+3	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	4	obj	_	_
+4	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	_
+5	adjektiivisessä	adjektiivinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	merkitystehtävässä	merkitys#tehtävä	NOUN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	4	punct	_	_
+8	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	bahuvriihiyhdyssanoja	bahuvriihi#yhdys#sana	NOUN	N	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	9	punct	_	_
+
+# sent_id = 159
+# text = Niitä käytetään usein ihmisistä, mutta myös eläimistä ja elottomistakin esineistä.
+1	Niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	2	obj	_	_
+2	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	usein	usein	ADV	Adv	_	2	advmod	_	_
+4	ihmisistä	ihminen	NOUN	N	Case=Ela|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	mutta	mutta	CCONJ	C	_	8	cc	_	_
+7	myös	myös	ADV	Adv	_	8	advmod	_	_
+8	eläimistä	eläin	NOUN	N	Case=Ela|Number=Plur	4	conj	_	_
+9	ja	ja	CCONJ	C	_	11	cc	_	_
+10	elottomistakin	eloton	ADJ	A	Case=Ela|Degree=Cmp|Derivation=Inen|Number=Plur	11	amod	_	_
+11	esineistä	esine	NOUN	N	Case=Ela|Number=Plur	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 160
+# text = Myös jotkin kasvinnimet ovat bahuvriihisanoja, esim. punajuuri.
+1	Myös	myös	ADV	Adv	_	3	advmod	_	_
+2	jotkin	jokin	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	3	det	_	_
+3	kasvinnimet	kasvin#nimi	NOUN	N	Case=Nom|Number=Plur	5	nsubj:cop	_	_
+4	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	bahuvriihisanoja	bahuvriihi#sana	NOUN	N	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	esim.	esim.	ADV	Adv	Abbr=Yes	8	advmod	_	_
+8	punajuuri	puna#juuri	NOUN	N	Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 161
+# text = Kun kulttuuriin tulee uusia ilmiöitä, jotka ovat syntyneet ja kehittyneet oman kieli- ja kulttuuripiirin ulkopuolella, muuttuu kielikin, koska uusille asioille tarvitaan nimiä.
+1	Kun	kun	SCONJ	C	_	3	mark	_	_
+2	kulttuuriin	kulttuuri	NOUN	N	Case=Ill|Number=Sing	3	obl	_	_
+3	tulee	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+4	uusia	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Plur	5	amod	_	_
+5	ilmiöitä	ilmiö	NOUN	N	Case=Par|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	9	nsubj	_	_
+8	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	syntyneet	syntyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	_
+10	ja	ja	CCONJ	C	_	11	cc	_	_
+11	kehittyneet	kehittyä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	9	conj	_	_
+12	oman	oma	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	13	amod	_	_
+13	kieli-	kieli	NOUN	N	Case=Nom|Number=Sing	9	obl	_	_
+14	ja	ja	CCONJ	C	_	15	cc	_	_
+15	kulttuuripiirin	kulttuuri#piiri	NOUN	N	Case=Gen|Number=Sing	13	conj	_	_
+16	ulkopuolella	ulkopuolella	ADP	Adp	AdpType=Post	13	case	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	9	punct	_	_
+18	muuttuu	muuttua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	kielikin	kieli	NOUN	Adv	Clitic=Kin|Derivation=Sti	18	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	24	punct	_	_
+21	koska	koska	SCONJ	C	_	24	mark	_	_
+22	uusille	uusi	ADJ	A	Case=All|Degree=Pos|Number=Plur	23	amod	_	_
+23	asioille	asia	NOUN	N	Case=All|Number=Plur	24	obl	_	_
+24	tarvitaan	tarvita	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	18	advcl	_	_
+25	nimiä	nimi	NOUN	N	Case=Par|Number=Plur	24	obj	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	18	punct	_	_
+
+# sent_id = 162
+# text = Uusia käsitteitä voi lainata suoraan vieraasta kielestä, mukauttaa ne äännerakenteeseen sopiviksi tai kääntää ne omalle kielelle.
+1	Uusia	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Plur	2	amod	_	_
+2	käsitteitä	käsite	NOUN	N	Case=Par|Number=Plur	4	obj	_	_
+3	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	lainata	lainata	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+5	suoraan	suoraan	ADV	Adv	_	7	advmod	_	_
+6	vieraasta	vieras	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	7	amod	_	_
+7	kielestä	kieli	NOUN	N	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	mukauttaa	mukauttaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	conj	_	_
+10	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	9	obj	_	_
+11	äännerakenteeseen	äänne#rakenne	NOUN	N	Case=Ill|Number=Sing	12	obl	_	_
+12	sopiviksi	sopiva	VERB	A	Case=Tra|Degree=Pos|Number=Plur	9	xcomp:ds	_	_
+13	tai	tai	CCONJ	C	_	14	cc	_	_
+14	kääntää	kääntää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	12	conj	_	_
+15	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	14	obj	_	_
+16	omalle	oma	ADJ	A	Case=All|Degree=Pos|Number=Sing	17	amod	_	_
+17	kielelle	kieli	NOUN	N	Case=All|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 163
+# text = Kun halutaan välttää vierasperäisiä lainasanoja, keksitään usein jollekin käsitteelle omaperäisistä kielenaineksista vastine, jonka pohjana on kuitenkin sen käsitteen vieraassa kielessä oleva perushahmo.
+1	Kun	kun	SCONJ	C	_	2	mark	_	_
+2	halutaan	haluta	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	_
+3	välttää	välttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	vierasperäisiä	vieras#peräinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+5	lainasanoja	laina#sana	NOUN	N	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	2	punct	_	_
+7	keksitään	keksiä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	usein	usein	ADV	Adv	_	7	advmod	_	_
+9	jollekin	jokin	PRON	Pron	Case=All|Number=Sing|PronType=Ind	10	det	_	_
+10	käsitteelle	käsite	NOUN	N	Case=All|Number=Sing	7	obl	_	_
+11	omaperäisistä	oma#peräinen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Inen|Number=Plur	12	amod	_	_
+12	kielenaineksista	kieli#aines	NOUN	N	Case=Ela|Number=Plur	7	obl	_	_
+13	vastine	vastine	NOUN	N	Case=Nom|Number=Sing	7	obj	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	16	punct	_	_
+15	jonka	joka	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	16	nmod:poss	_	_
+16	pohjana	pohja	NOUN	N	Case=Ess|Number=Sing	13	acl:relcl	_	_
+17	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+18	kuitenkin	kuitenkin	ADV	Adv	_	16	advmod	_	_
+19	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	20	det	_	_
+20	käsitteen	käsite	NOUN	N	Case=Gen|Number=Sing	22	nmod:poss	_	_
+21	vieraassa	vieras	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	22	amod	_	_
+22	kielessä	kieli	NOUN	N	Case=Ine|Number=Sing	23	obl	_	_
+23	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+24	perushahmo	perus#hahmo	NOUN	N	Case=Nom|Number=Sing	16	nsubj:cop	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 164
+# text = Kääntämällä pyritään suojelemaan omaa kieltä ja kulttuuria liialliselta vieraalta vaikutukselta.
+1	Kääntämällä	kääntää	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	_	_
+2	pyritään	pyrkiä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	suojelemaan	suojella	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	omaa	oma	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
+5	kieltä	kieli	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	kulttuuria	kulttuuri	NOUN	N	Case=Par|Number=Sing	5	conj	_	_
+8	liialliselta	liiallinen	ADJ	A	Case=Abl|Degree=Pos|Derivation=Llinen|Number=Sing	10	amod	_	_
+9	vieraalta	vieras	ADJ	A	Case=Abl|Degree=Pos|Number=Sing	10	amod	_	_
+10	vaikutukselta	vaikutus	NOUN	N	Case=Abl|Number=Sing	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 165
+# text = Kieltä halutaan varjella ja rikastuttaa samalla.
+1	Kieltä	kieli	NOUN	N	Case=Par|Number=Sing	3	obj	_	_
+2	halutaan	haluta	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	varjella	varjella	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	rikastuttaa	rikastuttaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	_
+6	samalla	sama	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	5	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 166
+# text = Lisäksi vältytään joskus ääntämisen kannalta hankalilta lainoilta.
+1	Lisäksi	lisäksi	ADV	Adv	_	2	advmod	_	_
+2	vältytään	välttyä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	joskus	joskus	ADV	Adv	_	2	advmod	_	_
+4	ääntämisen	ääntäminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	5	nmod:poss	_	_
+5	kannalta	kanta	NOUN	N	Case=Abl|Number=Sing	2	obl	_	_
+6	hankalilta	hankala	ADJ	A	Case=Abl|Degree=Pos|Number=Plur	7	amod	_	_
+7	lainoilta	laina	NOUN	N	Case=Abl|Number=Plur	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 167
+# text = Kääntämällä saadaan uusille käsitteille omakielinen nimi.
+1	Kääntämällä	kääntää	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	_	_
+2	saadaan	saada	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	uusille	uusi	ADJ	A	Case=All|Degree=Pos|Number=Plur	4	amod	_	_
+4	käsitteille	käsite	NOUN	N	Case=All|Number=Plur	2	obl	_	_
+5	omakielinen	oma#kielinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	nimi	nimi	NOUN	N	Case=Nom|Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 168
+# text = Käännöslainat ovat tarkemmin sellaiset sanat, jotka ovat osa osalta käännetty toiselle kielelle.
+1	Käännöslainat	käännös#laina	NOUN	N	Case=Nom|Number=Plur	5	nsubj:cop	_	_
+2	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	tarkemmin	tarkemmin	ADV	Adv	_	5	advmod	_	_
+4	sellaiset	sellainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Plur	5	amod	_	_
+5	sanat	sana	NOUN	N	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	11	punct	_	_
+7	jotka	joka	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	obj	_	_
+8	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+9	osa	osa	NOUN	N	Case=Nom|Number=Sing	11	obj	_	_
+10	osalta	osa	NOUN	N	Case=Abl|Number=Sing	11	obl	_	_
+11	käännetty	kääntää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	_
+12	toiselle	toinen	PRON	Num	Case=All|Derivation=Inen|Number=Sing|NumType=Ord	13	det	_	_
+13	kielelle	kieli	NOUN	N	Case=All|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 169
+# text = Nimenomaan yhdyssanat tai johdetut sanat osoittautuvat useimmiten käännöslainoiksi, esim. rautatie , kirjoituspöytä.
+1	Nimenomaan	nimen#omaan	ADV	Adv	_	2	advmod	_	_
+2	yhdyssanat	yhdys#sana	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	_
+3	tai	tai	CCONJ	C	_	5	cc	_	_
+4	johdetut	johtaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+5	sanat	sana	NOUN	N	Case=Nom|Number=Plur	2	conj	_	_
+6	osoittautuvat	osoittautua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	useimmiten	useimmiten	ADV	Adv	_	6	advmod	_	_
+8	käännöslainoiksi	käännös#laina	NOUN	N	Case=Tra|Number=Plur	6	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	esim.	esim.	ADV	Adv	Abbr=Yes	11	advmod	_	_
+11	rautatie	rauta#tie	NOUN	N	Case=Nom|Number=Sing	8	appos	_	_
+12	,	,	PUNCT	Punct	_	13	punct	_	_
+13	kirjoituspöytä	kirjoitus#pöytä	NOUN	N	Case=Nom|Number=Sing	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 170
+# text = Suomi on saanut vuosisatojen kuluessa runsaasti käännöslainoja nimenomaan ruotsista.
+1	Suomi	Suomi	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	saanut	saada	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	vuosisatojen	vuosi#sata	NOUN	N	Case=Gen|Number=Plur	5	nsubj	_	_
+5	kuluessa	kulua	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	3	advcl	_	_
+6	runsaasti	runsaasti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+7	käännöslainoja	käännös#laina	NOUN	N	Case=Par|Number=Plur	3	obj	_	_
+8	nimenomaan	nimen#omaan	ADV	Adv	_	9	advmod	_	_
+9	ruotsista	ruotsi	PROPN	N	Case=Ela|Number=Sing	3	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 171
+# text = Vieraan kielen malli vaikuttaa erityisesti kulttuurisanojen tapauksessa, kun jokin kulttuuri-ilmiö tulee tietystä suunnasta.
+1	Vieraan	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
+2	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	malli	malli	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+4	vaikuttaa	vaikuttaa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	erityisesti	erityisesti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+6	kulttuurisanojen	kulttuuri#sana	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	tapauksessa	tapaus	NOUN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	12	punct	_	_
+9	kun	kun	SCONJ	C	_	12	mark	_	_
+10	jokin	jokin	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	11	det	_	_
+11	kulttuuri-ilmiö	kulttuuri#ilmiö	NOUN	N	Case=Nom|Number=Sing	12	nsubj	_	_
+12	tulee	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+13	tietystä	tietty	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	14	amod	_	_
+14	suunnasta	suunta	NOUN	N	Case=Ela|Number=Sing	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 172
+# text = Joskus on osa sanasta lainattu suoraan ja osa käännetty, esim. T-paita.
+1	Joskus	joskus	ADV	Adv	_	5	advmod	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+3	osa	osa	NOUN	N	Case=Nom|Number=Sing	5	obj	_	_
+4	sanasta	sana	NOUN	N	Case=Ela|Number=Sing	5	obl	_	_
+5	lainattu	lainata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	suoraan	suoraan	ADV	Adv	_	5	advmod	_	_
+7	ja	ja	CCONJ	C	_	9	cc	_	_
+8	osa	osa	NOUN	N	Case=Nom|Number=Sing	9	obj	_	_
+9	käännetty	kääntää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	12	punct	_	_
+11	esim.	esim.	ADV	Adv	Abbr=Yes	12	advmod	_	_
+12	T-paita	T#paita	NOUN	N	Case=Nom|Number=Sing	8	appos	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 173
+# text = Käännöslainoihin kuuluvat myös vieraan kielen mallin aiheuttamat merkityksen muutokset.
+1	Käännöslainoihin	käännös#laina	NOUN	N	Case=Ill|Number=Plur	2	obl	_	_
+2	kuuluvat	kuulua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	myös	myös	ADV	Adv	_	9	advmod	_	_
+4	vieraan	vieras	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
+5	kielen	kieli	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	mallin	malli	NOUN	N	Case=Gen|Number=Sing	7	nsubj	_	_
+7	aiheuttamat	aiheuttaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	9	acl	_	_
+8	merkityksen	merkitys	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	muutokset	muutos	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 174
+# text = Ne voivat olla suorastaan merkityslainoja.
+1	Ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	5	nsubj:cop	_	_
+2	voivat	voida	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	5	cop	_	_
+4	suorastaan	suorastaan	ADV	Adv	_	5	advmod	_	_
+5	merkityslainoja	merkitys#laina	NOUN	N	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 175
+# text = Kielessä jo olemassa olevat sanat saavat uusia merkityksiä, kun niitä aletaan käyttää kuin muiden kielten vastaavia sanoja jossain yhteydessä.
+1	Kielessä	kieli	NOUN	N	Case=Ine|Number=Sing	6	obl	_	_
+2	jo	jo	ADV	Adv	_	3	advmod	_	_
+3	olemassa	olla	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+4	olevat	olla	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+5	sanat	sana	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	_
+6	saavat	saada	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	uusia	uusi	ADJ	A	Case=Par|Degree=Pos|Number=Plur	8	amod	_	_
+8	merkityksiä	merkitys	NOUN	N	Case=Par|Number=Plur	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	12	punct	_	_
+10	kun	kun	SCONJ	C	_	12	mark	_	_
+11	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	13	obj	_	_
+12	aletaan	alkaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	6	advcl	_	_
+13	käyttää	käyttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	kuin	kuin	SCONJ	C	_	18	mark	_	_
+15	muiden	muu	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	16	det	_	_
+16	kielten	kieli	NOUN	N	Case=Gen|Number=Plur	18	nmod:poss	_	_
+17	vastaavia	vastata	ADJ	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+18	sanoja	sana	NOUN	N	Case=Par|Number=Plur	13	obj	_	_
+19	jossain	jokin	PRON	Pron	Case=Ine|Number=Sing|PronType=Ind	20	det	_	_
+20	yhteydessä	yhteys	NOUN	N	Case=Ine|Derivation=Vs|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 176
+# text = Esim.
+1	Esim.	Esim.	ADV	Adv	Abbr=Yes	0	root	_	_
+
+# sent_id = 177
+# text = tähti merkitsee nykysuomessa myös samaa kuin engl. filmstar.
+1	tähti	tähti	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	merkitsee	merkitä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nykysuomessa	nyky#suomi	NOUN	N	Case=Ine|Number=Sing	2	obl	_	_
+4	myös	myös	ADV	Adv	_	5	advmod	_	_
+5	samaa	sama	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	2	obj	_	_
+6	kuin	kuin	SCONJ	C	_	8	mark	_	_
+7	engl.	englanti	NOUN	N	Abbr=Yes|Case=Tra|Number=Sing	8	nmod	_	_
+8	filmstar	filmstar	PROPN	Foreign	Case=Nom|Number=Sing	5	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 178
+# text = Usein merkitykset muuttuvat salakavalasti, esimerkiksi jotain verbejä aletaan käyttää samalla tavalla kuin ruotsissa tai englannissa, esim. ottaa suihku eikä enää käydä suihkussa.
+1	Usein	usein	ADV	Adv	_	3	advmod	_	_
+2	merkitykset	merkitys	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	_
+3	muuttuvat	muuttua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	salakavalasti	salakavalasti	ADV	Adv	Derivation=Sti	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	9	punct	_	_
+6	esimerkiksi	esimerkiksi	ADV	Adv	_	9	advmod	_	_
+7	jotain	jokin	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	8	det	_	_
+8	verbejä	verbi	NOUN	N	Case=Par|Number=Plur	10	obj	_	_
+9	aletaan	alkaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+10	käyttää	käyttää	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	samalla	sama	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	12	det	_	_
+12	tavalla	tapa	NOUN	N	Case=Ade|Number=Sing	10	obl	_	_
+13	kuin	kuin	SCONJ	C	_	14	mark	_	_
+14	ruotsissa	ruotsi	PROPN	N	Case=Ine|Number=Sing	11	advcl	_	_
+15	tai	tai	CCONJ	C	_	16	cc	_	_
+16	englannissa	englanti	PROPN	N	Case=Ine|Number=Sing	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	19	punct	_	_
+18	esim.	esim.	ADV	Adv	Abbr=Yes	19	advmod	_	_
+19	ottaa	ottaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+20	suihku	suihku	NOUN	N	Case=Nom|Derivation=U|Number=Sing	19	obj	_	_
+21	eikä	ei	VERB	V	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	23	cc	_	_
+22	enää	enää	ADV	Adv	_	23	advmod	_	_
+23	käydä	käydä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	19	conj	_	_
+24	suihkussa	suihku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	23	obl	_	SpaceAfter=No
+25	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 179
+# text = Näin jonkin sanan käyttö laajenee kääntämällä suoraan jostakin vieraasta kielestä.i.
+1	Näin	näin	ADV	Adv	_	2	advmod	_	_
+2	jonkin	jokin	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	3	det	_	_
+3	sanan	sana	NOUN	N	Case=Gen|Number=Sing	4	nmod:gobj	_	_
+4	käyttö	käyttö	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+5	laajenee	laajeta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	kääntämällä	kääntää	VERB	V	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	5	advcl	_	_
+7	suoraan	suoraan	ADV	Adv	_	10	advmod	_	_
+8	jostakin	jokin	PRON	Pron	Case=Ela|Number=Sing|PronType=Ind	10	det	_	_
+9	vieraasta	vieras	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	10	amod	_	_
+10	kielestä.i	kielestä#.i	NOUN	Symb	_	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 180
+# text = Usein on kuitenkin vaikea erottaa, onko kyseessä varsinainen kääännöslaina tai omalta pohjalta muodostettu nimitys, koska niiden raja-alue on laaja Kirjakielessä esiintyy käännöslainoja paljon enemmän kuin murteissa.
+1	Usein	usein	ADV	Adv	_	4	advmod	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	kuitenkin	kuitenkin	ADV	Adv	_	4	advmod	_	_
+4	vaikea	vaikea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+5	erottaa	erottaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp:ds	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	onko	olla	AUX	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	kyseessä	kyse	NOUN	N	Case=Ine|Number=Sing	5	ccomp	_	_
+9	varsinainen	varsinainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	10	amod	_	_
+10	kääännöslaina	kääännös#laina	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+11	tai	tai	CCONJ	C	_	15	cc	_	_
+12	omalta	oma	ADJ	A	Case=Abl|Degree=Pos|Number=Sing	13	amod	_	_
+13	pohjalta	pohja	NOUN	N	Case=Abl|Number=Sing	14	obl	_	_
+14	muodostettu	muodostaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+15	nimitys	nimitys	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	SpaceAfter=No
+16	,	,	PUNCT	Punct	_	23	punct	_	_
+17	koska	koska	SCONJ	C	_	23	mark	_	_
+18	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	19	nmod:poss	_	_
+19	raja-alue	raja#alue	NOUN	N	Case=Nom|Number=Sing	23	nsubj	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
+21	laaja	laaja	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	23	advcl	_	_
+22	Kirjakielessä	kirja#kieli	NOUN	N	Case=Ine|Number=Sing	23	obl	_	_
+23	esiintyy	esiintyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+24	käännöslainoja	käännös#laina	NOUN	N	Case=Par|Number=Plur	23	nsubj	_	_
+25	paljon	paljon	ADV	Adv	_	26	advmod	_	_
+26	enemmän	enemmän	ADV	Adv	_	23	advmod	_	_
+27	kuin	kuin	SCONJ	C	_	28	mark	_	_
+28	murteissa	murre	NOUN	N	Case=Ine|Number=Plur	26	advcl	_	SpaceAfter=No
+29	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 181
+# text = Kirjakielen syntyessä pyrittiin kaikki tekstit kääntämään mahdollisimman sanatarkasti, erityisesti Raamatun käännöksen täytyi olla sanatarkka.
+1	Kirjakielen	kirja#kieli	NOUN	N	Case=Gen|Number=Sing	2	nsubj	_	_
+2	syntyessä	syntyä	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	3	advcl	_	_
+3	pyrittiin	pyrkiä	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	det	_	_
+5	tekstit	teksti	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	_
+6	kääntämään	kääntää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
+7	mahdollisimman	mahdollisimman	ADV	Adv	_	8	advmod	_	_
+8	sanatarkasti	sanatarkasti	ADV	Adv	Derivation=Sti	6	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	3	punct	_	_
+10	erityisesti	erityisesti	ADV	Adv	Derivation=Sti	12	advmod	_	_
+11	Raamatun	Raamattu	NOUN	N	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	käännöksen	käännös	NOUN	N	Case=Gen|Number=Sing	15	nsubj:cop	_	_
+13	täytyi	täytyä	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	_
+14	olla	olla	AUX	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	15	cop	_	_
+15	sanatarkka	sana#tarkka	NOUN	N	Case=Nom|Number=Sing	3	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	3	punct	_	SpacesAfter=\s\n
+

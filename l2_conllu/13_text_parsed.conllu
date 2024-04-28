@@ -1,0 +1,811 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Etymologisesti “herranjestas”, päivittelly- ja voimasana, on muunnelma erisnimestä Jeesus sekä sen vanhemmasta lyhytvokaalisesta Jesus asusta, kuten myös päivittelyyn käytetyt ilmaukset jes, jee jee, voi jee) ja sus.
+1	Etymologisesti	ety#mologisesti	ADV	Adv	Derivation=Sti	13	advmod	_	_
+2	“	“	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+3	herranjestas	herranjestas	INTJ	Interj	_	13	discourse	_	SpaceAfter=No
+4	”	”	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	6	punct	_	_
+6	päivittelly-	päivittelly	NOUN	N	Case=Nom|Number=Sing	3	appos	_	_
+7	ja	ja	CCONJ	C	_	8	cc	_	_
+8	voimasana	voimasa	NOUN	N	Case=Ess|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	6	punct	_	_
+10	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+11	muunnelma	muunnelma	NOUN	N	Case=Nom|Number=Sing	13	nsubj:cop	_	_
+12	erisnimestä	erisnimi	PROPN	N	Case=Ela|Number=Sing	13	nmod	_	_
+13	Jeesus	jeesus	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+14	sekä	sekä	CCONJ	C	_	19	cc	_	_
+15	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	19	nmod:poss	_	_
+16	vanhemmasta	vanhempi	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	19	amod	_	_
+17	lyhytvokaalisesta	lyhyt#vokaalinen	ADJ	A	Case=Ela|Degree=Pos|Derivation=Inen|Number=Sing	19	amod	_	_
+18	Jesus	Jesus	X	Foreign	Foreign=Yes	19	compound:nn	_	_
+19	asusta	asu	NOUN	N	Case=Ela|Number=Sing	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	25	punct	_	_
+21	kuten	kuten	ADV	Adv	_	25	advmod	_	_
+22	myös	myös	ADV	Adv	_	25	advmod	_	_
+23	päivittelyyn	päivittely	NOUN	N	Case=Ill|Derivation=U|Number=Sing	24	obl	_	_
+24	käytetyt	käyttää	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	25	acl	_	_
+25	ilmaukset	ilmaus	NOUN	N	Case=Nom|Number=Plur	13	conj	_	_
+26	jes	jes	X	Foreign	Foreign=Yes	25	appos	_	SpaceAfter=No
+27	,	,	PUNCT	Punct	_	28	punct	_	_
+28	jee	jee	X	Interj	_	26	discourse	_	_
+29	jee	jee	X	Foreign	Foreign=Yes	28	flat:name	_	SpaceAfter=No
+30	,	,	PUNCT	Punct	_	31	punct	_	_
+31	voi	voi	INTJ	Interj	_	26	discourse	_	_
+32	jee	jee	X	Interj	_	31	fixed	_	SpaceAfter=No
+33	)	)	PUNCT	Punct	_	31	punct	_	_
+34	ja	ja	CCONJ	C	_	35	cc	_	_
+35	sus	sus	INTJ	Interj	_	26	conj	_	SpaceAfter=No
+36	.	.	PUNCT	Punct	_	13	punct	_	_
+
+# sent_id = 2
+# text = Suomen murteissa Jesus asua vanhempi on Kiesus, johon perustuvat päivittelysanat kiessavita, kiesaata, kiesauta.1
+1	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	murteissa	murre	NOUN	N	Case=Ine|Number=Plur	7	obl	_	_
+3	Jesus	Jesus	PROPN	N	Case=Nom|Number=Sing	2	appos	_	_
+4	asua	asua	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	acl	_	_
+5	vanhempi	vanha	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	7	nsubj:cop	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	Kiesus	kiesus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	10	punct	_	_
+9	johon	joka	PRON	Pron	Case=Ill|Number=Sing|PronType=Rel	10	obl	_	_
+10	perustuvat	perustua	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+11	päivittelysanat	päivittely#sana	NOUN	N	Case=Nom|Number=Plur	10	nsubj	_	_
+12	kiessavita	kiessaa	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	14	punct	_	_
+14	kiesaata	kie#saa	NOUN	N	Case=Par|Number=Sing	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	16	punct	_	_
+16	kiesauta	kie#sau	NOUN	N	Case=Par|Number=Sing	11	conj	_	SpaceAfter=No
+17	.1	.1	SYM	Punct	_	7	punct	_	_
+
+# sent_id = 3
+# text = Historiallisesti sanan käytöstä on enemmän tietoja länsimurteissa kuin itämurteissa.
+1	Historiallisesti	historiallisesti	ADV	Adv	Derivation=Sti	3	advmod	_	_
+2	sanan	sana	NOUN	N	Case=Gen|Number=Sing	3	nmod:gobj	_	_
+3	käytöstä	käyttö	NOUN	N	Case=Ela|Number=Sing	0	root	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	enemmän	enemmän	ADV	Adv	_	6	advmod	_	_
+6	tietoja	tieto	NOUN	N	Case=Par|Number=Plur	3	nsubj:cop	_	_
+7	länsimurteissa	länsi#murtti	NOUN	N	Case=Ine|Number=Plur	6	nmod	_	_
+8	kuin	kuin	CCONJ	C	_	9	cc	_	_
+9	itämurteissa	itä#murtti	NOUN	N	Case=Ine|Number=Plur	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 4
+# text = Murteissa on sanalla erilaisia rinnakkaismuotoja Affektisilla ilmauksilla tarkoitetaan tässä kieliopissa sellaisia konventionaalistuneita konstruktioita ja muita kielenaineksia, joilla puhuja voi osoittaa suhtautumistaan tai asennoitumistaan puheenalaiseen asiaan tai puhekumppaniinsa.
+1	Murteissa	murre	NOUN	N	Case=Ine|Number=Plur	8	obl	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	sanalla	sana	NOUN	N	Case=Ade|Number=Sing	8	obl	_	_
+4	erilaisia	erilainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	5	amod	_	_
+5	rinnakkaismuotoja	rinnakkais#muoto	NOUN	N	Case=Par|Number=Plur	8	obj	_	_
+6	Affektisilla	affektinen	ADJ	A	Case=Ade|Degree=Pos|Derivation=Inen|Number=Plur	7	amod	_	_
+7	ilmauksilla	ilmaus	NOUN	N	Case=Ade|Number=Plur	8	obl	_	_
+8	tarkoitetaan	tarkoittaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	tässä	tämä	PRON	Pron	Case=Ine|Number=Sing|PronType=Dem	10	det	_	_
+10	kieliopissa	kieli#oppi	NOUN	N	Case=Ine|Number=Sing	8	obl	_	_
+11	sellaisia	sellainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	13	amod	_	_
+12	konventionaalistuneita	konventionaalistua	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	13	acl	_	_
+13	konstruktioita	konstruktio	NOUN	N	Case=Par|Number=Plur	8	obj	_	_
+14	ja	ja	CCONJ	C	_	16	cc	_	_
+15	muita	muu	PRON	Pron	Case=Par|Number=Plur|PronType=Ind	16	det	_	_
+16	kielenaineksia	kieli#aines	NOUN	N	Case=Par|Number=Plur	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	21	punct	_	_
+18	joilla	joka	PRON	Pron	Case=Ade|Number=Plur|PronType=Rel	21	obl	_	_
+19	puhuja	puhuja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	21	nsubj	_	_
+20	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	_
+21	osoittaa	osoittaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	13	acl:relcl	_	_
+22	suhtautumistaan	suhtautuminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing|Person[psor]=3	21	obj	_	_
+23	tai	tai	CCONJ	C	_	24	cc	_	_
+24	asennoitumistaan	asennoituminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing|Person[psor]=3	22	conj	_	_
+25	puheenalaiseen	puheenalainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Lainen|Number=Sing	26	amod	_	_
+26	asiaan	asia	NOUN	N	Case=Ill|Number=Sing	22	nmod	_	_
+27	tai	tai	CCONJ	C	_	28	cc	_	_
+28	puhekumppaniinsa	puhe#kumppani	NOUN	N	Case=Ill|Number=Sing|Person[psor]=3	26	conj	_	SpaceAfter=No
+29	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 5
+# text = Ilmauksen affektisia merkityksiä ei ole tapana lukea kuuluviksi lauseen tai lausuman kirjaimelliseen merkitykseen eli propositionaaliseen sisältöön, vaan affektisiksi katsottavat keinot tuovat lauseisiin ja lausumiin lisämerkityksiä ja implikaatioita, joita on myös nimitetty ekspressiivisiksi, sosiaalisiksi ja interpersoonallisiksi merkityksiksi.
+1	Ilmauksen	ilmaus	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	affektisia	affektinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	3	amod	_	_
+3	merkityksiä	merkitys	NOUN	N	Case=Par|Number=Plur	7	obj	_	_
+4	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	tapana	tapa	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+7	lukea	lukea	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	xcomp:ds	_	_
+8	kuuluviksi	kuulua	VERB	V	Case=Tra|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	7	xcomp:ds	_	_
+9	lauseen	lause	NOUN	N	Case=Gen|Number=Sing	13	nmod:gobj	_	_
+10	tai	tai	CCONJ	C	_	11	cc	_	_
+11	lausuman	lausuma	NOUN	N	Case=Gen|Number=Sing	9	conj	_	_
+12	kirjaimelliseen	kirjaimellinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Llinen|Number=Sing	13	amod	_	_
+13	merkitykseen	merkitys	NOUN	N	Case=Ill|Number=Sing	8	obl	_	_
+14	eli	eli	CCONJ	C	_	16	cc	_	_
+15	propositionaaliseen	propositionaalinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	16	amod	_	_
+16	sisältöön	sisältö	NOUN	N	Case=Ill|Number=Sing	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	22	punct	_	_
+18	vaan	vaan	CCONJ	C	_	22	cc	_	_
+19	affektisiksi	affektinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	20	xcomp	_	_
+20	katsottavat	katsoa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	21	acl	_	_
+21	keinot	keino	NOUN	N	Case=Nom|Number=Plur	22	nsubj	_	_
+22	tuovat	tuoda	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+23	lauseisiin	lause	NOUN	N	Case=Ill|Number=Plur	22	obl	_	_
+24	ja	ja	CCONJ	C	_	25	cc	_	_
+25	lausumiin	lausua	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Agt|VerbForm=Part|Voice=Act	23	conj	_	_
+26	lisämerkityksiä	lisä#merkitys	NOUN	N	Case=Par|Number=Plur	22	obj	_	_
+27	ja	ja	CCONJ	C	_	28	cc	_	_
+28	implikaatioita	implikaatio	NOUN	N	Case=Par|Number=Plur	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	Punct	_	33	punct	_	_
+30	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	33	obj	_	_
+31	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	aux:pass	_	_
+32	myös	myös	ADV	Adv	_	33	advmod	_	_
+33	nimitetty	nimittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	26	acl:relcl	_	_
+34	ekspressiivisiksi	ekspressiivinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	33	xcomp	_	SpaceAfter=No
+35	,	,	PUNCT	Punct	_	36	punct	_	_
+36	sosiaalisiksi	sosiaalinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Inen|Number=Plur	34	conj	_	_
+37	ja	ja	CCONJ	C	_	38	cc	_	_
+38	interpersoonallisiksi	interpersoonallinen	ADJ	A	Case=Tra|Degree=Pos|Derivation=Llinen|Number=Plur	34	conj	_	_
+39	merkityksiksi	merkitys	NOUN	N	Case=Tra|Number=Plur	34	conj	_	SpaceAfter=No
+40	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 6
+# text = Kulloisenkin asenteen tai suhtautumisen konventionaalinen ilmaiseminen riippuu tilanteesta.
+1	Kulloisenkin	kulloinen	ADJ	Num	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	2	amod	_	_
+2	asenteen	asenne	NOUN	N	Case=Gen|Number=Sing	6	nmod:gobj	_	_
+3	tai	tai	CCONJ	C	_	4	cc	_	_
+4	suhtautumisen	suhtautuminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	2	conj	_	_
+5	konventionaalinen	konventionaalinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	ilmaiseminen	ilmaiseminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	7	nsubj	_	_
+7	riippuu	riippua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	tilanteesta	tilanne	NOUN	N	Case=Ela|Number=Sing	7	obl	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 7
+# text = Osana tilannetta on puhujien välinen suhde.
+1	Osana	osa	NOUN	N	Case=Ess|Number=Sing	0	root	_	_
+2	tilannetta	tilanne	NOUN	N	Case=Par|Number=Sing	1	nmod	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	puhujien	puhuja	NOUN	N	Case=Gen|Derivation=Ja|Number=Plur	5	nmod:poss	_	_
+5	välinen	välinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
+6	suhde	suhde	NOUN	N	Case=Nom|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 8
+# text = Yhteistä kaikille tilannekohtaisille tulkinnoille on, että ilmaukseen sisältyy jokin puhujan asennoitumista osoittava elementti, joka ohjaa vastaanottajan tulkintaa.4
+1	Yhteistä	yhteinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	4	amod	_	_
+2	kaikille	kaikki	PRON	Pron	Case=All|Number=Plur|PronType=Ind	4	det	_	_
+3	tilannekohtaisille	tilanne#kohtainen	ADJ	A	Case=All|Degree=Pos|Derivation=Inen|Number=Plur	4	amod	_	_
+4	tulkinnoille	tulkinta	NOUN	N	Case=All|Number=Plur	5	obl	_	_
+5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	9	punct	_	_
+7	että	että	SCONJ	C	_	9	mark	_	_
+8	ilmaukseen	ilmaus	NOUN	N	Case=Ill|Number=Sing	9	obl	_	_
+9	sisältyy	sisältyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+10	jokin	jokin	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	14	det	_	_
+11	puhujan	puhuja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	12	nmod:gsubj	_	_
+12	asennoitumista	asennoituminen	NOUN	N	Case=Par|Derivation=Minen|Number=Sing	13	obj	_	_
+13	osoittava	osoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+14	elementti	elementti	NOUN	N	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	17	punct	_	_
+16	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	nsubj	_	_
+17	ohjaa	ohjata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+18	vastaanottajan	vastaanottaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	19	nmod:gobj	_	_
+19	tulkintaa	tulkinta	NOUN	N	Case=Par|Number=Sing	17	obj	_	SpaceAfter=No
+20	.4	.4	NUM	Punct	_	9	punct	_	_
+
+# sent_id = 9
+# text = Interjektiot eli huudahduspartikkelit ovat vakiintuneita kielellisen toiminnan yksiköitä, rituaalistuneita keinoja osoittaa affekteja johonkin odottamattomaan tapahtumaan tai asioiden käänteeseen.
+1	Interjektiot	interjektio	NOUN	N	Case=Nom|Number=Plur	5	nsubj:cop	_	_
+2	eli	eli	CCONJ	C	_	3	cc	_	_
+3	huudahduspartikkelit	huudahdus#partikkeli	NOUN	N	Case=Nom|Number=Plur	1	conj	_	_
+4	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	vakiintuneita	vakiintua	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	kielellisen	kielellinen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	7	amod	_	_
+7	toiminnan	toiminta	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	yksiköitä	yksikkö	NOUN	N	Case=Par|Number=Plur	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	rituaalistuneita	rituaalistua	ADJ	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	11	amod	_	_
+11	keinoja	keino	NOUN	N	Case=Par|Number=Plur	8	conj	_	_
+12	osoittaa	osoittaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	acl	_	_
+13	affekteja	affekti	NOUN	N	Case=Par|Number=Plur	12	obj	_	_
+14	johonkin	jokin	PRON	Pron	Case=Ill|Number=Sing|PronType=Ind	16	det	_	_
+15	odottamattomaan	odottamaton	ADJ	A	Case=Ill|Degree=Pos|Derivation=Ton|Number=Sing	16	amod	_	_
+16	tapahtumaan	tapahtuma	NOUN	N	Case=Ill|Number=Sing	12	obl	_	_
+17	tai	tai	CCONJ	C	_	19	cc	_	_
+18	asioiden	asia	NOUN	N	Case=Gen|Number=Plur	19	nmod:poss	_	_
+19	käänteeseen	käänne	NOUN	N	Case=Ill|Number=Sing	16	conj	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 10
+# text = Interjektioihin kuuluu affektisia reaktiivisia sanoja kuten huh, hui, äh jne., joilla osoitetaan sitä, miten jokin tapahtuma tai sattumus on vastaanotettu, tai vastaavasti reaktiota toisen puhujan vuoroon: oho, kas vain, höh, hmh, ahaa.
+1	Interjektioihin	interjektio	NOUN	N	Case=Ill|Number=Plur	2	obl	_	_
+2	kuuluu	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	affektisia	affektinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+4	reaktiivisia	reaktiivinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
+5	sanoja	sana	NOUN	N	Case=Par|Number=Plur	2	nsubj	_	_
+6	kuten	kuten	ADV	Adv	_	7	advmod	_	_
+7	huh	huh	INTJ	Interj	_	5	discourse	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	hui	hui	INTJ	Interj	_	2	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	9	punct	_	_
+11	äh	äh	INTJ	Interj	_	2	discourse	_	_
+12	jne.	jne.	PRON	Adv	_	11	fixed	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	15	punct	_	_
+14	joilla	joka	PRON	Pron	Case=Ade|Number=Plur|PronType=Rel	15	obl	_	_
+15	osoitetaan	osoittaa	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
+16	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	24	punct	_	_
+18	miten	miten	ADV	Adv	_	24	advmod	_	_
+19	jokin	jokin	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	20	det	_	_
+20	tapahtuma	tapahtuma	NOUN	N	Case=Nom|Number=Sing	24	obj	_	_
+21	tai	tai	CCONJ	C	_	22	cc	_	_
+22	sattumus	sattumus	NOUN	N	Case=Nom|Number=Sing	20	conj	_	_
+23	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux:pass	_	_
+24	vastaanotettu	vastaanottaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	16	ccomp	_	SpaceAfter=No
+25	,	,	PUNCT	Punct	_	24	punct	_	_
+26	tai	tai	CCONJ	C	_	28	cc	_	_
+27	vastaavasti	vastaavasti	ADV	Adv	Derivation=Sti	28	advmod	_	_
+28	reaktiota	reaktio	NOUN	N	Case=Par|Number=Sing	5	conj	_	_
+29	toisen	toinen	PRON	Pron	Case=Gen|Number=Sing|PronType=Rcp	30	det	_	_
+30	puhujan	puhuja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	31	nmod:poss	_	_
+31	vuoroon	vuoro	NOUN	N	Case=Ill|Number=Sing	28	nmod	_	SpaceAfter=No
+32	:	:	PUNCT	Punct	_	31	punct	_	_
+33	oho	oho	INTJ	Interj	_	28	discourse	_	SpaceAfter=No
+34	,	,	PUNCT	Punct	_	35	punct	_	_
+35	kas	kas	INTJ	Interj	_	28	discourse	_	_
+36	vain	vain	ADV	Adv	_	35	fixed	_	SpaceAfter=No
+37	,	,	PUNCT	Punct	_	35	punct	_	_
+38	höh	höh	INTJ	Interj	_	35	fixed	_	SpaceAfter=No
+39	,	,	PUNCT	Punct	_	35	punct	_	_
+40	hmh	hmh	INTJ	Interj	_	35	fixed	_	SpaceAfter=No
+41	,	,	PUNCT	Punct	_	35	punct	_	_
+42	ahaa	ahaa	INTJ	Interj	_	2	discourse	_	SpaceAfter=No
+43	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 11
+# text = Interjektioiden yhteisenä nimittäjänä on niiden reaktiivisuus: niitä käytetään osoittamaan reaktiota tapahtuneeseen, edellä sanottuun tai puhujan omaan tunnetilaan.
+1	Interjektioiden	interjektio	NOUN	N	Case=Gen|Number=Plur	3	nmod:poss	_	_
+2	yhteisenä	yhteinen	ADJ	A	Case=Ess|Degree=Pos|Derivation=Inen|Number=Sing	3	amod	_	_
+3	nimittäjänä	nimittäjä	NOUN	N	Case=Ess|Derivation=Ja|Number=Sing	0	root	_	_
+4	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	niiden	se	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	6	nmod:poss	_	_
+6	reaktiivisuus	reaktiivisuus	NOUN	N	Case=Nom|Derivation=Inen,Vs|Number=Sing	3	nsubj:cop	_	SpaceAfter=No
+7	:	:	PUNCT	Punct	_	3	punct	_	_
+8	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	10	nsubj	_	_
+9	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	parataxis	_	_
+10	osoittamaan	osoittaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	9	xcomp:ds	_	_
+11	reaktiota	reaktio	NOUN	N	Case=Par|Number=Sing	10	obj	_	_
+12	tapahtuneeseen	tapahtua	VERB	V	Case=Ill|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	19	acl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	15	punct	_	_
+14	edellä	edellä	ADV	Adv	_	15	advmod	_	_
+15	sanottuun	sanoa	VERB	V	Case=Ill|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+16	tai	tai	CCONJ	C	_	18	cc	_	_
+17	puhujan	puhuja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	15	conj	_	_
+18	omaan	oma	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	15	conj	_	_
+19	tunnetilaan	tunne#tila	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 12
+# text = Tutkimus perustuu Kielipankkiin tallennettuihin Suomi24-keskustelupalvelun keskusteluihin vuosilta 2001–2020 , joita tutkitaan Korp konkordanssihakuohjelmalla, joka on kehitetty Språkbankenissa .6 Suomi24.fi on Ylilauta.fi ja Vauva.fi:n rinnalla yksi kolmesta Suomen suurimmista keskustelupalveluista.7 Korp-ohjelmaan sisältyvät myös Ylilauta.fi-palvelun materiaalit , mutta puuttuu materiaalin aikatieto ja tieto jäsentymisestä aihealuettain.
+1	Tutkimus	tutkimus	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	perustuu	perustua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Kielipankkiin	kieli#pankki	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+4	tallennettuihin	tallentaa	VERB	V	Case=Ill|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+5	Suomi24-keskustelupalvelun	Suomi24#keskustelu#palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	6	nmod:gsubj	_	_
+6	keskusteluihin	keskustelu	NOUN	N	Case=Ill|Derivation=U|Number=Plur	2	obl	_	_
+7	vuosilta	vuosi	NOUN	N	Case=Abl|Number=Plur	6	nmod	_	_
+8	2001–2020	2001–2020	NUM	Num	NumType=Card	7	nummod	_	_
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	11	obj	_	_
+11	tutkitaan	tutkia	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	_
+12	Korp	Korp	PROPN	N	Case=Nom|Number=Sing	13	compound:nn	_	_
+13	konkordanssihakuohjelmalla	konkordanssi#haku#ohjelma	NOUN	N	Case=Ade|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	17	punct	_	_
+15	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	obj	_	_
+16	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+17	kehitetty	kehittää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
+18	Språkbankenissa	Språkbanken	PROPN	N	Case=Ine|Number=Sing	17	obl	_	_
+19	.6	.6	NUM	Num	NumType=Card	18	nummod	_	_
+20	Suomi24.fi	Suomi24.fi	SYM	Symb	_	17	obj	_	_
+21	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
+22	Ylilauta.fi	Ylilauta.fi	SYM	Symb	_	17	obl	_	_
+23	ja	ja	CCONJ	C	_	24	cc	_	_
+24	Vauva.fi:	Vauva.fi	SYM	N	Abbr=Yes|Case=Gen|Number=Sing	22	conj	_	SpaceAfter=No
+25	n	n	NOUN	N	Abbr=Yes|Case=Gen|Number=Sing	24	flat:name	_	_
+26	rinnalla	rinnalla	ADP	Adp	AdpType=Post	22	case	_	_
+27	yksi	yksi	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	33	nsubj	_	_
+28	kolmesta	kolme	NUM	Num	Case=Ela|Number=Sing|NumType=Card	31	nummod	_	_
+29	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	30	nmod:poss	_	_
+30	suurimmista	suuri	ADJ	A	Case=Ela|Degree=Sup|Number=Plur	31	amod	_	_
+31	keskustelupalveluista.7	keskustelu#palvelu	NOUN	N	Case=Ela|Derivation=U|Number=Plur	27	nmod	_	_
+32	Korp-ohjelmaan	Korp#ohjelma	NOUN	N	Case=Ill|Number=Sing	27	nmod	_	_
+33	sisältyvät	sisältyä	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+34	myös	myös	ADV	Adv	_	37	advmod	_	_
+35	Ylilauta.fi	Ylilauta.fi	SYM	N	Case=Nom|Number=Sing	36	compound:nn	_	SpaceAfter=No
+36	-palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	37	nmod:poss	_	_
+37	materiaalit	materiaali	NOUN	N	Case=Nom|Number=Plur	33	nsubj	_	_
+38	,	,	PUNCT	Punct	_	40	punct	_	_
+39	mutta	mutta	CCONJ	C	_	40	cc	_	_
+40	puuttuu	puuttua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	conj	_	_
+41	materiaalin	materiaali	NOUN	N	Case=Gen|Number=Sing	42	nmod:poss	_	_
+42	aikatieto	aika#tieto	NOUN	N	Case=Nom|Number=Sing	40	nsubj	_	_
+43	ja	ja	CCONJ	C	_	44	cc	_	_
+44	tieto	tieto	NOUN	N	Case=Nom|Number=Sing	42	conj	_	_
+45	jäsentymisestä	jäsentyminen	NOUN	N	Case=Ela|Derivation=Minen|Number=Sing	44	nmod	_	_
+46	aihealuettain	aihealuettain	ADV	Adv	Derivation=Ttain	45	advmod	_	SpaceAfter=No
+47	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 13
+# text = Korp-ohjelmaan eivät sisälly Vauva.fi:n materiaalit.
+1	Korp-ohjelmaan	Korp#ohjelma	NOUN	N	Case=Ill|Number=Sing	3	obl	_	_
+2	eivät	ei	AUX	V	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	sisälly	sisältyä	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Vauva.fi:	Vauva.fi	PROPN	N	Abbr=Yes|Case=Gen|Number=Sing	6	nmod:poss	_	SpaceAfter=No
+5	n	n	NOUN	N	Abbr=Yes|Case=Gen|Number=Sing	4	goeswith	_	_
+6	materiaalit	materiaali	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 14
+# text = Ilmaisu “herranjestas” on alunperin kristillinen uskontunnustus.
+1	Ilmaisu	ilmaisu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	8	nsubj:cop	_	_
+2	“	“	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+3	herranjestas	herranjestas	INTJ	Interj	_	8	discourse	_	SpaceAfter=No
+4	”	”	PUNCT	Punct	_	3	punct	_	_
+5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+6	alunperin	alunperin	ADV	Adv	_	8	advmod	_	_
+7	kristillinen	kristillinen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	8	amod	_	_
+8	uskontunnustus.	usko#tunnustus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 15
+# text = 8
+1	8	8	NUM	Num	NumType=Card	0	root	_	_
+
+# sent_id = 16
+# text = Nykyään käytetään sitä päivittely- tai voimasanana.9
+1	Nykyään	nykyään	ADV	Adv	_	2	advmod	_	_
+2	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	4	det	_	_
+4	päivittely-	päivittely	NOUN	N	Case=Nom|Derivation=U|Number=Sing	2	obl	_	_
+5	tai	tai	CCONJ	C	_	6	cc	_	_
+6	voimasanana.9	voima#sanana.9	SYM	Symb	_	4	conj	_	_
+
+# sent_id = 17
+# text = Siitä lähtien saa olettaa, että ilmaisua käytetään pikemminkin keskustelupalvelun niissä aihealueissa, joiden otsikko ei ole sidottu uskontoon.
+1	Siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	3	obl	_	_
+2	lähtien	lähtien	ADP	Adp	AdpType=Post	1	case	_	_
+3	saa	saada	VERB	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	olettaa	olettaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	Punct	_	8	punct	_	_
+6	että	että	SCONJ	C	_	8	mark	_	_
+7	ilmaisua	ilmaisu	NOUN	N	Case=Par|Derivation=U|Number=Sing	8	obj	_	_
+8	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
+9	pikemminkin	pikemminkin	ADV	Adv	_	10	advmod	_	_
+10	keskustelupalvelun	keskustelu#palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	8	obj	_	_
+11	niissä	se	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	12	det	_	_
+12	aihealueissa	aihe#alue	NOUN	N	Case=Ine|Number=Plur	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	18	punct	_	_
+14	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	15	nmod:poss	_	_
+15	otsikko	otsikko	NOUN	N	Case=Nom|Number=Sing	18	obj	_	_
+16	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	18	aux	_	_
+17	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	sidottu	sitoa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+19	uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	18	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 18
+# text = Vuonna 2000 kuului maan suurimman, Suomen evankelis-luterilaiseen kirkkoon 85 prosenttia suomalaisista, senvasten vuoden 2020 alussa alle 69 prosenttia.10 Siitä lähtien saa olettaa, että ilmaisun käyttö julkisella foorumilla on tietyn määrin sidoksissa yhteiskunnan maallistumisen kanssa.
+1	Vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	3	obl	_	_
+2	2000	2000	NUM	Num	NumType=Card	1	nummod	_	_
+3	kuului	kuulua	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	maan	maa	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	suurimman	suuri	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	9	amod	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	11	punct	_	_
+7	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	evankelis-luterilaiseen	evankelis#luterilainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Lainen|Number=Sing	9	amod	_	_
+9	kirkkoon	kirkko	NOUN	N	Case=Ill|Number=Sing	11	nmod	_	_
+10	85	85	NUM	Num	NumType=Card	11	nummod	_	_
+11	prosenttia	prosentti	NOUN	N	Case=Par|Number=Sing	3	nsubj	_	_
+12	suomalaisista	suomalainen	NOUN	N	Case=Ela|Derivation=Lainen|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	23	punct	_	_
+14	senvasten	sen#vasti	NOUN	N	Case=Gen|Number=Plur	15	nmod:poss	_	_
+15	vuoden	vuosi	NOUN	N	Case=Gen|Number=Sing	17	nmod:poss	_	_
+16	2020	2020	NUM	Num	NumType=Card	15	nummod	_	_
+17	alussa	alku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	23	obl	_	_
+18	alle	alle	ADV	Adv	_	19	advmod	_	_
+19	69	69	NUM	Num	NumType=Card	20	compound	_	_
+20	prosenttia.10	prosenttia.10	NUM	Symb	_	23	obl	_	_
+21	Siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	23	obl	_	_
+22	lähtien	lähtien	ADP	Adp	AdpType=Post	21	case	_	_
+23	saa	saada	VERB	V	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+24	olettaa	olettaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	23	xcomp	_	SpaceAfter=No
+25	,	,	PUNCT	Punct	_	34	punct	_	_
+26	että	että	SCONJ	C	_	34	mark	_	_
+27	ilmaisun	ilmaisu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	28	nmod:gobj	_	_
+28	käyttö	käyttö	NOUN	N	Case=Nom|Number=Sing	34	nsubj:cop	_	_
+29	julkisella	julkinen	ADJ	A	Case=Ade|Degree=Pos|Derivation=Inen|Number=Sing	30	amod	_	_
+30	foorumilla	foorumi	NOUN	N	Case=Ade|Number=Sing	28	nmod	_	_
+31	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
+32	tietyn	tietty	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	34	advmod	_	_
+33	määrin	määrin	ADV	Adv	_	32	fixed	_	_
+34	sidoksissa	sidos	NOUN	N	Case=Ine|Number=Plur	24	ccomp	_	_
+35	yhteiskunnan	yhteis#kunta	NOUN	N	Case=Gen|Number=Sing	36	nmod:gsubj	_	_
+36	maallistumisen	maallistuminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	34	nmod	_	_
+37	kanssa	kanssa	ADP	Adp	AdpType=Post	36	case	_	SpaceAfter=No
+38	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 19
+# text = Kuvaajasta näkyy ilmaisun käyttöfrekvenssin muutos vuosina 2001–2013.
+1	Kuvaajasta	kuvaaja	NOUN	N	Case=Ela|Derivation=Ja|Number=Sing	2	obl	_	_
+2	näkyy	näkyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ilmaisun	ilmaisu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	4	nmod:poss	_	_
+4	käyttöfrekvenssin	käyttö#frekvenssi	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	muutos	muutos	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+6	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	2	obl	_	_
+7	2001–2013	2001–2013	NUM	Num	NumType=Card	6	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 20
+# text = Käyrä nousee merkittävästi 2000-luvun alussa ja laskee alkaen 2013 jatkuvasti.
+1	Käyrä	käyrä	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	nousee	nousta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	merkittävästi	merkittävästi	ADV	Adv	Derivation=Sti	2	advmod	_	_
+4	2000-luvun	2000#luku	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	alussa	alku	NOUN	N	Case=Ine|Derivation=U|Number=Sing	2	obl	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	laskee	laskea	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	alkaen	alkaen	ADP	Adp	AdpType=Post	7	advmod	_	_
+9	2013	2013	NUM	Num	NumType=Card	7	obl	_	_
+10	jatkuvasti	jatkuvasti	ADV	Adv	Derivation=Sti	7	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 21
+# text = Verratessa pienimmän ja suurimman vuosituloksen lähes 9,3-kertaista eroa ei ole tutkittavan ajanjakson alun ja lopun käyttöfrekvenssin 2,7-kertaiseen kasvuun merkittävä.
+1	Verratessa	verrata	VERB	V	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	20	advcl	_	_
+2	pienimmän	pieni	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	5	amod	_	_
+3	ja	ja	CCONJ	C	_	4	cc	_	_
+4	suurimman	suuri	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	2	conj	_	_
+5	vuosituloksen	vuosi#tulos	NOUN	N	Case=Gen|Number=Sing	1	obj	_	_
+6	lähes	lähes	ADV	Adv	_	7	advmod	_	_
+7	9,3	9,3	NUM	Num	NumType=Card	8	nummod	_	SpaceAfter=No
+8	-kertaista	kertainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	9	amod	_	_
+9	eroa	ero	NOUN	N	Case=Par|Number=Sing	20	nsubj:cop	_	_
+10	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	20	aux	_	_
+11	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	_
+12	tutkittavan	tutkia	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	ajanjakson	ajan#jakso	NOUN	N	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	alun	alku	NOUN	N	Case=Gen|Derivation=U|Number=Sing	19	nmod:poss	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	lopun	loppu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	14	conj	_	_
+17	käyttöfrekvenssin	käyttö#frekvenssi	NOUN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+18	2,7-kertaiseen	2,7#kertainen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	19	amod	_	_
+19	kasvuun	kasvu	NOUN	N	Case=Ill|Derivation=U|Number=Sing	20	nmod	_	_
+20	merkittävä	merkittävä	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	20	punct	_	_
+
+# sent_id = 22
+# text = 2. Ilmaisua “herranjestas” käytetään Suomi24.fi-palvelun keskusteluissa vuosina 2001–2020 eniten aihealueissa, joiden otsikko ei ole sidottu uskontoon.
+1	2.	2.	ADJ	Num	NumType=Ord	6	obl	_	_
+2	Ilmaisua	ilmaisu	NOUN	N	Case=Par|Derivation=U|Number=Sing	6	obj	_	_
+3	“	“	PUNCT	Punct	_	4	punct	_	SpaceAfter=No
+4	herranjestas	herranjestas	INTJ	Interj	_	6	discourse	_	SpaceAfter=No
+5	”	”	PUNCT	Punct	_	4	punct	_	_
+6	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	Suomi24.fi	Suomi24.fi	SYM	Symb	_	8	compound:nn	_	SpaceAfter=No
+8	-palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	9	nmod:poss	_	_
+9	keskusteluissa	keskustelu	NOUN	N	Case=Ine|Derivation=U|Number=Plur	6	obl	_	_
+10	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	6	obl	_	_
+11	2001–2020	2001–2020	NUM	Num	NumType=Card	10	nummod	_	_
+12	eniten	eniten	ADV	Adv	_	6	advmod	_	_
+13	aihealueissa	aihe#alue	NOUN	N	Case=Ine|Number=Plur	6	obl	_	SpaceAfter=No
+14	,	,	PUNCT	Punct	_	19	punct	_	_
+15	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	16	nmod:poss	_	_
+16	otsikko	otsikko	NOUN	N	Case=Nom|Number=Sing	19	obj	_	_
+17	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	19	aux	_	_
+18	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
+19	sidottu	sitoa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
+20	uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	19	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 23
+# text = Haku Korp-ohjelmassa.
+1	Haku	haku	NOUN	N	Case=Nom|Derivation=U|Number=Sing	0	root	_	_
+2	Korp-ohjelmassa	Korp#ohjelma	NOUN	N	Case=Ine|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 24
+# text = Hakusana: herranjestas; korpus: Suomi24.fi 2001–2020.
+1	Hakusana	hakusa	NOUN	N	Case=Tra|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	Punct	_	1	punct	_	_
+3	herranjestas	herranjestas	INTJ	Interj	_	5	discourse	_	SpaceAfter=No
+4	;	;	PUNCT	Punct	_	3	punct	_	_
+5	korpus	korpus	NOUN	N	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
+6	:	:	PUNCT	Punct	_	7	punct	_	_
+7	Suomi24.fi	Suomi24.fi	SYM	Symb	_	5	appos	_	_
+8	2001–2020	2001–2020	NUM	Num	NumType=Card	7	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 25
+# text = Tuloksia: 6686 Kuvaaja 2. Ilmaisun “herranjestas” esiintyminen ylimmän aihealueen mukaan Suomi24.fi palvelun keskusteluissa vuosina 2001–2020.
+1	Tuloksia	tulos	NOUN	N	Case=Par|Number=Plur	10	nmod	_	SpaceAfter=No
+2	:	:	PUNCT	Punct	_	4	punct	_	_
+3	6686	6686	NUM	Num	NumType=Card	4	nummod	_	_
+4	Kuvaaja	kuvaaja	NOUN	N	Case=Nom|Derivation=Ja|Number=Sing	1	appos	_	_
+5	2.	2.	ADJ	Num	NumType=Ord	4	nummod	_	_
+6	Ilmaisun	ilmaisu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	10	nmod:gobj	_	_
+7	“	“	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+8	herranjestas	herranjestas	ADJ	Interj	_	6	appos	_	SpaceAfter=No
+9	”	”	PUNCT	Punct	_	8	punct	_	_
+10	esiintyminen	esiintyminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	0	root	_	_
+11	ylimmän	ylin	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	12	amod	_	_
+12	aihealueen	aihe#alue	NOUN	N	Case=Gen|Number=Sing	10	nmod	_	_
+13	mukaan	mukaan	ADP	Adp	AdpType=Post	12	case	_	_
+14	Suomi24.fi	Suomi24.fi	SYM	Symb	_	10	nmod	_	_
+15	palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	16	nmod:gobj	_	_
+16	keskusteluissa	keskustelu	NOUN	N	Case=Ine|Derivation=U|Number=Plur	10	nmod	_	_
+17	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	10	nmod	_	_
+18	2001–2020	2001–2020	NUM	Num	NumType=Card	17	nummod	_	SpaceAfter=No
+19	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 26
+# text = Kuvaajan mukaan on eniten tuloksia aihealueessa “Yhteiskunta”.
+1	Kuvaajan	kuvaaja	NOUN	N	Case=Gen|Derivation=Ja|Number=Sing	0	root	_	_
+2	mukaan	mukaan	ADP	Adp	AdpType=Post	1	case	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	eniten	eniten	ADV	Adv	_	5	advmod	_	_
+5	tuloksia	tulos	NOUN	N	Case=Par|Number=Plur	1	nsubj:cop	_	_
+6	aihealueessa	aihe#alue	NOUN	N	Case=Ine|Number=Sing	5	nmod	_	_
+7	“	“	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+8	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No
+9	”	”	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 27
+# text = Uskonnollisuutta käsittelevat aiheet palvelussa Suomi24.fi ovat luokiteltu ylimmän aihealueen “Yhteiskunta” alaalueiksi.
+1	Uskonnollisuutta	uskonnollisuus	NOUN	N	Case=Par|Derivation=Llinen,Vs|Number=Sing	2	obj	_	_
+2	käsittelevat	käsitellä	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+3	aiheet	aihe	NOUN	N	Case=Nom|Number=Plur	7	obj	_	_
+4	palvelussa	palvelu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	3	nmod	_	_
+5	Suomi24.fi	Suomi24.fi	SYM	Symb	_	3	nmod	_	_
+6	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	luokiteltu	luokitella	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	ylimmän	ylin	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
+9	aihealueen	aihe#alue	NOUN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+10	“	“	PUNCT	Punct	_	11	punct	_	SpaceAfter=No
+11	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	9	appos	_	SpaceAfter=No
+12	”	”	PUNCT	Punct	_	11	punct	_	_
+13	alaalueiksi	ala#alue	NOUN	N	Case=Tra|Number=Plur	7	xcomp:ds	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 28
+# text = Esittelen seuraavassa kuvaajassa niitä aihealueita, joissa tuloksia on 20 tai enemmän.
+1	Esittelen	esitellä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	seuraavassa	seuraava	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	3	amod	_	_
+3	kuvaajassa	kuvaaja	NOUN	N	Case=Ine|Number=Sing	1	obl	_	_
+4	niitä	se	PRON	Pron	Case=Par|Number=Plur|PronType=Dem	5	det	_	_
+5	aihealueita	aihe#alue	NOUN	N	Case=Par|Number=Plur	1	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	10	punct	_	_
+7	joissa	joka	PRON	Pron	Case=Ine|Number=Plur|PronType=Rel	10	obl	_	_
+8	tuloksia	tulos	NOUN	N	Case=Par|Number=Plur	10	nsubj:cop	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	20	20	NUM	Num	NumType=Card	5	acl:relcl	_	_
+11	tai	tai	CCONJ	C	_	12	cc	_	_
+12	enemmän	enemmän	ADV	Adv	_	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 29
+# text = Esitetyistä aihealueista vain kaksi ovat suoranaisesti sidottavissa uskonnollisuuteen.Viimeksi osoitetut aihealueet ovat myös koko taulukkon uskontoa käsittelevistä alaaihealueista ainoat, joiden tulosten määrä on yli 20.
+1	Esitetyistä	esittää	VERB	V	Case=Ela|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+2	aihealueista	aihe#alue	NOUN	N	Case=Ela|Number=Plur	4	nmod	_	_
+3	vain	vain	ADV	Adv	_	4	advmod	_	_
+4	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	_
+5	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+6	suoranaisesti	suora#naisesti	ADV	Adv	Derivation=Sti	7	advmod	_	_
+7	sidottavissa	sitoa	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	10	acl	_	_
+8	uskonnollisuuteen.Viimeksi	uskonnolli#suuteeni#viimi	NOUN	N	Case=Tra|Number=Sing	9	xcomp:ds	_	_
+9	osoitetut	osoittaa	VERB	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	aihealueet	aihe#alue	NOUN	N	Case=Nom|Number=Plur	18	nsubj:cop	_	_
+11	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+12	myös	myös	ADV	Adv	_	17	advmod	_	_
+13	koko	koko	ADJ	A	_	14	amod	_	_
+14	taulukkon	taulukko	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	uskontoa	uskonto	NOUN	N	Case=Par|Number=Sing	16	obj	_	_
+16	käsittelevistä	käsitellä	VERB	V	Case=Ela|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+17	alaaihealueista	ala#aihe#alue	NOUN	N	Case=Ela|Number=Plur	18	nmod	_	_
+18	ainoat	ainoa	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
+19	,	,	PUNCT	Punct	_	25	punct	_	_
+20	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	21	nmod:poss	_	_
+21	tulosten	tulos	NOUN	N	Case=Gen|Number=Plur	22	nmod:poss	_	_
+22	määrä	määrä	NOUN	N	Case=Nom|Number=Sing	25	nsubj:cop	_	_
+23	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+24	yli	yli	ADV	Adv	_	25	advmod	_	_
+25	20	20	NUM	Num	NumType=Card	18	acl:relcl	_	SpaceAfter=No
+26	.	.	PUNCT	Punct	_	18	punct	_	_
+
+# sent_id = 30
+# text = Koko taulukkon mittakaavassa sijaitsevat “Yhteiskunta /
+1	Koko	koko	ADJ	A	_	2	amod	_	_
+2	taulukkon	taulukko	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	mittakaavassa	mitta#kaava	NOUN	N	Case=Ine|Number=Sing	4	obl	_	_
+4	sijaitsevat	sijaita	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	“	“	PUNCT	Punct	_	6	punct	_	SpaceAfter=No
+6	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+7	/	/	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 31
+# text = Ateismi” 27. sijalla ja “Yhteiskunta / Vanhoislestadiolaisuus” 61. sijalla.
+1	Ateismi	ateismi	NOUN	N	Case=Nom|Number=Sing	12	nsubj:cop	_	SpaceAfter=No
+2	”	”	PUNCT	Punct	_	4	punct	_	_
+3	27.	27.	ADJ	Num	NumType=Ord	4	nummod	_	_
+4	sijalla	sija	NOUN	N	Case=Ade|Number=Sing	1	nmod	_	_
+5	ja	ja	CCONJ	C	_	7	cc	_	_
+6	“	“	PUNCT	Punct	_	7	punct	_	SpaceAfter=No
+7	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	4	conj	_	_
+8	/	/	PUNCT	Punct	_	9	punct	_	_
+9	Vanhoislestadiolaisuus	vanhois#lestadiolaisuus	NOUN	N	Case=Nom|Derivation=Inen,Vs|Number=Sing	7	conj	_	SpaceAfter=No
+10	”	”	PUNCT	Punct	_	7	punct	_	_
+11	61.	61.	ADJ	Num	NumType=Ord	12	nummod	_	_
+12	sijalla	sija	NOUN	N	Case=Ade|Number=Sing	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	12	punct	_	_
+
+# sent_id = 32
+# text = Yhteensä on aihealaalueita 983.
+1	Yhteensä	yhteensä	ADV	Adv	_	4	advmod	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	aihealaalueita	aihe#alaalue	NOUN	N	Case=Par|Number=Plur	4	nsubj:cop	_	_
+4	983	983	NUM	Num	NumType=Card	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 33
+# text = Tutkien aihealueen “Yhteiskunta” alaalueita, löytyy yhteensä 17 alaaluetta, joiden otsikko on sidottavissa uskontoon.
+1	Tutkien	tutkia	VERB	V	Case=Gen|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+2	aihealueen	aihe#alue	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+3	“	“	PUNCT	Punct	_	4	punct	_	SpaceAfter=No
+4	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	6	compound:nn	_	SpaceAfter=No
+5	”	”	PUNCT	Punct	_	4	punct	_	_
+6	alaalueita	ala#alue	NOUN	N	Case=Par|Number=Plur	8	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	4	punct	_	_
+8	löytyy	löytyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	yhteensä	yhteensä	ADV	Adv	_	10	advmod	_	_
+10	17	17	NUM	Num	NumType=Card	11	nummod	_	_
+11	alaaluetta	alaalue	NOUN	N	Case=Par|Number=Sing	8	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	Punct	_	16	punct	_	_
+13	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	14	nmod:poss	_	_
+14	otsikko	otsikko	NOUN	N	Case=Nom|Number=Sing	16	obj	_	_
+15	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux:pass	_	_
+16	sidottavissa	sitoa	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	11	acl:relcl	_	_
+17	uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	16	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 34
+# text = Niissä on ilmaisua “herranjestas” käytetty yhteensä 164 kertaa eli 2,5 prosenttia koko korpuksen tuloksista.
+1	Niissä	se	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	0	root	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	ilmaisua	ilmaisu	NOUN	N	Case=Par|Derivation=U|Number=Sing	1	nsubj:cop	_	_
+4	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+5	herranjestas	herranjestas	INTJ	Interj	_	7	discourse	_	SpaceAfter=No
+6	”	”	PUNCT	Punct	_	5	punct	_	_
+7	käytetty	käyttää	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+8	yhteensä	yhteensä	ADV	Adv	_	9	advmod	_	_
+9	164	164	NUM	Num	NumType=Card	10	nummod	_	_
+10	kertaa	kerta	NOUN	N	Case=Par|Number=Sing	7	obl	_	_
+11	eli	eli	CCONJ	C	_	13	cc	_	_
+12	2,5	2,5	NUM	Num	NumType=Card	13	nummod	_	_
+13	prosenttia	prosentti	NOUN	N	Case=Par|Number=Sing	7	conj	_	_
+14	koko	koko	ADJ	A	_	15	amod	_	_
+15	korpuksen	korpus	NOUN	N	Case=Gen|Number=Sing	16	nmod:poss	_	_
+16	tuloksista	tulos	NOUN	N	Case=Ela|Number=Plur	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 35
+# text = Taulukko 2. Ilmaisun “herranjestas” esiintyminen Suomi24.fi palvelun vuosien 2001–2020 keskustelujen ylimmän aihealueen Yhteiskunta alaaihealueissa, joiden otsikko on sidottavissa uskontoon.
+1	Taulukko	taulukko	NOUN	N	Case=Nom|Number=Sing	15	nsubj:cop	_	_
+2	2.	2.	ADJ	Num	NumType=Ord	1	nummod	_	_
+3	Ilmaisun	ilmaisu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	7	nmod:gsubj	_	_
+4	“	“	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+5	herranjestas	herranjestas	ADJ	Interj	_	3	appos	_	SpaceAfter=No
+6	”	”	PUNCT	Punct	_	5	punct	_	_
+7	esiintyminen	esiintyminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	1	appos	_	_
+8	Suomi24.fi	Suomi24.fi	SYM	Symb	_	7	nmod	_	_
+9	palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	10	nmod:poss	_	_
+10	vuosien	vuosi	NOUN	N	Case=Gen|Number=Plur	12	nmod:poss	_	_
+11	2001–2020	2001–2020	NUM	Num	NumType=Card	10	nummod	_	_
+12	keskustelujen	keskustelu	NOUN	N	Case=Gen|Derivation=U|Number=Plur	14	nmod:poss	_	_
+13	ylimmän	ylin	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	14	amod	_	_
+14	aihealueen	aihe#alue	NOUN	N	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	Yhteiskunta	yhteis#kunta	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+16	alaaihealueissa	ala#aihe#alue	NOUN	N	Case=Ine|Number=Plur	7	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	Punct	_	21	punct	_	_
+18	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	19	nmod:poss	_	_
+19	otsikko	otsikko	NOUN	N	Case=Nom|Number=Sing	21	obj	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux:pass	_	_
+21	sidottavissa	sitoa	VERB	V	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	16	acl:relcl	_	_
+22	uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	21	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Punct	_	15	punct	_	_
+
+# sent_id = 36
+# text = Ilmaisun “herranjestas” käyttöfrekvenssi Suomi24.fi-palvelun keskusteluissa ei nousu vuosina 2001–2020 on merkittävä, vuosien 2001 ja 2007 on 9,3-kertainen.
+1	Ilmaisun	ilmaisu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	7	nmod:poss	_	_
+2	“	“	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+3	herranjestas	herranjestas	INTJ	Interj	_	7	compound:nn	_	SpaceAfter=No
+4	”	”	PUNCT	Punct	_	3	punct	_	_
+5	käyttöfrekvenssi	käyttö#frekvenssi	NOUN	N	Case=Nom|Number=Sing	7	compound:nn	_	_
+6	Suomi24.fi	Suomi24.fi	SYM	Symb	_	5	flat:name	_	SpaceAfter=No
+7	-palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	8	nmod:poss	_	_
+8	keskusteluissa	keskustelu	NOUN	N	Case=Ine|Derivation=U|Number=Plur	10	nmod	_	_
+9	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	14	aux	_	_
+10	nousu	nousu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	14	nsubj:cop	_	_
+11	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	10	nmod	_	_
+12	2001–2020	2001–2020	NUM	Num	NumType=Card	11	nummod	_	_
+13	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	merkittävä	merkittävä	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	21	punct	_	_
+16	vuosien	vuosi	NOUN	N	Case=Gen|Number=Plur	21	obl	_	_
+17	2001	2001	NUM	Num	NumType=Card	16	nummod	_	_
+18	ja	ja	CCONJ	C	_	19	cc	_	_
+19	2007	2007	NUM	Num	NumType=Card	17	conj	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	_
+21	9,3-kertainen	9,3#kertainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	14	conj	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	14	punct	_	_
+
+# sent_id = 37
+# text = Toisaalta on frekvenssin kasvu väliaikainen ja laskee alkaen vuodesta 2013.
+1	Toisaalta	toisaalta	ADV	Adv	_	5	advmod	_	_
+2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	frekvenssin	frekvenss	PROPN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	kasvu	kasvu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	5	nsubj:cop	_	_
+5	väliaikainen	väli#aikainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	laskee	laskea	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	alkaen	alkaen	ADP	Adp	AdpType=Post	9	case	_	_
+9	vuodesta	vuosi	NOUN	N	Case=Ela|Number=Sing	7	obl	_	_
+10	2013	2013	NUM	Num	NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 38
+# text = Tutkitun ajanjakson alku ja loppu on 2,7-kertainen.
+1	Tutkitun	tutkia	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+2	ajanjakson	ajan#jakso	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	alku	alku	NOUN	N	Case=Nom|Derivation=U|Number=Sing	7	nsubj:cop	_	_
+4	ja	ja	CCONJ	C	_	5	cc	_	_
+5	loppu	loppu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	3	conj	_	_
+6	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	2,7-kertainen	2,7#kertainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	7	punct	_	_
+
+# sent_id = 39
+# text = Ilmaisua “herranjestas” käytetään Suomi24.fi-palvelun keskusteluissa vuosina 2001–2020 eniten aihealueissa, joiden otsikko ei ole sidottu uskontoon.
+1	Ilmaisua	ilmaisu	NOUN	N	Case=Par|Derivation=U|Number=Sing	5	obj	_	_
+2	“	“	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+3	herranjestas	herranjestas	INTJ	Interj	_	5	discourse	_	SpaceAfter=No
+4	”	”	PUNCT	Punct	_	3	punct	_	_
+5	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	Suomi24.fi	Suomi24.fi	SYM	Symb	_	7	compound:nn	_	SpaceAfter=No
+7	-palvelun	palvelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	8	nmod:poss	_	_
+8	keskusteluissa	keskustelu	NOUN	N	Case=Ine|Derivation=U|Number=Plur	5	obl	_	_
+9	vuosina	vuosi	NOUN	N	Case=Ess|Number=Plur	5	obl	_	_
+10	2001–2020	2001–2020	NUM	Num	NumType=Card	9	nummod	_	_
+11	eniten	eniten	ADV	Adv	_	5	advmod	_	_
+12	aihealueissa	aihe#alue	NOUN	N	Case=Ine|Number=Plur	5	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	18	punct	_	_
+14	joiden	joka	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	15	nmod:poss	_	_
+15	otsikko	otsikko	NOUN	N	Case=Nom|Number=Sing	18	obj	_	_
+16	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	18	aux	_	_
+17	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	sidottu	sitoa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+19	uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	18	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 40
+# text = Uskontoon liittyvien alaaihealueiden keskusteluissa sisältyy yhteensä 2,5 prosenttia koko korpuksen vastauksista.
+1	Uskontoon	uskonto	NOUN	N	Case=Ill|Number=Sing	2	obl	_	_
+2	liittyvien	liittyä	VERB	V	Case=Gen|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+3	alaaihealueiden	ala#aihe#alue	NOUN	N	Case=Gen|Number=Plur	4	nmod:gobj	_	_
+4	keskusteluissa	keskustelu	NOUN	N	Case=Ine|Derivation=U|Number=Plur	5	obl	_	_
+5	sisältyy	sisältyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	yhteensä	yhteensä	ADV	Adv	_	7	advmod	_	_
+7	2,5	2,5	NUM	Num	NumType=Card	8	nummod	_	_
+8	prosenttia	prosentti	NOUN	N	Case=Par|Number=Sing	5	nsubj	_	_
+9	koko	koko	ADJ	A	_	10	amod	_	_
+10	korpuksen	korpus	NOUN	N	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	vastauksista	vastaus	NOUN	N	Case=Ela|Number=Plur	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	Punct	_	5	punct	_	SpacesAfter=\s\n
+

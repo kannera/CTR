@@ -1,0 +1,377 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = En ole elämässäni paljon matkustanut.
+1	En	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+2	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	elämässäni	elämä	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	_
+4	paljon	paljon	ADV	Adv	_	5	advmod	_	_
+5	matkustanut	matkustaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 2
+# text = Kun olin lapsi, oli ainut mahdollisuus matkustaa itään suuntaan ja paitsi vanhempani tapasivat toisiinsa kaukana Siperiassa, en ole itse onnistunut käymän siellä eikä muuallakin entisessä Neuvostoliitossa.
+1	Kun	kun	SCONJ	C	_	3	mark	_	_
+2	olin	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	lapsi	lapsi	NOUN	N	Case=Nom|Number=Sing	22	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	3	punct	_	_
+5	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	ainut	ainut	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	det	_	_
+7	mahdollisuus	mahdollisuus	NOUN	N	Case=Nom|Derivation=Llinen,Vs|Number=Sing	0	root	_	_
+8	matkustaa	matkustaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	7	acl	_	_
+9	itään	itä	PROPN	N	Case=Ill|Number=Sing	8	obl	_	_
+10	suuntaan	suunta	NOUN	N	Case=Ill|Number=Sing	8	obl	_	_
+11	ja	ja	CCONJ	C	_	22	cc	_	_
+12	paitsi	paitsi	ADV	Adv	_	14	advmod	_	_
+13	vanhempani	vanhempi	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	14	nsubj	_	_
+14	tapasivat	tavata	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	_
+15	toisiinsa	toinen	PRON	Pron	Case=Ill|Number=Plur|Person[psor]=3|PronType=Rcp	14	obl	_	_
+16	kaukana	kaukana	ADV	Adv	_	17	advmod	_	_
+17	Siperiassa	Siperia	PROPN	N	Case=Ine|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	Punct	_	22	punct	_	_
+19	en	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	22	aux	_	_
+20	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	_	_
+21	itse	itse	ADV	Adv	_	22	advmod	_	_
+22	onnistunut	onnistua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	parataxis	_	_
+23	käymän	käydä	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	22	xcomp	_	_
+24	siellä	siellä	ADV	Adv	_	23	advmod	_	_
+25	eikä	ei	VERB	V	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	28	cc	_	_
+26	muuallakin	muua	PRON	Pron	Case=Ade|Number=Sing|PronType=Ind	28	det	_	_
+27	entisessä	entinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Inen|Number=Sing	28	amod	_	_
+28	Neuvostoliitossa	neuvosto#liitto	NOUN	N	Case=Ine|Number=Sing	24	conj	_	SpaceAfter=No
+29	.	.	PUNCT	Punct	_	22	punct	_	_
+
+# sent_id = 3
+# text = Ensimmäinen ulkomaa-matkani oli tietysti Suomeen ja pidin siitä kovasti.
+1	Ensimmäinen	ensimmäinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	2	nummod	_	_
+2	ulkomaa-matkani	ulko#maa#matka	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
+3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	tietysti	tietysti	ADV	Adv	Derivation=Sti	5	advmod	_	_
+5	Suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	3	obl	_	_
+6	ja	ja	CCONJ	C	_	7	cc	_	_
+7	pidin	pitää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	7	obl	_	_
+9	kovasti	kovasti	ADV	Adv	Derivation=Sti	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 4
+# text = Tuolloin oli laivalippu vielä hyvin kallista ja sen lisäksi tuli hankkia viisumi.
+1	Tuolloin	tuolloin	ADV	Adv	_	6	advmod	_	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+3	laivalippu	laiva#lippu	NOUN	N	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+4	vielä	vielä	ADV	Adv	_	6	advmod	_	_
+5	hyvin	hyvin	ADV	Adv	_	6	advmod	_	_
+6	kallista	kallis	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
+7	ja	ja	CCONJ	C	_	10	cc	_	_
+8	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	obl	_	_
+9	lisäksi	lisäksi	ADP	Adp	AdpType=Post	8	case	_	_
+10	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+11	hankkia	hankkia	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	viisumi	viisumi	NOUN	N	Case=Nom|Number=Sing	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 5
+# text = Siitä huolimatta olin onnekas kuin pikkulapsi saatuaan halutun lelun.
+1	Siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	4	obl	_	_
+2	huolimatta	huolimatta	ADP	Adp	AdpType=Post	1	case	_	_
+3	olin	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	onnekas	onnekas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+5	kuin	kuin	SCONJ	C	_	6	mark	_	_
+6	pikkulapsi	pikku#lapsi	NOUN	N	Case=Nom|Number=Sing	4	advcl	_	_
+7	saatuaan	saada	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|Person[psor]=3|VerbForm=Part|Voice=Pass	4	advcl	_	_
+8	halutun	haluta	VERB	V	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+9	lelun	lelu	NOUN	N	Case=Gen|Derivation=U|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	4	punct	_	_
+
+# sent_id = 6
+# text = Jos nyt kysytään, mitä hyviä puolia matkailussa on, vastaukseni on, että matkailu – varsinkin ulkomaa-matkailu – on minulle paras keino mahdollistaa itselleni ns.
+1	Jos	jos	SCONJ	C	_	3	mark	_	_
+2	nyt	nyt	ADV	Adv	_	3	advmod	_	_
+3	kysytään	kysyä	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	23	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	8	punct	_	_
+5	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Int	7	det	_	_
+6	hyviä	hyvä	ADJ	A	Case=Par|Degree=Pos|Number=Plur	7	amod	_	_
+7	puolia	puoli	NOUN	N	Case=Par|Number=Plur	8	nsubj:cop	_	_
+8	matkailussa	matkailu	NOUN	N	Case=Ine|Derivation=U|Number=Sing	3	ccomp	_	_
+9	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	3	punct	_	_
+11	vastaukseni	vastaus	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	23	nsubj:cop	_	_
+12	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	23	punct	_	_
+14	että	että	SCONJ	C	_	23	mark	_	_
+15	matkailu	matkailu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	23	nsubj:cop	_	_
+16	–	–	PUNCT	Punct	_	18	punct	_	_
+17	varsinkin	varsinkin	ADV	Adv	_	18	advmod	_	_
+18	ulkomaa-matkailu	ulko#maa#matkailu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	15	appos	_	_
+19	–	–	PUNCT	Punct	_	18	punct	_	_
+20	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	_
+21	minulle	minä	PRON	Pron	Case=All|Number=Sing|Person=1|PronType=Prs	22	nmod	_	_
+22	paras	hyvä	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	23	amod	_	_
+23	keino	keino	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+24	mahdollistaa	mahdollistaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	23	acl	_	_
+25	itselleni	itse	PRON	Pron	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=1|Reflex=Yes	24	obl	_	_
+26	ns.	ns.	ADJ	A	Abbr=Yes	24	advmod	_	_
+
+# sent_id = 7
+# text = uudelleenkäynnistys.
+1	uudelleenkäynnistys	uudelleen#käynnistys	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 8
+# text = Vaikka olinkin asunut Kadakan torin äärellä Mustanmäellä ja kokeenut suomalaisten läsnäoloa jokapäiväisesti, sekä katsonut silloin tällöin Suomen televisiota, oli ystävällisessä naapurimaassa viikon verran paikan päällä asuminen jotain ihan erinomaista.
+1	Vaikka	vaikka	SCONJ	C	_	3	mark	_	_
+2	olinkin	olla	AUX	V	Clitic=Kin|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	asunut	asua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	23	advcl	_	_
+4	Kadakan	Kadaka	PROPN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	torin	tori	NOUN	N	Case=Gen|Number=Sing	3	obl	_	_
+6	äärellä	äärellä	ADP	Adp	AdpType=Post	5	case	_	_
+7	Mustanmäellä	Mustamäki	PROPN	N	Case=Ade|Number=Sing	3	obl	_	_
+8	ja	ja	CCONJ	C	_	9	cc	_	_
+9	kokeenut	koeta	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	_	_
+10	suomalaisten	suomalainen	NOUN	N	Case=Gen|Derivation=Lainen|Number=Plur	11	nmod:poss	_	_
+11	läsnäoloa	läsnäolo	NOUN	N	Case=Par|Number=Sing	9	obj	_	_
+12	jokapäiväisesti	joka#päiväisesti	ADV	Adv	Derivation=Sti	9	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	15	punct	_	_
+14	sekä	sekä	CCONJ	C	_	15	cc	_	_
+15	katsonut	katsoa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	_	_
+16	silloin	silloin	ADV	Adv	_	15	advmod	_	_
+17	tällöin	tällöin	ADV	Adv	_	16	fixed	_	_
+18	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	19	nmod:poss	_	_
+19	televisiota	televisio	NOUN	N	Case=Par|Number=Sing	15	obj	_	SpaceAfter=No
+20	,	,	PUNCT	Punct	_	3	punct	_	_
+21	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	_
+22	ystävällisessä	ystävällinen	ADJ	A	Case=Ine|Degree=Pos|Derivation=Llinen|Number=Sing	23	amod	_	_
+23	naapurimaassa	naapuri#maa	NOUN	N	Case=Ine|Number=Sing	0	root	_	_
+24	viikon	viikko	NOUN	N	Case=Gen|Number=Sing	23	obl	_	_
+25	verran	verran	ADV	Adv	_	24	fixed	_	_
+26	paikan	paikka	NOUN	N	Case=Gen|Number=Sing	23	obl	_	_
+27	päällä	päällä	ADP	Adp	AdpType=Post	26	case	_	_
+28	asuminen	asuminen	NOUN	N	Case=Nom|Derivation=Minen|Number=Sing	23	nsubj:cop	_	_
+29	jotain	jokin	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	31	det	_	_
+30	ihan	ihan	ADV	Adv	_	31	advmod	_	_
+31	erinomaista	erinomainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	23	conj	_	SpaceAfter=No
+32	.	.	PUNCT	Punct	_	23	punct	_	_
+
+# sent_id = 9
+# text = Saman jälleensyntymisen tunteen olen kokenut aina, jos olen tullut kotiin mikä tahansa valtakunnasta.
+1	Saman	sama	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	2	det	_	_
+2	jälleensyntymisen	jälleensyntyminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	3	nmod:poss	_	_
+3	tunteen	tunne	NOUN	N	Case=Gen|Number=Sing	5	obj	_	_
+4	olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	kokenut	kokea	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	aina	aina	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	10	punct	_	_
+8	jos	jos	SCONJ	C	_	10	mark	_	_
+9	olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+10	tullut	tulla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	advcl	_	_
+11	kotiin	koti	NOUN	N	Case=Ill|Number=Sing	10	obl	_	_
+12	mikä	mikä	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	10	advmod	_	_
+13	tahansa	tahansa	ADV	Adv	_	12	fixed	_	_
+14	valtakunnasta	valta#kunta	NOUN	N	Case=Ela|Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	5	punct	_	_
+
+# sent_id = 10
+# text = Siitä huolimatta olen Suomen lisäksi matkustanut vain Saksaan , Latviaan, Egyptiin, Ruotsiin ja Tanskaan.
+1	Siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	6	obl	_	_
+2	huolimatta	huolimatta	ADP	Adp	AdpType=Post	1	case	_	_
+3	olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	Suomen	Suomi	PROPN	N	Case=Gen|Number=Sing	6	obl	_	_
+5	lisäksi	lisäksi	ADP	Adp	AdpType=Post	4	case	_	_
+6	matkustanut	matkustaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	vain	vain	ADV	Adv	_	8	advmod	_	_
+8	Saksaan	Saksa	PROPN	N	Case=Ill|Number=Sing	6	obl	_	_
+9	,	,	PUNCT	Punct	_	10	punct	_	_
+10	Latviaan	Latvia	PROPN	N	Case=Ill|Number=Sing	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	12	punct	_	_
+12	Egyptiin	Egypti	PROPN	N	Case=Ill|Number=Sing	8	conj	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	14	punct	_	_
+14	Ruotsiin	Ruotsi	PROPN	N	Case=Ill|Number=Sing	8	conj	_	_
+15	ja	ja	CCONJ	C	_	16	cc	_	_
+16	Tanskaan	Tanska	PROPN	N	Case=Ill|Number=Sing	8	conj	_	SpaceAfter=No
+17	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 11
+# text = Joskus kysyn itseltäni, miksi en matkustaa enemmän, varsinkin jos tiedän, että matkailu sopii minulle erinomaisesti ja hyvällä onnella matkaliputkin voi saada hyvin halvalla hinnalla.
+1	Joskus	joskus	ADV	Adv	_	2	advmod	_	_
+2	kysyn	kysyä	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	itseltäni	itseltä	PRON	Adp	AdpType=Post|Number[psor]=Sing|Person[psor]=1	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	7	punct	_	_
+5	miksi	miksi	ADV	Adv	_	7	advmod	_	_
+6	en	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	matkustaa	matkustaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	ccomp	_	_
+8	enemmän	enemmän	ADV	Adv	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	12	punct	_	_
+10	varsinkin	varsinkin	ADV	Adv	_	11	advmod	_	_
+11	jos	jos	SCONJ	C	_	12	mark	_	_
+12	tiedän	tietää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	Punct	_	16	punct	_	_
+14	että	että	SCONJ	C	_	16	mark	_	_
+15	matkailu	matkailu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	16	nsubj	_	_
+16	sopii	sopia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+17	minulle	minä	PRON	Pron	Case=All|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
+18	erinomaisesti	erinomaisesti	ADV	Adv	Derivation=Sti	16	advmod	_	_
+19	ja	ja	CCONJ	C	_	24	cc	_	_
+20	hyvällä	hyvä	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	21	amod	_	_
+21	onnella	onni	NOUN	N	Case=Ade|Number=Sing	24	obl	_	_
+22	matkaliputkin	matka#lippu	NOUN	N	Case=Nom|Clitic=Kin|Number=Plur	24	obj	_	_
+23	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	_
+24	saada	saada	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	16	conj	_	_
+25	hyvin	hyvin	ADV	Adv	_	26	advmod	_	_
+26	halvalla	halpa	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	27	amod	_	_
+27	hinnalla	hinta	NOUN	N	Case=Ade|Number=Sing	24	obl	_	SpaceAfter=No
+28	.	.	PUNCT	Punct	_	2	punct	_	_
+
+# sent_id = 12
+# text = Yksi syy laiskuuden lisäksi ovat lentokoneet.
+1	Yksi	yksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	_
+2	syy	syy	NOUN	N	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+3	laiskuuden	laiskuus	NOUN	N	Case=Gen|Derivation=Vs|Number=Sing	2	nmod	_	_
+4	lisäksi	lisäksi	ADP	Adp	AdpType=Post	3	case	_	_
+5	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	lentokoneet	lento#kone	NOUN	N	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 13
+# text = En ole tottunut lentämään ja en ole ihan varma, paraneeko tämä tilanne olleenkaan.
+1	En	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	tottunut	tottua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	lentämään	lentää	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	ja	ja	CCONJ	C	_	9	cc	_	_
+6	en	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
+7	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	ihan	ihan	ADV	Adv	_	9	advmod	_	_
+9	varma	varma	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Punct	_	11	punct	_	_
+11	paraneeko	parata	VERB	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+12	tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	det	_	_
+13	tilanne	tilanne	NOUN	N	Case=Nom|Number=Sing	11	nsubj	_	_
+14	olleenkaan	olleen	ADV	Adv	Clitic=Kaan	11	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 14
+# text = Kaiken lisäksi saastuttavat lentokoneet luontoa, minkä takia matkailu sinänsä on tietynlainen vaara maapallollemme.
+1	Kaiken	kaikki	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	3	obl	_	_
+2	lisäksi	lisäksi	ADP	Adp	AdpType=Post	1	case	_	_
+3	saastuttavat	saastuttaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	lentokoneet	lento#kone	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	_
+5	luontoa	luonto	NOUN	N	Case=Par|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	13	punct	_	_
+7	minkä	mikä	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	13	obl	_	_
+8	takia	takia	ADP	Adp	AdpType=Post	7	case	_	_
+9	matkailu	matkailu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	13	nsubj:cop	_	_
+10	sinänsä	sinänsä	ADV	Adv	_	13	advmod	_	_
+11	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	tietynlainen	tietynlainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Sing	13	amod	_	_
+13	vaara	vaara	NOUN	N	Case=Nom|Number=Sing	3	acl:relcl	_	_
+14	maapallollemme	maa#pallo	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Punct	_	3	punct	_	_
+
+# sent_id = 15
+# text = Näin ollen on lentomatkan suunnitelu minulle aina ollut ristiriitaista taistelua itseni kanssa.
+1	Näin	näin	ADV	Adv	_	10	advmod	_	_
+2	ollen	ollen	ADV	Adv	_	1	fixed	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+4	lentomatkan	lento#matka	NOUN	N	Case=Gen|Number=Sing	5	nmod:gobj	_	_
+5	suunnitelu	suunnitelu	NOUN	N	Case=Nom|Derivation=U|Number=Sing	10	nsubj:cop	_	_
+6	minulle	minä	PRON	Pron	Case=All|Number=Sing|Person=1|PronType=Prs	10	obl	_	_
+7	aina	aina	ADV	Adv	_	10	advmod	_	_
+8	ollut	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	10	cop	_	_
+9	ristiriitaista	risti#riitainen	ADJ	A	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	10	amod	_	_
+10	taistelua	taistelu	NOUN	N	Case=Par|Derivation=U|Number=Sing	0	root	_	_
+11	itseni	itse	PRON	Pron	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1|Reflex=Yes	10	nmod	_	_
+12	kanssa	kanssa	ADP	Adp	AdpType=Post	11	case	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	10	punct	_	_
+
+# sent_id = 16
+# text = Tiedän jo etukäteen, että tulen eksymään lentokentalla - esimerkiksi jos se on kaksiosainen niin kuin Münchenissa tai jos lento myöhästyy.
+1	Tiedän	tietää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	jo	jo	ADV	Adv	_	3	advmod	_	_
+3	etukäteen	etu#käteen	ADV	Adv	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	6	punct	_	_
+5	että	että	SCONJ	C	_	6	mark	_	_
+6	tulen	tulla	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+7	eksymään	eksyä	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	lentokentalla	lento#kentta	NOUN	N	Case=Ade|Number=Sing	7	obl	_	_
+9	-	-	PUNCT	Punct	_	14	punct	_	_
+10	esimerkiksi	esimerkiksi	ADV	Adv	_	11	advmod	_	_
+11	jos	jos	SCONJ	C	_	14	mark	_	_
+12	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	14	nsubj:cop	_	_
+13	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	kaksiosainen	kaksi#osainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	6	advcl	_	_
+15	niin	niin	ADV	Adv	_	14	advmod	_	_
+16	kuin	kuin	SCONJ	C	_	17	mark	_	_
+17	Münchenissa	München	PROPN	N	Case=Ine|Number=Sing	15	advcl	_	_
+18	tai	tai	CCONJ	C	_	21	cc	_	_
+19	jos	jos	SCONJ	C	_	21	mark	_	_
+20	lento	lento	NOUN	N	Case=Nom|Number=Sing	21	nsubj	_	_
+21	myöhästyy	myöhästyä	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
+22	.	.	PUNCT	Punct	_	1	punct	_	_
+
+# sent_id = 17
+# text = Sellaisen matkan jälkeen tunteeni ovat sekavia ja uudeleensyntymisen tunnelma joutuu taistelemaan matkaväsymyksen kanssa.
+1	Sellaisen	sellainen	ADJ	A	Case=Gen|Degree=Pos|Derivation=Lainen|Number=Sing	2	amod	_	_
+2	matkan	matka	NOUN	N	Case=Gen|Number=Sing	6	obl	_	_
+3	jälkeen	jälkeen	ADP	Adp	AdpType=Post	2	case	_	_
+4	tunteeni	tunne	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	6	nsubj:cop	_	_
+5	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	sekavia	sekava	ADJ	A	Case=Par|Degree=Pos|Number=Plur	0	root	_	_
+7	ja	ja	CCONJ	C	_	11	cc	_	_
+8	uudeleensyntymisen	uudeleen#syntyminen	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	9	nmod:poss	_	_
+9	tunnelma	tunnelma	NOUN	N	Case=Nom|Number=Sing	11	nsubj	_	_
+10	joutuu	joutua	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+11	taistelemaan	taistella	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	6	conj	_	_
+12	matkaväsymyksen	matka#väsymys	NOUN	N	Case=Gen|Number=Sing	11	obl	_	_
+13	kanssa	kanssa	ADP	Adp	AdpType=Post	12	case	_	SpaceAfter=No
+14	.	.	PUNCT	Punct	_	6	punct	_	_
+
+# sent_id = 18
+# text = Siitä kaikkea huolimatta olen viime vuonna ahkerasti matkustanut … Suomeen, tietysti.
+1	Siitä	se	PRON	Pron	Case=Ela|Number=Sing|PronType=Dem	8	obl	_	_
+2	kaikkea	kaikki	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	8	obl	_	_
+3	huolimatta	huolimatta	ADP	Adp	AdpType=Post	2	case	_	_
+4	olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+5	viime	viime	ADJ	A	_	6	amod	_	_
+6	vuonna	vuosi	NOUN	N	Case=Ess|Number=Sing	8	obl	_	_
+7	ahkerasti	ahkerasti	ADV	Adv	Derivation=Sti	8	advmod	_	_
+8	matkustanut	matkustaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+9	…	…	PUNCT	Punct	_	8	punct	_	_
+10	Suomeen	Suomi	PROPN	N	Case=Ill|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	12	punct	_	_
+12	tietysti	tietysti	ADV	Adv	Derivation=Sti	10	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	8	punct	_	_
+
+# sent_id = 19
+# text = Jos unohdan kokonaan, että risteilijätkin ovat ilmaston näkökulmasta saastattelijoita; onnistun ostamaan halvan laivalipun ja pitän mielessäni, että paljon hyvää Suomessa on vielä näkemättä; seikkailuni voi alkaa.
+1	Jos	jos	SCONJ	C	_	2	mark	_	_
+2	unohdan	unohtaa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+3	kokonaan	kokonaan	ADV	Adv	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	10	punct	_	_
+5	että	että	SCONJ	C	_	10	mark	_	_
+6	risteilijätkin	risteilijä	NOUN	N	Case=Nom|Clitic=Kin|Number=Plur	10	nsubj:cop	_	_
+7	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+8	ilmaston	ilmasto	NOUN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	näkökulmasta	näkö#kulma	NOUN	N	Case=Ela|Number=Sing	10	obl	_	_
+10	saastattelijoita	saastattelija	NOUN	N	Case=Par|Derivation=Ja|Number=Plur	2	ccomp	_	SpaceAfter=No
+11	;	;	PUNCT	Punct	_	10	punct	_	_
+12	onnistun	onnistua	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	ostamaan	ostaa	VERB	V	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	halvan	halpa	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	_
+15	laivalipun	laiva#lippu	NOUN	N	Case=Gen|Number=Sing	13	obj	_	_
+16	ja	ja	CCONJ	C	_	17	cc	_	_
+17	pitän	pitää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+18	mielessäni	mieli	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	17	obl	_	SpaceAfter=No
+19	,	,	PUNCT	Punct	_	26	punct	_	_
+20	että	että	SCONJ	C	_	24	mark	_	_
+21	paljon	paljon	ADV	Adv	_	22	advmod	_	_
+22	hyvää	hyvä	ADJ	A	Case=Par|Degree=Pos|Number=Sing	26	obj	_	_
+23	Suomessa	Suomi	PROPN	N	Case=Ine|Number=Sing	26	obl	_	_
+24	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	aux	_	_
+25	vielä	vielä	ADV	Adv	_	26	advmod	_	_
+26	näkemättä	nähdä	VERB	V	Case=Abe|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	17	ccomp	_	SpaceAfter=No
+27	;	;	PUNCT	Punct	_	24	punct	_	_
+28	seikkailuni	seikkailu	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	30	nsubj	_	_
+29	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	aux	_	_
+30	alkaa	alkaa	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	12	parataxis	_	SpaceAfter=No
+31	.	.	PUNCT	Punct	_	12	punct	_	SpacesAfter=\s\n
+
