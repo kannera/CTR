@@ -7,7 +7,7 @@ conll_keys = ['pos', 'word', 'lemma', 'upos', 'xpos', 'feats', 'dephead', 'depre
 entries = []
 for i in range(14):
   req = requests.get(f"https://raw.githubusercontent.com/kannera/CTR/main/l2_conllu/{i}_text_parsed.conllu")
-  lines = str(req.text).split("\\n")
+  lines = str(req.content).split("\\n")
   lines = [x.split("\\t") for x in lines]
 
   for line in lines:
