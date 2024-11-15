@@ -175,9 +175,9 @@ class PolicyCorpus:
     return di.shape[0], D.shape[0]
 
   def get_concordance(self, lemma, sample_size=20):    
-    hits = corpus.corpus[corpus.corpus.lemma == lemma].sample(n=sample_size)
+    hits = self.corpus[self.corpus.lemma == lemma].sample(n=sample_size)
     for doc, par, s, p in zip(hits.doc_id, hits.par_id, hits.s_id, hits.pos):
-      sentence = corpus.corpus[(corpus.corpus['doc_id'] == doc) & (corpus.corpus['par_id'] == par) & (corpus.corpus['s_id'] == s)]
+      sentence = self.corpus[(corpus.corpus['doc_id'] == doc) & (self.corpus['par_id'] == par) & (self.corpus['s_id'] == s)]
       sentence = " ".join([x if i != p else "\t"+x+"\t" for i,x in zip(sentence.pos, sentence.word)])
         
       
