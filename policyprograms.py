@@ -178,7 +178,7 @@ class PolicyCorpus:
     entries = []
     hits = self.corpus[self.corpus.lemma == lemma].sample(n=sample_size)
     for doc, par, s, p in zip(hits.doc_id, hits.par_id, hits.s_id, hits.pos):
-      sentence = self.corpus[(corpus.corpus['doc_id'] == doc) & (self.corpus['par_id'] == par) & (self.corpus['s_id'] == s)]
+      sentence = self.corpus[(self.corpus['doc_id'] == doc) & (self.corpus['par_id'] == par) & (self.corpus['s_id'] == s)]
       sentence = " ".join([x if i != p else "\t"+x+"\t" for i,x in zip(sentence.pos, sentence.word)])
       sentence = sentence.split("\t")
       entries.append({"doc_id":doc, "par_id":par, "s_id":s, "left_context": sentence[0], "node":sentence[1], "right_context":sentence[2]})
