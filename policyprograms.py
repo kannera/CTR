@@ -170,9 +170,8 @@ class PolicyCorpus:
   def get_subcorpus_size(self, lemmas):
     if type(lemmas) == str:
         lemmas = [lemmas]
-    C = self.corpus
-    di = C[C.lemma.isin(lemmas)][['doc_id']].drop_duplicates()
-    D = pandas.merge(C, di, how="inner", left_on="doc_id", right_on="doc_id")
+    di = self.corpus[self.corpus.lemma.isin(lemmas)][['doc_id']].drop_duplicates()
+    D = pandas.merge(self.corpus, di, how="inner", left_on="doc_id", right_on="doc_id")
     return di.shape[1], D.shape[1]
 
 
