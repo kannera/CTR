@@ -172,7 +172,7 @@ class PolicyCorpus:
         lemmas = [lemmas]
     di = self.corpus[self.corpus.lemma.isin(lemmas)][['doc_id']].drop_duplicates()
     D = pandas.merge(self.corpus, di, how="inner", left_on="doc_id", right_on="doc_id")
-    return di.shape[1], D.shape[1]
+    return di.shape[0], D.shape[0]
 
 
   def get_collocates_for(self, lemma, party="all", start_year="all", end_year="all", p_type="all"):
