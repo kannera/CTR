@@ -167,7 +167,13 @@ class PolicyCorpus:
     subcorpus = subcorpus[['f1','f2','fc','%diff']]
     return subcorpus
 
-
+  def get_subcorpus_size(self, lemmas):
+    if type(lemmas) == str:
+        lemmas = [lemmas]
+    C = self.corpus
+    di = C[C.lemma.isin(lemmas)][['doc_id']].drop_duplicates()
+    D = pandas.merge(C, di, how="inner", left_on="doc_id", right_on="doc_id")
+    return di.shape[1], D.shape[1]
 
 
   def get_collocates_for(self, lemma, party="all", start_year="all", end_year="all", p_type="all"):
