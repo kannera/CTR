@@ -174,7 +174,13 @@ class PolicyCorpus:
     D = pandas.merge(self.corpus, di, how="inner", left_on="doc_id", right_on="doc_id")
     return di.shape[0], D.shape[0]
 
-
+  def get_concordance(self, lemma, sample_size=20):    
+    hits = corpus.corpus[corpus.corpus.lemma == lemma].sample(n=sample_size)
+    for doc, par, s, p in zip(hits.doc_id, hits.par_id, hits.s_id, hits.pos):
+      sentence = corpus.corpus[(corpus.corpus['doc_id'] == doc) & (corpus.corpus['par_id'] == par) & (corpus.corpus['s_id'] == s)]
+      sentence = " ".join([x if i != p else "\t"+x+"\t" for i,x in zip(sentence.pos, sentence.word)])
+        
+      
   def get_collocates_for(self, lemma, party="all", start_year="all", end_year="all", p_type="all"):
     subcorpus = self.get_subcorpus(party=party, start_year=start_year, end_year=end_year, p_type=p_type)
 
